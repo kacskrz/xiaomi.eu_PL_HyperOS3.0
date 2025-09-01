@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tap_share_multi_file_info">
+        <item quantity="one">%1$d plik | %2$s</item>
+        <item quantity="few">%1$d pliki | %2$s</item>
+        <item quantity="other">%1$d plików | %2$s</item>
+    </plurals>
+</resources>

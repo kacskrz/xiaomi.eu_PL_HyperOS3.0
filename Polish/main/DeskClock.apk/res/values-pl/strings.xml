@@ -58,7 +58,6 @@
     <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
     <string name="oneshot_alarm">Usuń po wywołaniu</string>
     <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
-    <string name="other_settings">Dodatkowe ustawienia</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="privacy_policy_title">Polityka prywatności</string>
     <string name="query_privacy_policy">Wyświetl Politykę prywatności</string>
@@ -67,7 +66,6 @@
     <string name="setting_alarm_arriving_title">Powiadomienie o alarmie</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Włącz tę opcję, aby włączać alarmy w momencie, gdy urządzenie jest wyłączone. Włączane będą jedynie alarmy, które zostały ustawione na przynajmniej %d minut po wyłączeniu urządzenia.</string>
     <string name="shutdown_alarm_alert_title">Alarm, gdy wyłączony</string>
-    <string name="shutdown_alarm_disable_summary">Alarm nie włączy się po wyłączeniu urządzenia</string>
     <string name="sleep_no_disturbance_desc">Urządzenie przełączy się na tryb Nie przeszkadzać i pozostanie w tym trybie, dopóki się nie obudzisz</string>
     <string name="sleep_record_desc_detailed_new">Śledzenie snu dostarcza funkcja Sen aplikacji Mi Fitness. Jeśli włączysz tę funkcję, Mi Fitness będzie automatycznie gromadzić i wyświetlać dane dot. Twojego snu w oparciu o Twoje korzystanie z telefonu, aktywność oraz ustawione przez Ciebie pory zasypiania i wstawania. Aby śledzić sen dokładniej, zezwól aplikacji Mi Fitness na korzystanie z autostartu.</string>
     <string name="snooze_alarm_alert">Drzemka do %s</string>

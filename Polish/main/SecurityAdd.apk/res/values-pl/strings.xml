@@ -23,7 +23,6 @@
     <string name="gb_gpu_rader_maxfps">Najwyższy klatkaż</string>
     <string name="gb_gpu_resolution_default">Domyślna</string>
     <string name="gb_gputuner_lod_deviation">Mip-mapy poziomów szczegółowości (LOD bias)</string>
-    <string name="gb_not_support_on_device">"Ta aplikacja nie może być używana na zewnętrznym ekranie"</string>
     <string name="gb_pannel_control_frame_rate_dialog_message">Aby użyć tej funkcji, zmień rozdzielczość ekranu na WQHD+ w Ustawieniach.</string>
     <string name="gb_pannel_control_mode_frame_rate">Priorytet częstotliwości odświeżania</string>
     <string name="gb_pannel_control_mode_picture">Priorytet jakości obrazu</string>
@@ -40,5 +39,7 @@
     <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
     <string name="superpower_app_exit">Wyjdź</string>
     <string name="superpower_app_mms">SMS</string>
+    <string name="superpower_settings">Ultraoszczędzanie baterii</string>
+    <string name="superpower_settings_launcher">Ultraoszczędzanie baterii</string>
     <string name="superpower_toast_app_select_full_new">Do często używanych aplikacji możesz dodać maks. %d elementów</string>
 </resources>

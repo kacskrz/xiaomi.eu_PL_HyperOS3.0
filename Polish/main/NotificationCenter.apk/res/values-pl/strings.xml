@@ -2,6 +2,12 @@
 <resources>
     <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="aon_message">Aby określić, czy na ekran patrzy wiele osób, funkcja uzyska dostęp do przedniego aparatu podczas wyświetlania pływającego powiadomienia. Zgromadzone zdjęcia są wykorzystywane tylko do lokalnej analizy liczby osób patrzących na ekran. Gdy zostanie wykryta więcej niż jedna osoba, treść powiadomienia zostanie ukryta.</string>
+    <string name="aon_message_owner">Gdy ta funkcja jest włączona, przedni aparat będzie sprawdzać, kto patrzy na ekran w momencie nadejścia powiadomienia. Jeśli telefon wykryje, że nie jesteś jedyną osobą, która patrzy na ekran, automatycznie ukryje treść powiadomienia. Wszystkie dane obrazu i twarzy są przetwarzane lokalnie na urządzeniu i nigdy nie są przesyłane do chmury.</string>
+    <string name="aon_message_owner_comment">Aby zweryfikować, czy patrzysz na ekran, wymagany jest dostęp do aparatu.</string>
+    <string name="aon_need_set_face_cancel">Anuluj</string>
+    <string name="aon_need_set_face_message">Aby użyć tej funkcji, skonfiguruj Odblokowanie twarzą.</string>
+    <string name="aon_need_set_face_title">Wymagane odblokowanie twarzą</string>
+    <string name="aon_need_set_face_to_settings">Ustawienia</string>
     <string name="aon_on_cancel">Anuluj</string>
     <string name="aon_on_confirm_time_out">OK</string>
     <string name="aon_title">Informacja</string>
@@ -13,8 +19,8 @@
     <string name="enable_float_notification">Pływające powiadomienia są włączone</string>
     <string name="enable_show_badge_notification">Licznik na ikonie jest włączony</string>
     <string name="expand_top_notification">Rozwiń pierwsze powiadomienie</string>
+    <string name="fingerprint_face_password_unlock_new">Odciski palców, dane twarzy i blokada ekranu</string>
     <string name="float_notification_snooze_strategy">Tymczasowo ukryj</string>
-    <string name="float_notification_snooze_summary">Przesuń pływające powiadomienie w górę, aby tymczasowo ukryć nowe powiadomienia tego typu</string>
     <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d min</string>
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
     <string name="hint_search_in_disabled_apps">Wyszukaj aplikacje z wył. powiadomieniami</string>
@@ -24,6 +30,7 @@
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="notch_and_status_bar_setting">Centrum funkcji i pasek statusu</string>
     <string name="notification_aon_summary">Ukryj treść powiadomienia, gdy na ekran patrzy wiele osób</string>
+    <string name="notification_aon_summary_owner">Treść powiadomienia będzie wyświetlana tylko wtedy, gdy na ekran patrzy właściciel urządzenia</string>
     <string name="notification_aon_title">Inteligentne pokazywanie pływających powiadomień</string>
     <string name="notification_aon_title_aon">Powiadomienia AON</string>
     <string name="notification_aon_title_hide">Ukryj powiadomienia</string>
@@ -38,8 +45,5 @@
     <string name="summary_disable_show_badge_notification">Licznik na ikonie jest wyłączony</string>
     <string name="summary_enable_float_notification">Pływające powiadomienia są włączone</string>
     <string name="summary_enable_show_badge_notification">Licznik na ikonie jest włączony</string>
-    <string name="summary_float_enable_notification_first">Włącz powiadomienia, aby móc włączyć pływające powiadomienia</string>
     <string name="summary_fold_importance_default">System zdecyduje, które powiadomienia powinny się pojawiać, a które nie</string>
-    <string name="summary_lock_screen_enable_notification_first">Włącz powiadomienia, aby móc zezwolić na powiadomienia na ekranie blokady</string>
-    <string name="summary_show_badge_enable_notification_first">Włącz powiadomienia, aby móc włączyć licznik na ikonie</string>
 </resources>

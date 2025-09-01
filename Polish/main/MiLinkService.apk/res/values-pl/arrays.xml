@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="settings_search_connect_car">
-        <item>Łączenie aplikacji</item>
-        <item>Interakcja urządzeń Xiaomi/Łączenie aplikacji</item>
-        <item>Funkcje auta</item>
+    <string-array name="passport_account_user_gender_name">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
     </string-array>
     <string-array name="settings_search_connection_home">
         <item>Interakcja urządzeń Xiaomi</item>
         <item>Interakcja urządzeń Xiaomi/Interakcja urządzeń Xiaomi</item>
-        <item>Usługi łączności między urządzeniami, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentna łączność, łączność, Mi Smart Hub, Interakcja urządzeń Xiaomi, Duo, telefon Xiaomi, laptop Xiaomi, Wiele ekranów, Duet, projekcja, łączenie aplikacji, handoff, Handoff aplikacji, Mirror, Ekosystem Xiaomi, łączenie urządzeń</item>
+        <item>Usługi łączności między urządzeniami, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentna łączność, łączność, Xiaomi Smart Hub, Interakcja urządzeń Xiaomi, Duo, telefon Xiaomi, laptop Xiaomi, Wiele ekranów, Duet, projekcja, łączenie aplikacji, handoff, Handoff aplikacji, Mirror, Ekosystem Xiaomi, łączenie urządzeń</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Prywatność</item>
@@ -16,53 +15,78 @@
         <item>Prywatność i Interakcja urządzeń Xiaomi, Prywatność</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Łączność między urządzeniami Xiaomi</item>
-        <item>Interakcja urządzeń Xiaomi/Łączność między urządzeniami Xiaomi</item>
-        <item>Usługi łączności między urządzeniami Xiaomi, Łączność między urządzeniami Xiaomi</item>
+        <item>Łączność między urządzeniami</item>
+        <item>Interakcja urządzeń Xiaomi/Łączność między urządzeniami</item>
+        <item>Usługi łączności między urządzeniami, Łączność między urządzeniami</item>
     </string-array>
+    <string-array name="settings_search_mi_share">
+        <item>Xiaomi Share</item>
+        <item>Interakcja urządzeń Xiaomi/Xiaomi Share</item>
+        <item>Xiaomi Share</item>
+     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Handoff aplikacji</item>
         <item>Interakcja urządzeń Xiaomi/Aplikacje</item>
-        <item>Przesyłanie aplikacji, handoff, transfer</item>
+        <item>&lt;item>Handoff aplikacji&lt;/item></item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Synchronizacja połączeń</item>
         <item>Interakcja urządzeń Xiaomi/Synchronizacja połączeń</item>
-        <item>Synchronizacja połączeń, wspólne połączenia, handoff połączeń, połączenia</item>
+        <item>Synchronizacja połączeń</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Asystent sieci</item>
         <item>Interakcja urządzeń Xiaomi/Asystent sieci</item>
-        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+        <item>Asystent sieci</item>
     </string-array>
     <string-array name="settings_search_relay_network_2">
-        <item>Tethering bezprzewodowy</item>
-        <item>Łączność między urządzeniami/Tethering bezprzewodowy</item>
-        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+        <item>Współdzielona łączność</item>
+        <item>Łączność między urządzeniami/Współdzielona łączność</item>
+        <item>Współdzielona łączność</item>
     </string-array>
     <string-array name="settings_search_relay_network_global">
         <item>Synchronizacja sieci</item>
         <item>Łączność między urządzeniami/Synchronizacja sieci</item>
-        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+        <item>Synchronizacja sieci</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast">
+        <item>Projekcja</item>
+        <item>Interakcja urządzeń Xiaomi/Projekcja</item>
+        <item>Projekcja, Minimalizuj okno, Projekcja z wyłączonym ekranem</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast_help">
+        <item>Pomoc</item>
+        <item>Interakcja urządzeń Xiaomi/Projekcja/Pomoc</item>
+        <item>Pomoc</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ekran główny+</item>
         <item>Interakcja urządzeń Xiaomi/Ekran główny+</item>
-        <item>Ekran główny+, Mi Smart Hub, udostępnianie ekranu</item>
+        <item>Ekran główny+</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Schowek</item>
         <item>Interakcja urządzeń Xiaomi/Schowek</item>
         <item>Schowek</item>
     </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Współdzielony aparat</item>
+        <item>Interakcja urządzeń Xiaomi/Współdzielony aparat</item>
+        <item>Współdzielony aparat</item>
+    </string-array>
     <string-array name="settings_search_share_file">
-        <item>Dostęp do plików na różnych urządzeniach</item>
-        <item>Łączność między urządzeniami/Dostęp do plików</item>
-        <item>Dostęp do plików na różnych urządzeniach, dostęp do plików, dystrybucja plików, dysk sieciowy</item>
+        <item>Współdzielone pliki</item>
+        <item>Łączność między urządzeniami/Współdzielone pliki</item>
+        <item>Współdzielone pliki</item>
     </string-array>
     <string-array name="settings_search_share_notify">
         <item>Powiadomienia z wielu urządzeń</item>
         <item>Interakcja urządzeń Xiaomi/Powiadomienia</item>
         <item>Powiadomienia z wielu urządzeń</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Współdzielone płatności</item>
+        <item>Interakcja urządzeń Xiaomi/Współdzielone płatności</item>
+        <item>Współdzielone płatności;płacenie między urządzeniami</item>
     </string-array>
 </resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <plurals name="day_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="other">%1$d godz. temu</item>
+        <item quantity="one">%1$d godz. temu</item>
+    </plurals>
+    <plurals name="message_board_max_count_toast">
+        <item quantity="other">Wprowadź maks. %d znaków</item>
+        <item quantity="few">Wprowadź maks. %d znaki</item>
+        <item quantity="one">Wprowadź maks. %d znak</item>
+    </plurals>
+    <plurals name="minute_ago">
+        <item quantity="other">%1$d min temu</item>
+        <item quantity="one">%1$d min temu</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="other">%1$d tygodni temu</item>
+        <item quantity="few">%1$d tygodnie temu</item>
+        <item quantity="one">%1$d tydzień temu</item>
+    </plurals>
+</resources>

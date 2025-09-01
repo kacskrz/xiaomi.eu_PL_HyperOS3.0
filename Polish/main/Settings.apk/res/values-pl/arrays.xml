@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="audio_dump_mode_entries">
+        <item>Wyłączone</item>
+        <item>Poziom 7</item>
+        <item>Poziom 9</item>
+        <item>Poziom 11</item>
+        <item>Poziom 15</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Wyłaczono</item>
         <item>Filtrowanie wł.</item>
@@ -36,6 +43,14 @@
         <item>Dzwonek</item>
         <item>Multimedia</item>
     </string-array>
+    <string-array name="screen_optimize_summary_new">
+        <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
+        <item>Przywróć standardowe kolory</item>
+    </string-array>
+    <string-array name="screen_optimize_title_new">
+        <item>Żywe (zalecane)</item>
+        <item>Standardowe</item>
+    </string-array>
     <string-array name="smart_device_control_entries">
         <item>Xiaomi Smart Hub</item>
         <item>Smart home</item>
@@ -48,6 +63,14 @@
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Domyślny</item>
         <item>Rozszerzony</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary_new">
+        <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
+        <item>Przywróć standardowe kolory treści na ekranie z kalibracją kolorów</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title_new">
+        <item>Żywe (zalecane)</item>
+        <item>Oryginalne</item>
     </string-array>
     <string-array name="zen_mode_icon_options_descriptions">
         <item>Pora snu</item>

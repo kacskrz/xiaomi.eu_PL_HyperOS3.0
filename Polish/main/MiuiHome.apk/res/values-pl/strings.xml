@@ -139,6 +139,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="open_personal_assistant_settings_simplified">Asystent HyperOS</string>
     <string name="open_personal_assistant_title">Asystent HyperOS</string>
     <string name="out_of_space">Brak miejsca na tym pulpicie</string>
+    <string name="pa_need_download_talkback">Nie pobrano jeszcze \"%s\"</string>
     <string name="privacy_thumbnail_blur_summary">Rozmaż podglądy w menu ostatnich aplikacji</string>
     <string name="recents_config_title">Ostatnie aplikacje</string>
     <string name="recents_layout_style">Rozmieść elementy w Ostatnich aplikacjach</string>

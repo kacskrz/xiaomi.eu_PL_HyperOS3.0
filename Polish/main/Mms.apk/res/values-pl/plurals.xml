@@ -24,6 +24,14 @@
         <item quantity="few">Wybrano %1$d elementy</item>
         <item quantity="one">Wybrano %1$d element</item>
     </plurals>
+    <plurals name="notification_multiple_satellite">
+        <item quantity="other">%s wiadomości satelitarnych</item>
+        <item quantity="few">%s wiadomości satelitarne</item>
+        <item quantity="one">%s wiadomość satelitarna</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Wycofaj (%d s)</item>
+    </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Wysłano %1$s SMS</item>
         <item quantity="one">Wysłano %1$s SMS</item>

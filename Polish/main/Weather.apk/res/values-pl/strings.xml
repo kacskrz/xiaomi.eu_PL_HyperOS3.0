@@ -32,6 +32,7 @@
     <string name="aqi_quality_map_title">Mapa jakości powietrza</string>
     <string name="aqi_settings_summary">Alerty dot. jakości powietrza</string>
     <string name="aqi_settings_title">Indeks jakości powietrza</string>
+    <string name="aqi_title_pad">Jakość powietrza: %1$s</string>
     <string name="background_location_dialog_msg">"Aby aplikacja zawsze używała dokładnych danych o lokalizacji, zezwól jej na dostęp do lokalizacji, gdy jest uruchomiona w tle. Możesz to zrobić w Ustawieniach."</string>
     <string name="background_location_dialog_open_button">Ustawienia</string>
     <string name="background_location_dialog_title">Wymagane uprawnienia</string>
@@ -46,8 +47,9 @@
     <string name="china_version_first_start_network_msg">"Musisz zgodzić się na %1$s oraz %2$s Xiaomi przed użyciem tej aplikacji. Oprócz tego Pogoda potrzebuje uprawnień do lokalizacji oraz łączenia się z Internetem. Zaakceptować?"</string>
     <string name="content_desc_city_manage_edit">Edytuj</string>
     <string name="content_desc_feedback_weather_type_choose">Wybrano %1$s</string>
-    <string name="daily_forcast_no_stable_direction">Bezwietrznie</string>
+    <string name="daily_forecast_card_title">Prognoza na %d dni</string>
     <string name="daily_forecast_detail_date">d.MM</string>
+    <string name="daily_forecast_next_15_days">Prognoza na 15 dni</string>
     <string name="daily_forecast_no_data">"Pobieranie danych nieudane. 
   Odśwież ręcznie lub sprawdź ustawienia sieci."</string>
     <string name="data_provided_by">"Dostawca pogody (w części): "</string>
@@ -60,14 +62,11 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="feedback_climate_accurate">Dokładna</string>
     <string name="feedback_climate_colder">Jest zimniej</string>
     <string name="feedback_climate_warmer">Jest cieplej</string>
-    <string name="feedback_cloudy">Pochmurnie</string>
     <string name="feedback_confirm_permission_agree">"Przeczytałem i akceptuję powyższe warunki użytkowania."</string>
-    <string name="feedback_overcast">Zachmurzenie</string>
     <string name="feedback_rain_accurate">Dokładne</string>
     <string name="feedback_rain_forecast_subtitle">Obecnie wyświetlane: %1$s</string>
     <string name="feedback_rain_forecast_title">Przewidywane opady</string>
     <string name="feedback_rain_inaccurate">Niedokładne</string>
-    <string name="feedback_realtime_button_text">Opinia</string>
     <string name="feedback_report_moji_privacy">Polityka prywatności Moji Weather</string>
     <string name="feedback_report_privacy_msg">Raport będzie zawierać informację o Twojej lokalizacji.</string>
     <string name="feedback_temperature_subtitle">Obecnie wyświetlana: %1$s°</string>
@@ -98,7 +97,6 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="international_details_title">Szczegóły</string>
     <string name="international_details_wind_title">WIATR</string>
     <string name="it_is_going_to_rain">Będzie padać</string>
-    <string name="life_index_title">Indeks pogody</string>
     <string name="locate_fail_detail_err">"Nie można zlokalizować urządzenia. 
 Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="main_activity_hourly_forecast_card_more_title">Więcej</string>
@@ -126,6 +124,9 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="open_browser">Otwórz w przeglądarce</string>
     <string name="open_now">Otwórz</string>
     <string name="other_warning_settings">Inne alerty</string>
+    <string name="pad_keyboard_add_city">Dodaj miejsce</string>
+    <string name="pad_keyboard_left_switch">Poprzednie miejsce</string>
+    <string name="pad_keyboard_right_switch">Następne miejsce</string>
     <string name="permission_privacy">Polityka prywatności (obowiązkowa)</string>
     <string name="permission_user_protocol">Umowa użytkownika (obowiązkowa)</string>
     <string name="policy_settings">Warunki użytkowania</string>
@@ -136,15 +137,10 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="precipitation_degree_two">Słabe</string>
     <string name="precipitation_forecast_desc">Zobacz prognozę</string>
     <string name="pressure_connect">%1$s hPa</string>
-    <string name="privacy_grant_failed">"Nie można udzielić autoryzacji. Spróbuj ponownie później."</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="privacy_policy_msg">&lt;Data>Ta aplikacja zawiera następujące funkcje:&lt;br/>•Informacje o pogodzie dopasowane do lokalizacji&lt;br/>• Prognozę pogody&lt;br/>• Ostrzeżenia o pogodzie&lt;br/>&lt;br/>Pogoda musi gromadzić niezbędne dane osobowe, aby świadczyć podstawowe usługi. Możesz dowiedzieć się, jak Xiaomi wykorzystuje dane, które zbiera, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Przeczytaj i zaakceptuj &lt;a href=\"%2$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%3$s\">Politykę prywatności&lt;/a> przed skorzystaniem z Pogody. W dowolnym momencie możesz wycofać swoją zgodę na warunki Polityki prywatności w Ustawieniach.&lt;/Data></string>
-    <string name="privacy_revoke_failed">"Nie można odwołać autoryzacji. Spróbuj ponownie później."</string>
     <string name="privacy_revoke_success">Pomyślnie odwołano autoryzację</string>
     <string name="privacy_settings">Polityka prywatności</string>
-    <string name="q_version_location_provider_btn_text">Włącz dostęp do lokalizacji i popraw jej dokładność</string>
-    <string name="rainfall_settings_summary">Opcje ostrzeżeń o intensywnych deszczach</string>
-    <string name="rainfall_settings_title">Ostrzeżenie o ulewach</string>
     <string name="real_time_sunrise">Wschód o %1$s</string>
     <string name="real_time_sunset">Zachód o %1$s</string>
     <string name="realtime_humidity_title_new">Wilgotność względna</string>
@@ -162,9 +158,6 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="revoke_permission_fail_next_msg">Aby wycofać zgodę, urządzenie musi się połączyć z siecią. Sprawdź ustawienia sieci i spróbuj ponownie.</string>
     <string name="revoke_permission_fail_next_title">"Nie udało się połączyć z siecią"</string>
     <string name="revoke_permission_fail_title">"Nie udało się wycofać zgody"</string>
-    <string name="save_to_local_failure_message">"Nie udało się zapisać"</string>
-    <string name="save_to_local_icon_name">Zapisz</string>
-    <string name="save_to_local_success_message">Pomyślnie zapisano</string>
     <string name="search_weather">Pogoda</string>
     <string name="search_weather_keywords">Temperatura;Prognoza pogody;Pogoda;Wilgotność</string>
     <string name="setting_about_permission">Uprawnienia</string>
@@ -201,5 +194,4 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="weather_main_minute_hour">Opady w ciągu 2 godzin</string>
     <string name="widget_cta_not_agree">Dotknij, aby uzyskać dane o pogodzie</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="your_location">Twoja lokalizacja</string>
 </resources>

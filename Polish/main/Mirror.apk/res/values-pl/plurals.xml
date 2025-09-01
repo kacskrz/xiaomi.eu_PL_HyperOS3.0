@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+    </plurals>
+    <plurals name="trust_settings_selected_count">
+        <item quantity="one">Wybrano %1$d urządzenie</item>
+        <item quantity="few">Wybrano %1$d urządzenia</item>
+        <item quantity="other">Wybrano %1$d urządzeń</item>
+    </plurals>
+</resources>

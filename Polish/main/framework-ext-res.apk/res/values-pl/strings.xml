@@ -163,6 +163,10 @@
     <string name="split_screen">Otwórz Podział ekranu</string>
     <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
     <string name="super_wallpaper_list_label">Supertapety</string>
+    <string name="softap_notification_enable">Wł.</string>
+    <string name="softap_notification_new_device">Połączono nowe urządzenie</string>
+    <string name="softap_notification_unknown_device">Urządzenie bezprzewodowe</string>
+    <string name="softap_notification_usage">Hotspot jest aktywny</string>
     <string name="swoosh">Pod wodą</string>
     <string name="three_gesture_down">3 palce w dół</string>
     <string name="three_gesture_horizontal">Przesuń poziomo %d palcami</string>
@@ -182,6 +186,8 @@ z przedniego aparatu"</string>
     <string name="user_switching_message">Przełączanie na %1$s…</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
+    <string name="wallpaper_and_signature_title">Tapety i podpisy</string>
+    <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
@@ -196,6 +202,7 @@ z przedniego aparatu"</string>
     <string name="wallpaper_group_pets_title">Zwierzaki</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
+    <string name="wallpaper_manying_title">Cienie</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z autem. Rozłączyć?</string>

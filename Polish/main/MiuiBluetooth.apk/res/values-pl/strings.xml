@@ -10,7 +10,7 @@
     <string name="celluar_tether_disconnect_notify">Twój telefon jest połączony z pojazdem elektrycznym. Wyłącz Łączność między urządzeniami na telefonie i spróbuj ponownie.</string>
     <string name="celluar_tether_disconnect_notify_connected_WLAN">Twój telefon jest połączony z Wi-Fi. Zatrzymano sesję udostępniania łączności.</string>
     <string name="celluar_tether_disconnect_notify_phone_connected_WLAN">Połączono z siecią Wi-Fi. Zatrzymano sesję udostępniania łączności.</string>
-    <string name="celluar_tether_name">Bezprzewodowy tethering</string>
+    <string name="celluar_tether_name">Udostępnianie tetheringu</string>
     <string name="celluar_tether_prompt">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="celluar_tether_prompt_china">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="config_net_device_ignore">Anuluj</string>
@@ -22,6 +22,12 @@
     <string name="easy_tether_auto_connect_toast">"Połączono z hotspotem %1$s. Ustaw limity danych w jego ustawieniach."</string>
     <string name="easy_tether_click_button_description">Dotknij przycisku po prawej, aby się połączyć</string>
     <string name="easy_tether_click_hotspot_button">Dotknij, aby połączyć się z hotspotem telefonu</string>
+    <string name="easy_tether_connect">Połącz</string>
+    <string name="easy_tether_connect_table">Dostępne</string>
+    <string name="easy_tether_connecting">Łączenie</string>
+    <string name="easy_tether_disconnected">Rozłączono</string>
+    <string name="easy_tether_discover_available_networks">Dostępna sieć</string>
+    <string name="easy_tether_mobile_data_is_being_used">Udostępnianie danych mobilnych</string>
     <string name="easy_tether_statusbar_connect_title_v3">Użyj hotspotu %1$s</string>
     <string name="easy_tether_statusbar_connecting_title_car_talk_back">Pojazd, łączenie…</string>
     <string name="easy_tether_statusbar_connecting_title_pad_talk_back">Tablet, łączenie…</string>
@@ -29,6 +35,8 @@
     <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Pojazd, połączono</string>
     <string name="easy_tether_statusbar_dialog_connected_title_pad_talk_back">Tablet, połączono</string>
     <string name="easy_tether_statusbar_dialog_connected_title_phone_talk_back">Telefon, połączono</string>
+    <string name="easy_tether_wlan_signal_is_being_used">Udostępnianie sieci Wi-Fi</string>
+    <string name="easy_tether_wlan_signal_is_being_used_china">Udostępnianie sieci Wi-Fi</string>
     <string name="fast_connect_device_reset_audio_share">Przytrzymaj przez 2 sekundy, aby zresetować</string>
     <string name="fast_connect_headset_reset">Przytrzymaj przycisk zestawu przez %1$d s</string>
     <string name="fast_connect_nzbt_reset">Przytrzymaj górny przycisk przez %1$s s, gdy urządzenie jest wyłączone</string>
@@ -36,6 +44,7 @@
     <string name="fast_connect_same_account_content">Urządzenia Bluetooth mogą być synchronizowane z Twoim kontem Xiaomi i za jego pomocą mogą łączyć się z innymi urządzeniami bez konieczności ich ponownego parowania.</string>
     <string name="fast_connect_wbs_reset">Przytrzymaj górny przycisk przez %1$s s, gdy urządzenie jest wyłączone</string>
     <string name="glasses_download_title">Zainstaluj aplikację \"Xiaomi Smart Glasses\"</string>
+    <string name="headset_autoswitch_switched">Przełączono</string>
     <string name="headset_incall_answer">Odbierz</string>
     <string name="headset_incall_reject">Anuluj</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>
@@ -52,8 +61,13 @@
     <string name="lyra_auto_connect_summary">"Automatycznie włącz hotspot i łącz z nim urządzenia w pobliżu, które są zalogowane na Twoje konto Xiaomi, gdy nie mają one połączenia z siecią"</string>
     <string name="lyra_auto_connect_title">Automatycznie włącz hotspot</string>
     <string name="mi_home_device_find">Znaleziono \"%1$s\"</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Rozwinięto</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_appcompat_show_dialog_description">Wyskakujące okno</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Zamknij</string>
+    <string name="miuix_stretchablewidget_collapsed">Zwinięto</string>
+    <string name="miuix_stretchablewidget_expanded">Rozwinięto</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -91,7 +105,7 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="nearby_contacts">Kontakty w pobliżu</string>
-    <string name="offline_app_name">Komunikacja między urządzeniami</string>
+    <string name="offline_app_name">Komunikacja offline Xiaomi</string>
     <string name="offline_call_balack_list">Lista blokowanych</string>
     <string name="offline_call_balack_list_join">Dodaj do listy blokowanych</string>
     <string name="offline_call_balack_list_join_title">Dodać %1$s do listy blokowanych?</string>
@@ -115,29 +129,40 @@
     <string name="offline_call_nearby_dialog_message">Możesz wyznaczyć trasę do lokalizacji %1$s lub zadzwonić do %1$s."</string>
     <string name="offline_call_nearby_dialog_negative">Nawiguj</string>
     <string name="offline_call_nearby_dialog_positive">Zadzwoń</string>
+    <string name="offline_call_nearby_device_refreshing">Wyszukiwanie urządzeń</string>
     <string name="offline_call_notification_broadcast_close">Wyłącz</string>
-    <string name="offline_call_notification_broadcast_location">Komunikacja między urządzeniami udostępnia Twoją lokalizację</string>
-    <string name="offline_call_notification_broadcast_start">Komunikacja między urządzeniami prowadzi transmisję</string>
+    <string name="offline_call_notification_broadcast_location">Komunikacja offline Xiaomi udostępnia Twoją lokalizację</string>
+    <string name="offline_call_notification_broadcast_start">Komunikacja offline Xiaomi prowadzi transmisję</string>
     <string name="offline_call_remove">Usuń</string>
     <string name="offline_call_settings_summary">Komunikuj się z telefonami Xiaomi w pobliżu, gdy jesteś online i na obu urządzeniach włączony jest Bluetooth</string>
-    <string name="offline_call_settings_title">Komunikacja między urządzeniami</string>
+    <string name="offline_call_settings_title">Komunikacja offline Xiaomi</string>
     <string name="offline_call_show_location_title">Udostępnij lokalizację osobom w pobliżu</string>
     <string name="offline_chat_summary">Rozmawiaj z kontaktami znajdującymi się w pobliżu przez Bluetooth, gdy nie jesteś połączony z Internetem. Funkcja nie działa ze słuchawkami Bluetooth.</string>
-    <string name="offline_chat_title">Komunikacja między urządzeniami</string>
+    <string name="offline_chat_title">Komunikacja offline Xiaomi</string>
     <string name="offline_connecting">Łączenie…</string>
+    <string name="p8g_activity_bt_cancel">Anuluj</string>
+    <string name="p8g_activity_bt_connect">Włącz Bluetooth</string>
+    <string name="p8g_activity_bt_connect_failed">Nie udało się połączyć</string>
+    <string name="p8g_activity_bt_connecting">Łączenie…</string>
+    <string name="p8g_activity_bt_retry">Spróbuj ponownie</string>
+    <string name="p8g_activity_prompt">Włącz etui</string>
+    <string name="p8g_island_opened">Wł.</string>
+    <string name="p8g_island_peripherals_opened">Urządzenie włączone</string>
+    <string name="p8g_island_peripherals_to_close">Wyłącz</string>
+    <string name="p8g_island_product_name">Gamingowe etui</string>
     <string name="permgroupdesc_location">Zezwolić %1$s na dostęp do lokalizacji?</string>
     <string name="phone_in_talk">Rozmowa już trwa</string>
     <string name="remove_black_list_title">Usuń z listy blokowanych</string>
-    <string name="request_open_bluetooth_title">Zezwolić Komunikacji między urządzeniami na włączenie Bluetooth?</string>
+    <string name="request_open_bluetooth_title">Zezwolić Komunikacji offline Xiaomi na włączenie Bluetooth?</string>
     <string name="sim_identify_failed">Nie można otworzyć. Nie udało się rozpoznać karty SIM.</string>
     <string name="start_failed_confirm">OK</string>
-    <string name="start_failed_content">Aby skorzystać z Komunikacji między urządzeniami, włóż kartę SIM i zaloguj się na konto Xiaomi.</string>
+    <string name="start_failed_content">Aby skorzystać z Komunikacji offline Xiaomi, włóż kartę SIM i zaloguj się na konto Xiaomi.</string>
     <string name="start_failed_title">Nie udało się włączyć</string>
     <string name="user_agreement_cancel">Anuluj</string>
     <string name="user_agreement_confirm">Zgadzam się</string>
-    <string name="user_agreement_content">"Komunikacja między urządzeniami to usługa połączenia głosowego oparta na Bluetooth dostarczana przez Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z przepisami prawa i standardami stosowanymi w branży.&lt;br&lt;b>Gdy włączysz tę funkcję, Xiaomi uzyska dostęp do Twoich kontaktów, numeru telefonu, stanu logowania na konto Xiaomi, adresu MAC Bluetooth, stanu połączenia i karty SIM, aby umożliwić Ci komunikację z wybranymi kontaktami, gdy nie masz połączenia z Internetem. &lt;/b&lt;br&lt;b>Gdy włączysz funkcje \"Pokaż lokalizację\" i \"Włącz automatycznie podczas trzęsienia ziemi\", Xiaomi zbierze dane o Twojej dokładnej lokalizacji, aby wyświetlić ją Twoim wybranym kontaktom.&lt;/b&lt;br&lt;b>Ta informacja będzie przetwarzana tylko na Twoim urządzeniu i nie zostanie przesłana do chmury.&lt;/b&lt;brDo korzystania z Komunikacji między urządzeniami niezbędne są następujące uprawnienia: &lt;br&amp;bull; Bluetooth: do wykonywania połączeń głosowych do urządzeń w pobliżu&lt;br&amp;bull; Kontakty: do odnajdywania i dzwonienia do kontaktów w pobliżu&lt;br&amp;bull; Łączność z Internetem: do łączenia się z siecią i uzyskiwania zawartości mapy&lt;br&amp;bull; Lokalizacja: do wyświetlania dokładnej lokalizacji wybranym kontaktom&lt;br&amp;bull; Telefon: do uzyskiwania statusu połączenia (Komunikacja między urządzeniami nie może być używana podczas trwania rozmowy)&lt;brJeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można korzystać z tej usługi.&lt;brNiektóre funkcje dostarczają dostawcy usług - strony trzecie. Z tego powodu Xiaomi musi przekazać niektóre dane o Tobie właśnie do nich. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Dotknij tutaj, aby wyświetlić&lt;/a> warunki, w ramach których Xiaomi udostępnia Twoje dane stronom trzecim.&lt;brXiaomi będzie przetwarzać Twoje dane przez czas określony w tym oświadczeniu lub wymagany odpowiednimi przepisami prawa.&lt;brXiaomi posiada oddzielny dział zajmujący się wyłącznie ochroną danych osobowych. Jeśli masz jakieś pytania związane z tym oświadczeniem lub gromadzeniem, korzystaniem lub ujawnieniem Twoich danych, możesz skontaktować się z Xiaomi poprzez stronę &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Xiaomi udzieli odpowiedzi zazwyczaj w ciągu piętnastu dni roboczych.&lt;br>
+    <string name="user_agreement_content">"Komunikacja offline Xiaomi to usługa połączenia głosowego oparta na Bluetooth dostarczana przez Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z przepisami prawa i standardami stosowanymi w branży.&lt;br&lt;b>Gdy włączysz tę funkcję, Xiaomi uzyska dostęp do Twoich kontaktów, numeru telefonu, stanu logowania na konto Xiaomi, adresu MAC Bluetooth, stanu połączenia i karty SIM, aby umożliwić Ci komunikację z wybranymi kontaktami, gdy nie masz połączenia z Internetem. &lt;/b&lt;br&lt;b>Gdy włączysz funkcje \"Pokaż lokalizację\" i \"Włącz automatycznie podczas trzęsienia ziemi\", Xiaomi zbierze dane o Twojej dokładnej lokalizacji, aby wyświetlić ją Twoim wybranym kontaktom.&lt;/b&lt;br&lt;b>Ta informacja będzie przetwarzana tylko na Twoim urządzeniu i nie zostanie przesłana do chmury.&lt;/b&lt;brDo korzystania z Komunikacji offline Xiaomi niezbędne są następujące uprawnienia: &lt;br&amp;bull; Bluetooth: do wykonywania połączeń głosowych do urządzeń w pobliżu&lt;br&amp;bull; Kontakty: do odnajdywania i dzwonienia do kontaktów w pobliżu&lt;br&amp;bull; Łączność z Internetem: do łączenia się z siecią i uzyskiwania zawartości mapy&lt;br&amp;bull; Lokalizacja: do wyświetlania dokładnej lokalizacji wybranym kontaktom&lt;br&amp;bull; Telefon: do uzyskiwania statusu połączenia (Komunikacja offline Xiaomi nie może być używana podczas trwania rozmowy)&lt;brJeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można korzystać z tej usługi.&lt;brNiektóre funkcje dostarczają dostawcy usług - strony trzecie. Z tego powodu Xiaomi musi przekazać niektóre dane o Tobie właśnie do nich. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Dotknij tutaj, aby wyświetlić&lt;/a> warunki, w ramach których Xiaomi udostępnia Twoje dane stronom trzecim.&lt;brXiaomi będzie przetwarzać Twoje dane przez czas określony w tym oświadczeniu lub wymagany odpowiednimi przepisami prawa.&lt;brXiaomi posiada oddzielny dział zajmujący się wyłącznie ochroną danych osobowych. Jeśli masz jakieś pytania związane z tym oświadczeniem lub gromadzeniem, korzystaniem lub ujawnieniem Twoich danych, możesz skontaktować się z Xiaomi poprzez stronę &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Xiaomi udzieli odpowiedzi zazwyczaj w ciągu piętnastu dni roboczych.&lt;br>
         Aby potwierdzić zapoznanie się i akceptację tego oświadczenia, dotknij opcji \"Zgadzam się\"."</string>
-    <string name="user_agreement_title">Stanowisko dot. prywatności Komunikacji między urządzenaimi</string>
+    <string name="user_agreement_title">Stanowisko dot. prywatności Komunikacji offline Xiaomi</string>
     <string name="virtual_moresttings">Więcej ustawień</string>
     <string name="xpan_bt_toast">Przełączono na bezstratny dźwięk Wi-Fi %s Mb/s</string>
 </resources>

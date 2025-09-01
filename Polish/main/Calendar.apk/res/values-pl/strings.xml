@@ -2,7 +2,6 @@
 <resources>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="app_name">Kalendarz</string>
-    <string name="auto_insert_ai_event_toast">Włączono asystenta wydarzeń SI</string>
     <string name="calendar_data_sharing_instruction">Oświadczenie o udostępnianiu danych firmom zewnętrznym</string>
     <string name="calendar_desc_withdraw_consent">Cofnij zgodę na Politykę prywatności Kalendarza</string>
     <string name="calendar_privacy_policy">Polityka prywatności</string>
@@ -21,6 +20,7 @@
     <string name="month_august_short">sie</string>
     <string name="month_august_shortest">S</string>
     <string name="month_calendar_view">Widok miesiąca</string>
+    <string name="month_day_title_date_format">d.MM</string>
     <string name="month_december">grudnia</string>
     <string name="month_december_short">gru</string>
     <string name="month_december_shortest">G</string>
@@ -68,7 +68,6 @@
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
     <string name="schedule_about_to_begin">Start o %1$s</string>
-    <string name="setting_auto_insert">Asystent wydarzeń SI</string>
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
@@ -80,6 +79,7 @@
     <string name="unsubscribe_card_success">Pomyślnie anulowano subskrypcję “%1$s”</string>
     <string name="weekly">Co tydzień (co: %s)</string>
     <string name="widget_edit_lunar_text">Tradycyjny chiński kalendarz</string>
+    <string name="widget_year_month_title_date_format">MM.yyyy</string>
     <string name="year_month_title_date_format">MM.yyyy</string>
     <string name="year_month_title_date_format_desk">d.MM.yyyy</string>
     <string name="yearly">Co rok (co: %s)</string>

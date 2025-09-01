@@ -2,6 +2,7 @@
 <resources>
     <string name="access_calendar">Dostęp do kalendarza</string>
     <string name="access_non_personal_data">Jeśli wycofasz zgodę na dostęp i używanie nieosobistych danych na tym urządzeniu, usługi Tapet Blokady zostaną zdezaktywowane, a wszystkie zgromadzone dane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami.</string>
+    <string name="accessibility_settings">Ułatwienia dostępu</string>
     <string name="after_sales_support">Wsparcie posprzedażowe</string>
     <string name="after_sales_support_introduction">Ta usługa pozwala Ci uzyskać wsparcie i pomoc związaną z zakupionymi urządzeniami.</string>
     <string name="agree_terms">Przeczytałem i wyrażam zgodę na warunki Umowy użytkownika i Polityki prywatności.</string>
@@ -20,7 +21,7 @@
     <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
     <string name="check_box_label">"&lt;Data>Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > Interakcji urządzeń Xiaomi.&lt;/Data>"</string>
-    <string name="check_box_label_new"><Data>"Możesz użyć Łączności między urządzeniami Xiaomi do kontrolowania różnych urządzeń i przesyłania danych między nimi. Przed użyciem funkcji wyraź zgodę na warunki jej &lt;a href=%1$s>Polityki prywatności&lt;/a >. Aplikacja wymaga połączenia z Internetem i następujących uprawnień:"</Data></string>
+    <string name="check_box_label_new"><Data>"Łączności między urządzeniami można użyć do kontrolowania różnych urządzeń i przesyłania danych między nimi. Włączenie tej funkcji oznacza, że wyrażasz zgodę na warunki jej &lt;a href=%1$s>Polityki prywatności&lt;/a >. Usługa wymaga połączenia z Internetem i następujących uprawnień:"</Data></string>
     <string name="congratulation_label">MIUIPolska.pl​</string>
     <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
     <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na szybkie łączenie się z urządzeniami Bluetooth.</string>
@@ -32,18 +33,20 @@
     <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
     <string name="home_settings_title">Wybierz układ pulpitu</string>
     <string name="interconnection_service_global_item_title">Interakcja urządzeń Xiaomi</string>
-    <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia bezprzewodową integrację Twoich urządzeń. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia przesyłanie elementów między nimi i kontrolowanie ich. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
     <string name="interconnection_service_permission1">Włączanie i wyłączanie Bluetooth</string>
     <string name="interconnection_service_permission11">Przesyłanie danych między urządzeniami</string>
     <string name="interconnection_service_permission13">Dostęp do zawartości ekranu</string>
     <string name="interconnection_service_permission15">Dostęp do historii połączeń</string>
     <string name="interconnection_service_permission17">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="interconnection_service_permission19">Dostęp do powiadomień i korzystanie z nich</string>
+    <string name="interconnection_service_permission20">W celu uzyskiwania powiadomień urządzenia, w tym nazwy aplikacji, tytułu i treści powiadomienia</string>
     <string name="interconnection_service_permission3">Włączanie i wyłączanie Wi-Fi</string>
     <string name="interconnection_service_permission4">Do przesyłania danych między dwoma urządzeniami przez Wi-Fi</string>
     <string name="interconnection_service_permission5">Nagrywanie dźwięku</string>
     <string name="interconnection_service_permission7">Dostęp i edycja zdjęć i plików na urządzeniu</string>
-    <string name="interconnection_service_summary_china">Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. %1$s Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od Twojej wersji systemu i modelu urządzenia. Dowiedz się więcej na stronie %2$s.</string>
-    <string name="interconnection_service_summary_china_fragment1">Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, bezprzewodowy tethering (w tym synchronizacja sieci), kontrola innych urządzeń, współdzielony aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:</string>
+    <string name="interconnection_service_summary_china">Funkcje interakcji urządzeń mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, odwiedź (%1$s).</string>
+    <string name="interconnection_service_summary_china_fragment1">Są to Xiaomi Smart Play, projekcja, handoff aplikacji, Ekran główny+, współdzielony schowek, bezprzewodowy tethering (w tym synchronizacja sieci), kontrola innych urządzeń, współdzielony aparat oraz Xiaomi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="interconnection_service_summary_china_fragment10">W celu uzyskiwania informacji o urządzeniach w pobliżu</string>
     <string name="interconnection_service_summary_china_fragment11">Nagrywanie wewnętrznego dźwięku urządzenia</string>
     <string name="interconnection_service_summary_china_fragment12">W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu</string>
@@ -54,7 +57,7 @@
     <string name="interconnection_service_summary_china_fragment17">Dostęp do zawartości ekranu</string>
     <string name="interconnection_service_summary_china_fragment18">W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia, wiadomości itd.</string>
     <string name="interconnection_service_summary_china_fragment19">Handoff aplikacji i Pulpit+:</string>
-    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play i projekcja:</string>
+    <string name="interconnection_service_summary_china_fragment2">Xiaomi Smart Play i projekcja:</string>
     <string name="interconnection_service_summary_china_fragment20">Włączanie lub wyłączanie Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment21">W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment22">Włączanie i wyłączanie Wi-Fi</string>
@@ -105,8 +108,8 @@
     <string name="interconnection_service_summary_china_fragment8">W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania elementów</string>
     <string name="interconnection_service_summary_china_fragment9">Dostęp do lokalizacji</string>
     <string name="interconnection_service_summary_china_new">%1$s Funkcje Łączności między urządzeniami Xiaomi dostępne na Twoim urządzeniu mogą być różne w zależności od wersji systemu i modelu urządzenia. Aby dowiedzieć się więcej, wejdź na stronę %2$s.</string>
-    <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń Xiaomi mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
-    <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
+    <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
+    <string name="interconnection_service_title">Usługi łączności</string>
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
     <string name="layout_size_large">Duży</string>
@@ -146,6 +149,7 @@
     <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
     <string name="permission_fast_pairing">Aby móc znajdować urządzenia w pobliżu, Mi Link musi połączyć się z Internetem i wymaga następujących uprawnień:</string>
     <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
+    <string name="permission_mi_account">Dostęp do stanu połączenia</string>
     <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
     <string name="permission_number">Dostęp do numeru telefonu</string>
     <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
@@ -197,6 +201,7 @@
     <string name="skip_gesture_guide_dialog_title">Gesty</string>
     <string name="start_up_slogan">Łącz wszystko w całość</string>
     <string name="study_full_screen_gesture_text">Naucz się gestów nawigacji</string>
+    <string name="sub_screen_boot_tip">Ukończ konfigurację na głównym ekranie</string>
     <string name="system_update_statement">Aktualizacje systemu</string>
     <string name="system_update_title">Aktualizacje systemowe</string>
     <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>

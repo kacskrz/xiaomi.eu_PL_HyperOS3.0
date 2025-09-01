@@ -52,6 +52,7 @@ Spróbuj ponownie."</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
     <string name="cn_privacy_dialog_title">Uwaga</string>
+    <string name="confirm_dialog_title_make_as_read">Oznacz jako przeczytane</string>
     <string name="confirm_invalid_recipient">OK</string>
     <string name="contain_invalid_recipient">Wygląda na to, że wprowadzono nieprawidłową nazwę odbiorcy.</string>
     <string name="context_menu_access_link">Otwórz adres URL</string>
@@ -75,6 +76,7 @@ Spróbuj ponownie."</string>
     <string name="dialog_quit">Wyjdź</string>
     <string name="dialog_revoke">Wycofaj</string>
     <string name="dialog_title_correct_as_ad">Przenieś do reklam</string>
+    <string name="dock_content_text">Przywróć ikonę aplikacji SMS na Ekranie głównym do jej domyślnej pozycji, aby łatwo i szybko ją znaleźć. Zrobić to teraz?</string>
     <string name="download_miui_calendar_detail">Pobierz Kalendarz, aby móc dodawać wydarzenia do kalendarza oraz przypomnienia. Otworzyć aplikację sklepu?</string>
     <string name="download_miui_calendar_title">Pobierz Kalendarz</string>
     <string name="emergency_label">Kontakt alarmowy</string>
@@ -83,6 +85,8 @@ Spróbuj ponownie."</string>
     <string name="english_subject_limit">Limit 40 znaków</string>
     <string name="fake_cell_alert_detect_error">To nie zostało wysłane z fałszywego BTSa</string>
     <string name="favorite_at_time">Polubione: %1s</string>
+    <string name="feature_mx_summary"><b>Wiadomości Mi umożliwiają wysyłanie wiadomości na inne urządzenia obsługujące Wiadomości Mi przez internet, bez ponoszenia dodatkowych opłat</b>. Aby aktywować tę usługę, wymagane jest wysłanie wiadomości SMS, za co Twój operator naliczy opłatę. Przed skorzystaniem z tej usługi musisz przeczytać i zaakceptować <font color="#B3000000"><a href="http://url1">Umowę użytkownika</a></font> i <font color="#B3000000"><a href="http://url2">Politykę prywatności</a></font> Xiaomi.</string>
+    <string name="feature_smart_sms_summary"><b>Inteligentne Wiadomości zapewniają rozpoznawanie identyfikatora nadawcy i inteligentne menu</b>. Inteligentne Wiadomości są częściowo zapewniane przez Yulore. Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj <font color="#B3000000"><a href="http://url3">Politykę prywatności</a></font> Yulore.</string>
     <string name="file_create_time">Utworzono:</string>
     <string name="file_expired">Ten plik wygasł</string>
     <string name="file_name_too_long">Nie udało się wysłać. Nazwa pliku jest za długa.</string>
@@ -106,6 +110,7 @@ Spróbuj ponownie."</string>
     <string name="leave_mms_tips_context_browser">Czy chcesz wyjść z aplikacji SMS i otworzyć przeglądarkę?</string>
     <string name="leave_mms_tips_context_email">Czy chcesz wyjść z aplikacji SMS i otworzyć klienta poczty e-mail?</string>
     <string name="leave_mms_tips_context_map">Czy chcesz wyjść z aplikacji SMS i otworzyć mapę?</string>
+    <string name="make_as_read_tips">Oznaczyć wszystkie powiadomienia jako przeczytane?</string>
     <string name="menu_correct_as_ad">Przenieś do reklam</string>
     <string name="menu_lock">Ulubione</string>
     <string name="menu_locus_map">Mapa podróży</string>
@@ -178,11 +183,13 @@ Spróbuj ponownie."</string>
     <string name="mx_main_purpose">"Wiadomości Mi umożliwiają wysyłanie wiadomości do innych użytkowników Wiadomości Mi przez internet bez ponoszenia opłat.
 W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój operator obciąży Cię opłatą za tę wiadomość."</string>
     <string name="mx_main_purpose_short">Wiadomości Mi pozwalają użytkownikom Xiaomi wysyłać i otrzymywać wiadomości od innych użytkowników Xiaomi bez żadnych opłat.</string>
+    <string name="mx_on_esim">Wiadomości Mi eSIM</string>
     <string name="mx_privacy_policy">Polityka prywatności Wiadomości Mi</string>
     <string name="mx_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości Mi</string>
     <string name="my_location">Moja lokalizacja:</string>
     <string name="new_message_arrived">Nowa wiadomość</string>
     <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
+    <string name="no_more_reminders">Nie pokazuj ponownie</string>
     <string name="non_english_subject_limit">Limit 13 znaków dla nieangielskich tematów</string>
     <string name="nosend_message">"Nie wysyłaj"</string>
     <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
@@ -243,6 +250,7 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="privacy_dialog_error_service">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="privacy_dialog_text_policy_link">Polityka prywatności</string>
     <string formatted="false" name="privacy_dialog_tips_revoke">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności %s. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja %s dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług %s. Wycofać zgodę?"</string>
+    <string name="privacy_dialog_tips_revoke_1">Kontynuacja oznacza cofnięcie zgody na Politykę prywatności Wiadomości Mi. Xiaomi przestanie gromadzić Twoje dane osobowe. Zebrane i przechowywane już dane zostaną usunięte w określonym czasie, zgodnie z obowiązującymi przepisami. Jako iż usługi Wiadomości Mi i Inteligentne rozpoznawanie identyfikatora nadawcy są świadczone na podstawie zbieranych niezbędnych danych osobowych, cofnięcie zgody będzie równoznaczne z odmową akceptacji tych usług.</string>
     <string formatted="false" name="privacy_dialog_tips_update">"Zaktualizowano Politykę prywatności %s:
 %s
 Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
@@ -254,6 +262,8 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="privacy_policy_name_websms">Wiadomości w Chmurze</string>
     <string name="privacy_state_revoked_content">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS. Xiaomi zaprzestanie w tym momencie gromadzenia informacji o Tobie, zaś już zgromadzone i przetworzone dane zostaną usunięte z serwerów firmy w czasie określonym przepisami prawa. Usługi dostarczane przez aplikację, takie jak Wiadomości w Chmurze czy Inteligentne wiadomości muszą gromadzić niezbędne dane, aby działać normalnie. Cofnięcie zgody na warunki Polityki prywatności aplikacji SMS zostanie uznane również jako cofnięcie zgody na warunki tychże usług.</string>
     <string name="privacy_state_revoked_synopsis">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS.</string>
+    <string name="privacy_state_revoked_synopsis_1">Cofnij zgodę na Politykę prywatności Wiadomości Mi</string>
+    <string name="privacy_term">Polityka prywatności</string>
     <string name="progress_start_tips">Analizowanie SMS-ów w celu dostarczania dokładniejszych wyników…</string>
     <string name="progress_stop_tips">Wiadomości będą analizowane na Twoim urządzeniu, aby dostarczać dokładniejsze wyniki</string>
     <string name="progress_text">Porządkowanie wiadomości… (%s)</string>
@@ -262,6 +272,7 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="rcs_auto_resend_sms">Konwertuj do wiadmości SMS</string>
     <string name="rcs_auto_resume">Automatycznie przywracaj przerwane przesyłanie</string>
     <string name="rcs_auto_resume_only_by_wifi">Wznawiaj przesyłanie tylko przy połączeniu z siecią Wi-Fi</string>
+    <string name="rcs_bw_download_un_support">Nie można pobierać tego typu pliku</string>
     <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P. Dotknij, aby wyświetlić szczegóły.</string>
     <string name="rcs_chatbot_audio_message">Otrzymałeś wiadomość dźwiękową. Dotknij, aby wyświetlić szczegóły.</string>
     <string name="rcs_chatbot_card_message">Otrzymałeś kartę. Dotknij, aby wyświetlić szczegóły.</string>
@@ -292,6 +303,7 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="satellite_location_privacy"><Data>Satelita Tiantong musi uzyskać Twoją lokalizację, aby móc wysłać SMS-a. Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font>.</Data></string>
     <string name="satellite_location_privacy_title">Dostęp do lokalizacji</string>
     <string name="satellite_message_notification_contact_end">(Wysyłanie przez satelitę)</string>
+    <string name="satellite_sms">Wiadomość satelitarna</string>
     <string name="satellite_sms_notification">Ta wiadomość została wysłana za pomocą usług satelity Tiantong Satellite. Nadawca może potrzebować Twojej pomocy.</string>
     <string name="save_to_sim">Zapisz na SIM</string>
     <string name="search_empty">Brak wyników</string>
@@ -384,6 +396,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
     <string name="updating">Aktualizowanie…</string>
     <string name="user_agreement">Umowę użytkownika</string>
+    <string name="user_term">Umowa użytkownika</string>
     <string name="view_more_button">Zobacz szczegóły</string>
     <string name="vital_signs_cta_body">"Dane dotyczące funkcji życiowych (w tym tętna, SpO₂ i informacji medycznych) są pobierane z Mi Fitness. Zaznaczenie poniższych opcji oznacza wyrażenie przez Ciebie zgody na dostęp do tych danych i ich wykorzystywanie.
 Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znaków każdej informacji w karcie medycznej."</string>

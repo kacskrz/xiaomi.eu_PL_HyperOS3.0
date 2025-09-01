@@ -8,4 +8,14 @@
         <item quantity="few">Połączono %1$s urządzenia. Możliwe nagrzanie i zużycie większej ilości energii.</item>
         <item quantity="one">Połączono %1$s urządzenie. Możliwe nagrzanie i zużycie większej ilości energii.</item>
     </plurals>
+    <plurals name="softap_notification_multi_device_connected_message">
+        <item quantity="other">Połączono %1$s urządzeń</item>
+        <item quantity="few">Połączono %1$s urządzenia</item>
+        <item quantity="one">Połączono %1$s urządzenie</item>
+    </plurals>
+    <plurals name="softap_notification_multi_device_message">
+        <item quantity="other">%1$s urządzeń</item>
+        <item quantity="few">%1$s urządzenia</item>
+        <item quantity="one">%1$s urządzenie</item>
+    </plurals>
 </resources>

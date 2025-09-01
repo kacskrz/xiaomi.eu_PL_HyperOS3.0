@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pollution_level_desc_arr">
-        <item>Świetne</item>
-        <item>Dobre</item>
-        <item>Lekko zanieczyszczone</item>
-        <item>Średnio zanieczyszczone</item>
-        <item>Znacznie zanieczyszczone</item>
-        <item>Poważnie zanieczyszczone</item>
-        <item>Poza skalą</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Pogodnie</item>
         <item>Pochmurnie</item>

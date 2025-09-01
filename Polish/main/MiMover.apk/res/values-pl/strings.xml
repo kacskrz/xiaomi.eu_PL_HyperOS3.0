@@ -293,6 +293,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
 Pobierz i zainstaluj Przenoszenie danych."</string>
     <string name="trans_install_guide_old_content_first">Zeskanuj ten kod QR starym urządzeniem, aby pobrać i zainstalować Przenoszenie danych.</string>
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
+    <string name="trans_sync_transfer_data_list_summary_for_phone">Wybierz elementy na starym urządzeniu i dotknij \"Wyślij\".</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>
     <string name="transfer_long_pause_in_progress">Przesyłanie…</string>

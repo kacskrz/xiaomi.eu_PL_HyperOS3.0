@@ -20,6 +20,10 @@
     <string name="e2ee_device_verification_result_subtitle">Urządzenia wylogowane ze Twojego konta Xiaomi nie będą mogły korzystać ze Chmury Xiaomi i innych powiązanych z nią usług, dopóki nie zalogujesz się na nich ponownie.</string>
     <string name="e2ee_device_verification_result_title">Wylogowano wszystkie urządzenia</string>
     <string name="e2ee_need_bind_phone_subtitle">Nie dodałeś numeru telefonu. Jeśli zapomnisz hasła do konta, nie będziesz w stanie się na nie zalogować. Dodaj numer telefonu, aby móc przypomnieć sobie hasło.</string>
+    <string name="e2ee_open_local_dialog_msg">Na Twoim koncie jest włączona Zaawansowana ochrona danych, w związku z czym dane w chmurze są zaszyfrowane. Aby uzyskać do nich dostęp, ukończ weryfikację bezpieczeństwa.</string>
+    <string name="e2ee_open_local_dialog_neg_btn">Anuluj</string>
+    <string name="e2ee_open_local_dialog_pos_btn">Zweryfikuj</string>
+    <string name="e2ee_open_local_dialog_title">Weryfikacja bezpieczeństwa</string>
     <string name="e2ee_tip_forget_securityKey_button">Pomiń weryfikację</string>
     <string name="e2ee_tip_forget_securityKey_subtitle">Jeśli zapomnisz swojego klucza bezpieczeństwa, nie będziesz w stanie uzyskać dostępu do danych w Chmurze Xiaomi.</string>
     <string name="e2ee_tip_forget_securityKey_title">Zapomniałeś klucza bezpieczeństwa?</string>
@@ -86,6 +90,10 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS-y tylko przez Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
+    <string name="verify_code_dialog_message_default">Wprowadź ten kod na swoim nowym urządzeniu</string>
+    <string name="verify_code_dialog_title_default">Kod weryfikacji urządzenia</string>
+    <string name="verify_code_warning_dialog_message_default">Zezwolić nowemu urządzeniu na dostęp do zaszyfrowanych danych?</string>
+    <string name="verify_code_warning_dialog_title_default">Żądanie dostępu z nowego urządzenia</string>
     <string name="verify_code_warning_subTitle_2fa">Kod weryfikacyjny %d został wysłany na inne zaufane urządzenie z Xiaomi HyperOS 2 lub nowszym. Wprowadź kod, aby kontynuować.</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
     <string name="verify_dialog_point_other_subtitle">Użyj innej metody, aby się zweryfikować</string>
