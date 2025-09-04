@@ -4,6 +4,21 @@
         <item>Wyłącz raz</item>
         <item>Wyłączaj zawsze</item>
     </string-array>
+    <string-array name="constellation_array">
+        <item>Brak</item>
+        <item>Baran</item>
+        <item>Byk</item>
+        <item>Bliźnięta</item>
+        <item>Rak</item>
+        <item>Lew</item>
+        <item>Panna</item>
+        <item>Waga</item>
+        <item>Skorpion</item>
+        <item>Strzelec</item>
+        <item>Koziorożec</item>
+        <item>Wodnik</item>
+        <item>Ryby</item>
+    </string-array>
     <string-array name="locale_calendar_array">
         <item>Brak</item>
         <item>Tradycyjny chiński kalendarz</item>
