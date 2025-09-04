@@ -339,6 +339,7 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
+    <string name="cs_camera_bubble">Wykryto dostępny aparat. <annotation value="switchCamera" key="action">Dotknij, aby się przełączyć.</annotation></string>
     <string name="cs_pickup_enhance">Ulepszona</string>
     <string name="cs_pickup_private">Prywatna</string>
     <string name="cs_pickup_standard">Standardowa</string>
@@ -519,6 +520,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
     <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
+    <string name="game_toolbox_display_style_not_hdr_desc">Możesz się przełączać między różnymi stylami</string>
     <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
     <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
     <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
@@ -868,7 +870,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance_chip">Ulepszona wydajność (overclocking)</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
-    <string name="pc_remove_shell_charging_notification_msg">Nie można ładować urządzenia bezprzewodowo, gdy używasz gamingowego etui. Usuń go i spróbuj ponownie albo użyj ładowania przewodowego.</string>
+    <string name="pc_remove_shell_charging_notification_msg">Ładowanie bezprzewodowe nie działa z tym etui. Usuń je albo użyj ładowania przewodowego.</string>
     <string name="pc_remove_shell_charging_notification_title">Usuń etui, aby ładować bezprzewodowo</string>
     <string name="pc_remove_shell_charging_toast">Usuń etui, aby użyć bezprzewodowego ładowania zwrotnego</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>

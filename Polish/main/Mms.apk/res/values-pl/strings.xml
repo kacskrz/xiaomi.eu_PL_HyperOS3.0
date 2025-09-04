@@ -318,6 +318,7 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="sent_at_time">Wysłano o: %1s</string>
     <string name="sim1">Karta SIM 1</string>
     <string name="sim2">Karta SIM 2</string>
+    <string name="sim_card_not_detected_service_unavailable">Nie znaleziono karty SIM. Nie można użyć tej usługi.</string>
     <string name="sim_card1">Karta SIM 1</string>
     <string name="sim_card2">Karta SIM 2</string>
     <string name="sim_not_support_mms">Ta karta SIM nie wspiera MMS</string>
