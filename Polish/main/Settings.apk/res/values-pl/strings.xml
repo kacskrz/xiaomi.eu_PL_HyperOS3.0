@@ -598,7 +598,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="personal_audio_toast_otaing">Trwa aktualizacja. Nie można spersonalizować dźwięku przestrzennego.</string>
     <string name="personal_audio_toast_overtime">Przekroczono czas operacji. Zrestartuj konfigurację spersonalizowanego dźwięku przestrzennego.</string>
     <string name="personal_audio_toast_record_app">Trwa nagrywanie przez inną aplikację. Nie można spersonalizować dźwięku przestrzennego.</string>
-    <string name="personal_audio_toast_recording">Aby spersonalizować dźwięk przestrzenny, zatrzymaj nagrywanie recording</string>
+    <string name="personal_audio_toast_recording">Aby spersonalizować dźwięk przestrzenny, zatrzymaj nagrywanie</string>
     <string name="personal_audio_volume_hint">%1$s. Aby zapewnić poprawną adaptację, ustaw głośność telefonu powyżej %2$s.</string>
     <string name="phone_backup_title">Telefon</string>
     <string name="phone_case">Obudowy telefonu</string>
