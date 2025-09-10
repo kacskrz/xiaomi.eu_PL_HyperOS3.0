@@ -46,7 +46,9 @@ d.MM"</string>
     <string name="kg_function_button_text_ai_generate">Generowanie SI</string>
     <string name="kg_glass_filter_on_time">Zastosuj do zegara</string>
     <string name="kg_guidance_dialog_title">Nowy, spersonalizowany Ekran blokady</string>
+    <string name="kg_lock_screen_and_desktop">Na obu</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
+    <string name="kg_use_wallpaper_for">Zastosuj tapetę na</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_oversize_date">d.MM</string>
     <string name="miui_depth_pets_moth_format">d MMM</string>

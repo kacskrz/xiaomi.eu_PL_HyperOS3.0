@@ -113,6 +113,7 @@
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
     <string name="layout_size_large">Duży</string>
+    <string name="locale_picker_search_hint">Wyszukaj regiony</string>
     <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
     <string name="location_location">Służby ratunkowe mogą uzyskiwać Twoją aktualną lokalizację na żądanie</string>

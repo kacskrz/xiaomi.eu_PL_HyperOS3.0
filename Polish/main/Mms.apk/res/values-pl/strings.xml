@@ -309,6 +309,8 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="search_empty">Brak wyników</string>
     <string name="search_path_mms">Ustawienia/Systemowe/SMS</string>
     <string name="search_sms_in_action_mode">Wyszukiwanie, wyszukiwanie SMS-ów, pole edycji, wyłączone</string>
+    <string name="security_alert_desc">"Nadawca nie jest w Twoich kontaktach.
+"</string>
     <string name="select_copy_text">Zaznacz i skopiuj tekst</string>
     <string name="send_after_compress">Kompresuj</string>
     <string name="send_orignal_picture">Oryginalny</string>

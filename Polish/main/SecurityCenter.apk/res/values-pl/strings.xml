@@ -293,6 +293,7 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
     <string name="biometric_applock_pwd">Weryfikacja Blokadą aplikacji</string>
     <string name="biometric_applock_pwd_or_finger">Weryfikuj odciskiem palca lub Blokadą aplikacji</string>
+    <string name="biometric_face_in_use">Aparat jest w użyciu. Nie można użyć Odblokowania twarzą.</string>
     <string name="biometric_finger_verify">Weryfikacja odciskiem palca</string>
     <string name="biometric_lockscreen_pwd">Weryfikacja blokadą ekranu</string>
     <string name="biometric_lockscreen_pwd_or_finger">Weryfikuj odciskiem palca lub blokadą ekranu</string>
@@ -521,8 +522,11 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
     <string name="game_toolbox_display_style_game_hdr">HDR w grze</string>
     <string name="game_toolbox_display_style_not_hdr_desc">Możesz się przełączać między różnymi stylami</string>
+    <string name="game_toolbox_fps_average_nodata">Uzyskiwanie średniego klatkażu…</string>
     <string name="game_toolbox_fps_realtime">Obecnie %d kl./s</string>
+    <string name="game_toolbox_fps_realtime_nodata">Uzyskiwanie aktualnego klatkażu…</string>
     <string name="game_toolbox_fps_shake">Opóźnienie %d kl./s</string>
+    <string name="game_toolbox_fps_shake_nodata">Uzyskiwanie odchylenia klatkażu…</string>
     <string name="game_toolbox_immersion_sound_desc">Dokładnie odtwarzaj efekty dźwiękowe, takie jak kroki i głosy, zwiększając immersję w grze, gdy używasz słuchawek</string>
     <string name="game_toolbox_margin_restrain_description">Ustaw obszar niewrażliwy na dotyk, aby ograniczyć przypadkowe dotknięcia</string>
     <string name="game_toolbox_mem_clean_desc">Wyczyść RAM i zwiększ prędkość</string>
@@ -858,6 +862,9 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_keywords_summary_battery_protect">Aby ograniczyć starzenie się baterii, system uczy się Twoich nawyków, aby ograniczać niepotrzebne ciągłe ładowanie</string>
     <string name="pc_keywords_summary_navigation">Gdy używasz aplikacji do nawigacji, ładowanie automatycznie się zatrzyma na ustalonym poziomie</string>
     <string name="pc_keywords_summary_night_save">Automatycznie wyłącz niektóre funkcje, aby zaoszczędzić baterię, gdy telefon wykryje, że śpisz</string>
+    <string name="pc_low_temp_disable_otg_message">Nie można teraz używać zewnętrznych urządzeń i ładowania zwrotnego, ponieważ temperatura bądź poziom baterii są zbyt niskie. Spróbuj ponownie, gdy wzrośnie temperatura bądź poziom baterii.</string>
+    <string name="pc_low_temp_disable_otg_ok">Got it</string>
+    <string name="pc_low_temp_disable_otg_title">Nie można używać zewnętrznych urządzeń i ładowania zwrotnego</string>
     <string name="pc_low_temperature_extreme_endurance_summary">Ogranicz wydajność urządzenia, aby przedłużyć żywotność baterii wtedy, gdy jest zimno</string>
     <string name="pc_main_battery_text_day">Wydłużono o %1$s min, pozostało ok. %2$s dni</string>
     <string name="pc_main_battery_text_day_hour">Wydłużono o %1$s min, pozostało ok. %2$s dni %3$s godz.</string>

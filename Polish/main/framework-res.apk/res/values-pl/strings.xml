@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="data_usage_context">Jeśli Wi-Fi nie jest włączone, urządzenie połączy się z danymi mobilnymi, co może skutkować dodatkowymi opłatami w zależności od planu Twojego operatora.</string>
+    <string name="permdesc_postPromotedNotifications">Zezwala aplikacji na wyświetlanie trwających, zależnych od czasu powiadomień na pasku statusu i ekranie blokady</string>
+    <string name="permlab_postPromotedNotifications">Wyświetlaj aktualizacje na żywo</string>
     <string name="satellite_messaging_available_notification_summary">Możesz wysyłać wiadomości przez satelitę, jeśli nie masz dostępu do sieci komórkowej lub Wi-Fi. Wiadomości Google muszą być domyślną aplikacją do SMS-ów.</string>
     <string name="satellite_messaging_available_notification_title">Przesyłanie wiadomości przez satelitę jest dostępne</string>
     <string name="satellite_messaging_location_disabled_notification_summary">Aby sprawdzić, czy przesyłanie wiadomości przez satelitę jest dostępne w tym kraju lub regionie, włącz ustawienia lokalizacji</string>
