@@ -145,6 +145,7 @@
     <string name="p8g_activity_bt_connect_failed">Nie udało się połączyć</string>
     <string name="p8g_activity_bt_connecting">Łączenie…</string>
     <string name="p8g_activity_bt_retry">Spróbuj ponownie</string>
+    <string name="p8g_activity_new_prompt">Włącz zestaw</string>
     <string name="p8g_activity_prompt">Włącz etui</string>
     <string name="p8g_island_opened">Wł.</string>
     <string name="p8g_island_peripherals_opened">Urządzenie włączone</string>

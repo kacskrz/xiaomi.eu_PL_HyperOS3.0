@@ -406,9 +406,15 @@ swoich urządzeń?"</string>
     <string name="circulate_network_connect_failed_message_PC">Upewnij się, że telefon i komputer są połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_iPad">Upewnij się, że telefon i iPad są połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_iPhone">Upewnij się, że telefon i iPhone są połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_default_message">Upewnij się, że tablet i inne urządzenie są połączone z tą samą siecią lub wyświetl pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_Mac">Upewnij się, że tablet i Mac są połączone z tą samą siecią lub wyświetl pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_PC">Upewnij się, że tablet i komputer są połączone z tą samą siecią lub wyświetl pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_iPad">Upewnij się, że tablet i iPad są połączone z tą samą siecią lub wyświetl pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_message_iPhone">Upewnij się, że tablet i iPhone są połączone z tą samą siecią lub wyświetl pomoc.</string>
     <string name="circulate_network_connect_failed_title">Nie udało się połączyć</string>
     <string name="circulate_network_connect_success_title">Połączono kodem QR</string>
     <string name="circulate_network_connecting_message">Zostaw urządzenie odblokowane z włączonym ekranem.</string>
+    <string name="circulate_network_connecting_message_pad">Tablet musi być odblokowany, a jego ekran włączony.</string>
     <string name="circulate_network_connecting_title">Łączenie z urządzeniem…</string>
     <string name="circulate_network_failed_cancel">Anuluj</string>
     <string name="circulate_open_in_tv">Otwórz na telewizorze</string>

@@ -150,12 +150,14 @@
     <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
     <string name="permission_fast_pairing">Aby móc znajdować urządzenia w pobliżu, Mi Link musi połączyć się z Internetem i wymaga następujących uprawnień:</string>
     <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
-    <string name="permission_mi_account">Dostęp do stanu połączenia</string>
+    <string name="permission_mi_account">Dostęp do numeru telefonu z tego urządzenia</string>
     <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
     <string name="permission_number">Dostęp do numeru telefonu</string>
     <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
     <string name="permission_qualcomm_describe_summary">W celu dynamicznego alokowania zasobów systemu do różnych aplikacji i organizowania ich procesów</string>
     <string name="permission_quality_describe_summary">W celu gromadzenia informacji o zamknięciach aplikacji</string>
+    <string name="permission_read_apps">Dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
+    <string name="permission_read_apps_introduction">W celu przygotowania statystyk dostępu do sieci i zużycia danych</string>
     <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
     <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
     <string name="permission_reminder_mode_summary_settings">W celu wybrania typów przypomnień dot. przychodzących połączeń</string>

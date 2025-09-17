@@ -29,6 +29,7 @@
     <string name="anti_burn_summary">Przyciemnij ekran, gdy na niego nie patrzysz, aby zaoszczędzić baterię, i przywróć jasność, gdy zaczniesz ponownie używać urządzenia</string>
     <string name="anti_burn_title">Wyświetlacz świadomy uwagi</string>
     <string name="alpha_build">" (alfa)"</string>
+    <string name="anc_intelligent">Inteligentna redukcja szumów</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
     <string name="aon_gesture_dialog_message">"Gdy ta funkcja jest włączona, urządzenie będzie wykrywać i analizować Twoje gesty. Dane osobowe nie będą przetwarzane w żadnym stopniu (zarówno lokalnie, jak i w chmurze)."</string>
     <string name="aon_gesture_up_down_waving_title">Machaj pionowo</string>
@@ -218,6 +219,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko przy połączeniu z Wi‑Fi.</string>
     <string name="dc_light_summary_new">Zapobiegaj intensywnemu migotaniu i zmniejsz zmęczenie oczu w słabych warunkach oświetleniowych</string>
     <string name="defalut_launcher_title">Domyślny launcher</string>
+    <string name="default_fingerprint_unlock_type">Wybierz domyślną metodę odblokowywania</string>
     <string name="default_launcher_set_system_message">Dotknij przycisk Ekranu głównego, aby przywrócić domyślny launcher</string>
     <string name="default_phone_title">Telefon</string>
     <string name="default_vol_stream_title">Kontrola przyciskami głośności</string>
@@ -331,6 +333,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gxzw_quick_open_select_summary">· Po pojawieniu się skrótów przesuń, aby użyć jednego z nich.</string>
     <string name="gxzw_recognizing_anim_a">Plusk</string>
     <string name="gxzw_recognizing_anim_f">Dyfuzja</string>
+    <string name="handle_battery">Bateria uchwytu</string>
     <string name="handle_ota_connect_first">Podłącz uchwyt</string>
     <string name="handy_mode">Jedna dłoń</string>
     <string name="handy_mode_enable">Jedna dłoń</string>
@@ -340,6 +343,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="haptic_multitasking_gestures_04_content_description">Otwieranie menu ostatnio otwartych aplikacji</string>
     <string name="haptic_single_selection_02_content_description">Wybieranie elementu</string>
     <string name="headset_adaptive_volume_summary_gaia">Automatycznie dostosuj głośność na podstawie przestrzeni</string>
+    <string name="headset_autoswitch_switched">Przełączono</string>
     <string name="home">Ustawienia ekranu głównego</string>
     <string name="home_app">Aplikacja ekranu głównego</string>
     <string name="home_title">Ekran główny</string>
@@ -435,7 +439,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miheadset_triple_MFB">Dotknij trzy razy MFB</string>
     <string name="miheadset_turn_on_off_swim">Rozpocznij/zakończ kąpiel</string>
     <string name="mimotion_pwm_enable">Adaptacyjne odświeżanie Pro</string>
-    <string name="mimotion_pwm_enable_summary">Wsparcie dla większej liczby poziomów dynamicznego odświeżania dla płynniejszego obrazu, a także przełączanie z przyciemniania DC na PWM</string>
+    <string name="mimotion_pwm_enable_summary">Uzyskaj więcej opcji odświeżania i zmień metodę przyciemniania z DC na PWM</string>
     <string name="mimotion_pwm_message">Włączyć przyciemnianie PWM?</string>
     <string name="mimotion_pwm_title">Ruch Xiaomi</string>
     <string name="minors_control_title">Tryb dziecięcy</string>
@@ -601,7 +605,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="personal_audio_toast_recording">Aby spersonalizować dźwięk przestrzenny, zatrzymaj nagrywanie</string>
     <string name="personal_audio_volume_hint">%1$s. Aby zapewnić poprawną adaptację, ustaw głośność telefonu powyżej %2$s.</string>
     <string name="phone_backup_title">Telefon</string>
-    <string name="phone_case">Obudowy telefonu</string>
     <string name="photography_handle_button_function_settings">Ustaw przycisk uchwytu</string>
     <string name="photography_handle_charge_state_choice_always">Zawsze</string>
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
@@ -671,6 +674,7 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="provision_system_complete">Konfiguracja ukończona</string>
     <string name="provision_system_preparing">Przygotowywanie systemu…</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
+    <string name="recommend_press_type">Aby ograniczyć przypadkowe dotknięcia, zalecana jest opcja \"Naciśnij\". W każdej chwili możesz przełączyć się na opcję \"Dotknij\" w Ustawieniach.</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
     <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
@@ -688,14 +692,19 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="screen_timeout_subtitle">Wyświetlanie statycznej treści przez dłuższy czas może powodować nierównomierne odwzorowanie kolorów</string>
     <string name="se_wallet_uicc">Portfel na SIM %1$s</string>
     <string name="search_miui_updater">OS;Wersja OS</string>
+    <string name="search_phone_case">Obudowa do telefonu;case;gamingowy case;konsolowy case</string>
+    <string name="search_serve_assistant">Asystent podróży;podróż;asystent</string>
+    <string name="search_subscreen_aod">Ekran zawsze włączony;AOD;AOD na tylnym wyświetlaczu</string>
+    <string name="search_subscreen_title">Tylny wyświetlacz;tylny ekran;ekran z tyłu</string>
     <string name="search_system_personalize_title">pokaz slajdów;motto na dziś;Tapety Blokady;styl motywu;motywy;ustawienia motywu;tapeta Ekranu blokady;tapeta Ekranu głównego;przezroczyste tapety;Ekran główny i tapety;tapety Xiaomi;przezroczysta tapeta;moje tapety;tapety online;dzwonki;dzwonek telefonu;dzwonek SMS-a;dzwonek połączenia;ustawienia dzwonków;dzwonek alarmu;przewijana tapeta;tapeta pokazu slajdów;pokaz slajdów Tapet Blokady;motywy online;dźwięk ładowania;animacje ładowania;efekty odcisku palca;styl odcisku palca;animacja odblokowywania;motyw;personalizuj;personalizacja;tapeta;ikona;dynamiczna tapeta;efekty Ekranu blokady;małe ikony;tryb czytania;anime;oficjalne motywy;wybrane motywy;wybrane tapety;upiększanie;ulubione tapety;tapeta wideo;własny dzwonek;halogranie;dźwięki alertów;dźwięki powiadomień;alert tekstowy;tęczowa bateria;popularne tapety;jednolite tapety;dynamiczny Ekran blokady;efekty ładowania;wielofunkcyjny Ekran blokady;żyroskop;zaokrąglone ikony;kwadratowe ikony;muzyka na Ekranie blokady;efekty Ekranu głównego;dynamiczne ikony;ikony rysowane ręcznie;animacja Ekranu blokady;animacja uruchamiania;przezroczysty motyw;pokaz slajdów na Ekranie blokady</string>
+    <string name="search_user_guide">O tylnym wyświetlaczu;instrukcja;tutorial</string>
     <string name="security_patch_subtitle">"Aktualizacja zabezpieczeń Androida: "</string>
     <string name="security_status">Status zabezpieczeń</string>
     <string name="security_update">Aktualizacja zabezpieczeń</string>
     <string name="select_gpo_version_title">Wybierz wersję GPO</string>
     <string name="sensors_hal_log_summary">Użyj logów dla warstwy abstrakcji sensorów (Sensors HAL)</string>
     <string name="sensors_hal_log_title">Logi HAL sensorów</string>
-    <string name="serve_assistant">Asystent</string>
+    <string name="serve_assistant">Powiadomienia</string>
     <string name="setting_location_title">Lokalizacja</string>
     <string name="setting_privacy_title">Wskaźnik prywatności</string>
     <string name="setting_volume_title">Tryb cichy</string>
@@ -854,7 +863,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="user_experience_open_url">Dowiedz się więcej odn. Programu zadowolenia użytkownika</string>
     <string name="user_experience_program">Program zadowolenia użytkownika</string>
     <string name="user_experience_program_title">Program zadowolenia użytkownika</string>
-    <string name="user_guide">Instrukcja użytkowania</string>
+    <string name="user_guide">O tylnym wyświetlaczu</string>
     <string name="var_font_switch_dialog_summary">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
     <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
     <string name="var_font_switch_title">Zmienna grubość czcionki</string>

@@ -13,8 +13,10 @@
     <string name="change_default_data_card">Domyślna karta dla Internetu</string>
     <string name="convert_to_esim_title">Konwertuj na eSIM</string>
     <string name="crescendo_ringer_title">Narastający dzwonek</string>
+    <string name="customized_message_emm_cause_6">Nie można utworzyć profilu sieciowego na tym urządzeniu, ponieważ nie posiada ono certyfikacji wymaganej przez lokalny urząd.</string>
+    <string name="customized_title_emm_cause_6">Nie udało się utworzyć profilu sieciowego</string>
     <string name="data_for_high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie możesz teraz używać tej funkcji."</string>
-    <string name="depopulated_zone_satellite_notification">Przypomnienia dot. połączenia satelitarnego</string>
+    <string name="depopulated_zone_satellite_notification">Słaby zasięg sieci komórkowej</string>
     <string name="detect_fakecell">Rozpoznawaj SMS-y przychodzące ze fałszywych stacji bazowych </string>
     <string name="dialog_ota_change_number_fail">"Nie udało się zmienić numeru telefonu. Jeśli błąd powtórzy się, skontaktuj się ze swoim operatorem."</string>
     <string name="dual_4g_switch_summary">Zezwól na łączność LTE na obu kartach SIM</string>
@@ -191,7 +193,7 @@ aby umieścić piłkę w niebieskim obszarze"</string>
     <string name="satellite_mobile_settings_summary">Dostępne tylko ze specjalną satelitarną kartą SIM lub planem zawierającym usługę satelity</string>
     <string name="satellite_mobile_settings_title">Komunikacja z satelitą Tiantong</string>
     <string name="satellite_not_show_again">"Nie pokazuj ponownie"</string>
-    <string name="satellite_notification_text">Wciąż możesz wykonywać połączenia i wysyłać SMS-y bez sygnału sieci komórkowej za pomocą satelity Tiantong. Włącz tę usługę.</string>
+    <string name="satellite_notification_text">Gdy nie ma zasięgu, do wykonywania połączeń i wysyłania SMS-ów można użyć satelity. Dotknij, aby włączyć komunikację z satelitą.</string>
     <string name="satellite_notification_title">Masz słaby zasięg</string>
     <string name="satellite_open_tiantong_business_title">Włącz komunikację z satelitą Tiantong</string>
     <string name="satellite_pa_megathermal_message">Urządzenie jest za gorące, aby włączyć komunikację z satelitą. Poczekaj, aż ostygnie, i spróbuj ponownie.</string>

@@ -142,6 +142,13 @@
     <string name="propotional_freeform_tip">"Wygląda na to, że ta aplikacja nie wspiera w pełni pływających okien"</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
+    <string name="screen_on_cover_guide_summary_for_back_screen">"Aby wyłączyć główny ekran,
+naciśnij przycisk Zasilania"</string>
+    <string name="screen_on_cover_guide_summary_for_main_screen">"Aby nadal korzystać z głównego ekranu,
+naciśnij przycisk Zasilania"</string>
+    <string name="screen_on_proximity_sensor_summary_for_back_screen">"Aby wyłączyć Tryb kieszonkowy,
+usuń przeszkody z czerwonego obszaru
+lub naciśnij przycisk Głośność+"</string>
     <string name="screen_on_proximity_sensor_hint">Aby wyłączyć tę funkcję, naciśnij jednocześnie przyciski Wstecz oraz Głośność+.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Aby wyłączyć tę funkcję, naciśnij przycisk Głośność+.</string>
     <string name="screen_on_proximity_sensor_summary_text">"Jak usunąć tę informację?
@@ -191,10 +198,13 @@ z przedniego aparatu"</string>
     <string name="wallpaper_and_signature_title">Tapety i podpisy</string>
     <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
+    <string name="wallpaper_group_ai_zone_title">Tapety SI</string>
+    <string name="wallpaper_group_big_numbers_title">Wielkie liczby</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
     <string name="wallpaper_group_blossom_title">Kwiaty</string>
     <string name="wallpaper_group_color_move_title">Płynne kolory</string>
+    <string name="wallpaper_group_creative_time_title">Kreatywne zegary</string>
     <string name="wallpaper_group_crystallization_subtitle">Piękno nauki</string>
     <string name="wallpaper_group_crystallization_title">Krystalizacja</string>
     <string name="wallpaper_group_curves_title">Krzywe</string>
@@ -206,6 +216,8 @@ z przedniego aparatu"</string>
     <string name="wallpaper_group_pets_title">Zwierzaki</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
+    <string name="wallpaper_group_system_wallpaper_title">Tapety systemowe</string>
+    <string name="wallpaper_group_time_watch_title">Zegary</string>
     <string name="wallpaper_manying_title">Cienie</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
