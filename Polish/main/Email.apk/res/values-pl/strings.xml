@@ -257,6 +257,8 @@ IMAP"</string>
     <string name="confirm_age">Potwierdź wiek</string>
     <string name="confirm_delete_attachment">Usunąć załącznik?</string>
     <string name="confirm_delete_conversation_title">Usuń</string>
+    <string name="confirm_save_message_action_delete">Usuń szkic</string>
+    <string name="confirm_save_message_action_save">Zapisz jako szkic</string>
     <string name="confirm_save_message_no">Odrzuć</string>
     <string name="confirm_save_message_title">Zapisać jako wiadomość roboczą?</string>
     <string name="confirm_save_message_yes">Zapisz</string>

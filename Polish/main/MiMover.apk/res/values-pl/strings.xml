@@ -24,7 +24,9 @@
     <string name="apps_cannot_be_transfered_next_button">Dalej</string>
     <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
+    <string name="audio_permission_desc">W celu przesyłania muzyki i plików audio na nowe urządzenie</string>
     <string name="ble_manual_authorization_content">Aby przenieść elementy w Przenoszeniu danych, przyznaj wymagane uprawnienia. Możesz to zrobić w Ustawieniach.</string>
+    <string name="blutooth_permission_desc">W celu odnajdywania urządzeń w pobliżu, z którymi można się połączyć</string>
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
@@ -86,6 +88,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="idm_discovery_positive_text">Przenieś</string>
     <string name="idm_discovery_summary">Wygląda na to, że trwa aktywacja Twojego nowego urządzenia. Przenieść elementy z tego urządzenia na nie?</string>
     <string name="idm_discovery_title">Przenieś elementy na nowe urządzenie</string>
+    <string name="image_video_permission_desc">W celu przesyłania zdjęć i filmów na nowe urządzenie</string>
     <string name="install_app_message">"Jeśli nie możesz znaleźć swojego urządzenia przez dłuższy czas, spróbuj wykonać te kroki:
 1. Upewnij się, że na nowym urządzeniu jest zainstalowane Przenoszenie danych.
 2. Zbliż urządzenia do siebie."</string>

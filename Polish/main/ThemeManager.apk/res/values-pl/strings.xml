@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abandon">Porzuć</string>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
@@ -101,6 +102,9 @@
     <string name="ai_wallpaper_tips_content_violation">Ta treść może naruszać wytyczne Xiaomi. Nie można kontynuować generowania tapety.</string>
     <string name="ai_wallpaper_tips_people">Portret</string>
     <string name="ai_wallpaper_tips_title_content_violation">Nieodpowiednia zawartość</string>
+    <string name="align_center_horizontally">Poziomo, pośrodku</string>
+    <string name="align_left_horizontally">Poziomo, do lewej</string>
+    <string name="align_right_horizontally">Poziomo, do prawej</string>
     <string name="all_selected_talkback">Zaznaczono wszystko</string>
     <string name="allow">Przyznano</string>
     <string name="already_latest_version">Aktualna</string>
@@ -151,6 +155,7 @@
     <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
     <string name="author_dynamic">Status</string>
     <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
+    <string name="back_screen_personalization_title">Personalizacja</string>
     <string name="basic_mode">Tryb offline</string>
     <string name="basic_mode_desc">"Motywy nie będą się łączyć z Internetem i będą korzystać tylko z treści przechowywanych lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
     <string name="boot_audio_dialog_cancel">Anuluj</string>
@@ -262,9 +267,9 @@
     <string name="detail_reward_build_order_error">"Nie udało się utworzyć zamówienia. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
     <string name="detail_reward_custom_amount">Własna kwota</string>
     <string name="detail_reward_duplicate_order_error">Zbyt dużo prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
-    <string name="detail_reward_exceed_limit">Nagrody mogą zawierać maks. 200 CNY</string>
+    <string name="detail_reward_exceed_limit">Nagrody mogą zawierać maks. %d CNY</string>
     <string name="detail_reward_know_it">Rozumiem</string>
-    <string name="detail_reward_limited_to_200">Nagrody mogą zawierać maks. 200 Mi Kredytów</string>
+    <string name="detail_reward_limited_to_200">Nagrody mogą zawierać maks. %d Mi Kredytów</string>
     <string name="detail_reward_loading_failed">"Nie udało się załadować informacji. Spróbuj ponownie."</string>
     <string name="detail_reward_no_one">Brak nagród. Bądź pierwszy!</string>
     <string name="detail_reward_reached_upper_limit">"Nie możesz dzisiaj już nikogo nagrodzić. Wróć jutro!"</string>
@@ -273,7 +278,7 @@
     <string name="detail_reward_successed">Pomyślnie wynagrodzono</string>
     <string name="detail_reward_thanks_for_fans_support">Dziękujemy za Twoje wsparcie!</string>
     <string name="detail_reward_thanks_for_your_support">Dziękujemy za Twoje wsparcie!</string>
-    <string name="detail_reward_user_limited_to_display">Wyświetlana jest tylko pierwsza setka osób</string>
+    <string name="detail_reward_user_limited_to_display">Wyświetlanych jest tylko pierwszych %d Mi Fanów</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">Obecny motyw może nie wspierać zmiany tapety ekranu blokady.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta ekranu blokady</string>
     <string name="dialog_content_get_device_status">Aby móc autoryzować elementy zakupione na innych urządzeniach, aplikacja wymaga dostępu do Twojego ID urządzenia. Po wyłączeniu tej funkcji możesz nie być w stanie używać niektórych zakupionych elementów. Wyłączyć mimo to?</string>
@@ -358,19 +363,23 @@
     <string name="has_mamual_hide_large_icons">Pomyślnie ukryto Superikony</string>
     <string name="has_mamual_hide_theme">Ukryte</string>
     <string name="has_mamual_hide_wallpaper">Ukryte tapety</string>
+    <string name="has_manual_hide_rear_screen">Ukryto tylny wyświetlacz</string>
     <string name="head_portraits">Zdjęcie profilowe</string>
     <string name="health_chart_sleep_time_good">Wystarczająco</string>
     <string name="health_chart_sleep_time_low">Za mało</string>
     <string name="health_chart_sleep_time_normal">W normie</string>
     <string name="health_chart_sleep_time_very_good">Dobrze</string>
     <string name="hide_free_aod">Nie pokazuj darmowych motywów</string>
+    <string name="hide_free_back_screen">Nie pokazuj darmowych elementów</string>
     <string name="hide_free_font">Ukryj darmowe czcionki</string>
     <string name="hide_free_icons">Ukryj darmowe ikony</string>
     <string name="hide_free_miwallpaper">Ukryj darmowe efekty Ekr. głównego</string>
+    <string name="hide_free_res_text">Nie pokazuj darmowych %1$s</string>
     <string name="hide_free_theme">Ukryj darmowe motywy</string>
     <string name="hide_free_wallpaper">Ukryj darmowe tapety</string>
     <string name="hide_incompatible">Ukryj niekompatybilne %1$s</string>
     <string name="hide_mamual_hide_aod">"Nie pokazuj ręcznie ukrytych elementów"</string>
+    <string name="hide_mamual_hide_back_screen">Nie pokazuj ukrytych tapet</string>
     <string name="hide_mamual_hide_font">Nie pokazuj ukrytych czcionek</string>
     <string name="hide_mamual_hide_icons">Nie pokazuj ukrytych ikon</string>
     <string name="hide_mamual_hide_large_icons">"Nie wyświetlaj ukrytych Superikon"</string>
@@ -776,6 +785,8 @@ d.MM."</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
+    <string name="my_rear_screen_style">Mój tylny wyświetlacz</string>
+    <string name="my_rear_screen_title">Moje elementy</string>
     <string name="need_to_open_application_permission_desc">Aby móc dowiedzieć się, jakie aplikacje są kompatybilne z przezroczystymi tapetami, najpierw zezwól aplikacji Motywy na dostęp do listy zainstalowanych aplikacji.</string>
     <string name="need_to_open_permission">Wymagane uprawnienia</string>
     <string name="need_to_open_storage_permission_desc">Aby móc używać i pobierać elementy w aplikacji Motywy, najpierw zezwól jej na dostęp do pamięci.</string>
@@ -838,6 +849,7 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="phone_log_in_theme">Zaloguj się do Motywów</string>
     <string name="phone_log_in_theme_detail"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font> Motywów, a także warunkami &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> oraz &lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi (w celu logowania się przy użyciu systemowego konta)."</Data></string>
     <string name="playing_ringtone">Odtwarzanie</string>
+    <string name="please_input_signature">Wprowadź sygnaturę</string>
     <string name="pref_lockscreen_magazine_summary">Zastąp swoją tapetę pokazami slajdów składającymi się z obrazów z różnych kategorii</string>
     <string name="pref_privacy_policy">Polityka prywatności</string>
     <string name="pref_read_write_function_detail">W celu zmieniania preferencji dot. personalizacji i zapisywania pobranych elementów</string>
@@ -863,9 +875,9 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="privacy_log_off_succeed">Pomyślnie zrezygnowano z usług</string>
     <string name="privacy_loging_off_warning">Rezygnacja z usług…</string>
     <string name="privacy_logoff_services_title">Rezygnacja z usług</string>
-    <string name="privacy_logoff_theme_content_1">1. Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.</string>
-    <string name="privacy_logoff_theme_content_2">2. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.</string>
-    <string name="privacy_logoff_theme_content_5">5. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
+    <string name="privacy_logoff_theme_content_1">%d. Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.</string>
+    <string name="privacy_logoff_theme_content_2">%d. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.</string>
+    <string name="privacy_logoff_theme_content_5">%d. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
     <string name="privacy_logoff_theme_service_warning">Po anulowaniu usług permanentnie usunięte zostaną następujące elementy:</string>
     <string name="privacy_network_exception">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="privacy_pad_fold_Read_write_storage">Dostęp do pamięci</string>
@@ -901,17 +913,17 @@ Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urzą
     <string name="privacy_phone_important_prompt_content">"Wygląda na to, że nie zaakceptowano jeszcze warunków Umowy użytkownika oraz Polityki prywatności. Mimo to podstawowe funkcje i usługi Motywów są nadal dostępne.
 Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urządzeniu w celu personalizacji (np. ustawiania ich jako tapety bądź dzwonki), zostaniesz zapytany o udzielenie dostępu tej aplikacji do pamięci urządzenia."</string>
     <string name="privacy_phone_logoff_service_content">Rezygnacja z usług Motywów</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
-2. Zrezygnowanie z usług Motywów nie wpłynie na korzystanie z innych produktów Xiaomi.
-3. Rezygnacja z usług jest nieodwracalna. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="privacy_phone_logoff_theme_content_3">%d. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_phone_logoff_theme_content_4">%d. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1" formatted="false">"%d. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
+%2$d. Zrezygnowanie z usług Motywów nie wpłynie na korzystanie z innych produktów Xiaomi.
+%3$d. Rezygnacja z usług jest nieodwracalna. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.
 Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
 Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
 Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Rezygnacja z usług nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed rezygnacją z usług.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">%d. Rezygnacja z usług nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed rezygnacją z usług.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Stanowisko dot. rezygnacji z usług Motywów</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Przed rezygnacją z usług przeczytaj i zaakceptuj warunki \"Stanowiska dot. rezygnacji z usług Motywów\".</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Zamierzasz zrezygnować z usług Motywów."</string>
@@ -919,18 +931,18 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_phone_read_and_write_storage_above_eleven">Dostęp do pamięci</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. rezygnacji z usług Motywów&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_phone_revoke_agree_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
-2. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Motywów nie wpłynie na korzystanie z innych usług Xiaomi.
-3. Wycofanie zgody jest nieodwracalne. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="privacy_phone_revoke_agree_content_3">%d. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_phone_revoke_agree_content_4">%d. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1" formatted="false">"%1$d. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
+%2$d. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Motywów nie wpłynie na korzystanie z innych usług Xiaomi.
+%d. Wycofanie zgody jest nieodwracalne. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.
 Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
 Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
 Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Po wycofaniu zgody na warunki Polityki prywatności Motywów Xiaomi zaprzestanie gromadzenia informacji o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
-5. Wycofanie zgody nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed wycofaniem tejże zgody."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"%1$d. Po wycofaniu zgody na warunki Polityki prywatności Motywów Xiaomi zaprzestanie gromadzenia informacji o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
+%2$d. Wycofanie zgody nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed wycofaniem tejże zgody."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Stanowisko dot. wycofania zgody na warunki Polityki prywatności Motywów</string>
     <string name="privacy_phone_revoke_agree_detail_title">Przed wycofaniem swojej zgody przeczytaj i zaakceptuj warunki \"Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów\".</string>
     <string name="privacy_phone_revoke_agree_introduce">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Motywów. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Motywy dostarczają swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody na ich warunki zostanie potraktowane jako odmowa akceptacji tychże usług."</string>
@@ -942,9 +954,9 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_remind_user_mode_content"><Data>Aby używać tej funkcji, wyraź zgodę na warunki Polityki prywatności. Przeczytaj &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">te warunki&lt;/a>&lt;/font>, aby dowiedzieć się, jak Xiaomi gromadzi, używa, przekazuje, przetwarza i przechowuje dane, które dostarczasz w trakcie używania aplikacji Motywy.</Data></string>
     <string name="privacy_remind_user_mode_title">Uwaga</string>
     <string name="privacy_revoke_agree_content">Wycofanie zgody na warunki umów</string>
-    <string name="privacy_revoke_agree_content_1">1. Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.</string>
-    <string name="privacy_revoke_agree_content_2">2. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.</string>
-    <string name="privacy_revoke_agree_content_5">5. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
+    <string name="privacy_revoke_agree_content_1">%d. Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.</string>
+    <string name="privacy_revoke_agree_content_2">%d. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.</string>
+    <string name="privacy_revoke_agree_content_5">%d. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
     <string name="privacy_revoke_agree_data_warning">Po wycofaniu zgody na warunki umów następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):</string>
     <string name="privacy_revoke_succeed">Pomyślnie wycofano zgodę</string>
     <string name="privacy_revoking_warning">Wycofywanie zgody…</string>
@@ -969,6 +981,34 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="pull_down_view_title">"Co nowego"</string>
     <string name="purchased">Zamówienia</string>
     <string name="read_and_agree_account_privacy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi."</Data></string>
+    <string name="rear_edit_abandon">Wycofać zmiany?</string>
+    <string name="rear_screen_add_success">Pomyślnie dodano</string>
+    <string name="rear_screen_aod_setting">AoD tylnego wyświetlacza</string>
+    <string name="rear_screen_aod_setting_title">Ekran zawsze włączony</string>
+    <string name="rear_screen_apply_fail">Nie udało się zastosować</string>
+    <string name="rear_screen_apply_success">Pomyślnie zastosowano</string>
+    <string name="rear_screen_delete_template">Usunąć ten szablon?</string>
+    <string name="rear_screen_edit_color_hsl_title">Własny kolor</string>
+    <string name="rear_screen_edit_color_hue">Odcień</string>
+    <string name="rear_screen_edit_color_lightness">Jasność</string>
+    <string name="rear_screen_edit_color_saturation">Saturacja</string>
+    <string name="rear_screen_edit_title_color">Kolor</string>
+    <string name="rear_screen_edit_title_font_size">Rozmiar tekstu</string>
+    <string name="rear_screen_edit_title_font_thickness">Grubość</string>
+    <string name="rear_screen_edit_title_pick">Tło</string>
+    <string name="rear_screen_edit_title_signature">Sygnatura</string>
+    <string name="rear_screen_edit_title_time">Zegar</string>
+    <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
+Dostępne są zupełnie nowe style."</string>
+    <string name="rear_screen_list_title">Personalizacja</string>
+    <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
+    <string name="rear_screen_system_wallpaper_title">Tapety</string>
+    <string name="rear_screen_template_upper_limit">Nie można dodać więcej elementów. Usuń część w Ustawieniach > Tylny wyświetlacz > Personalizacja i spróbuj ponownie.</string>
+    <string name="rear_screen_wallpaper_ai">Generuj z SI</string>
+    <string name="rear_screen_wallpaper_album">Z Galerii</string>
+    <string name="rear_screen_wallpaper_empty">Brak</string>
+    <string name="rear_screen_wallpaper_system">Tapety</string>
+    <string name="rear_select_images_smaller_than_fifty">Wybierz obraz o rozmiarze do %1$d MB</string>
     <string name="recommend_trigger">Spersonalizowane propozycje</string>
     <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
     <string name="region_not_support">"Motywy nie są wspierane w Twoim regionie."</string>
@@ -1039,8 +1079,8 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="resource_exchange_success">Pomyślnie zakupiono</string>
     <string name="resource_exchange_unavailable">Element nie jest obecnie dostępny</string>
     <string name="resource_exchange_wrong_format_by_server">Kod nie został zweryfikowany. Upewnij się, że jest poprawny.</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Na tym koncie zautoryzowano już 10 urządzeń</string>
-    <string name="resource_get_auth_exceed_max_limit_tips_pad">Możesz używać Personalizacji za pomocą jednego konta na maks. 10 urządzeniach.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">W ciągu roku na jednym koncie możesz korzystać z Motywów na maks. %d urządzeniach.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">W ciągu roku na jednym koncie możesz korzystać z Personalizacji na maks. %d urządzeniach.</string>
     <string name="resource_get_auth_not_official">Motywy ze źródeł trzecich nie są wspierane</string>
     <string name="resource_hide">Ukryj</string>
     <string name="resource_hide_fail">"Nie można ukryć"</string>
@@ -1067,10 +1107,12 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="resource_share_text">%1$s. Link: %2$s</string>
     <string name="resource_share_title">Udostępnij</string>
     <string name="resource_status_error">"Wystąpił błąd. Nie można wyświetlić teraz tej tapety."</string>
+    <string name="resource_trial_days_hours">" (okres próbny: %1$s %2$s)"</string>
     <string name="resource_trial_end_get_mibi">Otrzymaj Mi Kredyty</string>
     <string name="resource_trial_end_jump_hint">Przekierowywanie…</string>
     <string name="resource_trial_end_message">Okres próbny %1$s minął. Jeśli spodobał ci się motyw, możesz go kupić.</string>
     <string name="resource_trial_end_time_format">hh:mm d MMM</string>
+    <string name="resource_trial_hours_minutes">" (okres próbny: %1$s %2$s)"</string>
     <string name="resource_waiting_pause">Wstrzymaj</string>
     <string name="restore_default_change_wallpaper_when_special_lockscreen">"Obecnie używasz szablonu ekranu blokady. Jeśli przejdziesz dalej, Twój ekran blokady stanie się domyślny, a tapety na nim oraz na Ekranie głównym się zmienią. Zastosować?"</string>
     <string name="restore_default_lock_style_apply_superwallpaper">"Ten szablon ekranu blokady nie wspiera Supertapet. Gdy je zastosujesz, Twój ekran blokady stanie się domyślny, a tapety na nim oraz na Ekranie głównym się zmienią. Zastosować?"</string>
@@ -1127,13 +1169,16 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="show_exchange">Skrót do Centrum wymiany</string>
     <string name="show_exchange_desc">Pokaż lub ukryj skrót do Centrum wymiany</string>
     <string name="show_free_aod">Pokaż darmowe motywy</string>
+    <string name="show_free_back_screen">Pokaż darmowe elementy</string>
     <string name="show_free_font">Pokaż darmowe czcionki</string>
     <string name="show_free_icons">Pokaż darmowe ikony</string>
     <string name="show_free_miwallpaper">Pokaż darmowe efekty Ekr. głównego</string>
+    <string name="show_free_res_text">Pokaż darmowe %1$s</string>
     <string name="show_free_theme">Pokaż darmowe motywy</string>
     <string name="show_free_wallpaper">Pokaż darmowe tapety</string>
     <string name="show_incompatible">Pokaż niekompatybilne %1$s</string>
     <string name="show_mamual_hide_aod">Pokaż ręcznie ukryte elementy</string>
+    <string name="show_mamual_hide_back_screen">Pokaż ukryte tapety</string>
     <string name="show_mamual_hide_font">Pokaż ręcznie ukryte czcionki</string>
     <string name="show_mamual_hide_icons">Pokaż ręcznie ukryte ikony</string>
     <string name="show_mamual_hide_large_icons">Pokaż ukryte Superikony</string>
@@ -1196,6 +1241,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="theme_component_title_launcher">Launcher</string>
     <string name="theme_component_title_mms">SMS</string>
     <string name="theme_component_title_photo_frame">Ramka na zdjęcia</string>
+    <string name="theme_component_title_rear_screen">Tylny wyświetlacz</string>
     <string name="theme_component_title_ringtone">Dzwonki</string>
     <string name="theme_component_title_wallpaper">Tapeta Ekr. głównego</string>
     <string name="theme_component_video_wallpaper">Dynamiczne</string>
@@ -1296,6 +1342,10 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="video_edit_export_fail_toast">Nie udało się wyeksportować</string>
     <string name="video_wallpaper_apply_warning">Ta tapeta zostanie ustawiona zarówno na Ekranie głównym, jak i na Ekranie blokady. Zrobić to?</string>
     <string name="video_wallpaper_import">Kliknij, aby dodać elementy</string>
+    <string name="video_wallpaper_load_error">Wystąpił błąd z tym filmem</string>
+    <string name="view_drag_end_talkback">Obecnie w rzędzie %2$s</string>
+    <string name="view_drag_icon_talkback">Przeciągnij, aby posortować</string>
+    <string name="view_drag_move_talkback">Przeniesiono do rzędu %s</string>
     <string name="view_not_selected_talkback">Nie wybrano</string>
     <string name="view_selected_talkback">Wybrano</string>
     <string name="vip_level_dialog_positive">OK</string>

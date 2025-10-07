@@ -12,6 +12,8 @@
     <string name="account_settings_menu_auto_sync_work">Autom. synchronizacja: służbowe</string>
     <string name="account_settings_title">Konta</string>
     <string name="account_sync_summary_all_off">Synchronizacja wyłączona dla wszystkich elementów</string>
+    <string name="active_all_apps_summary">Używaj funkcji ochrony oczu we wszystkich aplikacjach, cały czas</string>
+    <string name="active_read_apps_summary">Używaj funkcji ochrony oczu tylko w aplikacjach do czytania</string>
     <string name="activity_check_context">"Twoje urządzenie próbuje obecnie połączyć się z Internetem. Jeśli korzystasz z danych mobilnych, ten proces może potrwać dłużej. Możesz wrócić do poprzedniego menu i połączyć się z siecią Wi-Fi bądź poczekać, aż urządzenie połączy się z siecią za pomocą danych mobilnych."</string>
     <string name="activity_check_title">Łączenie z Internetem</string>
     <string name="activity_title_root_acquired">Zezwól na dostęp do roota</string>
@@ -86,6 +88,10 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
     <string name="battery_saver_off_scheduled_summary">Będzie włączone o %1$s</string>
     <string name="block_no_connected_devices">Brak połączonych urządzeń</string>
+    <string name="blue_light_filter">Filtr niebieskiego światła</string>
+    <string name="blue_light_filter_tip">Nie można kompletnie wyeliminować niebieskiego światła. Aby chronić swój wzrok, możesz także używać reguły %1$d-%2$d-%3$d."</string>
+    <string name="blue_light_reduce">Redukuje niebieskie światło o ≈%s</string>
+    <string name="blue_light_reduce_tip">"Wykres widma jest schematycznym przedstawieniem widma punktu bieli ekranu. Wartości światła niebieskiego zależą od rzeczywistych warunków i mogą się różnić w zależności od ekranu. Niebieski prostokąt na wykresie odnosi się do zakresu normy TÜV Rheinland dotyczącej niskiego poziomu niebieskiego światła w sprzęcie."</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" chce włączyć Bluetooth i ustawić telefon jako wykrywalny dla innych urządzeń przez %1$d s."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
     <string name="bluetooth_cancle_pair_summary">Rozparuj i spróbuj się połączyć ponownie.</string>
@@ -192,6 +198,8 @@ w Panelu wydajności CPU"</string>
     <string name="color_led_charging_summary">Gdy bateria zostanie naładowana, dioda wyłączy się</string>
     <string name="color_led_hint">Wybierz scenariusze, w których powinna być używana dioda powiadomień. Będzie ona świecić, gdy ekran jest skierowany w dół, a tryb Nie przeszkadzać jest wyłączony.</string>
     <string name="color_led_summary">Nie działa w trybie Nie przeszkadzać</string>
+    <string name="color_mode_all_apps">Wszystkie aplikacje</string>
+    <string name="color_mode_read_apps">Tylko aplikacje do czytania</string>
     <string name="confirm_sim_deletion_title">Potwierdź chęć usunięcia karty SIM</string>
     <string name="connection_and_sharing">Więcej opcji sieci</string>
     <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
@@ -273,6 +281,14 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="extension_function_hint">Skróty funkcji nie będą się pojawiać w ustawieniach po ich wyłączeniu</string>
     <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
     <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
+    <string name="eyes_protect_certification">Technologia i certyfikacje</string>
+    <string name="eyes_protect_certification_summary_1">Certyfikat S++ potwierdzający przyjazność dla wzroku</string>
+    <string name="eyes_protect_certification_summary_2">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly i Flicker Free</string>
+    <string name="eyes_protect_certification_summary_3">Technologia polaryzacji kołowej umożliwia równomierne rozpraszanie światła, zapewniając bardziej naturalne wrażenia dla oczu</string>
+    <string name="eyes_protect_certification_summary_4">Technologia ściemniania DC przy pełnej jasności zmniejsza obciążenie nerwu wzrokowego poprzez eliminację migotania podczas przełączania między jasnymi i ciemnymi scenami</string>
+    <string name="eyes_protect_certification_title_2">Trzy certyfikaty TÜV Rheinland Eye Comfort</string>
+    <string name="eyes_protect_certification_title_3">Bardziej naturalna polaryzacja kołowa</string>
+    <string name="eyes_protect_certification_title_4">Przyciemnianie DC bez migotania</string>
     <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
     <string name="face_unlock_prompt">"Rejestruj dane twarzy,
 patrząc na zewnętrzny ekran"</string>
@@ -344,6 +360,9 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="haptic_single_selection_02_content_description">Wybieranie elementu</string>
     <string name="headset_adaptive_volume_summary_gaia">Automatycznie dostosuj głośność na podstawie przestrzeni</string>
     <string name="headset_autoswitch_switched">Przełączono</string>
+    <string name="headset_settings_sound_bose_balance">Zbalansowane</string>
+    <string name="headset_settings_sound_bose_classic">Dynamiczne</string>
+    <string name="headset_settings_sound_title">Efekty dźwiękowe</string>
     <string name="home">Ustawienia ekranu głównego</string>
     <string name="home_app">Aplikacja ekranu głównego</string>
     <string name="home_title">Ekran główny</string>
@@ -511,6 +530,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="night_display_auto_mode_never">Nigdy</string>
     <string name="night_display_auto_mode_twilight">Od zachodu do wschodu słońca</string>
     <string name="no_internet_access_text">Sieć %1$s nie ma dostępu do internetu. Nadal chcesz się z nią łączyć?</string>
+    <string name="no_read_apps">Nie znaleziono żadnych aplikacji do czytania</string>
     <string name="normal_smartcover_title">Bez okienka</string>
     <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
     <string name="notification_badge_title">Kropki powiadomień</string>
@@ -540,8 +560,10 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="page_layout_page2_medium_summary">MIUIPolska</string>
     <string name="page_layout_page2_normal_summary">MIUIPolska</string>
     <string name="page_layout_page2_small_summary">MIUIPolska</string>
+    <string name="paper_colors_active_apps">Działanie w aplikacjach</string>
     <string name="paper_mode_customize_time_summary">Wpisz godziny rozpoczęcia i zakończenia</string>
     <string name="paper_mode_customize_time_title">Własny harmonogram</string>
+    <string name="paper_mode_enable_description">Zredukuj niebieskie światło, dodając cieplejszy ton na ekranie</string>
     <string name="paper_mode_end_time_title">Koniec</string>
     <string name="paper_mode_start_time_title">Początek</string>
     <string name="pc_hidemode_performance_chip_title">Wydajność (overclocking)</string>
@@ -669,12 +691,14 @@ Po zablokowaniu przestrzeni prywatnej umieszczone w niej aplikacje nie będą t
 Przestrzeni prywatnej nie można przywrócić na innym urządzeniu. Jeśli chcesz z niej korzystać na innym urządzeniu, musisz utworzyć nową przestrzeń.
 
 Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
+    <string name="protect_eyes_mode">Tryb czytania</string>
     <string name="provision_complete_text">Wszystko gotowe</string>
     <string name="provision_flip_page_hint">Rozłóż, aby aktywować urządzenie</string>
     <string name="provision_system_complete">Konfiguracja ukończona</string>
     <string name="provision_system_preparing">Przygotowywanie systemu…</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="recommend_press_type">Aby ograniczyć przypadkowe dotknięcia, zalecana jest opcja \"Naciśnij\". W każdej chwili możesz przełączyć się na opcję \"Dotknij\" w Ustawieniach.</string>
+    <string name="read_apps_selected_scope">Wybierz aplikacje</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
     <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
@@ -774,6 +798,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="speed_mode">Tryb prędkości</string>
     <string name="speed_mode_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
     <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
+    <string name="standard_mode">Standardowy</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
     <string name="status_bar_settings">Powiadomienia i pasek statusu</string>
     <string name="status_bar_settings_connected_devices">Połączone urządzenia</string>
@@ -819,6 +844,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
     <string name="truetone_summary_new">Automatycznie dostosuj kolory w oparciu o światło otoczenia dla bardziej naturalnego patrzenia</string>
+    <string name="ufs_size_suffix">%1$s (%2$s z rozszerzeniem przestrzeni)</string>
     <string name="unchecked_app_title">Wyłączone efekty świetlne</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="uninstall_xspace_app_dlg_msg">Odinstalowanie sklonowanej aplikacji usunie też jej dane.</string>

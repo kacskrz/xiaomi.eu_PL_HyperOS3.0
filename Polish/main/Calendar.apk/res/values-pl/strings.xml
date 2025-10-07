@@ -15,6 +15,7 @@
     <string name="menu_function_preferences">Funkcje</string>
     <string name="menu_panel_preferences">Widok miesiąca</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="month_april">kwietnia</string>

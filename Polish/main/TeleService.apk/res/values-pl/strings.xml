@@ -149,6 +149,10 @@
     <string name="satellite_enable_message">"Włącz komunikację z satelitą Tiantong w Ustawieniach > Sieć satelitarna lub przesuń w dół, aby otworzyć Centrum funkcji, i dotknij przełącznika satelity Tiantong, a następnie postępuj zgodnie z instrukcjami.
     Wspierane są tylko specjalne satelitarne karty SIM lub plany z usługą satelity. Jeśli usługa nie jest włączona, skontaktuj się z operatorem."</string>
     <string name="satellite_enable_title">Jak włączyć komunikację z satelitą?</string>
+    <string name="satellite_enhanced_paging_mode">Włączono Ulepszony pager</string>
+    <string name="satellite_enhanced_paging_notification">Alerty Ulepszonego pagera</string>
+    <string name="satellite_enhanced_paging_notification_message">Aby wyświetlić, skieruj urządzenie w kierunku satelity</string>
+    <string name="satellite_enhanced_paging_notification_title">Masz nowe połączenie lub wiadomość</string>
     <string name="satellite_environment_requirement_message">"Komunikacja satelitarna to dobre rozwiązanie w obszarach bez zasięgu naziemnego i zalecamy używanie jej tylko w takich przypadkach (tj. kiedy nie ma dostępnej żadnej sieci komórkowej). Aby uniknąć zakłóceń sygnału, przed użyciem trzeba zdjąć etui zawierające metal. Podczas korzystania między Twoim ciałem lub innymi przeszkodami a górną częścią urządzenia należy zachować odległość co najmniej %1$d mm. Funkcja wyłączy się, gdy będziesz mieć mniej niż %2$s baterii. Nie będziesz jej w stanie użyć do wykonywania połączeń, jeśli temperatura urządzenia będzie zbyt wysoka."</string>
     <string name="satellite_environment_requirement_title">Jakie warunki trzeba spełnić, aby korzystać z tej funkcji?</string>
     <string name="satellite_exit">Wyjdź</string>

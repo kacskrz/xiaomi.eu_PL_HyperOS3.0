@@ -21,6 +21,7 @@
     <string name="island_connected_title">Korzystanie z Ekranu głównego+</string>
     <string name="island_default_market_name_laptop">Laptop Xiaomi</string>
     <string name="island_default_market_name_tablet">Tablet Xiaomi</string>
+    <string name="island_disconnected_button">Wyłącz</string>
     <string name="island_disconnected_button_text">Rozłącz</string>
     <string name="island_disconneted_title">Rozłączono</string>
     <string name="loading_view_load_timeout">Połączenie zostało przerwane</string>
@@ -178,9 +179,9 @@ Aby kontynuować, wybierz urządzenie ponownie na swoim komputerze."</string>
     <string name="switch_wlan_tips_desc_pad_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="tips_check_in_phone_please">Wyświetl i kontynuuj na swoim telefonie</string>
     <string name="tips_set_with_phone_please">Kontynuuj na telefonie</string>
-    <string name="trust_bind_cancel_toast">Anulowano. Możesz włączyć tę funkcję ponownie w Ustawieniach > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
+    <string name="trust_bind_cancel_toast">Anulowano</string>
     <string name="trust_bind_cancel_toast_iphone">Anulowano</string>
-    <string name="trust_bind_fail_toast">Nie udało się przyznać uprawnień. Możesz włączyć tę funkcję ponownie w Ustawieniach > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
+    <string name="trust_bind_fail_toast">Nie udało się przyznać uprawnień</string>
     <string name="trust_bind_fail_toast_iphone">Nie udało się przyznać uprawnień</string>
     <string name="trust_bind_remote_cancel_toast">Anulowano. Możesz włączyć tę funkcję ponownie w Ustawieniach telefonu > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
     <string name="trust_bind_risk_car_fallback_subtitle">Nie udało się użyć współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu.</string>
@@ -193,7 +194,7 @@ Aby kontynuować, wybierz urządzenie ponownie na swoim komputerze."</string>
     <string name="trust_bind_risk_recent_unused_subtitle">Ostatnio nie korzystano ze Współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_recent_updated_subtitle">Zmieniono ostatnio hasło. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_title">Wprowadź blokadę ekranu telefonu</string>
-    <string name="trust_bind_success_toast">Pomyślnie przyznano uprawnienia. Możesz zarządzać tą funkcją w Ustawieniach > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
+    <string name="trust_bind_success_toast">Pomyślnie przyznano uprawnienia</string>
     <string name="trust_bind_success_toast_iphone">Pomyślnie przyznano uprawnienia</string>
     <string name="trust_bind_unlock_subtitle_password">Aby zaufać %1$s, wprowadź blokadę ekranu tego urządzenia</string>
     <string name="trust_bind_unlock_subtitle_pattern">Aby zaufać %1$s, narysuj wzór tego urządzenia</string>

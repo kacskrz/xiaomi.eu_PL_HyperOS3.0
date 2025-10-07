@@ -93,6 +93,7 @@ Spróbuj ponownie."</string>
     <string name="found_wild_messages_guide_cloud_desc">Aby zsynchronizować wiadomości z Chmurą Xiaomi, zaloguj się na swoje konto Xiaomi i włącz synchronizację SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Włącz synchronizację wiadomości z Chmurą w ustawieniach SMS.</string>
     <string name="from_pkg_name">"Z aplikacji: "</string>
+    <string name="give_up">Odrzuć</string>
     <string name="go_close">Ustawienia</string>
     <string name="go_to">"Otwórz "</string>
     <string name="group_verification_codes_summary">Grupuj wiadomości z kodami jednorazowymi</string>
@@ -120,6 +121,7 @@ Spróbuj ponownie."</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
     <string name="mi_message_title">Wiadomości Mi</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
     <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
@@ -187,6 +189,7 @@ W celu aktywacji Wiadomości Mi wymagane jest wysłanie wiadomości SMS. Twój o
     <string name="mx_privacy_policy">Polityka prywatności Wiadomości Mi</string>
     <string name="mx_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości Mi</string>
     <string name="my_location">Moja lokalizacja:</string>
+    <string name="need_to_discard_message">Odrzucić szkic?</string>
     <string name="new_message_arrived">Nowa wiadomość</string>
     <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
     <string name="no_more_reminders">Nie pokazuj ponownie</string>
@@ -312,6 +315,7 @@ Włącz dane mobilne i otwórz tę stronę ponownie."</string>
     <string name="security_alert_desc">"Nadawca nie jest w Twoich kontaktach.
 "</string>
     <string name="select_copy_text">Zaznacz i skopiuj tekst</string>
+    <string name="select_dialog_item_others">Inne…</string>
     <string name="send_after_compress">Kompresuj</string>
     <string name="send_orignal_picture">Oryginalny</string>
     <string name="send_orignal_video">Oryginalny</string>

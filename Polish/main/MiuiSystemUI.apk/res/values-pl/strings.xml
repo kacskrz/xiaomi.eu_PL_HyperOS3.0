@@ -17,6 +17,7 @@ okno"</string>
     <string name="drag_shadow_freeform_open">"Pływające
 okno"</string>
     <string name="enrol_fingerprint_process_talkback">Dodawanie odcisku palca</string>
+    <string name="face_unlock_error_camera_is_using">Aparat w użyciu</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>

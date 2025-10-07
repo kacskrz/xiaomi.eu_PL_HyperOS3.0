@@ -57,9 +57,21 @@
         <item quantity="few">Ciśnienie: %s hektopaskale</item>
         <item quantity="one">Ciśnienie: %s hektopaskal</item>
     </plurals>
+    <plurals name="audio_duration_minutes_format">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="audio_duration_seconds_format">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
     <plurals name="author_follow">
         <item quantity="other">%d obserwujących</item>
         <item quantity="one">%d obserwujący</item>
+    </plurals>
+    <plurals name="days_example">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
     </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="one">%1$d fan</item>
@@ -109,6 +121,10 @@
         <item quantity="few">Przebyto do teraz: %1$s kroki</item>
         <item quantity="one">Przebyto do teraz: %1$s krok</item>
     </plurals>
+    <plurals name="hours_example">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="one">Dostępna jest aktualizacja %1$d ikony</item>
         <item quantity="other">Dostępne są aktualizacje %1$d ikon</item>
@@ -137,10 +153,37 @@
         <item quantity="other">Aktualizowanie %1$d superikon</item>
         <item quantity="one">Aktualizowanie %1$d superikony</item>
     </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s tapet</item>
+        <item quantity="few">%1$s tapety</item>
+        <item quantity="one">%1$s tapeta</item>
+    </plurals>
+    <plurals name="minutes_example">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="pay_mibi">
         <item quantity="other">Zapłać %1$s Mi Coinów</item>
         <item quantity="few">Zapłać %1$s Mi Coiny</item>
         <item quantity="one">Zapłać %1$s Mi Coin</item>
+    </plurals>
+    <plurals name="rear_screen_batch_has_update_text">
+        <item quantity="other">Dostępna aktualizacja dla %1$d elementów tylnego wyświetlacza</item>
+        <item quantity="one">Dostępna aktualizacja dla %1$d elementu tylnego wyświetlacza</item>
+    </plurals>
+    <plurals name="rear_screen_batch_updating_text">
+        <item quantity="other">Aktualizowanie %1$d elementów tylnego wyświetlacza</item>
+        <item quantity="one">Aktualizowanie %1$d elementu tylnego wyświetlacza</item>
+    </plurals>
+    <plurals name="rear_signature_max_text_size">
+        <item quantity="other">Wprowadź maks. %1$d znaków</item>
+        <item quantity="few">Wprowadź maks. %1$d znaki</item>
+        <item quantity="one">Wprowadź maks. %1$d znak</item>
+    </plurals>
+    <plurals name="rear_signature_min_text_size">
+        <item quantity="other">Wprowadź min. %1$d znaków</item>
+        <item quantity="few">Wprowadź min. %1$d znaki</item>
+        <item quantity="one">Wprowadź min. %1$d znak</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d komentarzy</item>
@@ -160,6 +203,18 @@
         <item quantity="other">%1$.1f punktów</item>
         <item quantity="one">%1$.1f punkt</item>
         <item quantity="few">%1$.1f punkty</item>
+    </plurals>
+    <plurals name="resource_trial_days">
+        <item quantity="other">" (okres próbny: %1$d dni)"</item>
+        <item quantity="one">" (okres próbny: %1$d dzień)"</item>
+    </plurals>
+    <plurals name="resource_trial_hours">
+        <item quantity="other">" (okres próbny: %1$d godz.)"</item>
+        <item quantity="one">" (okres próbny: %1$d godz.)"</item>
+    </plurals>
+    <plurals name="resource_trial_minutes">
+        <item quantity="other">" (okres próbny: %1$d min)"</item>
+        <item quantity="one">" (okres próbny: %1$d min)"</item>
     </plurals>
     <plurals name="ringtone_nums">
         <item quantity="other">%1$s dzwonków</item>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anti_addiction_notice_title_countdown">
+        <item quantity="other">Pozostało %d min</item>
+        <item quantity="one">Pozostało %d min</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za godzinę</item>
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="many">za %d minut</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+        <item quantity="many">%d zaznaczonych elementów</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
+</resources>

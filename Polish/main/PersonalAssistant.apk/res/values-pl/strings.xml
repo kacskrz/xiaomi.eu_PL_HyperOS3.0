@@ -166,6 +166,8 @@ Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_accessibility_widget_slected_status">%1$s. Stan instalacji: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widżet</string>
     <string name="pa_app_label">Asystent HyperOS</string>
+    <string name="pa_back_screen_travel_preference_summary_reminder">Wyświetlaj przypomnienia o pociągach i lotach na tylnym wyświetlaczu</string>
+    <string name="pa_back_screen_travel_preference_title_reminder">Przypomnienia dot. podrózy na tylnym wyświetlaczu</string>
     <string name="pa_base_time_just_now">Teraz</string>
     <string name="pa_base_time_month">d.MM.</string>
     <string name="pa_base_time_year">d.MM.yyyy</string>
@@ -555,6 +557,7 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_sure">OK</string>
     <string name="pa_toast_home_layout_locked">Układ Ekranu głównego jest zablokowany</string>
     <string name="pa_toast_message_not_support_size">"Widżety o tym rozmiarze nie są wspierane przez Asystenta HyperOS"</string>
+    <string name="pa_travel_back_screen_title_info">Odlatuje d.MM.</string>
     <string name="pa_travel_item_source_miai">Silnik Xiaomi HyperAI</string>
     <string name="pa_travel_notification_auth_account">Dodaj konto</string>
     <string name="pa_travel_notification_auth_all_info">Aby uzyskać więcej danych, dodaj konto</string>
@@ -571,6 +574,7 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_travel_notification_status_train_delayed">Opóźniony</string>
     <string name="pa_travel_notification_status_train_delayed_short">Opóźniony</string>
     <string name="pa_travel_notification_status_train_near_departure">Zaraz odlatuje</string>
+    <string name="pa_travel_preference_summary_reminder">Wyświetlaj przypomnienia i aktualizacje dot. pociągów i samolotów w Asystencie HyperOS i powiadomieniach</string>
     <string name="pa_vertical_center">Układ pionowy. Wyrównanie do środka.</string>
     <string name="pa_vertical_left">Układ pionowy. Wyrównanie do lewej.</string>
     <string name="pa_vertical_right">Układ pionowy. Wyrównanie do prawej.</string>
