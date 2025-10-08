@@ -158,7 +158,7 @@
     <string name="ms_mi_car_prompt_content">EV Xiaomi wymaga rozpoznania twarzy, aby kontrolować pojazd. Funkcja może być odblokowana również Twoim zdjęciem lub przez osoby lub obiekty o podobnym wyglądzie.</string>
     <string name="ms_music_service">Usługa muzyki</string>
     <string name="ms_service_assistant">Powiadomienia tylnego wyświetlacza</string>
-    <string name="ms_service_assistant_tips">Wyświetlaj powiadomienia z informacjami na żywo na tylnym wyświetlaczu with live info on the rear display</string>
+    <string name="ms_service_assistant_tips">Wyświetlaj powiadomienia z informacjami na żywo na tylnym wyświetlaczu</string>
     <string name="ms_smart_assistant_ticketing">Bilety Xiaomi Hyper XiaoAi</string>
     <string name="ms_travel_assistant">Asystent podróży</string>
     <string name="ms_travel_assistant_off">Wył.</string>
