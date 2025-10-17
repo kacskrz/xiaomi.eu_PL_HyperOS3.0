@@ -3,6 +3,7 @@
     <string name="HIPS_Action_Accept">Zezwól</string>
     <string name="HIPS_Action_Reject">Odmów</string>
     <string name="Location_map_of_nearby_title">Mapa urządzeń w pobliżu</string>
+    <string name="access_denied_info">Zbyt wiele prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
     <string name="call_allowed_title">Zezwolenie na połączenia</string>
     <string name="celluar_tether_disconect_title">Rozłączono</string>
@@ -110,6 +111,8 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="nearby_contacts">Kontakty w pobliżu</string>
+    <string name="network_error_info">Wystąpił błąd sieci. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="network_timeout_info">Nie udało się połączyć z siecią. Spróbuj ponownie.</string>
     <string name="offline_app_name">Komunikacja offline Xiaomi</string>
     <string name="offline_call_balack_list">Lista blokowanych</string>
     <string name="offline_call_balack_list_join">Dodaj do listy blokowanych</string>
@@ -121,6 +124,7 @@
     <string name="offline_call_callable_only_contact">Tylko kontakty</string>
     <string name="offline_call_callable_title">Kto może do mnie dzwonić</string>
     <string name="offline_call_cancel">Anuluj</string>
+    <string name="offline_call_create_shortcut_success">Pomyślnie dodano</string>
     <string name="offline_call_dial_out">Zadzwoń</string>
     <string name="offline_call_earthquake_summary">Automatycznie włącz komunikację offline w razie wystąpienia trzęsienia ziemi w Twojej lokalizacji</string>
     <string name="offline_call_earthquake_title">Włącz automatycznie podczas trzęsienia ziemi</string>
@@ -139,11 +143,15 @@
     <string name="offline_call_notification_broadcast_location">Komunikacja offline Xiaomi udostępnia Twoją lokalizację</string>
     <string name="offline_call_notification_broadcast_start">Komunikacja offline Xiaomi prowadzi transmisję</string>
     <string name="offline_call_remove">Usuń</string>
+    <string name="offline_call_repeatedly_create_shortcut">Ten skrót już istnieje</string>
     <string name="offline_call_settings_summary">Komunikuj się z telefonami Xiaomi w pobliżu, gdy jesteś online i na obu urządzeniach włączony jest Bluetooth</string>
     <string name="offline_call_settings_title">Komunikacja offline Xiaomi</string>
+    <string name="offline_call_shortcut_display">Dodaj skrót na Ekranie głównym</string>
     <string name="offline_call_show_location_title">Udostępnij lokalizację osobom w pobliżu</string>
     <string name="offline_chat_summary">Rozmawiaj z kontaktami znajdującymi się w pobliżu przez Bluetooth, gdy nie jesteś połączony z Internetem. Funkcja nie działa ze słuchawkami Bluetooth.</string>
+    <string name="offline_chat_summary_global">Łącz się z telefonami Xiaomi w pobliżu, gdy jesteś offline, a na obu urządzeniach włączony jest Bluetooth (Aktualne urządzenie: %1$s)</string>
     <string name="offline_chat_title">Komunikacja offline Xiaomi</string>
+    <string name="offline_chat_title_global">Komunikacja offline Xiaomi</string>
     <string name="offline_connecting">Łączenie…</string>
     <string name="p8g_activity_bt_cancel">Anuluj</string>
     <string name="p8g_activity_bt_connect">Włącz Bluetooth</string>
@@ -157,12 +165,15 @@
     <string name="p8g_island_peripherals_to_close">Wyłącz</string>
     <string name="permgroupdesc_location">Zezwolić %1$s na dostęp do lokalizacji?</string>
     <string name="phone_in_talk">Rozmowa już trwa</string>
+    <string name="progressbar_title">Sprawdzanie kwestii bezpieczeństwa…</string>
     <string name="remove_black_list_title">Usuń z listy blokowanych</string>
     <string name="request_open_bluetooth_title">Zezwolić Komunikacji offline Xiaomi na włączenie Bluetooth?</string>
     <string name="sim_identify_failed">Nie można otworzyć. Nie udało się rozpoznać karty SIM.</string>
     <string name="start_failed_confirm">OK</string>
     <string name="start_failed_content">Aby skorzystać z Komunikacji offline Xiaomi, włóż kartę SIM i zaloguj się na konto Xiaomi.</string>
     <string name="start_failed_title">Nie udało się włączyć</string>
+    <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="unknown_error_info">Nieznany błąd</string>
     <string name="user_agreement_cancel">Anuluj</string>
     <string name="user_agreement_confirm">Zgadzam się</string>
     <string name="user_agreement_content">"Komunikacja offline Xiaomi to usługa połączenia głosowego oparta na Bluetooth dostarczana przez Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z przepisami prawa i standardami stosowanymi w branży.&lt;br&lt;b>Gdy włączysz tę funkcję, Xiaomi uzyska dostęp do Twoich kontaktów, numeru telefonu, stanu logowania na konto Xiaomi, adresu MAC Bluetooth, stanu połączenia i karty SIM, aby umożliwić Ci komunikację z wybranymi kontaktami, gdy nie masz połączenia z Internetem. &lt;/b&lt;br&lt;b>Gdy włączysz funkcje \"Pokaż lokalizację\" i \"Włącz automatycznie podczas trzęsienia ziemi\", Xiaomi zbierze dane o Twojej dokładnej lokalizacji, aby wyświetlić ją Twoim wybranym kontaktom.&lt;/b&lt;br&lt;b>Ta informacja będzie przetwarzana tylko na Twoim urządzeniu i nie zostanie przesłana do chmury.&lt;/b&lt;brDo korzystania z Komunikacji offline Xiaomi niezbędne są następujące uprawnienia: &lt;br&amp;bull; Bluetooth: do wykonywania połączeń głosowych do urządzeń w pobliżu&lt;br&amp;bull; Kontakty: do odnajdywania i dzwonienia do kontaktów w pobliżu&lt;br&amp;bull; Łączność z Internetem: do łączenia się z siecią i uzyskiwania zawartości mapy&lt;br&amp;bull; Lokalizacja: do wyświetlania dokładnej lokalizacji wybranym kontaktom&lt;br&amp;bull; Telefon: do uzyskiwania statusu połączenia (Komunikacja offline Xiaomi nie może być używana podczas trwania rozmowy)&lt;brJeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można korzystać z tej usługi.&lt;brNiektóre funkcje dostarczają dostawcy usług - strony trzecie. Z tego powodu Xiaomi musi przekazać niektóre dane o Tobie właśnie do nich. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Dotknij tutaj, aby wyświetlić&lt;/a> warunki, w ramach których Xiaomi udostępnia Twoje dane stronom trzecim.&lt;brXiaomi będzie przetwarzać Twoje dane przez czas określony w tym oświadczeniu lub wymagany odpowiednimi przepisami prawa.&lt;brXiaomi posiada oddzielny dział zajmujący się wyłącznie ochroną danych osobowych. Jeśli masz jakieś pytania związane z tym oświadczeniem lub gromadzeniem, korzystaniem lub ujawnieniem Twoich danych, możesz skontaktować się z Xiaomi poprzez stronę &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Xiaomi udzieli odpowiedzi zazwyczaj w ciągu piętnastu dni roboczych.&lt;br>

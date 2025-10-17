@@ -140,6 +140,7 @@
     <string name="morning">Poranek</string>
     <string name="ms_enable_notification_permission">Najpierw włącz Skupienie powiadomień dla tej aplikacji</string>
     <string name="ms_failed_to_travel">Nie udało się otworzyć strony</string>
+    <string name="ms_focus_mode">Tryb skupienia</string>
     <string name="ms_guide_nav_assistant">Asystent</string>
     <string name="ms_guide_nav_assistant_new">Powiadomienia</string>
     <string name="ms_guide_nav_camera">Aparat</string>
@@ -157,9 +158,14 @@
     <string name="ms_mi_car_prompt">Uwaga</string>
     <string name="ms_mi_car_prompt_content">EV Xiaomi wymaga rozpoznania twarzy, aby kontrolować pojazd. Funkcja może być odblokowana również Twoim zdjęciem lub przez osoby lub obiekty o podobnym wyglądzie.</string>
     <string name="ms_music_service">Usługa muzyki</string>
+    <string name="ms_notifications">Powiadomienia</string>
+    <string name="ms_quick_function">Skróty</string>
     <string name="ms_service_assistant">Powiadomienia tylnego wyświetlacza</string>
     <string name="ms_service_assistant_tips">Wyświetlaj powiadomienia z informacjami na żywo na tylnym wyświetlaczu</string>
+    <string name="ms_settings_assistant">Zarządzaj tylnym wyświetlaczem</string>
+    <string name="ms_settings_assistant_tips">Pociągnij w dół od góry ekranu, aby użyć wybranych skrótów. Po otrzymaniu powiadomień na tylnym wyświetlaczu pojawią się aktualizacje w czasie rzeczywistym, które ułatwią Ci sprawdzenie informacji.</string>
     <string name="ms_smart_assistant_ticketing">Bilety Xiaomi Hyper XiaoAi</string>
+    <string name="ms_stealth_mode">Tryb incognito</string>
     <string name="ms_travel_assistant">Asystent podróży</string>
     <string name="ms_travel_assistant_off">Wył.</string>
     <string name="ms_travel_assistant_on">Wł.</string>

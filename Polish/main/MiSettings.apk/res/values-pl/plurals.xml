@@ -33,35 +33,11 @@
         <item quantity="one">Wybrano %1$d element</item>
         <item quantity="few">Wybrano %1$d elementy</item>
     </plurals>
-    <plurals name="pcl_add_account_ignore_with_seconds">
-        <item quantity="other">Nie teraz (%d s)</item>
-        <item quantity="one">Nie teraz (%d s)</item>
-        <item quantity="few">Nie teraz (%d s)</item>
-        <item quantity="many">Nie teraz (%d s)</item>
-    </plurals>
     <plurals name="pcl_passport_re_get_verify_code_with_seconds">
         <item quantity="other">Wyślij ponownie (%d s)</item>
         <item quantity="one">Wyślij ponownie (%d s)</item>
         <item quantity="few">Wyślij ponownie (%d s)</item>
         <item quantity="many">Wyślij ponownie (%d s)</item>
-    </plurals>
-    <plurals name="pcl_number_locked">
-        <item quantity="other">Zablokowano %d aplikacji</item>
-        <item quantity="one">Zablokowano %d aplikację</item>
-        <item quantity="few">Zablokowano %d aplikacje</item>
-        <item quantity="many">Zablokowano %d aplikacji</item>
-    </plurals>
-    <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">"Używałeś urządzenia bez przerwy przez %d min"</item>
-        <item quantity="one">"Używałeś urządzenia bez przerwy przez %d min"</item>
-    </plurals>
-    <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="one">Średnio %.2f raz dziennie</item>
-        <item quantity="other">Średnio %.2f razy dziennie</item>
-    </plurals>
-    <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Dnia %2$s odblokowano %1$d razy</item>
-        <item quantity="one">Dnia %2$s odblokowano %1$d raz</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d odblokowań</item>
@@ -87,23 +63,5 @@
         <item quantity="other">%d h</item>
         <item quantity="one">%d h</item>
         <item quantity="few">%d h</item>
-    </plurals>
-    <plurals name="usage_state_week_day_hour">
-        <item quantity="other">Weekendy: %d godz.</item>
-        <item quantity="one">Weekendy: %d godz.</item>
-        <item quantity="few">Weekendy: %d godz.</item>
-    </plurals>
-    <plurals name="usage_state_week_day_minute">
-        <item quantity="other">Weekendy: %d min</item>
-        <item quantity="one">Weekendy: %d min</item>
-        <item quantity="few">Weekendy: %d min</item>
-    </plurals>
-    <plurals name="usage_state_work_day_hour">
-        <item quantity="other">Dni robocze: %d godz.</item>
-        <item quantity="one">Dni robocze: %d godz.</item>
-    </plurals>
-    <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Dni robocze: %d min</item>
-        <item quantity="one">Dni robocze: %d min</item>
     </plurals>
 </resources>

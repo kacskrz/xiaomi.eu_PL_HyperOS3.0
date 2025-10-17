@@ -83,6 +83,8 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
+    <string name="offline_call">Komunikacja offline Xiaomi</string>
+    <string name="offline_call_summary">Dzwoń do innych telefonów Xiaomi w pobliżu przez Bluetooth bez połączenia z siecią</string>
     <string name="offline_connection_service_label">Połączenia offline</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że karta SIM wspiera tylko LTE. Podwójne LTE zostało włączone w systemie automatycznie.</string>
     <string name="path_answer_state_setting_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące</string>

@@ -14,6 +14,7 @@
     <string name="account_sync_summary_all_off">Synchronizacja wyłączona dla wszystkich elementów</string>
     <string name="active_all_apps_summary">Używaj funkcji ochrony oczu we wszystkich aplikacjach, cały czas</string>
     <string name="active_read_apps_summary">Używaj funkcji ochrony oczu tylko w aplikacjach do czytania</string>
+    <string name="active_read_apps_tip">Efekt ochrony oczu działa obecnie tylko w aplikacjach do czytania. Otwórz jedną z nich, aby go podejrzeć.</string>
     <string name="activity_check_context">"Twoje urządzenie próbuje obecnie połączyć się z Internetem. Jeśli korzystasz z danych mobilnych, ten proces może potrwać dłużej. Możesz wrócić do poprzedniego menu i połączyć się z siecią Wi-Fi bądź poczekać, aż urządzenie połączy się z siecią za pomocą danych mobilnych."</string>
     <string name="activity_check_title">Łączenie z Internetem</string>
     <string name="activity_title_root_acquired">Zezwól na dostęp do roota</string>
@@ -91,7 +92,7 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="blue_light_filter">Filtr niebieskiego światła</string>
     <string name="blue_light_filter_tip">Nie można kompletnie wyeliminować niebieskiego światła. Aby chronić swój wzrok, możesz także używać reguły %1$d-%2$d-%3$d."</string>
     <string name="blue_light_reduce">Redukuje niebieskie światło o ≈%s</string>
-    <string name="blue_light_reduce_tip">"Wykres widma jest schematycznym przedstawieniem widma punktu bieli ekranu. Wartości światła niebieskiego zależą od rzeczywistych warunków i mogą się różnić w zależności od ekranu. Niebieski prostokąt na wykresie odnosi się do zakresu normy TÜV Rheinland dotyczącej niskiego poziomu niebieskiego światła w sprzęcie."</string>
+    <string name="blue_light_reduce_tip">"Wykres widma jest schematycznym przedstawieniem widma punktu bieli ekranu. Wartość redukcji niebieskiego światła może się różnić w zalezności od ekranu. Zakres szkodliwego niebieskiego światła (niebieski prostokąt na wykresie) odnosi się do normy TÜV Rheinland dotyczącej niskiego poziomu niebieskiego światła w sprzęcie."</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" chce włączyć Bluetooth i ustawić telefon jako wykrywalny dla innych urządzeń przez %1$d s."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
     <string name="bluetooth_cancle_pair_summary">Rozparuj i spróbuj się połączyć ponownie.</string>
@@ -330,6 +331,11 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="fsg_mistake_touch_title">Potwierdź gest</string>
     <string name="full_screen_reminder">Ostrzeżenie</string>
     <string name="full_transparent_smarrcover_title">Przezroczysty front</string>
+    <string name="game_app_fragment_category">Wspierane gry</string>
+    <string name="game_app_title">Efekty świetlne w grach</string>
+    <string name="game_delta_action_moments">Losowanie zasobów i pomyślna ucieczka</string>
+    <string name="game_king_of_glory_moments">Zabójstwa, wygrane i inne kluczowe momenty</string>
+    <string name="game_peacekeeper_elites_moments">Skoki spadochronowe i walka</string>
     <string name="gd_setting_title">Pasek boczny</string>
     <string name="gesture_lockcreen_doubletap_wakeup_title">Dwukrotnie dotknij Ekranu blokady, aby wybudzić</string>
     <string name="gesture_lockcreen_sleep_title">Dwukrotnie dotknij Ekranu blokady, aby uśpić</string>
@@ -391,8 +397,12 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="leave_loclscreen_title">Zablokuj ekran, gdy się oddalasz</string>
     <string name="led_pulse_summary">Pulsuj diodą powiadomień, gdy otrzymano nowe powiadomienie</string>
     <string name="legacy_power_menu">Stare menu zasilania</string>
+    <string name="light_camera_state_summary">Włącz tylną diodę podczas robienia zdjęć lub nagrywania filmów</string>
+    <string name="light_camera_state_title">Wskaźnik statusu aparatu</string>
     <string name="light_color_mode">Jasny motyw</string>
     <string name="list_bg_header_text">"Jeśli ograniczysz łączność w tle, nowe aplikacje nie będą w stanie połączyć się z Internetem w tle po ich instalacji. Mogą one nie być w stanie otrzymywać wiadomości lub pobierać zawartości po dokonaniu tej czynności."</string>
+    <string name="live_notifications_desc">Włącz, aby przypinać powiadomienia z aktualizacjami na żywo z aplikacji w Panelu powiadomień on to pin notifications with live info from apps in the Notification shade</string>
+    <string name="live_notifications_switch">Aktualizacje na żywo</string>
     <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
     <string name="lock_screen_after_fold_screen_summary">"Po złożeniu urządzenie zablokuje się z wyjątkiem sytuacji, w której korzystasz z przedniego aparatu bądź głośnika."</string>
     <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
@@ -531,6 +541,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="night_display_auto_mode_twilight">Od zachodu do wschodu słońca</string>
     <string name="no_internet_access_text">Sieć %1$s nie ma dostępu do internetu. Nadal chcesz się z nią łączyć?</string>
     <string name="no_read_apps">Nie znaleziono żadnych aplikacji do czytania</string>
+    <string name="no_read_apps_new">Nie znaleziono wspieranych aplikacji. Bądź czujny!</string>
     <string name="normal_smartcover_title">Bez okienka</string>
     <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
     <string name="notification_badge_title">Kropki powiadomień</string>
@@ -632,6 +643,13 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
     <string name="photography_handle_charge_state_summary_new">Zacznij ładowanie tego urządzenia z uchwytu aparatu po jego podłączeniu</string>
     <string name="photography_handle_emergency_charge_title">Poziom alarmowego ładowania</string>
+    <string name="photography_handle_launch_and_take_with_mode">Zrób zdjęcie</string>
+    <string name="photography_handle_launch_camera_doc_mode">Dokument</string>
+    <string name="photography_handle_launch_camera_modes">Tryb Aparatu</string>
+    <string name="photography_handle_launch_camera_photo_mode">Zdjęcie</string>
+    <string name="photography_handle_launch_camera_portrait_mode">Portret</string>
+    <string name="photography_handle_launch_camera_video_mode">Wideo</string>
+    <string name="photography_handle_normal_title">Wył.</string>
     <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
     <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>
@@ -699,6 +717,7 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="recommend_press_type">Aby ograniczyć przypadkowe dotknięcia, zalecana jest opcja \"Naciśnij\". W każdej chwili możesz przełączyć się na opcję \"Dotknij\" w Ustawieniach.</string>
     <string name="read_apps_selected_scope">Wybierz aplikacje</string>
+    <string name="read_apps_selected_scope_new">Wybierz aplikacje (tylko część z nich jest wspierana)</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
     <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
