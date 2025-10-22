@@ -900,7 +900,8 @@ Poczekaj, aż skrzynka zostanie w pełni zsynchronizowana lub zobacz tą wiadomo
     <string name="show_password">Pokaż hasło</string>
     <string name="show_server_cet">Pokaż certyfikat</string>
     <string name="shrink">Zwiń</string>
-    <string name="sign_in_dialog_outlook_imap">IMAP (bez kalendarza)</string>
+    <string name="sign_in_dialog_outlook_imap">IMAP (brak obsługi kalendarza)</string>
+    <string name="sign_in_dialog_title">Wybierz metodę logowania</string>
     <string name="sign_in_no_useful_provider_error">"Nie można uzyskać konfiguracji protokołu od  Microsoftu. Użyj innego protokołu lub zaktualizuj protokół Microsoftu."</string>
     <string name="sms_not_found_tip">Nie udało się uruchomić aplikacji SMS. Uruchom ją ręcznie i wyślij SMS weryfikacyjny.</string>
     <string name="smtp_password_error">Błąd hasła SMTP</string>
