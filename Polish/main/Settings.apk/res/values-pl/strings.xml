@@ -732,6 +732,7 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="se_wallet_uicc">Portfel na SIM %1$s</string>
     <string name="search_miui_updater">OS;Wersja OS</string>
     <string name="search_phone_case">Obudowa do telefonu;case;gamingowy case;konsolowy case</string>
+    <string name="search_privacy_protection">Zarządzanie uprawnieniami</string>
     <string name="search_serve_assistant">Asystent podróży;podróż;asystent</string>
     <string name="search_subscreen_aod">Ekran zawsze włączony;AOD;AOD na tylnym wyświetlaczu</string>
     <string name="search_subscreen_title">Tylny wyświetlacz;tylny ekran;ekran z tyłu</string>
