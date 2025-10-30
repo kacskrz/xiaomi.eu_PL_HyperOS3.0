@@ -89,7 +89,6 @@
     <string name="find_device_status_summary">Włącz, aby zlokalizować i śledzić swoje urządzenie lub wyczyścić zdalnie jego dane. Możesz także anonimowo pomóc innym zlokalizować ich urządzenia.</string>
     <string name="find_device_status_title_pad">Znajdź mój tablet</string>
     <string name="find_device_status_title_phone">Znajdź mój telefon</string>
-    <string name="find_device_stop_noise">Naciśnij OK, aby wyciszyć</string>
     <string name="find_device_storage_corrupted">Magazyn danych funkcji Znajdź urządzenie jest uszkodzony. Urządzenie może nie być bezpieczne.</string>
     <string name="find_guide_open_dialog_view_button_continue">Kontynuuj</string>
     <string name="find_guide_open_dialog_view_title">Nowa funkcja: Znajdź słuchawki Xiaomi</string>
@@ -307,7 +306,6 @@ Informacje o lokalizacji mogą nie zostać zgłoszone, gdy połączenie sieciowe
     <string name="tab_mine_web_view_intent_title_second">Asystent w wyszukiwaniu</string>
     <string name="tab_mine_web_view_intent_title_second_des">Wejdź na i.mi.com i zaloguj się na konto Xiaomi innej osoby, aby znaleźć jej urządzenie</string>
     <string name="tab_mine_web_view_intent_title_third">Nie mogę znaleźć mojego urządzenia</string>
-    <string name="talkback_pwd_error_too_many">Zbyt wiele nieudanych prób. Spróbuj ponownie później.</string>
     <string name="third_page">Profil</string>
     <string name="title_location_device_by_message">Zlokalizuj przez SMS</string>
     <string name="try_again_refresh">Odśwież</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_location_button_text">Uzyskaj obecną lokalizację</string>
-    <string name="act_find_city_no_location_text">Brak lokalizacji</string>
     <string name="act_location_error_to_find_city">Nie udało się ustalić lokalizacji. Dodaj miasto ręcznie.</string>
     <string name="activity_find_city_dialog_message">Zezwól Pogodzie na dostęp do lokalizacji urządzenia.</string>
     <string name="activity_find_city_dialog_message_global">Włącz opcje Dostęp do lokalizacji oraz Dokładność lokalizacji Google w Ustawieniach, aby móc zlokalizować poprawnie Twoje położenie w ramach automatycznej lokalizacji.</string>
@@ -125,7 +124,6 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
     <string name="open_browser">Otwórz w przeglądarce</string>
     <string name="open_now">Otwórz</string>
     <string name="other_warning_settings">Inne alerty</string>
-    <string name="pad_keyboard_add_city">Dodaj miejsce</string>
     <string name="pad_keyboard_left_switch">Poprzednie miejsce</string>
     <string name="pad_keyboard_right_switch">Następne miejsce</string>
     <string name="permission_privacy">Polityka prywatności (obowiązkowa)</string>

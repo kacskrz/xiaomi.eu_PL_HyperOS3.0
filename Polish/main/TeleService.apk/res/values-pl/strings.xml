@@ -3,12 +3,14 @@
     <string name="activity_title_fakecell">Ochrona przed fałszywymi stacjami bazowymi</string>
     <string name="always_enable_mms_summary">Zawsze odbieraj MMS, również wtedy, gdy dane mobilne są wyłączone</string>
     <string name="auto_redial_pref_title">Ponowne wybieranie</string>
-    <string name="beidou_mobile_settings_summary_all">Dostępne tylko dla użytkowników z aktywną usługą komunikacji przez satelitę BeiDou</string>
-    <string name="beidou_satellite_enable_message_all">Aby aktywować usługę, skontaktuj się z operatorem.</string>
     <string name="call_record_auto_whitelist_no_item">Dodaj numery do listy</string>
     <string name="call_recording_disclaimer_msg">"Przepisy jurysdykcji, w której znajdujesz się Ty bądź inni uczestnicy rozmowy, mogą wymagać zgody wszystkich stron na jej nagrywanie. Xiaomi nie będzie odpowiedzialne za nielegalne wykorzystanie tej funkcji. Nagrania połączeń są przechowywane tylko na Twoim urządzeniu; Xiaomi nie może uzyskać do nich dostępu."</string>
     <string name="call_waiting_tone_continuously">Odtwórz ciągły dźwięk</string>
     <string name="caller_id_summary">Użyj domyślnych ustawień operatora, aby wyświetlać mój numer w połączeniach wychodzących</string>
+    <string name="cellular_coverage_satellite_notification">Wykryto zasięg podczas korzystania z satelity</string>
+    <string name="cellular_coverage_satellite_notification_action_text">Przełącz</string>
+    <string name="cellular_coverage_satellite_notification_text">Jesteś w obszarze objętym zasięgiem. Przełączenie wyłączy komunikację z satelitą.</string>
+    <string name="cellular_coverage_satellite_notification_title">Przełącz na sieć mobilną</string>
     <string name="change_default_data_card">Domyślna karta dla Internetu</string>
     <string name="convert_to_esim_title">Konwertuj na eSIM</string>
     <string name="crescendo_ringer_title">Narastający dzwonek</string>
@@ -26,8 +28,6 @@
     <string name="enter_esim_service_support_summary">Wyświetl listę wspieranych operatorów</string>
     <string name="enter_esim_service_support_title">Wspierani operatorzy</string>
     <string name="esim_inactive_notification_title_global">Karty SIM i sieć mobilna</string>
-    <string name="fiveg_interruption_remind">Wygląda na to, że Twoja karta SIM %s nie może używać usług 5G SA. Aby dowiedzieć się więcej, skontaktuj się ze swoim operatorem.</string>
-    <string name="fiveg_interruption_remind_title">Nie można używać usług 5G</string>
     <string name="filp_auto_hangup_call_summary">Działa tylko z podłączonymi słuchawkami Bluetooth bądź przewodowymi</string>
     <string name="fiveg_sa_switch_title">Tryb 5G SA</string>
     <string name="flash_when_ring_summary">Powiadamiaj diodą LED aparatu o połączeniu</string>
@@ -75,6 +75,7 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
+    <string name="notification_network_selection_text">Wybrana sieć (%s) jest niedostępna</string>
     <string name="offline_call">Komunikacja offline Xiaomi</string>
     <string name="offline_call_summary">Dzwoń do innych telefonów Xiaomi w pobliżu przez Bluetooth bez połączenia z siecią</string>
     <string name="offline_connection_service_label">Połączenia offline</string>
@@ -254,8 +255,6 @@ Dostępność usługi zależy od Twojego operatora."</string>
     <string name="turnover_mute_summary">Gdy telefon znajduje się na płaskiej powierzchni ekranem do góry, obróć go, aby wyciszyć dźwięk dzwonka, wyłączyć wibracje i diodę powiadomień</string>
     <string name="unfold_close_camera_pref_summary">Rozłóż urządzenie w trakcie połączenia wideo, aby wyłączyć aparat</string>
     <string name="unfold_close_camera_pref_title">Rozłóż, aby wyłączyć aparat</string>
-    <string name="unfold_show_bublle_pref_summary">Rozłóż urządzenie w trakcie połączeń, aby wyświetlić je w pływających oknach</string>
-    <string name="unfold_show_bublle_pref_title">Rozłóż, aby zminimalizować połączenia</string>
     <string name="unfold_speaker_pref_summary">Rozłóż urządzenie w trakcie połączenia, aby włączyć głośnik</string>
     <string name="unfold_speaker_pref_title">Rozłóż, aby użyć głośnika</string>
     <string name="wfc_mode_ims_preferred_title">Połączenie przez IMS</string>

@@ -72,10 +72,7 @@
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
     <string name="schedule_about_to_begin">Start o %1$s</string>
-    <string name="schedule_time_zone_setting">Ustawienia strefy czasowej wydarzenia</string>
-    <string name="setting_almanac_yiji">Chiński almanach</string>
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
-    <string name="setting_constellation_title">Horoskop</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
     <string name="start_string">Start o %s</string>

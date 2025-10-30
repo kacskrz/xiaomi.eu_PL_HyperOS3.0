@@ -23,12 +23,6 @@
     <string name="easy_tether_auto_connect_toast">"Połączono z hotspotem %1$s. Ustaw limity danych w jego ustawieniach."</string>
     <string name="easy_tether_click_button_description">Dotknij przycisku po prawej, aby się połączyć</string>
     <string name="easy_tether_click_hotspot_button">Dotknij, aby połączyć się z hotspotem telefonu</string>
-    <string name="easy_tether_connect">Połącz</string>
-    <string name="easy_tether_connect_table">Dostępne</string>
-    <string name="easy_tether_connecting">Łączenie</string>
-    <string name="easy_tether_disconnected">Rozłączono</string>
-    <string name="easy_tether_discover_available_networks">Dostępna sieć</string>
-    <string name="easy_tether_mobile_data_is_being_used">Udostępnianie danych mobilnych</string>
     <string name="easy_tether_statusbar_connect_title_v3">Użyj hotspotu %1$s</string>
     <string name="easy_tether_statusbar_connecting_title_car_talk_back">Pojazd, łączenie…</string>
     <string name="easy_tether_statusbar_connecting_title_pad_talk_back">Tablet, łączenie…</string>
@@ -36,7 +30,6 @@
     <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Pojazd, połączono</string>
     <string name="easy_tether_statusbar_dialog_connected_title_pad_talk_back">Tablet, połączono</string>
     <string name="easy_tether_statusbar_dialog_connected_title_phone_talk_back">Telefon, połączono</string>
-    <string name="easy_tether_wlan_signal_is_being_used">Udostępnianie sieci Wi-Fi</string>
     <string name="easy_tether_wlan_signal_is_being_used_china">Udostępnianie sieci Wi-Fi</string>
     <string name="fast_connect_device_reset_audio_share">Przytrzymaj przez 2 sekundy, aby zresetować</string>
     <string name="fast_connect_find_o88g_split_mode">Przełączono na tryb Podziału</string>

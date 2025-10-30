@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ac_set_apps_title">Ukrywanie aplikacji</string>
     <string name="accept_new_connection_detail">Nowe połączenia w Centrum funkcji są ograniczone</string>
     <string name="access_control_need_password">"Aplikacja %s jest chroniona
 "</string>
@@ -22,15 +21,11 @@
     <string name="activity_title_root_note">O dostępie do roota</string>
     <string name="add_broadsize_fingerprint_instruction_msg">Czytnik znajduje się na prawej krawędzi urządzenia</string>
     <string name="add_fingerprint_instruction_msg">Dotknij czytnika linii papilarnych w przycisku pod ekranem.</string>
-    <string name="advanced_screen_paper_mode_title_new">Komfort oczu</string>
     <string name="after_sale_service">Usługi posprzedażowe</string>
     <string name="allow_all_rotations_title">Zezwalaj na obrót w każdym kierunku</string>
     <string name="allow_badge_summary">Zezwól na wyświetlanie czerwonej kropki z liczbą powiadomień na ikonach Ekranu głównego</string>
     <string name="allow_interruption_summary">Zezwól tej aplikacji na dźwięki, wibracje i/lub wyświetlanie powiadomień na ekranie</string>
-    <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
     <string name="allow_update_system_app">Zezwalaj na aktualizację aplikacji systemowych (nieobjęte wsparciem technicznym)</string>
-    <string name="anti_burn_summary">Przyciemnij ekran, gdy na niego nie patrzysz, aby zaoszczędzić baterię, i przywróć jasność, gdy zaczniesz ponownie używać urządzenia</string>
-    <string name="anti_burn_title">Wyświetlacz świadomy uwagi</string>
     <string name="alpha_build">" (alfa)"</string>
     <string name="anc_intelligent">Inteligentna redukcja szumów</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
@@ -54,12 +49,6 @@
     <string name="app_usage_cycle">Cykl zużycia danych przez aplikację</string>
     <string name="audio_sources_mode">Immersyjne efekty dźwiękowe</string>
     <string name="audio_sources_mode_summary">Wybierz lub spersonalizuj immersyjne efekty dźwiękowe</string>
-    <string name="auto_clean_description">"O tej funkcji:
-%3$d. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
-%4$d. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
-    <string name="auto_clean_description_pad">"O tej funkcji
-- Jeśli uznasz, że Twój głośnik jest blokowany przez pył, uruchom tę funkcję raz albo dwa razy.
-- Jeśli głośnik jest blokowany bardziej, uruchom tę funkcję od %1$d do %2$d razy, potrząsając jednoczesnie urządzeniem z głośnikiem skierowanym ku dołowi."</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Gdy urządzenie jest w poziomej orientacji ekranu, przyciski nawigacyjne zostaną zablokowane</string>
     <string name="auto_disable_screenbuttons_rotation_title">Zablokuj w poziomie</string>
     <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
@@ -94,20 +83,15 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="blue_light_reduce">Redukuje niebieskie światło o ≈%s</string>
     <string name="blue_light_reduce_tip">"Wykres widma jest schematycznym przedstawieniem widma punktu bieli ekranu. Wartość redukcji niebieskiego światła może się różnić w zalezności od ekranu. Zakres szkodliwego niebieskiego światła (niebieski prostokąt na wykresie) odnosi się do normy TÜV Rheinland dotyczącej niskiego poziomu niebieskiego światła w sprzęcie."</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" chce włączyć Bluetooth i ustawić telefon jako wykrywalny dla innych urządzeń przez %1$d s."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
-    <string name="bluetooth_cancle_pair_summary">Rozparuj i spróbuj się połączyć ponownie.</string>
-    <string name="bluetooth_cancle_pairing">Rozparuj</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth."</string>
     <string name="bluetooth_display_settings">Wyświetlane elementy</string>
-    <string name="bluetooth_header_battery_content_description">Bateria</string>
     <string name="bluetooth_inband_ringing_summary">Zezwól na odtwarzanie dzwonków telefonu w słuchawkach Bluetooth. Z funkcji można korzystać tylko wtedy, gdy z telefonem połączone jest jedno urządzenie. Może ona być niekompatybilna z niektórymi urządzeniami.</string>
     <string name="bluetooth_map_profile_summary_connected">Połączono z MAP</string>
     <string name="bluetooth_message_access_dialog_title">Zezwolić na dostęp do wiadomości?</string>
     <string name="bluetooth_mi_key_missing_toast">Rozparuj to urządzenie i spróbuj ponownie</string>
-    <string name="bluetooth_pairing_pin_error_message">Nieudane parowanie. Błędny kod PIN lub klucz dostępu.</string>
     <string name="bluetooth_phonebook_access_dialog_content">"Niezaufane urządzenie Bluetooth, %1$s, chce uzyskać dostęp do Twoich kontaktów i historii połączeń, w tym także danych dotyczących przychodzących i wychodzących połączeń.
 
 Nie łączono się wcześniej z urządzeniem %2$s."</string>
-    <string name="bluetooth_refresh">Odśwież</string>
     <string name="bluetooth_refreshing">Poszukiwanie urządzeń</string>
     <string name="bluetooth_scan_for_devices">Wyszukaj urządzenia</string>
     <string name="bluetooth_talkback_input_peripheral">Peryferyjne urządzenie wejściowe</string>
@@ -116,7 +100,6 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="bootloader_summary">Zainstaluj oprogramowanie przez USB</string>
     <string name="breathing_light_color_summary">Kolor diody, gdy otrzymano nowe powiadomienie</string>
     <string name="bt_always_show_icon">Zawsze wyświetlaj ikonę Bluetooth na pasku statusu</string>
-    <string name="bt_ldac_declaration">Jeśli Bluetooth wspiera standard LDAC, to zostanie on domyślnie włączony. Przetwornik LDAC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Zmień wyjście</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">Jeśli zaczniesz transmisję %1$s lub zmienisz wyjście, Twoja obecna transmisja się zatrzyma.</string>
     <string name="bt_le_audio_broadcast_dialog_title">Zaprzestać transmisji %1$s?</string>
@@ -144,51 +127,23 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="child_face_unlock_open_education_center">Otwórz Education Center po odblokowaniu</string>
     <string name="child_face_unlock_open_education_center_summary">Wybierz dane twarzy osoby, która będzie korzystać z tej funkcji</string>
     <string name="child_face_unlock_use">Użyj</string>
-    <string name="chip_add_title">Dodaj taktowanie</string>
-    <string name="chip_change_error_toast">Nie udało się zmienić parametrów</string>
-    <string name="chip_change_toast">Zmieniono taktowanie. Aby zastosować zmiany, uruchom ponownie urządzenie.</string>
-    <string name="chip_dialog_cancel">Anuluj</string>
     <string name="chip_dialog_reboot">Zrestartuj</string>
-    <string name="chip_edit_dialog_message">Wymagana jest weryfikacja taktowania. Może to przedłużyć czas ponownego uruchomienia.</string>
     <string name="chip_edit_dialog_title">Zrestartuj, aby zastosować</string>
     <string name="chip_edit_dialog_title_new">Zrestartuj urządzenie, aby zastosować zmiany</string>
-    <string name="chip_edit_title">Edytuj taktowanie</string>
-    <string name="chip_fre_bottom">Możesz wybrać taktowanie w dozwolonym obszarze. Interwał między sąsiadującymi częstotliwościami musi być większy niż %s GHz</string>
     <string name="chip_fre_label">Własne</string>
-    <string name="chip_fre_tip">Taktowanie (GHz)</string>
-    <string name="chip_frequency">Taktowanie: %s GHz</string>
-    <string name="chip_frequency_msg">Maks. taktowanie %s GHz</string>
     <string name="chip_manager_big">Duży</string>
-    <string name="chip_manager_gpu">Rdzeń</string>
     <string name="chip_manager_middle">Średni</string>
-    <string name="chip_manager_middle_small">Oszczędzający energię</string>
+    <string name="chip_manager_middle_small">Energooszczędny</string>
     <string name="chip_manager_small">Mały</string>
     <string name="chip_manager_title">Panel wydajności CPU</string>
     <string name="chip_manager_welcome">"Witaj
 w Panelu wydajności CPU"</string>
     <string name="chip_notification_error_message">Aby zapewnić normalne działanie, przywrócono domyślne wartości</string>
-    <string name="chip_notification_error_title">Błąd parametrów CPU</string>
-    <string name="chip_notification_fail_message">Nie udało się przejść sprawdzania podczas uruchamiania. Zmień wartości i spróbuj ponownie.</string>
-    <string name="chip_notification_fail_title">Nie udało się zmienić wartości CPU</string>
-    <string name="chip_notification_success_message">Pomyślnie ukończono sprawdzanie podczas uruchamiania. Jeśli wystąpią problemy, zostaną przywrócone domyślne wartości.</string>
-    <string name="chip_notification_success_title">Zmieniono wartości CPU</string>
-    <string name="chip_per_summary">Zmień taktowanie i napięcie każdej grupy rdzeni CPU i GPU</string>
-    <string name="chip_per_summary_new">Zmień taktowanie i napięcie każdej grupy rdzeni</string>
     <string name="chip_per_title">Panel wydajności CPU</string>
-    <string name="chip_reset_dialog_message">Aby przywrócić domyślne wartości, uruchom ponownie urządzenie.</string>
     <string name="chip_reset_dialog_message_new">Aby przywrócić domyślne wartości, uruchom ponownie urządzenie.</string>
-    <string name="chip_reset_dialog_title">Zrestartować urządzenie?</string>
     <string name="chip_reset_menu">Przywróć domyślne wartości</string>
     <string name="chip_save_restart">Zapisz i zrestartuj</string>
-    <string name="chip_toast_add_msg">Możesz dodać maks. %d taktowań</string>
-    <string name="chip_vol_bottom">Wybierz napięcie w dozwolonym obszarze</string>
-    <string name="chip_vol_default">Domyślne</string>
-    <string name="chip_vol_tip">Napięcie (mV)</string>
-    <string name="chip_voltage_tip">Napięcie: %s</string>
-    <string name="chip_welcome_tip">Zmień napięcie i taktowanie każdej grupy rdzeni</string>
     <string name="chip_welcome_tip_new">Zmień napięcie i taktowanie każdej grupy rdzeni. Jeśli po zmianie wystąpią problemy, np. związane ze stabilnością, urządzenie automatycznie zrestartuje się, aby przywrócić domyślne ustawienia.</string>
-    <string name="clear_failed_dlg_text">Nie można wyczyścić danych aplikacji.</string>
-    <string name="click_play_music">Dotknij, aby odtworzyć dzwonek</string>
     <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Ekran zawsze włączony\". Wyłącz najpierw ten tryb.</string>
     <string name="close_optimization_message">Wyłączenie tej funkcji może mieć wpływ na wygląd tekstu, kont i innych części systemu.</string>
     <string name="closed_beta">Stabilna (wewnętrzna)</string>
@@ -197,7 +152,6 @@ w Panelu wydajności CPU"</string>
     <string name="color_led_summary">Nie działa w trybie Nie przeszkadzać</string>
     <string name="color_mode_all_apps">Wszystkie aplikacje</string>
     <string name="color_mode_read_apps">Tylko aplikacje do czytania</string>
-    <string name="confirm_sim_deletion_title">Potwierdź chęć usunięcia karty SIM</string>
     <string name="connection_and_sharing">Więcej opcji sieci</string>
     <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
     <string name="contributors_title">Współautorzy</string>
@@ -222,10 +176,9 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="dark_ui_title">Ciemny motyw</string>
     <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
     <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko przy połączeniu z Wi‑Fi.</string>
-    <string name="dc_light_summary_new">Zapobiegaj intensywnemu migotaniu i zmniejsz zmęczenie oczu w słabych warunkach oświetleniowych</string>
-    <string name="defalut_launcher_title">Domyślny launcher</string>
     <string name="default_fingerprint_unlock_type">Wybierz domyślną metodę odblokowywania</string>
-    <string name="default_launcher_set_system_message">Dotknij przycisk Ekranu głównego, aby przywrócić domyślny launcher</string>
+    <string name="default_launcher_set_system_message">Dotknij przycisku Ekranu głównego, aby przywrócić domyślny launcher</string>
+    <string name="defalut_launcher_title">Domyślny launcher</string>
     <string name="default_phone_title">Telefon</string>
     <string name="default_vol_stream_title">Kontrola przyciskami głośności</string>
     <string name="desc_app_locale_disclaimer">Język może się różnić od języków dostępnych w aplikacji. Niektóre aplikacje mogą nie obsługiwać tego ustawienia.</string>
@@ -242,15 +195,8 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="device_description_ram">Pamięć RAM</string>
     <string name="device_description_resolution">Rozdzielczość</string>
     <string name="device_description_screen">Ekran</string>
-    <string name="device_miui_version">Wersja systemu</string>
-    <string name="device_miui_version_for_POCO">Wersja systemu (dla POCO)</string>
-    <string name="device_miui_version_parameters">Wersja systemu</string>
     <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, system zapewni wirtualne ID (OAID) zainstalowanym aplikacjom. Powstrzyma je to przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
-    <string name="dialog_check_context">"Urządzenie nie może obecnie połączyć się z Internetem.
-· Aby wybrać jedną z dostępnych sieci Wi-Fi, dotknij opcji \"Połącz z Wi-Fi\".
-· Jeśli chcesz użyć danych mobilnych, dotknij opcji \"Spróbuj ponownie\" lub usuń i włóż ponownie swoją kartę SIM."</string>
-    <string name="dialog_check_title">"Nie można połączyć się z Internetem"</string>
-    <string name="dialog_speaker_auto_clean_content_new">"Za chwilę odtworzysz dźwięk, który wyczyści głośnik. Dla lepszego efektu zwiększ głośność do maksimum."</string>
+    <string name="dialog_check_title">Nie można połączyć się z Internetem</string>
     <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
     <string name="display_advanced_mode_title">Zaawansowane ustawienia</string>
     <string name="display_notification_icon_5">%d ikon</string>
@@ -262,20 +208,12 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="double_knock">Dwukrotne puknięcie knykciem</string>
     <string name="draw_overlay">Wyświetlanie nad innymi aplikacjami</string>
     <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń, gdy znajdujesz się w miejscu z zasięgiem sieci 5G</string>
-    <string name="dsda_switch_title">Tryb dwóch aktywnych kart SIM</string>
     <string name="dual_wifi_summary">Zwiększ prędkość połączenia Wi-Fi, łącząc się z dodatkowymi sieciami</string>
     <string name="edge_mode_state_summary">"Obszar dookoła krawędzi nie będzie reagować na dotyk"</string>
-    <string name="embedded_window_guide_text">Gdy treść jest wyświetlana poziomo, aplikacje będą wyświetlane równolegle do siebie. Gdy ta funkcja jest wyłączona, aplikacje będą wyśrodkowane.</string>
     <string name="emergency_sos_title">Alarmowy sygnał SOS</string>
-    <string name="enrol_biometric_progress_talkback">Ukończono %s</string>
-    <string name="enrol_fingerprint_process_talkback">Dodawanie odcisku palca</string>
     <string name="enrol_fingerprint_title_talkback">Dotknij i wywieraj nacisk swoim palcem. Czytnik linii papilarnych znajduje się w przycisku zasilania.</string>
-    <string name="enrol_gxzw_fingerprint_title_talkback">Dodaj odcisk palca. Czytnik linii papilarnych znajduje się w dolnej części ekranu.</string>
     <string name="enrol_swipe_fingerprint_title_talkback">Przesuwaj palec w lewo i prawo. Czytnik linii papilarnych znajduje się w przycisku zasilania.</string>
-    <string name="enterprise_mode">Tryb firmowy</string>
     <string name="extended_power_menu">Rozszerzone menu zasilania (3-way reboot)</string>
-    <string name="extension_function">Dodatkowe funkcje aplikacji</string>
-    <string name="extension_function_hint">Skróty funkcji nie będą się pojawiać w ustawieniach po ich wyłączeniu</string>
     <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
     <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
     <string name="eyes_protect_certification">Technologia i certyfikacje</string>
@@ -294,25 +232,18 @@ patrząc na zewnętrzny ekran"</string>
     <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
     <string name="fast_connect_device_image">Obraz</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
-    <string name="fingerprint_start_enroll">Zarejestruj</string>
-    <string name="fingerprint_wakeup_summary">Wybudź ekran czytnikiem, gdy nie dodano żadnych odcisków palców</string>
-    <string name="fingerprint_wakeup_title">Dotknij czytnika linii papilarnych, aby wybudzić</string>
     <string name="firewall_allow_all">Zezwól wszystkim aplikacjom na łączenie się z użyciem tych metod</string>
     <string name="firewall_partial">Zezwól części aplikacji na łączenie się z użyciem tych metod​</string>
     <string name="firewall_restrict_all">Ogranicz łączność dla wszystkich aplikacji z użyciem tych metod</string>
     <string name="flash_notifications_title">Powiadomienia błyskowe</string>
     <string name="focus_title">Skupienie powiadomień</string>
-    <string name="fod_swipe_add_fingerprint_title">Delikatnie naciśnij i obróć swój palec</string>
-    <string name="fod_swipe_add_fingerprint_title_talkback">Delikatnie naciśnij i obróć swój palec. Czytnik linii papilarnych znajduje się pośrodku dolnej części ekranu.</string>
-    <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
+    <string name="font_setting_weight_toast">Obecna czcionka nie wspiera zmiany jej grubości</string>
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
     <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie i trzymaj je, dopóki telefon nie uruchomi się do trybu Recovery.</string>
     <string name="format_month_day_style2">d.MM.</string>
     <string name="format_month_day_week">EEE, d MMM</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Przytrzymaj, a następnie przesuń w dół pasek akcji pływającego okna</string>
-    <string name="freeform_guide_free_drag_summary">Przeciągaj tekst, obrazki lub pliki między różnymi oknami wspieranych aplikacji.</string>
-    <string name="freeform_guide_free_drag_title">Przeciągaj elementy pomiędzy oknami</string>
     <string name="freeform_guide_move_summary">Przytrzymaj pasek akcji pływającego okna, aby je przesunąć</string>
     <string name="freeform_guide_multiple_window_summary">"Przytrzymaj ikonę aplikacji na doku, aby otworzyć nowe okno.
 *Funkcja działa z aplikacjami Notatki, Poczta, Przeglądarka i WPS."</string>
@@ -325,7 +256,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu</string>
     <string name="fsg_mistake_touch_summary">W niektórych przypadkach, np. podczas grania w gry lub oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
     <string name="fsg_mistake_touch_title">Potwierdź gest</string>
-    <string name="full_screen_reminder">Ostrzeżenie</string>
     <string name="full_transparent_smarrcover_title">Przezroczysty front</string>
     <string name="game_app_fragment_category">Wspierane gry</string>
     <string name="game_app_title">Efekty świetlne w grach</string>
@@ -342,9 +272,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gps_classic_mode_title">Pozycjonowanie Xiaomi</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="gxzw_add_fingerprint_message">Upewnij się, że palce i powierzchnia ekranu są czyste</string>
-    <string name="gxzw_anim_category_mini">Minimalizm</string>
-    <string name="gxzw_anim_download_fail">Nie udało się pobrać</string>
-    <string name="gxzw_anim_download_network_error">Wystąpił problem z siecią</string>
     <string name="gxzw_anim_switch">Włącz animację odcisku palca</string>
     <string name="gxzw_anim_title">Animacja odcisku palca</string>
     <string name="gxzw_quick_open_fast_title">Szybko przesuń (zaawansowane)</string>
@@ -364,14 +291,11 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="headset_autoswitch_switched">Przełączono</string>
     <string name="headset_settings_sound_bose_balance">Zbalansowane</string>
     <string name="headset_settings_sound_bose_classic">Dynamiczne</string>
-    <string name="headset_settings_sound_title">Efekty dźwiękowe</string>
     <string name="home">Ustawienia ekranu głównego</string>
     <string name="home_app">Aplikacja ekranu głównego</string>
-    <string name="home_title">Ekran główny</string>
     <string name="hover_mode_guide_text">Gdy na wewnętrznym ekranie trwa rozmowa lub oglądasz filmy, możesz użyć Trybu kieszonkowego w dolnej części wyświetlacza.</string>
     <string name="hover_mode_name">Tryb kieszonkowy</string>
     <string name="icon_display_customization_action">Ikony paska statusu</string>
-    <string name="imei_primary">Numer IMEI (główny)</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
     <string name="impunity_declaration_content">Skaner musi korzystać z Twojego aparatu i przetwarzać wykonane przez Ciebie zdjęcia podczas korzystania z tej aplikacji. Nie używaj Skanera do wykonywania zdjęć obiektów zawierających Twoje prywatne dane. Dotykając opcji \"Zgadzam się\", wyrażasz zgodę na warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font> Xiaomi i zezwalasz Skanerowi na łączenie się z Internetem."</string>
     <string name="infinity_display_title">Nawigacja systemowa</string>
@@ -397,7 +321,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="light_camera_state_title">Wskaźnik statusu aparatu</string>
     <string name="light_color_mode">Jasny motyw</string>
     <string name="list_bg_header_text">"Jeśli ograniczysz łączność w tle, nowe aplikacje nie będą w stanie połączyć się z Internetem w tle po ich instalacji. Mogą one nie być w stanie otrzymywać wiadomości lub pobierać zawartości po dokonaniu tej czynności."</string>
-    <string name="live_notifications_desc">Włącz, aby przypinać powiadomienia z aktualizacjami na żywo z aplikacji w Panelu powiadomień on to pin notifications with live info from apps in the Notification shade</string>
+    <string name="live_notifications_desc">Włącz, aby przypinać powiadomienia z aktualizacjami na żywo z aplikacji w Panelu powiadomień</string>
     <string name="live_notifications_switch">Aktualizacje na żywo</string>
     <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
     <string name="lock_screen_after_fold_screen_summary">"Po złożeniu urządzenie zablokuje się z wyjątkiem sytuacji, w której korzystasz z przedniego aparatu bądź głośnika."</string>
@@ -422,7 +346,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="long_press_volume_down">Długo Zmniejsz głośność</string>
     <string name="low_dc_light_title">Redukcja migotania w słabym świetle</string>
     <string name="lyra_account_ap_summary_v2">Tablety i komputery w pobliżu zalogowane na to samo konto mogą bezpośrednio korzystać z sieci Twojego telefonu</string>
-    <string name="lyra_account_ap_title_v2">Bezprzewodowy tethering</string>
     <string name="lyra_auto_connect_summary_v2">Tablety i komputery w pobliżu zalogowane na to samo konto będą automatycznie korzystać z sieci Twojego telefonu, gdy nie mają dostępnego Internetu</string>
     <string name="main_netcheck_summary">Sprawdź stan połączenia sieciowego</string>
     <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
@@ -434,9 +357,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="max_cpu8_info">8x</string>
     <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na ekranie blokady</string>
     <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty w Szybkich ustawieniach</string>
-    <string name="media_dialog_summary">Gdy ta funkcja jest włączona, urządzenie będzie wibrować w rytmie muzyki (w wspieranych aplikacjach).</string>
     <string name="memory_settings_title">Pamięć wewnętrzna</string>
-    <string name="miheadset_MFB_and_minus">Przytrzymaj przyciski MFB i \"-\" przez %d s</string>
     <string name="miheadset_audio_mode_high">Wysoka</string>
     <string name="miheadset_audio_mode_listen">Niska</string>
     <string name="miheadset_audio_mode_normal">Normalna</string>
@@ -449,26 +370,19 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miheadset_long_press_MFB">Przytrzymaj przycisk MFB przez %d s</string>
     <string name="miheadset_long_press_minus">Przytrzymaj przycisk \"-\" przez %d s</string>
     <string name="miheadset_multi_connect_mode">Łączność z kilkoma urządzeniami na raz</string>
-    <string name="miheadset_play_mode">Tryb odtwarzania</string>
     <string name="miheadset_plus_and_minus">Przytrzymaj przyciski \"+\" i \"-\" przez %d s</string>
     <string name="miheadset_recording_translation">Nagrywanie dźwięku/Interpretacja</string>
     <string name="miheadset_sound_mode_balanced_hearing">Zbalansowane</string>
     <string name="miheadset_sound_mode_daily_mode">Codzienny</string>
     <string name="miheadset_sound_mode_outdoor_mode">Outdoor</string>
-    <string name="miheadset_sound_mode_summary_new">Dla lepszych rezultatów odtwórz utwór przed użyciem tej funkcji</string>
     <string name="miheadset_sound_mode_water_mode">Pod wodą</string>
     <string name="miheadset_switch_play_mode">Zmień tryb odtwarzania</string>
-    <string name="miheadset_switch_play_mode_summary">1. Zmiana trybu odtwarzania: Odtwarzaj przez Bluetooth lub słuchaj muzyki znajdującej się w słuchawkach.</string>
-    <string name="miheadset_switch_play_oder_summary">2. Zmiana kolejności odtwarzania: Potwórz jeden utwór, całą playlistę lub zmieniaj kolejność utworów. Funkcja działa tylko na muzyce znajdującej się w słuchawkach.</string>
-    <string name="miheadset_switch_play_order">Zmień kolejność odtwarzania</string>
     <string name="miheadset_triple_MFB">Dotknij trzy razy MFB</string>
     <string name="miheadset_turn_on_off_swim">Rozpocznij/zakończ kąpiel</string>
     <string name="mimotion_pwm_enable">Adaptacyjne odświeżanie Pro</string>
     <string name="mimotion_pwm_enable_summary">Uzyskaj więcej opcji odświeżania i zmień metodę przyciemniania z DC na PWM</string>
-    <string name="mimotion_pwm_message">Włączyć przyciemnianie PWM?</string>
     <string name="mimotion_pwm_title">Ruch Xiaomi</string>
     <string name="minors_control_title">Tryb dziecięcy</string>
-    <string name="miui_bubbles_notification">Dymki</string>
     <string name="miui_lab_features">Testowe funkcje</string>
     <string name="miui_nfc_dialog_message">"Po wyłączeniu NFC nie będzie można korzystać z funkcji wymagających tej technologii. Wyłączyć mimo to?"</string>
     <string name="miui_sos_call_fire">Straż pożarna</string>
@@ -516,21 +430,16 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="my_device">O telefonie</string>
     <string name="my_device_camera_params">Aparat</string>
     <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
-    <string name="navigation_guide_app_title">"Wykonaj akcje aplikacji"</string>
+    <string name="navigation_guide_app_title">Wykonaj akcje aplikacji</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
     <string name="navigation_guide_hide_gesture_line_summary">"Nie pokazuj paska na dole ekranu podczas używania gestów"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
     <string name="navigation_guide_recent_title">Pokaż ostatnie aplikacje</string>
     <string name="navigation_type_radio_text_full_screen">Gesty</string>
     <string name="near_loclscreen_title">Wybudź ekran, gdy się zbliżasz</string>
-    <string name="nearby_wifi_refresh_running">Odświeżanie</string>
-    <string name="nearby_wifi_title">Dostępne urządzenia</string>
     <string name="network_dashboard_title">Sieć i Internet</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
-    <string name="new_instruction_privacy_password">Hasło Ochrony prywatności zabezpiecza te funkcje</string>
-    <string name="new_modify_privacy_password">Zmień hasło Ochrony prywatności</string>
-    <string name="new_privacy_password_settings">Ustaw hasło Ochrony prywatności</string>
-    <string name="new_privacy_password_toggle_summary">Włącz tę funkcję, aby użyć alternatywnej do blokady ekranu metody weryfikacji tożsamości</string>
+    <string name="new_privacy_password_settings">Ustaw hasło ochrony prywatności</string>
     <string name="nfc_dnd_mode_title">Tryb Nie przeszkadzać dla NFC</string>
     <string name="night_display_auto_mode_custom">Własny harmonogram</string>
     <string name="night_display_auto_mode_never">Nigdy</string>
@@ -542,14 +451,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
     <string name="notification_badge_title">Kropki powiadomień</string>
     <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
-    <string name="notification_control_center_new">Powiadomienia i pasek statusu</string>
-    <string name="notification_polite_description">Gdy w krótkim czasie otrzymasz wiele powiadomień, telefon zmniejszy głośność i ograniczy liczbę wyskakujących okienek na ekranie przez maksymalnie 2 minuty. Połączenia, alarmy i rozmowy priorytetowe nadal będą sygnalizowane wibracjami, dźwiękowo lub wyświetlą się na ekranie, a wszystkie powiadomienia będzie można łatwo znaleźć, przesuwając palcem z góry ekranu w dół.</string>
-    <string name="notification_polite_main_control_title">Używaj powiadomień adaptacyjnych</string>
-    <string name="notification_polite_title">Powiadomienia adaptacyjne</string>
     <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
     <string name="now">Zrestartuj</string>
-    <string name="nrca_registered">Zarejestrowano</string>
-    <string name="nrca_type_title">Stan agregacji operatora</string>
     <string name="nrca_unregistered">Nie zarejestrowano</string>
     <string name="oem_unlock_enable_summary">Zezwalaj na odblokowanie bootloadera</string>
     <string name="one_handed_title">Jedna dłoń</string>
@@ -576,45 +479,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="pc_hidemode_performance_chip_title">Wydajność (overclocking)</string>
     <string name="pc_power_mode_has_performance_chip">Ulepszona wydajność (overclocking)</string>
     <string name="permit_full_screen_intent">Zezwól na powiadomienia pełnoekranowe z tej aplikacji</string>
-    <string name="personal_audio">Spersonalizowany dźwięk przestrzenny</string>
-    <string name="personal_audio_adaptation_desc">Spersonalizowana adaptacja daje Ci bardziej przestrzenne i realistyczne wrażenia ze słuchania</string>
-    <string name="personal_audio_adaptation_exit_notify">Trwa adaptacja. Wyjść mimo to?</string>
-    <string name="personal_audio_adaptation_failed">Nie udało się zaadaptować</string>
-    <string name="personal_audio_adaptation_finish">Adaptacja ukończona</string>
-    <string name="personal_audio_adaptation_finish_desc">Ukończono spersonalizowaną adaptację dźwięku przestrzennego. Wypróbuj ją teraz!</string>
-    <string name="personal_audio_adaptation_front_desc1">%s. Trzymaj telefon, jakbyś robił selfie. Trzymaj go pionowo, z wyciągniętą ręką.</string>
-    <string name="personal_audio_adaptation_front_desc2">%s. Odtwórz dźwięk i utrzymaj tę postawę, dopóki się on nie skończy.</string>
-    <string name="personal_audio_adaptation_front_finish">Ukończono adaptację z przodu</string>
-    <string name="personal_audio_adaptation_front_finish_desc">Ukończono adaptację z przodu. Dotknij opcji \"Kontynuuj\", aby zaadaptować następną pozycję i ukończyć konfigurację Spersonalizowanego dźwięku przestrzennego.</string>
-    <string name="personal_audio_adaptation_front_title">Adaptacja z przodu</string>
-    <string name="personal_audio_adaptation_left_front_desc1">%1$s. Utrzymaj postawę jak do selfie (możesz zmienić rękę) i umieść telefon około %2$s° po Twojej lewej stronie.</string>
-    <string name="personal_audio_adaptation_left_front_finish">Adaptacja z przodu %s° (po lewej stronie) ukończona</string>
-    <string name="personal_audio_adaptation_left_front_finish_desc">Ukończono adaptację lewej przedniej strony. Dotknij opcji \"Kontynuuj\", aby zaadaptować następną pozycję i ukończyć konfigurację Spersonalizowanego dźwięku przestrzennego.</string>
-    <string name="personal_audio_adaptation_left_front_title">Adaptacja z przodu %s° (po lewej stronie)</string>
     <string name="personal_audio_adaptation_retry">Zacznij od nowa</string>
-    <string name="personal_audio_adaptation_retry_notify">Ponowna próba wyczyści dane poprzedniej adaptacji.</string>
-    <string name="personal_audio_adaptation_right_front_desc1">%1$s. Utrzymaj postawę jak do selfie i umieść telefon około %2$s° po Twojej prawej stronie.</string>
-    <string name="personal_audio_adaptation_right_front_finish">Adaptacja z przodu %s° (po prawej stronie) ukończona</string>
-    <string name="personal_audio_adaptation_right_front_finish_desc">Ukończono adaptację prawej przedniej strony. Dotknij opcji \"Kontynuuj\", aby zaadaptować następną pozycję i ukończyć konfigurację Spersonalizowanego dźwięku przestrzennego.</string>
-    <string name="personal_audio_adaptation_right_front_title">Adaptacja z przodu %s° (po prawej stronie)</string>
-    <string name="personal_audio_adaptation_start">Rozpocznij adaptację</string>
     <string name="personal_audio_adapted_desc">Adaptacja ukończona. Dotknij opcji \"Zacznij od nowa\", aby rozpocząć proces ponownie.</string>
-    <string name="personal_audio_adapting">Adaptowanie…</string>
-    <string name="personal_audio_adapting_desc">"Adaptowanie. Nie opuszczaj tej strony."</string>
-    <string name="personal_audio_condition">Najpierw włącz Dźwięk przestrzenny</string>
-    <string name="personal_audio_continue">Kontynuuj</string>
-    <string name="personal_audio_dialog_audio_interrupt">Dźwięk lub wideo zostały przerwane. Adaptacja zatrzymana. Rozpocznij adaptację Spersonalizowanego dźwięku przestrzennego ponownie.</string>
-    <string name="personal_audio_dialog_call_interrupt">Połączenie przerwane. Adaptacja zatrzymana. Rozpocznij adaptację Spersonalizowanego dźwięku przestrzennego ponownie.</string>
-    <string name="personal_audio_dialog_common">Wystąpił problem podczas adaptacji. Rozpocznij adaptację Spersonalizowanego dźwięku przestrzennego ponownie.</string>
-    <string name="personal_audio_dialog_disconnect">Rozłączono słuchawki. Adaptacja zatrzymana. Rozpocznij adaptację Spersonalizowanego dźwięku przestrzennego ponownie.</string>
-    <string name="personal_audio_dialog_no_wear">Nie noszono obu słuchawek. Adaptacja zatrzymana. Rozpocznij adaptację Spersonalizowanego dźwięku przestrzennego ponownie.</string>
-    <string name="personal_audio_disable">Wyłącz</string>
-    <string name="personal_audio_disable_desc">Po wyłączeniu wciąż możesz używać niespersonalizowanego Dźwięku przestrzennego. Twoje dane adaptacji zostaną zachowane.</string>
-    <string name="personal_audio_disable_title">Wyłącz Spersonalizowany dźwięk przestrzenny</string>
-    <string name="personal_audio_enable">Włącz</string>
-    <string name="personal_audio_play">Odtwórz dźwięk</string>
-    <string name="personal_audio_playing">Odtwarzanie dźwięku…</string>
-    <string name="personal_audio_preparing">Przygotowywanie dźwięku…</string>
     <string name="personal_audio_retry_all">Dotknij opcji \"Zacznij od nowa\", aby ukończyć procesy przedniej, lewej przedniej i prawej przedniej adaptacji</string>
     <string name="personal_audio_retry_front">Dotknij opcji \"Zacznij od nowa\", aby ukończyć proces przedniej adaptacji</string>
     <string name="personal_audio_retry_front_left">Dotknij opcji \"Zacznij od nowa\", aby ukończyć procesy przedniej i lewej przedniej adaptacji</string>
@@ -622,20 +488,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="personal_audio_retry_left_front">Dotknij opcji \"Zacznij od nowa\", aby ukończyć proces lewej przedniej adaptacji</string>
     <string name="personal_audio_retry_right_front">Dotknij opcji \"Zacznij od nowa\", aby ukończyć proces prawej przedniej adaptacji</string>
     <string name="personal_audio_retry_right_left">Dotknij opcji \"Zacznij od nowa\", aby ukończyć procesy lewej przedniej i prawej przedniej adaptacji</string>
-    <string name="personal_audio_summary">Ciesz się bardziej immersyjnymi i realistycznymi wrażeniami ze słuchania</string>
-    <string name="personal_audio_toast_calling">Nie można spersonalizować dźwięku przestrzennego podczas połączeń</string>
-    <string name="personal_audio_toast_common">Nie można spersonalizować dźwięku przestrzennego</string>
-    <string name="personal_audio_toast_disconnect">Aby spersonalizować dźwięk przestrzenny, połącz słuchawki z urządzeniem</string>
-    <string name="personal_audio_toast_low_battery">Aby spersonalizować dźwięk przestrzenny, naładuj urządzenie</string>
-    <string name="personal_audio_toast_no_wear">Aby spersonalizować dźwięk przestrzenny, włóż obie słuchawki</string>
-    <string name="personal_audio_toast_otaing">Trwa aktualizacja. Nie można spersonalizować dźwięku przestrzennego.</string>
-    <string name="personal_audio_toast_overtime">Przekroczono czas operacji. Zrestartuj konfigurację spersonalizowanego dźwięku przestrzennego.</string>
-    <string name="personal_audio_toast_record_app">Trwa nagrywanie przez inną aplikację. Nie można spersonalizować dźwięku przestrzennego.</string>
-    <string name="personal_audio_toast_recording">Aby spersonalizować dźwięk przestrzenny, zatrzymaj nagrywanie</string>
-    <string name="personal_audio_volume_hint">%1$s. Aby zapewnić poprawną adaptację, ustaw głośność telefonu powyżej %2$s.</string>
     <string name="phone_backup_title">Telefon</string>
     <string name="photography_handle_button_function_settings">Ustaw przycisk uchwytu</string>
-    <string name="photography_handle_charge_state_choice_always">Zawsze</string>
     <string name="photography_handle_charge_state_choice_emergency">Wyjątkowo</string>
     <string name="photography_handle_charge_state_summary_new">Zacznij ładowanie tego urządzenia z uchwytu aparatu po jego podłączeniu</string>
     <string name="photography_handle_emergency_charge_title">Poziom alarmowego ładowania</string>
@@ -646,76 +500,26 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="photography_handle_launch_camera_portrait_mode">Portret</string>
     <string name="photography_handle_launch_camera_video_mode">Wideo</string>
     <string name="photography_handle_normal_title">Wył.</string>
-    <string name="picture_in_picture_app_detail_switch">Pozwól na tryb obraz w obrazie</string>
-    <string name="picture_in_picture_app_detail_title">Obraz w obrazie</string>
     <string name="picture_in_picture_empty_text">Żadna zainstalowana aplikacja nie obsługuje trybu obrazu w obrazie</string>
-    <string name="picture_in_picture_title">Obraz w obrazie</string>
     <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
     <string name="power_checker">Optymalizacja i użycie baterii</string>
     <string name="power_menu_under_keyguard_summary">Zezwól na dostęp do menu zasilania, gdy urządzenie jest zablokowane</string>
     <string name="power_menu_under_keyguard_title">Dostęp do menu zasilania</string>
-    <string name="pre_installed_application">Preinstalowane aplikacje</string>
     <string name="pref_manage_bg_network">Zarządzaj łącznością aplikacji w tle</string>
     <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Gdy ekran jest zablokowany, naciśnij dwukrotnie przycisk Głośność-, aby uruchomić Aparat i zrobić zdjęcie</string>
     <string name="pref_volume_launch_camera_when_lock_screen_summary">Gdy ekran jest zablokowany, naciśnij dwukrotnie przycisk Głośność-, aby uruchomić Aparat</string>
     <string name="preferred_application_warning_message">Zmiana domyślnej aplikacji %1$s może powodować nadmierne użycie baterii lub zagrozić bezpieczeństwu. Zaleca się użycie aplikacji %2$s.</string>
     <string name="preferred_sms_title">Domyślna aplikacja do SMS-ów</string>
-    <string name="privacy_files">Prywatne pliki</string>
     <string name="privacy_password_custom_password">Własny PIN</string>
-    <string name="privacy_password_digital_password">%d-cyfrowy PIN</string>
-    <string name="privacy_password_enter_custom_password">Wprowadź %1$d–%2$d-znakowy PIN</string>
-    <string name="privacy_password_enter_digital_password">Wprowadź swój %d-znakowy PIN</string>
-    <string name="privacy_password_enter_graphic_password">Narysuj swój wzór</string>
-    <string name="privacy_password_enter_hybrid_password">Wprowadź %1$d–%2$d-znakowe hasło</string>
-    <string name="privacy_password_graphic_password">Wzór</string>
-    <string name="privacy_password_hybrid_password">Hasło</string>
-    <string name="privacy_password_set_luck_button">Ustawienia</string>
     <string name="privacy_password_set_luck_comment">Nie będziesz w stanie używać funkcji prywatności na swoim urządzeniu bez blokady ekranu</string>
-    <string name="privacy_password_set_luck_message">"Aby bardziej bezpiecznie używać funkcji prywatności na swoim urządzeniu, domyślnie do uwierzytelniania Xiaomi HyperOS używa Twojej blokady ekranu.
-
-Jeśli jej nie ustawiono, otrzymasz prośbę o jej skonfigurowanie."</string>
-    <string name="privacy_password_set_luck_title">Ustaw blokadę ekranu</string>
-    <string name="privacy_password_setup_again">Potwierdź PIN</string>
-    <string name="privacy_password_setup_confirm">Potwierdź</string>
-    <string name="privacy_password_setup_hint">Wprowadź PIN</string>
-    <string name="privacy_password_setup_next">Dalej</string>
-    <string name="privacy_password_setup_not_match">Kody PIN się nie zgadzają. Spróbuj ponownie.</string>
-    <string name="privacy_password_setup_process">Ustaw hasło Ochrony prywatności</string>
-    <string name="privacy_password_title_summary">Kontroluj typ hasła używanego do funkcji prywatności</string>
-    <string name="privacy_password_update_cancel">Anuluj</string>
-    <string name="privacy_password_update_desc">Będziesz w stanie zastosować hasło Ochrony prywatności lub blokadę ekranu do konkretnych funkcji.</string>
-    <string name="privacy_password_update_message">Możesz teraz chronić elementy hasłem Ochrony prywatności jako alternatywą do Twojej blokady ekranu. Gdy włączysz tę funkcję, stare wersje Blokady aplikacji lub hasła Ochrony prywatności zostaną zastąpione przez nowe hasło Ochrony prywatności, a wszystkie prywatne elementy będą chronione przez niego. Ustawić hasło Ochrony prywatności?</string>
-    <string name="privacy_password_update_setup">Ustaw</string>
-    <string name="privacy_password_update_title">Zaktualizowane hasło Ochrony prywatności</string>
-    <string name="privacy_password_update_type">Typ hasła</string>
     <string name="privacy_policy">Polityka prywatności</string>
-    <string name="privacy_xiaomi_memory">Pamięć Xiaomi Hyper XiaoAi</string>
-    <string name="private_space_apps_permission_text">"Przestrzenie prywatne nie są odpowiednie dla aplikacji, które muszą działać w tle lub wysyłać krytyczne powiadomienia (jak np. aplikacje medyczne). Wynika to z tego, że działanie w tle i powiadomienia są wstrzymywane, gdy przestrzeń jest zablokowana.
-
-Po zablokowaniu przestrzeni prywatnej umieszczone w niej aplikacje nie będą też widoczne w menedżerze uprawnień, panelu prywatności ani innych ustawieniach.
-
-Przestrzeni prywatnej nie można przenieść na inne urządzenie. Jeśli chcesz z niej korzystać na innym urządzeniu, musisz utworzyć nową przestrzeń.
-
-Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
-    <string name="private_space_settings_footer_text">"Przestrzenie prywatne nie są odpowiednie dla aplikacji, które muszą działać w tle lub wysyłać krytyczne powiadomienia (jak np. aplikacje medyczne). Wynika to z tego, że działanie w tle i powiadomienia są wstrzymywane, gdy przestrzeń jest zablokowana.
-
-Po zablokowaniu przestrzeni prywatnej umieszczone w niej aplikacje nie będą też widoczne w menedżerze uprawnień, panelu prywatności ani innych ustawieniach.
-
-Przestrzeni prywatnej nie można przywrócić na innym urządzeniu. Jeśli chcesz z niej korzystać na innym urządzeniu, musisz utworzyć nową przestrzeń.
-
-Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
     <string name="protect_eyes_mode">Tryb czytania</string>
-    <string name="provision_complete_text">Wszystko gotowe</string>
-    <string name="provision_flip_page_hint">Rozłóż, aby aktywować urządzenie</string>
-    <string name="provision_system_complete">Konfiguracja ukończona</string>
-    <string name="provision_system_preparing">Przygotowywanie systemu…</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="recommend_press_type">Aby ograniczyć przypadkowe dotknięcia, zalecana jest opcja \"Naciśnij\". W każdej chwili możesz przełączyć się na opcję \"Dotknij\" w Ustawieniach.</string>
     <string name="read_apps_selected_scope">Wybierz aplikacje</string>
     <string name="read_apps_selected_scope_new">Wybierz aplikacje (tylko część z nich jest wspierana)</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
-    <string name="satellite_management_title">Sieć satelitarna</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
     <string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
     <string name="screen_dark_mode_time_summary">Ciemny motyw zostanie włączony o zaplanowanym czasie, gdy wyłączysz ekran</string>
@@ -727,9 +531,8 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="screen_fps_unit_smooth">%d Hz (lepsza płynność)</string>
     <string name="screen_pinning_summary">Przypięte aplikacje pozostaną w menu Ostatnich aplikacji, dopóki ich nie odepniesz</string>
     <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tę funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
-    <string name="screen_timeout_title">Zablokuj ekran po:</string>
     <string name="screen_timeout_subtitle">Wyświetlanie statycznej treści przez dłuższy czas może powodować nierównomierne odwzorowanie kolorów</string>
-    <string name="se_wallet_uicc">Portfel na SIM %1$s</string>
+    <string name="screen_timeout_title">Zablokuj ekran po:</string>
     <string name="search_miui_updater">OS;Wersja OS</string>
     <string name="search_phone_case">Obudowa do telefonu;case;gamingowy case;konsolowy case</string>
     <string name="search_privacy_protection">Zarządzanie uprawnieniami</string>
@@ -753,9 +556,6 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="sidebar_setting">Ustawienia Paska bocznego</string>
     <string name="sim_management_title">Karty SIM i sieć mobilna</string>
     <string name="sim_management_title_singlesim">Karta SIM i sieć mobilna</string>
-    <string name="single_bds_summary">Usługi pozycjonowania dostarczane przez BeiDou Navigation Satellite System</string>
-    <string name="single_bds_switch_description">Aby użyć tej funkcji, przyznaj jej uprawnienie dostępu do Internetu</string>
-    <string name="single_bds_title">Pozycjonowanie BeiDou</string>
     <string name="single_key_use">Obsługa jednym przyciskiem</string>
     <string name="size_giga_byte">" GB"</string>
     <string name="size_kilo_byte">" KB"</string>
@@ -812,7 +612,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="sound_effects_enable_title">Odtwarzaj dźwięk przy dotknięciu</string>
     <string name="sound_settings">Dźwięk i wibracje</string>
     <string name="speed_mode">Tryb prędkości</string>
-    <string name="speed_mode_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
     <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
     <string name="standard_mode">Standardowy</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
@@ -822,48 +621,23 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="status_bar_settings_qs_layout">Układ przełączników</string>
     <string name="status_bar_settings_show_lte_for_4g">Użyj ikonki LTE zamiast 4G</string>
     <string name="status_bar_title">Centrum funkcji i pasek statusu</string>
-    <string name="strong_suppression_summary">"Urządzenie będzie mniej reagować na przypadkowe dotknięcia (część gestów może nie działać w pobliżu krawędzi)"</string>
-    <string name="structure_face_data_input_down">Pochyl głowę</string>
-    <string name="structure_face_hardware_abnormal_msg">"Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem."</string>
-    <string name="structure_face_unlock_not_same_person">"Musisz dokończyć kroki osobiście. Nie zamieniaj się z inną osobą."</string>
-    <string name="subscreen_aod">Ekran zawsze włączony</string>
-    <string name="subscreen_personality">Personalizacja</string>
+    <string name="strong_suppression_summary">Urządzenie będzie mniej reagować na przypadkowe dotknięcia (część gestów może nie działać w pobliżu krawędzi)</string>
+    <string name="structure_face_hardware_abnormal_msg">Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem.</string>
     <string name="summary_quick_control_all_devices">Pokaż kontrolki dla telewizorów, głośników i samochodów w pobliżu w Centrum funkcji</string>
     <string name="sunlight_low_power_notification">Nie można włączyć Trybu słonecznego, gdyż poziom baterii lub temperatury jest zbyt niski</string>
-    <string name="super_volume_tip">Maksymalna głośność %s</string>
-    <string name="swipe_add_fingerprint_dirty_text">Smugi mogą wpłynąć na rozpoznawanie</string>
-    <string name="swipe_add_fingerprint_dirty_title">Upewnij się, że palec jest czysty i suchy</string>
-    <string name="swipe_add_fingerprint_finish_text">Dla lepszego odblokowywania spróbuj dodać palec pod różnymi kątami</string>
-    <string name="swipe_add_fingerprint_insufficient_title">Nie udało się rozpoznać odcisku palca. Spróbuj ponownie.</string>
-    <string name="swipe_add_fingerprint_move_text">Próbuj różnych kątów i pozycji</string>
-    <string name="swipe_add_fingerprint_move_title">Dostosuj swój chwyt</string>
-    <string name="swipe_add_fingerprint_need_up_text">Mamy problem z zarejestrowaniem odcisku</string>
-    <string name="swipe_add_fingerprint_need_up_title">Podnieś palec i spróbuj ponownie</string>
-    <string name="swipe_add_fingerprint_not_good_text">Mamy problem z zarejestrowaniem odcisku</string>
-    <string name="swipe_add_fingerprint_part_text">Zmień położenie palca</string>
-    <string name="swipe_add_fingerprint_part_title">Przesuń palec do obszaru czytnika</string>
-    <string name="swipe_add_fingerprint_part_title_talkback">Przesuń palec z powrotem do obszaru odcisku</string>
-    <string name="swipe_add_fingerprint_swipe_fast_title">Przesuwaj palec wolniej</string>
-    <string name="swipe_add_fingerprint_swipe_slow_title">Przesuwaj palec szybciej</string>
-    <string name="swipe_add_fingerprint_text">Dostosuj swój chwyt, aby zarejestrować krawędzie odcisku</string>
-    <string name="swipe_add_fingerprint_up_text">Powoli naciskaj i obracaj palec</string>
-    <string name="swipe_add_fingerprint_up_title">Naciskaj na środek obszaru odcisku</string>
     <string name="switch_power_sound">Odtwarzaj dźwięk po podłączeniu ładowarki</string>
     <string name="sync_wifi_only">Synchronizuj tylko przez Wi-Fi</string>
     <string name="system_app_settings">Systemowe</string>
     <string name="system_shortcut_wake">Wybudź skrótami przycisków</string>
-    <string name="talkback_ocr_summary">Rozpoznawaj tekst na obrazkach i czytaj go na głos</string>
     <string name="tap_to_sign_up">Dotknij, aby się zarejestrować</string>
     <string name="tether_limit_value_custom">Własny</string>
     <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
-    <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
     <string name="truetone_summary_new">Automatycznie dostosuj kolory w oparciu o światło otoczenia dla bardziej naturalnego patrzenia</string>
     <string name="ufs_size_suffix">%1$s (%2$s z rozszerzeniem przestrzeni)</string>
     <string name="unchecked_app_title">Wyłączone efekty świetlne</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
-    <string name="uninstall_xspace_app_dlg_msg">Odinstalowanie sklonowanej aplikacji usunie też jej dane.</string>
     <string name="unmute_sound_title">Odtwarzaj dźwięk wyłączenia trybu cichego/Nie przeszkadzać</string>
     <string name="upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z urządzenia poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność systemu i aplikacji itp.
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń.
@@ -897,7 +671,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="usb_tethering_active_subtext">Powiązano</string>
     <string name="use_control_panel">Użyj nowego Centrum funkcji</string>
     <string name="use_otg_charge_only">Ładowanie zwrotne</string>
-    <string name="use_otg_charge_only_summary">Szybsze ładowanie 1,8A</string>
     <string name="use_otg_file_transfers">Ładowanie zwrotne i transfer plików</string>
     <string name="use_personalized_ad_service_summary">Xiaomi może dostarczać reklamy, jednak w xiaomi.eu jest to z góry wyłączone. Opcja ta nie ma zastosowania.</string>
     <string name="use_personalized_ad_service_summary_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
@@ -910,10 +683,8 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
     <string name="var_font_switch_title">Zmienna grubość czcionki</string>
     <string name="voice_assist_summary">Twój osobisty inteligentny asystent</string>
-    <string name="vpn_first_always_on_vpn_message">"Po włączeniu tego ustawienia utracisz połączenie z Internetem do czasu nawiązania połączenia przez VPN"</string>
-    <string name="wallpaper_desktop">Ekran główny</string>
+    <string name="vpn_first_always_on_vpn_message">Po włączeniu tego ustawienia utracisz połączenie z Internetem do czasu nawiązania połączenia przez VPN</string>
     <string name="welcomeBtn">Start</string>
-    <string name="welcomeTip">Zmień napięcie i taktowanie wszystkich grup rdzeni CPU i GPU</string>
     <string name="wifi_ap_band_config">Pasmo AP</string>
     <string name="wifi_ap_hidden_ssid">Ukrycie SSID</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
@@ -923,14 +694,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_reconnect_failed_title_china">Nieprawidłowe hasło Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
-    <string name="wifi_required_info_text">Aby dokończyć konfigurację, urządzenie musi się połączyć z siecią Wi-Fi. Po zakończeniu konfiguracji możesz się przełączać między danymi mobilnymi i Wi-Fi.</string>
-    <string name="wifi_scan_notify_text_scanning_off">Aby poprawić dokładność lokalizacji, włącz skanowanie Wi-Fi w LINK_BEGINustawieniach skanowania Wi-FiLINK_END.</string>
-    <string name="wifi_scan_throttling">Throttling skanowania Wi-Fi</string>
-    <string name="wifi_scan_throttling_summary">Ogranicza drenowanie baterii i poprawia jakość sieci</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
-    <string name="zen_mode_action_change_icon">Zmień ikonę</string>
-    <string name="zen_mode_action_change_name">Zmień nazwę</string>
-    <string name="zen_mode_apps_subtext">{count,plural,offset:2 =0{Żadna aplikacja nie może ignorować trybu Nie przeszkadzać}=1{Aplikacja {app_1} może ignorować tryb Nie przeszkadzać}=2{Aplikacje {app_1} i {app_2} mogą ignorować tryb Nie przeszkadzać}=3{Aplikacje {app_1}, {app_2} i {app_3} mogą ignorować tryb Nie przeszkadzać}few{Aplikacje {app_1}, {app_2} i jeszcze # inne mogą ignorować tryb Nie przeszkadzać}many{Aplikacje {app_1}, {app_2} i jeszcze # innych mogą ignorować tryb Nie przeszkadzać}other{Aplikacje {app_1}, {app_2} i jeszcze inne (#) mogą ignorować tryb Nie przeszkadzać}}</string>
     <string name="zen_mode_summary2_default">Nie będzie przypomnień dot. przychodzących połączeń i powiadomień</string>
     <string name="zen_mode_summary2_tablet">Nie będzie przypomnień dot. powiadomień</string>
 </resources>

@@ -54,6 +54,8 @@ Wybierz inne zdjęcia i spróbuj ponownie."</string>
     <string name="ai_update_image">Zaktualizuj obraz SI</string>
     <string name="ai_update_image_confirm_title">Zaktualizować obraz SI?</string>
     <string name="ai_update_warn_message">Pamiętaj, że obraz SI można aktualizować tylko raz w miesiącu. Kontynuować mimo to?</string>
+    <string name="album_detail_sort_menu_checked">Zaznaczono</string>
+    <string name="album_detail_sort_menu_unchecked">Nie zaznaczono</string>
     <string name="album_scanner_china">Skaner</string>
     <string name="album_screenshot_and_screen_recorder_name">Zrzuty i nagrania ekranu</string>
     <string name="album_show_local_only_summary">Możliwość usunięcia tylko lokalnych albumów pojawi się wtedy, gdy włączona jest ta funkcja</string>
@@ -62,7 +64,7 @@ Wybierz inne zdjęcia i spróbuj ponownie."</string>
     <string name="all_story_empty_desc">Brak wspomnień</string>
     <string name="all_story_empty_tip">"Brak wspomnień.
 Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
-    <string name="all_story_title">Wspomnienia</string>
+    <string name="all_story_title">Wszystkie wspomnienia</string>
     <string name="assistant_page_label">Wspomnienia</string>
     <string name="baby_album">Dzieci</string>
     <string name="baby_nick_name">Zdrobnienie</string>
@@ -74,7 +76,6 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="card_delete_description">"To wspomnienie nie pojawi się ponownie. Usunąć je mimo to?"</string>
     <string name="card_delete_negative_text">Anuluj</string>
     <string name="card_delete_positive_text">Usuń</string>
-    <string name="card_delete_title">Usuwanie wspomnienia</string>
     <string name="card_description_annual_events">Poprzednie chwile spędzone razem</string>
     <string name="card_description_annual_foods">Dziennik żywnościowy</string>
     <string name="card_description_annual_pets">Ogony, łapy i wąsy</string>
@@ -94,9 +95,12 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="card_title_pastyear_party">Imprezy w minionym roku</string>
     <string name="card_title_pastyear_sports">Treningi w minionym roku</string>
     <string name="card_title_sports">Treningi</string>
+    <string name="checked">Zaznaczono</string>
+    <string name="cleaner_checked">Zaznaczono</string>
     <string name="cleaner_scan_description">Optymalizacja elementów zwiększa ilość miejsca na urządzeniu</string>
     <string name="cleaner_screen_shot_description">Usuń zrzuty ekranu, których już nie potrzebujesz</string>
     <string name="cleaner_space_detail_description">Zwolnij miejsce na urządzeniu przez optymalizację zdjęć</string>
+    <string name="cleaner_unchecked">Nie zaznaczono</string>
     <string name="clear_dup_medias">Usuń duplikaty</string>
     <string name="clear_dup_success">Pomyślnie usunięto</string>
     <string name="clear_dup_tip">Usuwanie duplikatów</string>
@@ -125,6 +129,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="featured_people_pets_empty_des">Włącz synchronizację z chmurą i wykonaj więcej zdjęć, aby zobaczyć tu ulubionych ludzi, zwierzęta i grupy</string>
     <string name="featured_time_empty_des">Wspomnienia będą tworzone podczas ładowania urządzenia przy wyłączonym ekranie</string>
     <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+    <string name="galleryplus_online_cta">Aby działać normalnie, Mi Wideo musi połączyć się z Internetem. Czy wyrażasz na to zgodę?</string>
     <string name="generate_story_title">Wspomnienia</string>
     <string name="get_user_info_edit_text_hint">Telefon/e-mail/konto Xiaomi</string>
     <string name="global_cloud_action_upgrade_onedrive">Ulepsz OneDrive</string>
@@ -278,10 +283,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="stop_use_secret_msg">"Twoje zdjęcia i filmy nie są już synchronizowane z Chmurą Xiaomi. Nie będzie można również korzystać z prywatnego albumu, gdyż opiera się on na szyfrowaniu w chmurze.
 Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze strony i.mi.com. Później elementy, które nadal znajdują się w Chmurze Xiaomi, zostaną permanentnie usunięte.
 %2$s"</string>
-    <string name="story_option_menu_delete">Usuń wspomnienie</string>
     <string name="story_option_menu_rename">Zmień nazwę</string>
-    <string name="story_remove_confirm_positive">Usuń</string>
-    <string name="story_remove_confirm_title">Usuwanie zdjęć</string>
     <string name="story_rename_invalid_char">"Nie można użyć \"%s\" w nazwie wspomnienia. Użyj liter i cyfr."</string>
     <string name="thumbnail_build_error">Nie udało się pobrać miniatury</string>
     <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>

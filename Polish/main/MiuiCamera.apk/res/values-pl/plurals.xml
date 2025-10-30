@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="manual_picture_style_desc_custom_add_max">
-        <item quantity="one">Dodaj maks. %d konfigurację</item>
-        <item quantity="few">Dodaj maks. %d konfiguracje</item>
-        <item quantity="other">Dodaj maks. %d konfiguracji</item>
-    </plurals>
-</resources>

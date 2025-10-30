@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="callSwapFailed_unholdable_call">Nie można przełączyć aktywnego połączenia, ponieważ nie wspiera ono wstrzymywania. Rozłącz połączenie, aby wstrzymane połączenie mogło być aktywne.</string>
-    <string name="cant_call_due_to_no_supported_service">Nie można wykonać połączenia, gdyż nie posiadasz obecnie kont obsługujących połączenia tego typu. Może to się wiązać również na przykład z tym, że do urządzenia nie jest włożona żadna karta SIM.</string>
     <string name="default_dialer_reset_prompt">"Wygląda na to, że w trakcie używania aplikacji %s wystąpiło wiele błędów. Czy chcesz, aby dialer Xiaomi był Twoją domyślną aplikacją telefonu?"</string>
     <string name="dial_conference_fail_prompt">"Nie można nawiązać połączenia konferencyjnego. Aktualna sieć nie wspiera VoLTE."</string>
     <string name="month_april">kwietnia</string>

@@ -39,8 +39,6 @@
     <string name="interconnection_service_permission13">Dostęp do zawartości ekranu</string>
     <string name="interconnection_service_permission15">Dostęp do historii połączeń</string>
     <string name="interconnection_service_permission17">Dostęp do listy zainstalowanych aplikacji</string>
-    <string name="interconnection_service_permission19">Dostęp do powiadomień i korzystanie z nich</string>
-    <string name="interconnection_service_permission20">W celu uzyskiwania powiadomień urządzenia, w tym nazwy aplikacji, tytułu i treści powiadomienia</string>
     <string name="interconnection_service_permission3">Włączanie i wyłączanie Wi-Fi</string>
     <string name="interconnection_service_permission4">Do przesyłania danych między dwoma urządzeniami przez Wi-Fi</string>
     <string name="interconnection_service_permission5">Nagrywanie dźwięku</string>
@@ -109,11 +107,9 @@
     <string name="interconnection_service_summary_china_fragment9">Dostęp do lokalizacji</string>
     <string name="interconnection_service_summary_china_new">%1$s Funkcje Łączności między urządzeniami Xiaomi dostępne na Twoim urządzeniu mogą być różne w zależności od wersji systemu i modelu urządzenia. Aby dowiedzieć się więcej, wejdź na stronę %2$s.</string>
     <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
-    <string name="interconnection_service_title">Usługi łączności</string>
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
     <string name="layout_size_large">Duży</string>
-    <string name="locale_picker_search_hint">Wyszukaj regiony</string>
     <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
     <string name="location_location">Służby ratunkowe mogą uzyskiwać Twoją aktualną lokalizację na żądanie</string>
@@ -155,7 +151,6 @@
     <string name="permission_number">Dostęp do numeru telefonu</string>
     <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
     <string name="permission_qualcomm_describe_summary">W celu dynamicznego alokowania zasobów systemu do różnych aplikacji i organizowania ich procesów</string>
-    <string name="permission_quality_describe_summary">W celu gromadzenia informacji o zamknięciach aplikacji</string>
     <string name="permission_read_apps">Dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
     <string name="permission_read_apps_introduction">W celu przygotowania statystyk dostępu do sieci i zużycia danych</string>
     <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
@@ -204,7 +199,6 @@
     <string name="skip_gesture_guide_dialog_title">Gesty</string>
     <string name="start_up_slogan">Łącz wszystko w całość</string>
     <string name="study_full_screen_gesture_text">Naucz się gestów nawigacji</string>
-    <string name="sub_screen_boot_tip">Ukończ konfigurację na głównym ekranie</string>
     <string name="system_update_statement">Aktualizacje systemu</string>
     <string name="system_update_title">Aktualizacje systemowe</string>
     <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>

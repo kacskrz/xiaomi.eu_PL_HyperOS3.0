@@ -43,14 +43,6 @@
         <item>Dzwonek</item>
         <item>Multimedia</item>
     </string-array>
-    <string-array name="screen_optimize_summary_new">
-        <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
-        <item>Przywróć standardowe kolory</item>
-    </string-array>
-    <string-array name="screen_optimize_title_new">
-        <item>Żywe (zalecane)</item>
-        <item>Standardowe</item>
-    </string-array>
     <string-array name="smart_device_control_entries">
         <item>Xiaomi Smart Hub</item>
         <item>Smart home</item>
@@ -67,20 +59,5 @@
     <string-array name="true_color_screen_optimize_summary_new">
         <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
         <item>Przywróć standardowe kolory treści na ekranie z kalibracją kolorów</item>
-    </string-array>
-    <string-array name="true_color_screen_optimize_title_new">
-        <item>Żywe (zalecane)</item>
-        <item>Oryginalne</item>
-    </string-array>
-    <string-array name="zen_mode_icon_options_descriptions">
-        <item>Pora snu</item>
-        <item>Prowadzenie samochodu</item>
-        <item>Wciągająca rozgrywka</item>
-        <item>Zarządzane</item>
-        <item>Gwiazdka</item>
-        <item>Kalendarz</item>
-        <item>Godzina</item>
-        <item>Teatr</item>
-        <item>Kwiat</item>
     </string-array>
 </resources>

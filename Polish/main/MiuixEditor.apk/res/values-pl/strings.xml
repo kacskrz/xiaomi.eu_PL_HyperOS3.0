@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ai_content_description">Pisanie SI</string>
     <string name="ask_hyper_xiaoai">Zapytaj</string>
     <string name="call">Zadzwoń</string>
     <string name="floating_toolbar_open_overflow_description">Więcej opcji</string>

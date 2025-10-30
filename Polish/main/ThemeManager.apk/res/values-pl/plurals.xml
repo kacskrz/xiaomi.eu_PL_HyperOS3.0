@@ -133,18 +133,6 @@
         <item quantity="one">Aktualizowanie %1$d ikony…</item>
         <item quantity="other">Aktualizowanie %1$d ikon…</item>
     </plurals>
-    <plurals name="kg_history_count_selected">
-        <item quantity="other">Wybrano %d elementu</item>
-        <item quantity="one">Wybrano %d element</item>
-        <item quantity="few">Wybrano %d elementy</item>
-        <item quantity="many">Wybrano %d elementów</item>
-    </plurals>
-    <plurals name="kg_history_delete_tip_title">
-        <item quantity="other">Usunąć %d elementu?</item>
-        <item quantity="one">Usunąć %d element?</item>
-        <item quantity="few">Usunąć %d elementy?</item>
-        <item quantity="many">Usunąć %d elementów?</item>
-    </plurals>
     <plurals name="large_icon_batch_has_update_text">
         <item quantity="other">Dostępna aktualizacja %1$d superikon</item>
         <item quantity="one">Dostępna aktualizacja %1$d superikony</item>

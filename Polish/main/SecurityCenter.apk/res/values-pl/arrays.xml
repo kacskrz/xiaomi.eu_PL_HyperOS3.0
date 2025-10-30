@@ -82,10 +82,6 @@
         <item>Domyślnie</item>
         <item>Wszystko</item>
     </string-array>
-    <string-array name="spinner_password_type">
-        <item>Hasło Ochrony prywatności</item>
-        <item>Blokada ekranu</item>
-    </string-array>
     <string-array name="sort_title_new">
         <item>Nazwa aplikacji</item>
         <item>Częstość używania</item>

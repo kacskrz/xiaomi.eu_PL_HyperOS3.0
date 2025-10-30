@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_sliding_button_state_description_on">włączony</string>
     <string name="add_sound">Dodaj własny efekt</string>
     <string name="dolby_dax_geq_select_title">Efekty</string>
     <string name="ear_canal_scan_function_name">Zoptymalizuj dźwięk na podstawie kształtu ucha</string>

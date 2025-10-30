@@ -3,6 +3,7 @@
     <string name="beep">Brzęczyk</string>
     <string name="chimes">Kurant</string>
     <string name="clank">Brzęczenie</string>
+    <string name="cta_message_license">Używając tego produktu, zgadzasz się na warunki opisane w naszych Warunkach użytkowania i Polityce prywatności.</string>
     <string name="cta_message_permission">Aplikacja wymaga %2$s, aby działać normalnie.</string>
     <string name="cta_permission_and">" i "</string>
     <string name="group_name_friends">Znajomi</string>
@@ -11,6 +12,5 @@
     <string name="miui_lock_screen_date">EEEE, d.MM.yyyy</string>
     <string name="miui_lock_screen_date_12">EEEE, d.MM.yyyy</string>
     <string name="swoosh">Pod wodą</string>
-    <string name="waterdrop_preview">Krople wody</string>
     <string name="windchime">Wietrzne dzwonki</string>
 </resources>

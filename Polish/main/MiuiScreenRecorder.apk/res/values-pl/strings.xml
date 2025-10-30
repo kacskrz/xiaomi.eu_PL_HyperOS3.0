@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="battery_not_allowed_warning">"Nie można nagrywać ekranu, gdy poziom baterii wynosi mniej niż %1$s. Naładuj baterię do poziomu co najmniej %2$s."</string>
-    <string name="cannot_change_frames">Liczba klatek może być ustawiona tylko dla nagrań ze stałą liczbą klatek.</string>
-    <string name="first_using_mic_dialog_message">Nagrywanie ekranu wymaga dostępu do mikrofonu przez aplikację. Zezwolić?</string>
     <string name="is_go_home_summary">"Powróć do Nagrywania ekranu po zatrzymaniu nagrywania"</string>
     <string name="low_memory_for_phone">Zostało mniej niż %1$d GB dostępnej przestrzeni. Obecne nagranie może trwać maksymalnie %2$d minut.</string>
-    <string name="permission_microphone_desc">Używanie mikrofonu jako źródła dźwięku w nagraniach ekranu</string>
     <string name="recording_max_size">Nagrywanie zostało zatrzymane po osiągnięciu maksymalnego rozmiaru. Możesz rozpocząć nowe nagranie, jeśli jeszcze go nie skończyłeś.</string>
     <string name="recording_without_mic">Mikrofon jest zajęty i nie może być użyty do tego nagrywania</string>
     <string name="screen_orientation_summary">Pozycja nagrywanego wideo</string>
