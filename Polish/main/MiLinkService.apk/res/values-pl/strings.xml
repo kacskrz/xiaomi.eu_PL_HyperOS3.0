@@ -15,7 +15,7 @@
     <string name="circulate_cta_premission_wlan_title">Włączanie i wyłączanie Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
     <string name="circulate_headset_control_battery_right">P</string>
-    <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string
+    <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
     <string name="circulate_network_connect_failed_default_message">Upewnij się, że telefon i drugie urządzenie są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_Mac">Upewnij się, że telefon i Mac są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_PC">Upewnij się, że telefon i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
@@ -137,7 +137,6 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
 　　• Nagrywanie rozmów i dźwięku w celu odtwarzania dźwięku na zewnętrznym monitorze
 　　• Dostęp do numeru telefonu, IMEI i IMSI w celu identyfikacji urządzenia
 　　• Dostęp do lokalizacji w celu odnajdywania urządzeń w pobliżu"</string>
-ponownie</string>
     <string name="quick_settings_device_dialog_message">"Jeśli włączysz tę funkcję, możliwe będzie odnajdywanie telewizorów, głośników i samochodów znajdujących się w pobliżu w Centrum funkcji. Włączyć?"</string>
     <string name="screen_projection_characteristics_cast_summary">Przesyłaj zawartość ekranu do telewizora w pobliżu</string>
     <string name="screen_projection_example_document_hint_new"><Data>*Aby użyć tej funkcji, przejdź do Plików > Dokumenty i dotknij ikony &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
