@@ -26,6 +26,7 @@
     <string name="circulate_network_connect_failed_pad_message_PC">Upewnij się, że tablet i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_pad_message_iPad">Upewnij się, że tablet i iPad są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_pad_message_iPhone">Upewnij się, że tablet i iPhone są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
+    <string name="circulate_network_connect_failed_pad_pc_not_supported">To urządzenie nie jest wspierane. Sprawdź, czy model urządzenia lub wersja systemu spełniają wymagania. Możesz również wyświetlić pomoc.</string>
     <string name="circulate_network_share_launcher_pad_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim tablecie Xiaomi.</string>
     <string name="circulate_network_share_launcher_phone_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim telefonie Xiaomi.</string>
     <string name="circulate_public_device_title_format">%2$s (%1$s)</string>

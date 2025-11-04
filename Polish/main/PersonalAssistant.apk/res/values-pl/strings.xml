@@ -558,6 +558,7 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_toast_home_layout_locked">Układ Ekranu głównego jest zablokowany</string>
     <string name="pa_toast_message_not_support_size">"Widżety o tym rozmiarze nie są wspierane przez Asystenta HyperOS"</string>
     <string name="pa_travel_back_screen_title_info">Odlatuje d.MM.</string>
+    <string name="pa_travel_date_format_ymd_week">EEEE, d.MM.yyyy</string>
     <string name="pa_travel_item_source_miai">Silnik Xiaomi HyperAI</string>
     <string name="pa_travel_notification_auth_account">Dodaj konto</string>
     <string name="pa_travel_notification_auth_all_info">Aby uzyskać więcej danych, dodaj konto</string>

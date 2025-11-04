@@ -154,6 +154,9 @@
     <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
     <string name="author_dynamic">Status</string>
     <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
+    <string name="back_screen_delete_template">Usunąć ten szablon?</string>
+    <string name="back_screen_dynamic_notification">Powiadomienia</string>
+    <string name="back_screen_operation_tutorial">O tylnym wyświetlaczu</string>
     <string name="back_screen_personalization_title">Personalizacja</string>
     <string name="basic_mode">Tryb offline</string>
     <string name="basic_mode_desc">"Motywy nie będą się łączyć z Internetem i będą korzystać tylko z treści przechowywanych lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
@@ -465,6 +468,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_font_filter_color_pale_blue">Niebieski</string>
     <string name="kg_font_filter_color_pale_green">Zielony</string>
     <string name="kg_font_filter_color_pale_orange">Pomarańczowy</string>
+    <string name="kg_font_filter_color_pale_orange_red">Jasny czerwono-pomarańczowy</string>
     <string name="kg_font_filter_color_pale_pink">Różowy</string>
     <string name="kg_font_filter_color_pale_pink_purple">Różowofioletowy</string>
     <string name="kg_font_filter_color_pale_purple">Niebieskofioletowy</string>
@@ -917,10 +921,11 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_edit_title_time">Zegar</string>
     <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
 Dostępne są zupełnie nowe style."</string>
-    <string name="rear_screen_list_title">Personalizacja</string>
+    <string name="rear_screen_list_title">Tylny wyświetlacz</string>
     <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
+    <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
-    <string name="rear_screen_template_upper_limit">Nie można dodać więcej elementów. Usuń część w Ustawieniach > Tylny wyświetlacz > Personalizacja i spróbuj ponownie.</string>
+    <string name="rear_screen_template_upper_limit">Nie udało się dodać więcej elementów. Usuń jeden z nich w Ustawieniach > Tylny wyświetlacz i spróbuj ponownie.</string>
     <string name="rear_screen_wallpaper_ai">Generuj z SI</string>
     <string name="rear_screen_wallpaper_album">Z Galerii</string>
     <string name="rear_screen_wallpaper_empty">Brak</string>

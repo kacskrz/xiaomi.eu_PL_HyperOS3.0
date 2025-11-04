@@ -99,6 +99,7 @@
     <string name="library_update_cancel">Anuluj</string>
     <string name="library_update_confirm">Aktualizacja</string>
     <string name="library_update_content">Co nowego: %s</string>
+    <string name="library_update_forced">Gra jest niekompatybilna. Zaktualizuj ją.</string>
     <string name="library_update_title">Dostępna aktualizacja</string>
     <string name="loading">Chwileczkę…</string>
     <string name="login_cancel">Anuluj</string>
@@ -407,7 +408,7 @@
     <string name="real_name_dialog_cancel">Jeśli wyjdziesz, nie będzie można grać w gry</string>
     <string name="real_name_dialog_identity">Numer dowodu</string>
     <string name="real_name_dialog_identity_hint">Wprowadź numer dowodu</string>
-    <string name="real_name_dialog_information">Zgodnie z Informacją dot. Ochrony Uzależnienia Od Gier Online Wśród Nieletnich, użytkownicy gier muszą wykonać weryfikację tożsamości przed skorzystaniem z tej usługi. Xiaomi będzie chronić prywatność Twoich danych zgodnie z prawem. Aby zarejestrować się z dokumentem innym niż chiński dowód osobisty, odwiedź aplikację Games.</string>
+    <string name="real_name_dialog_information">Zgodnie z Informacją dot. Ochrony Uzależnienia Od Gier Online Wśród Nieletnich, użytkownicy gier muszą wykonać weryfikację tożsamości przed skorzystaniem z tej usługi. Xiaomi będzie chronić prywatność Twoich danych zgodnie z prawem. W razie pytań skontaktuj się z obsługą klienta Xiaomi.</string>
     <string name="real_name_dialog_name">Imię</string>
     <string name="real_name_dialog_name_hint">Taka sama jak na dowodzie</string>
     <string name="real_name_dialog_submit">Wyślij</string>
