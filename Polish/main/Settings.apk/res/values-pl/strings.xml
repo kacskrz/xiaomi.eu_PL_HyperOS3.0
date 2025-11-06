@@ -5,6 +5,7 @@
 "</string>
     <string name="accessibility_global_gesture_preference_title">Skrót klawisza głośności</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
+    <string name="accessibility_toggle_large_pointer_icon_title">Duży wskaźnik myszy</string>
     <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
     <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
     <string name="account_settings_menu_auto_sync_personal">Autom. synchronizacja: osobiste</string>
@@ -552,6 +553,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="setting_privacy_title">Wskaźnik prywatności</string>
     <string name="setting_volume_title">Tryb cichy</string>
     <string name="show_carrier_under_keyguard_title">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
+    <string name="show_ime">Użyj klawiatury ekranowej</string>
+    <string name="show_ime_summary">Nie ukrywaj klawiatury ekranowej, gdy aktywna jest klawiatura fizyczna</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="sidebar_setting">Ustawienia Paska bocznego</string>
     <string name="sim_management_title">Karty SIM i sieć mobilna</string>
