@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ai_summary">Podsumowanie SI</string>
+    <string name="ai_writing_content_text">"Pisanie SI pomaga w porządkowaniu i polepszaniu Twoich tekstów. Możesz korzystać z tej funkcji w następujący sposób:
+%1$d. Streszczaj tekst, aby szybko wyodrębnić kluczowe informacje z długich artykułów.
+%2$d. Rozbuduj tekst, aby wzbogacić krótkie notatki.
+%3$d. Dopracuj tekst, aby brzmiał bardziej naturalnie.
+%4$d. Sprawdź pisownię i gramatykę."</string>
     <string name="alert_message_delete_excerpt">Usunąć tę notatkę? Jej fragment również zostanie usunięty.</string>
     <string name="cta_dialog_message">Notatki wymagają uprawnień do połączenia z internetem, nagrywania audio, a także odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
     <string name="default_update_documents">Dostępna jest aktualizacja. Czy chcesz ją wykonać teraz?</string>
