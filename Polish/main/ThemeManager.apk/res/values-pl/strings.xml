@@ -78,7 +78,7 @@
     <string name="ai_pet_tips_network_exception_title">Błąd sieci</string>
     <string name="ai_pet_violated_limit">Wiele naruszeń zasad</string>
     <string name="ai_pet_waiting_in_line_please_wait">Jesteś w kolejce. Czekaj…</string>
-    <string name="ai_recorded_information">Informacje dot. rejestracji</string>
+    <string name="ai_recorded_information">Informacje dot. rejestracji</string>3
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
     <string name="ai_select_images_smaller_than_one_hundred">Wybierz obraz mniejszy niż %d MB i spróbuj ponownie.</string>
     <string name="ai_select_message">Wybierz zdjęcie, na którym obiekt jest wyraźnie widoczny.</string>
@@ -93,6 +93,7 @@
     <string name="ai_wallpaper_history_empty">Nic tu nie ma</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
     <string name="ai_wallpaper_inside_invitation_description">Funkcja używa możliwości dużych modeli do generowania dynamicznych tapet ze statycznych obrazów. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
+    <string name="ai_wallpaper_local_title">Moje tapety</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>
@@ -1179,7 +1180,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="theme_share_app_name">Motywy Mi</string>
     <string name="theme_staggered_item_text">Otrzymaj Mi Kredyty</string>
     <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>
-    <string name="theme_user_agreement_content2">"Umową użytkownika"</string>
+    <string name="theme_user_agreement_content2">"Umowa użytkownika"</string>
     <string name="theme_user_agreement_content3">" i "</string>
     <string name="theme_user_agreement_content4">"Polityką prywatności."</string>
     <string name="theme_user_agreement_content5">" Aplikacja wymaga połączenia z siecią."</string>
