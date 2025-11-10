@@ -45,14 +45,6 @@
         <item quantity="other">Kopiowanie %d elementów za pomocą danych mobilnych…</item>
         <item quantity="one">Kopiowanie %d elementu za pomocą danych mobilnych…</item>
     </plurals>
-    <plurals name="home_page_share_burst_over_limit_toast">
-        <item quantity="other">Możesz przeciągnąć do %d elementów (w tym zdjęć seryjnych)</item>
-        <item quantity="one">Możesz przeciągnąć do %d elementu (w tym zdjęć seryjnych)</item>
-    </plurals>
-    <plurals name="home_page_share_count_over_limit_toast">
-        <item quantity="other">Możesz przeciągnąć do %d elementów</item>
-        <item quantity="one">Możesz przeciągnąć do %d elementu</item>
-    </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="other">Wybrano %1$d elementów</item>
         <item quantity="few">Wybrano %1$d elementy</item>

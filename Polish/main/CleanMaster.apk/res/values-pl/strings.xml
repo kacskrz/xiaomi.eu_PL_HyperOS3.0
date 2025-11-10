@@ -15,10 +15,6 @@
     <string name="deepclean_similar_summary_empty">Wszystko OK. Brak zdjęć do usunięcia.</string>
     <string name="deepclean_video_summary_empty">Wszystko OK</string>
     <string name="dialog_msg_uninstall_app_os3">Odinstalowanie aplikacji usunie wszystkie jej dane.</string>
-    <string name="dialog_msg_uninstall_apps_comfirm">Rozumiem, że usuniętych danych aplikacji nie można przywrócić</string>
-    <string name="dialog_msg_uninstall_apps_os3">Deinstalacja usunie wszystkie dane aplikacji.</string>
-    <string name="dialog_msg_uninstall_apps_toast">Potwierdź, że rozumiesz, że nie można przywrócić usuniętych danych aplikacji</string>
-    <string name="dialog_msg_uninstall_apps_xspace_os3">Sklonowana aplikacja zostanie odinstalowana razem z tą aplikacją.</string>
     <string name="dialog_msg_uninstall_apps_xspace_os3_multiple">Odpowiednie sklonowane aplikacje zostaną odinstalowane wraz z ich danymi.</string>
     <string name="facebook_clean_exit_confirm_cancel">Kontynuuj</string>
     <string name="facebook_cleaner">Czyszczenie Facebooka</string>
@@ -97,7 +93,6 @@
     <string name="toast_garbage_list_empty">Wszystko OK</string>
     <string name="toast_updater_close_4g_text">"Aplikacje nie będą aktualizowane poprzez dane mobilne (LTE)"</string>
     <string name="toast_updater_open_4g_text">Aplikacje będą aktualizowane poprzez dane mobilne (LTE)</string>
-    <string name="uninstall_one">Odinstaluj %s</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Skanuj dalej</string>
     <string name="whatsapp_function_summery">Wyczyść załączniki WhatsAppa</string>
 </resources>

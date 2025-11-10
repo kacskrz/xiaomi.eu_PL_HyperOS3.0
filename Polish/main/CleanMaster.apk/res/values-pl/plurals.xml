@@ -72,9 +72,4 @@ Możesz ją usunąć."</item>
         <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> aplikacja nie była używana od dłuższego czasu - sprawdź, czy nadal jej potrzebujesz.&lt;/Data></item>
         <item quantity="few">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> aplikacje nie były używane od dłuższego czasu - sprawdź, czy nadal ich potrzebujesz.&lt;/Data></item>
     </plurals>
-    <plurals name="uninstall_apps">
-        <item quantity="other">Odinstaluj %1$d aplikacji, w tym %2$s</item>
-        <item quantity="few">Odinstaluj %1$d aplikacje, w tym %2$s</item>
-        <item quantity="one">Odinstaluj %1$d aplikację (%2$s)</item>
-    </plurals>
 </resources>

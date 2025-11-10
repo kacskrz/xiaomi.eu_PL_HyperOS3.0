@@ -14,12 +14,14 @@
     <string name="android_id_usage">W celu rozpoznawania wersji aplikacji oraz kompatybilności między starym i nowym urządzeniem</string>
     <string name="app_update_64_dialog_cancel">Nie teraz</string>
     <string name="app_update_64_dialog_confirm">Aktualizuj</string>
-    <string name="app_update_64_dialog_title">Zaktualizuj dp wersji 64-bitowej</string>
+    <string name="app_update_64_dialog_title">Zaktualizuj do wersji 64-bitowej</string>
+    <string name="app_update_64_dialog_title_formatted">Zaktualizuj do wersji %1$d-bitowej</string>
     <string name="app_update_64_notfication_body">Zaktualizuj aplikację, aby polepszyć jej działanie</string>
     <string name="app_update_title">Zaktualizuj wszystkie aplikacje</string>
     <string name="appname_app_data_suffix">Dane aplikacji %1$s</string>
     <string name="apps_cannot_be_transfered_confirm_button">Zacznij</string>
     <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
+    <string name="apps_cannot_be_transfered_summary_formatted">Te %1$d-bitowe aplikacje nie mogą zostać przeniesione na %2$d-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
     <string name="audio_permission_desc">W celu przesyłania muzyki i plików audio na nowe urządzenie</string>
     <string name="ble_manual_authorization_content">Aby przenieść elementy w Przenoszeniu danych, przyznaj wymagane uprawnienia. Możesz to zrobić w Ustawieniach.</string>
@@ -111,6 +113,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="league_client_update">Aktualizuj %s</string>
     <string name="learn_new_version_character">Dowiedz się więcej</string>
     <string name="less_than_1_minute">Mniej niż minutę</string>
+    <string name="lockscreen_access">Obszar wzoru</string>
     <string name="lockscreen_access_pattern_cell_added">Komórka dodana</string>
     <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
     <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
@@ -119,6 +122,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="message_request_manage_external_storage_perm">Przenoszenie danych wymaga dostępu do wszystkich plików na urządzeniu, aby móc przenieść je ze starego urządzenia na nowe.</string>
     <string name="message_request_package_stats_perm">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby uzyskać informacje na temat zainstalowanych aplikacji na urządzeniu oraz przenieść je na inne urządzenie.</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -243,8 +247,11 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="receiver_video_title">Przenieś ze starego urządzenia</string>
     <string name="receiver_video_title_pad">Przenieś ze starego urządzenia</string>
     <string name="recent_one_year">Ostatni rok</string>
+    <string name="recent_one_year_formatted">Ostatni %d rok</string>
     <string name="recent_seven_days">Ostatni tydzień</string>
+    <string name="recent_seven_days_formatted">Ostatnie %d dni</string>
     <string name="recent_thirty_days">Ostatni miesiąc</string>
+    <string name="recent_thirty_days_formatted">Ostatnie %d dni</string>
     <string name="recommend_hint">Zalecane</string>
     <string name="request_all_permission_content">"Aby móc przenieść elementy na nowe urządzenie, Przenoszenie danych wymaga dostępu do następujących elementów:
 - Lokalizacja
