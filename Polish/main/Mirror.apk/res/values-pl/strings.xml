@@ -6,7 +6,6 @@
     <string name="enable_wifi_alert_title_china">Włącz Wi-Fi</string>
     <string name="fold_photograph_prompt_message">Użyj Aparatu z wewnętrznego ekranu</string>
     <string name="fold_photograph_prompt_notification_title">Użyj współdzielonego aparatu do Notatek</string>
-    <string name="island_disconnected_button_text">Rozłącz</string>
     <string name="lockscreen_access_pattern_area">Obszar wzoru odblokowania</string>
     <string name="low_battery_notification_content">Na urządzeniu %1$s pozostało mniej niż %2$s baterii</string>
     <string name="mac_key_alt">Przytrzymaj, aby przypisać klawisz Option. Dotknij dwa razy, aby zablokować ten klawisz.</string>
@@ -87,6 +86,7 @@
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
     <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="switch_wlan_tips_desc_pad_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
+    <string name="transferring">Przesyłanie plików. Pozostań na tej stronie.</string>
     <string name="trust_bind_remote_cancel_toast">Anulowano. Możesz włączyć tę funkcję ponownie w Ustawieniach telefonu > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
     <string name="trust_bind_risk_car_fallback_subtitle">Nie udało się użyć współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu.</string>
     <string name="trust_bind_risk_expire_subtitle">Uprawnienia do współdzielonego odblokowywania wygasły. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
@@ -95,7 +95,7 @@
     <string name="trust_bind_risk_rebind_subtitle">Wystąpił błąd uprawnień. Aby przyznać uprawnienia ponownie, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_recent_unused_subtitle">Ostatnio nie korzystano ze Współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_recent_updated_subtitle">Zmieniono ostatnio hasło. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
-    <string name="trust_fingerlock_auth">Przyznaj uprawnienia na swoim telefonie</string>
+    <string name="trust_fingerlock_auth">Na swoim telefonie zezwól tabletowi na odblokowanie Ekranu głównego+</string>
     <string name="trust_fingerlock_auth_cancel_toast">Anulowano</string>
     <string name="trust_fingerlock_auth_sub_title">Aby przyznać uprawnienia, przejdź do Ustawień > Interakcja urządzeń Xiaomi > Ekran główny+</string>
     <string name="trust_fingerlock_password_sub_title">Aby użyć Ekranu głównego+, wprowadź blokadę ekranu</string>
