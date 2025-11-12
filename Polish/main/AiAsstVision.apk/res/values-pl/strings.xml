@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_multi_window_mode_dialog_content">Gdy wyłączysz tę funkcję, treść nie będzie już wyświetlana na obu wyświetlaczach. Wyłączyć mimo to?</string>
+    <string name="exit_multi_window_mode_open_mic_dialog_title">Zatrzymaj używanie automatycznego mikrofonu</string>
+    <string name="face_trans_layout_double_show">Twarzą w twarz (duplikowane)</string>
+    <string name="hint_function_online_available">Aby użyć tej funkcji, połącz się z siecią</string>
+    <string name="multi_window_mode_guide_dialog_summary">*Automatyczne rozpoznawanie języka i mikrofon będą domyślnie włączone</string>
+    <string name="text_translate_local_error">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="text_translate_offline_notice">Brak połączenia z siecią. Dostępne jest tylko tłumaczenie między angielskim a chińskim.</string>
+</resources>
