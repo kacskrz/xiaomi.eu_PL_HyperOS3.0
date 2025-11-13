@@ -83,6 +83,7 @@
     <string name="quick_settings_autobrightness_label">Autom. jasność</string>
     <string name="quick_settings_nightmode_label">Ciemny motyw</string>
     <string name="quick_settings_rotationlock_label">Nie obracaj</string>
+    <string name="quick_settings_voice_trans_label">Interpretuj dźwięk</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Aby dodać element, przeciągnij go na górę panelu.</string>
     <string name="reboot_info_auto_boot">Następny alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Następny alarm: %s</string>

@@ -569,6 +569,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="smart_clipboard_title">Skrót do schowka</string>
     <string name="smart_dual_sim_title">Inteligentny tryb dual SIM</string>
     <string name="smart_home_title">Smart home</string>
+    <string name="smart_storage_summary">Wykonaj kopię zapasową urządzenia lub przywróć dane dzięki inteligentnej pamięci</string>
+    <string name="smart_storage_title">Inteligentna pamięć</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Odblokuj urządzenie z aktywnym pokrowcem</string>
     <string name="smartcover_sensitive_summary">Blokuj lub odblokuj urządzenie z aktywnym pokrowcem</string>
     <string name="sms_delivered_sound_dialog_title">Wybierz dźwięk dostarczenia SMS</string>
