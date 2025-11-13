@@ -694,6 +694,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_ap_hidden_ssid">Ukrycie SSID</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
+    <string name="wifi_connect_successful_talkback">Pomyślnie połączono z siecią %s</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
     <string name="wifi_reconnect_failed_text_china">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
     <string name="wifi_reconnect_failed_title_china">Nieprawidłowe hasło Wi-Fi</string>
