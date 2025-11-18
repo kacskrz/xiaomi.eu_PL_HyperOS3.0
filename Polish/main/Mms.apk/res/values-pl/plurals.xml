@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="cloud_sms_count">
-        <item quantity="other">%d wiadomości</item>
-        <item quantity="one">%d wiadomość</item>
-        <item quantity="few">%d wiadomości</item>
-        <item quantity="many">%d wiadomości</item>
-    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d SMS do synchronizacji"</item>
         <item quantity="one">"1 SMS do synchronizacji"</item>
@@ -24,11 +18,6 @@
         <item quantity="few">Wybrano %1$d elementy</item>
         <item quantity="one">Wybrano %1$d element</item>
     </plurals>
-    <plurals name="notification_multiple_satellite">
-        <item quantity="other">%s wiadomości satelitarnych</item>
-        <item quantity="few">%s wiadomości satelitarne</item>
-        <item quantity="one">%s wiadomość satelitarna</item>
-    </plurals>
     <plurals name="privacy_state_revoked_revoked_1">
         <item quantity="other">Wycofaj (%d s)</item>
     </plurals>
@@ -39,9 +28,5 @@
     <plurals name="send_to_count">
         <item quantity="other">Wysłano %1$s SMS</item>
         <item quantity="one">Wysłano %1$s SMS</item>
-    </plurals>
-    <plurals name="vital_signs_data_bpm">
-        <item quantity="other">Tętno: %1$d BPM (%2$s)</item>
-        <item quantity="one">Tętno: %1$d BPM (%2$s)</item>
     </plurals>
 </resources>

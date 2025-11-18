@@ -79,4 +79,22 @@
         <item>PIĄ</item>
         <item>SOB</item>
     </string-array>
+    <string-array name="year_view_week_header_name_global_en">
+        <item>N</item>
+        <item>P</item>
+        <item>W</item>
+        <item>Ś</item>
+        <item>CZ</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_new_en">
+        <item>P</item>
+        <item>W</item>
+        <item>Ś</item>
+        <item>CZ</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
 </resources>

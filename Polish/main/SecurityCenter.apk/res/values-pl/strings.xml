@@ -104,10 +104,6 @@
     <string name="app_manager_as_dlg_msg">Aplikacje dodane do autostartu mogą używać więcej pamięci RAM i zasobów baterii. Zezwolić na autostart?</string>
     <string name="app_manager_as_dlg_msg_new">"Zezwolenie aplikacji na autostart może spowodować zwiększenie ilości pamięci i zużycia baterii wykorzystywanych przez nią. Urządzenie będzie optymalizować uprawnienia autostartu dla aplikacji, których używasz rzadziej, aby poprawić wydajność."</string>
     <string name="app_manager_clear_data_dlg_message">Wszystkie dane tej aplikacji zostaną usunięte.</string>
-    <string name="app_manager_details_electric_title_new">Zasilanie</string>
-    <string name="app_manager_details_electric_title_value">Zużycie baterii %s</string>
-    <string name="app_manager_details_traffic_title_new">Dostęp do sieci</string>
-    <string name="app_manager_details_traffic_title_value">Zużycie danych %1$s</string>
     <string name="app_manager_manage_space">Pamięć</string>
     <string name="app_manager_net_control_title">Łączność z siecią przez</string>
     <string name="app_manager_permission_summary_reject">Ogranicz wszystko</string>
@@ -640,8 +636,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
-    <string name="gt_function_close">Mniej</string>
-    <string name="gt_function_more">Więcej</string>
     <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zwiększ prędkość połączenia o %1$s-%2$s, gdy jesteś połączony z routerami Mi/Redmi</string>
     <string name="guide_second_text">Po ustawieniu operatora, system będzie monitorować użycie danych mobilnych poprzez wysyłanie darmowego SMS-a operatora. Jeśli wykryje on, że przekroczono limit danych, wyłączy dane mobilne i powiadomi Cię o tym.</string>
@@ -679,7 +673,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="lock_screen_password_type">Blokada ekranu</string>
     <string name="lock_screen_password_type_tips">Możesz zmienić swoją blokadę ekranu w Odciskach palca, danych twarzy i blokadzie ekranu.</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
-    <string name="lockscreen_access_pattern_area">Obszar wzoru</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
     <string name="main_bill_remained">Środki</string>
@@ -1320,7 +1313,6 @@ Wycofać zgodę?"</string>
     <string name="search_keyword_tools">Przybornik</string>
     <string name="section_security_defend_item_title">Chroń dane z Blokowaniem aplikacji</string>
     <string name="section_system_item_fixed">Naprawione</string>
-    <string name="security_access">Prywatny dostęp</string>
     <string name="security_access_contact_tip">Ta aplikacja wspiera Prywatny dostęp. Aby chronić Twoją prywatność, uzyska ona dostęp tylko do wskazanych przez Ciebie kontaktów.</string>
     <string name="security_access_file_tip">Ta aplikacja wspiera Prywatny dostęp. Aby chronić Twoją prywatność, uzyska ona dostęp tylko do wskazanych przez Ciebie plików.</string>
     <string name="security_access_media_tip">Ta aplikacja wspiera Prywatny dostęp. Aby chronić Twoją prywatność, uzyska ona dostęp tylko do wskazanych przez Ciebie zdjęć i filmów.</string>
