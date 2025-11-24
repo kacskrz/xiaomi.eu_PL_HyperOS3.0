@@ -172,6 +172,7 @@
     <string name="night">Wieczór</string>
     <string name="noon">Południe</string>
     <string name="not_set">Nie ustawiono</string>
+    <string name="pin">Tylny wyświetlacz</string>
     <string name="pin_delete_button_desc">Usuń</string>
     <string name="pin_delete_cancel">Anuluj</string>
     <string name="pin_delete_confirm">Usuń</string>
@@ -180,12 +181,18 @@
     <string name="pin_message_title">Przypięta wiadomość</string>
     <string name="pin_success">Przypięto</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
+    <string name="rear_screen_settings_name">Tylny wyświetlacz</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob.</string>
     <string name="saturday_shortest">Sob.</string>
+    <string name="ss_guide_active_assistant_tip">Przesuń od górnej krawędzi, aby wyświetlić usługi</string>
+    <string name="ss_guide_assistant_switch_tip">Przesuń w górę, aby przełączyć</string>
     <string name="ss_guide_camera_tip_edge_swipe_back">Przesuń od krawędzi, aby powrócić</string>
     <string name="ss_guide_camera_tip_swipe_right">Przesuń w prawo, aby otworzyć aparat</string>
+    <string name="ss_guide_click_select_wallpaper_tip">Dotknij, aby wybrać tapetę</string>
+    <string name="ss_guide_deactivate_assistant_tip">Przesuń od dolnej krawędzi, aby wyjść</string>
     <string name="ss_guide_dial_tip_long_press_to_edit_new">Przytrzymaj, aby zmienić tapetę</string>
+    <string name="ss_guide_double_click_off_screen_tip">Dotknij dwukrotnie, aby wyłączyć ekran</string>
     <string name="ss_guide_mask_button_to_use">Gotowe</string>
     <string name="ss_guide_tip_double_click_to_wake_new">"Dotknij dwa razy, aby wybudzić
 i dowiedzieć się więcej o tylnym ekranie"</string>

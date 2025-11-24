@@ -53,8 +53,6 @@
     <string name="antivirus_antidefraud_risk_desc">Ta aplikacja może być używana do oszustw finansowych. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
     <string name="antivirus_antidefraud_risk_type">Oszustwo finansowe</string>
     <string name="antivirus_antidefraud_risk_type_label">Oszustwo finansowe i zagrożenia bezpieczeństwa</string>
-    <string name="antivirus_browser_check">Sprawdzaj strony w Przeglądarce</string>
-    <string name="antivirus_browser_check_summary">Automatycznie sprawdzaj strony w Przeglądarce i otrzymuj ostrzeżenia dot. potencjalnych zagrożeń</string>
     <string name="antivirus_choose_engine_title">Baza wirusów</string>
     <string name="antivirus_detect_apps_dialog_cancel">OK</string>
     <string name="antivirus_detect_apps_dialog_content">Aplikacja %s została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Niesie ona poważne zagrożenia dla Twojego bezpieczeństwa.</string>
@@ -70,8 +68,6 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Funkcja wyśle nazwy pakietów aplikacji oraz ich szczegóły do chmury w celu ich przeskanowania za pomocą silnika online.</string>
     <string name="antivirus_privacy_dialog_summary_link">Polityka prywatności</string>
     <string name="antivirus_privacy_dialog_title">Polityka prywatności</string>
-    <string name="antivirus_sec_network_unavailable">"Aplikacja nie ma obecnie dostępu do sieci. Zezwolić aplikacji na dostęp do Internetu?"</string>
-    <string name="antivirus_sms_check">Sprawdzaj linki w SMS-ach</string>
     <string name="antivirus_toast_already_update">Pomyślnie zaktualizowano</string>
     <string name="app_behavior_autostart_single">Ta aplikacja skorzystała z autostartu</string>
     <string name="app_behavior_dashboard_desc">Aktywność w ciągu ostatnich %d godz.</string>
@@ -170,6 +166,9 @@
     <string name="applock_guide_tip1_without_finger">Dostępne są różne rodzaje weryfikacji. Odblokuj dostęp do aplikacji swoją twarzą bądź hasłem.</string>
     <string name="applock_guide_tip1_without_finger_face">Dostępne są różne rodzaje weryfikacji.</string>
     <string name="applock_header_text_less_than_half">Za mało miejsca dla aplikacji. Przesuń suwak dalej.</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait_summary">Zablokuj aplikacje %1$d min po opuszczeniu, wyjściu lub przełączeniu się na inną aplikację</string>
+    <string name="applock_lock_mode_locked_or_exit_summary">Zablokuj aplikacje, gdy tylko opuścisz, wyjdziesz lub przełączysz się na inną aplikację</string>
+    <string name="applock_lock_mode_locked_summary">Nie wymagaj weryfikacji, dopóki nie zablokuję urządzenia</string>
     <string name="applock_password_set_luck_comment">Aby używać prywatnych funkcji na tym urządzeniu, musisz ustawić blokadę ekranu.</string>
     <string name="applock_password_set_luck_message">"Aby bezpiecznie uzyskiwać dostęp do prywatnych funkcji na tym urządzeniu, Xiaomi HyperOS domyślnie używa Twojej blokady ekranu do weryfikacji tożsamości.
 
@@ -325,6 +324,7 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="charger_detect_info2">"Ładowanie może zostać spowolnione także wtedy, gdy używasz niestandardowych bądź starych ładowarek i kabli."</string>
     <string name="charging_text_battery_nearly_full">"Bliski naładowania "</string>
     <string name="charging_text_battery_perfect">Naładowano</string>
+    <string name="click_page_to_recognition">Dotknij, aby kontynuować rozpoznawanie</string>
     <string name="clipboard_ai_allow">Zdecyduj za mnie</string>
     <string name="clipboard_ai_allow_summary">Pozwala systemowi określić, czy aplikacja może uzyskiwać treści ze schowka i informuje Cię, gdy to się stanie</string>
     <string name="commonly_used_func_card_title">Częste funkcje</string>
@@ -423,6 +423,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="dlg_clear_all_call">Usunąć wszystkie blokowane numery?</string>
     <string name="dlg_sec_network_unavailable">"Panel sterowania nie może się zaktualizować, ponieważ ograniczyłeś połączenia z siecią dla tej aplikacji. Zezwolić aplikacji na dostęp do sieci?"</string>
     <string name="dlg_update_data_content">"Brak połączenia z Wi-Fi. Użyć danych mobilnych?"</string>
+    <string name="dnd_mode_type">Rodzaj trybu Nie przeszkadzać</string>
     <string name="download_tvm_limit_toast">Pobieranie przerwane. Limit: %1$d MB. Zobacz szczegóły w Panelu powiadomień.</string>
     <string name="doze_optimization_summary">Zwiększ czułość i dokładność dotyku</string>
     <string name="dynamic_performance_optimization_summary">Dynamicznie zmieniaj rozdzielczość podczas grania</string>
@@ -635,6 +636,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
 Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
+    <string name="go_to_setting">Ustawienia</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
     <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zwiększ prędkość połączenia o %1$s-%2$s, gdy jesteś połączony z routerami Mi/Redmi</string>
@@ -767,6 +769,10 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="need_input_face">Dodaj dane twarzy</string>
+    <string name="need_input_face_subtitle">Najpierw dodaj dane twarzy w Ustawieniach.</string>
+    <string name="need_input_finger">Dodaj odcisk palca</string>
+    <string name="need_input_finger_subtitle">Najpierw dodaj odcisk palca w Ustawieniach.</string>
     <string name="network_assistant_privacy">Aby śledzić użycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, użycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe użycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
     <string name="network_operator_exception_summary">"Aktywacja karty SIM nie była możliwa. Upewnij się, czy karta SIM jest poprawnie włożona do urządzenia, a także czy posiadasz pakiet internetowy."</string>
     <string name="network_roaming_exception_tips">"Nie można użyć danych mobilnych podczas roamingu"</string>
@@ -818,6 +824,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
+    <string name="page_lose_focus_cant_recognition">Nie można zweryfikować biometrii z powodu problemu</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
     <string name="pc_18W_high_power_reverse_charging_summary">Ładuj urządzenia szybciej dzięki ulepszonemu ładowaniu zwrotnemu. Połączenie USB będzie używane tylko do ładowania.</string>
     <string name="pc_18W_high_power_reverse_charging_summary_new">Ładuj urządzenia szybciej ładowaniem zwrotnym o dużej mocy.</string>
@@ -1204,6 +1211,8 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i usuń ich skróty z Ekranu głównego</string>
     <string name="privacy_apps_go_to_use">Rozpocznij</string>
     <string name="privacy_apps_next_stup">Dalej</string>
+    <string name="privacy_apps_password_auth_summary">Zweryfikuj tożsamość przed uzyskaniem dostępu do ukrytych aplikacji</string>
+    <string name="privacy_apps_password_auth_title">Weryfikacja tożsamości</string>
     <string name="privacy_apps_password_enable_summay">Chroń prywatne pliki Blokadą aplikacji</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Rozłóż dwa palce na Ekranie głównym, aby wyświetlić ukryte aplikacje</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Uwaga: Gdy ukryjesz aplikację, zostanie ukryty tylko jej skrót na Ekranie głównym.</string>
@@ -1309,6 +1318,9 @@ Wycofać zgodę?"</string>
     <string name="screen_share_warning_summary">"Zawartość ekranu jest teraz nagrywana lub przesyłana w ramach projekcji. Powiadomienia będą ukryte podczas tego procesu"</string>
     <string name="screen_share_warning_title">"%s ma dostęp do zawartości ekranu"</string>
     <string name="search_keyword_applybar">Dok z aplikacjami</string>
+    <string name="search_keyword_firewall_1">Zarządzaj połączeniem z siecią</string>
+    <string name="search_keyword_firewall_2">Metoda połączenia z siecią</string>
+    <string name="search_keyword_firewall_3">Ustawienia sieci</string>
     <string name="search_keyword_sidebar">Pasek boczny</string>
     <string name="search_keyword_tools">Przybornik</string>
     <string name="section_security_defend_item_title">Chroń dane z Blokowaniem aplikacji</string>
@@ -1428,6 +1440,7 @@ Wycofać zgodę?"</string>
     <string name="sim_not_ready_toast">Karta SIM nie jest gotowa</string>
     <string name="sms_content">"Wiadomość: "</string>
     <string name="sms_delete_all_hint">Usunąć wszystkie zablokowane wiadomości?</string>
+    <string name="sms_guard_alert">Zmieniono domyślną aplikację do wiadomości. Aplikacja SMS od Xiaomi nie będzie mogła blokować spamu.</string>
     <string name="sms_sender">"Do: "</string>
     <string name="sms_service">Blokuj usługi SMS</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Publiczna sieć Wi-Fi</string>

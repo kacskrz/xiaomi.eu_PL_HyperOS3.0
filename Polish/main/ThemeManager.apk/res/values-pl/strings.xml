@@ -24,11 +24,13 @@
     <string name="add_image_to_generate_ai_wallpaper">Aby rozpocząć generowanie tapet, dodaj zdjęcia</string>
     <string name="ai_account_violated_service_unavailable_try_again_later">Twoje konto wielokrotnie naruszyło wytyczne Xiaomi i zostało zawieszone. Spróbuj ponownie później.</string>
     <string name="ai_cannot_scrolling_with_the_screen">Nie można włączyć przewijania dla tej tapety</string>
+    <string name="ai_content_no_regenerate">Nie można użyć elementów wygenerowanych przez SI</string>
     <string name="ai_delete_wallpaper">Wyjdź</string>
     <string name="ai_dialog_support_type_confirm">Wypróbuj</string>
     <string name="ai_dialog_support_type_title">Nowe typy obrazów</string>
     <string name="ai_direct_check">Wyświetl</string>
     <string name="ai_estimated_two_three_minutes" formatted="false">Zajmie to %d–%d minuty</string>
+    <string name="ai_generate_content_fail_message">Ta treść może naruszać zasady Xiaomi. Wybierz nowe zdjęcia.</string>
     <string name="ai_generate_loading">Generowanie tapety…</string>
     <string name="ai_generate_message">Jeśli wygenerujesz dynamiczną tapetę, zmiany dodane do statycznej wersji tapety nie zostaną zapisane. Wygenerować?</string>
     <string name="ai_generate_text">Generuj dynamiczną tapetę</string>
@@ -84,11 +86,16 @@
     <string name="ai_select_message">Wybierz zdjęcie, na którym obiekt jest wyraźnie widoczny.</string>
     <string name="ai_select_title">Nie udało się wygenerować</string>
     <string name="ai_service_temporarily_unavailable">Funkcja jest niedostępna</string>
+    <string name="ai_video_analysis_processing_toast">Analizowanie filmu…</string>
+    <string name="ai_video_not_meet_requirement_dialog_message">Wybierz film z osobą lub zwierzęciem i upewnij się, że główny obiekt zajmuje więcej niż %s kadru.</string>
+    <string name="ai_video_not_meet_requirement_dialog_message_new">Wybierz film z osobą lub zwierzęciem i upewnij się, że obiekt jest wyraźny i niezasłonięty.</string>
+    <string name="ai_video_not_meet_requirement_dialog_title">Nie można wygenerować filmu</string>
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
     <string name="ai_wallpaper_dynamic_new">Dynamiczne</string>
     <string name="ai_wallpaper_featured_title">Polecane</string>
     <string name="ai_wallpaper_function_introduction_new">Za pomocą nowej funkcji Tapety SI możesz wypróbować nowe style i dodać dynamiczne efekty do swoich ulubionych tapet.</string>
+    <string name="ai_wallpaper_generate_unsupported_toast">Ta tapeta nie działa z SI</string>
     <string name="ai_wallpaper_generation_time">Zajmie to około %d sekund</string>
     <string name="ai_wallpaper_history_empty">Nic tu nie ma</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
@@ -155,6 +162,7 @@
     <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
     <string name="author_dynamic">Status</string>
     <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
+    <string name="automatic_brightness_adjustment">Automatycznie dostosuj jasność</string>
     <string name="back_screen_delete_template">Usunąć ten szablon?</string>
     <string name="back_screen_dynamic_notification">Powiadomienia</string>
     <string name="back_screen_operation_tutorial">O tylnym wyświetlaczu</string>
@@ -909,6 +917,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_aod_setting_title">Ekran zawsze włączony</string>
     <string name="rear_screen_apply_fail">Nie udało się zastosować</string>
     <string name="rear_screen_apply_success">Pomyślnie zastosowano</string>
+    <string name="rear_screen_brightness_adjustment">Jasność</string>
     <string name="rear_screen_delete_template">Usunąć ten szablon?</string>
     <string name="rear_screen_edit_color_hsl_title">Własny kolor</string>
     <string name="rear_screen_edit_color_hue">Odcień</string>
@@ -924,9 +933,12 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
 Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_list_title">Tylny wyświetlacz</string>
     <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
+    <string name="rear_screen_screenshot">Zrzut ekranu</string>
     <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
+    <string name="rear_screen_service_assistant_new">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
     <string name="rear_screen_template_upper_limit">Nie udało się dodać więcej elementów. Usuń jeden z nich w Ustawieniach > Tylny wyświetlacz i spróbuj ponownie.</string>
+    <string name="rear_screen_template_upper_limit_old">Usuń elementy w Ustawieniach > Tylny wyświetlacz > Personalizacja, aby móc dodać więcej</string>
     <string name="rear_screen_wallpaper_ai">Generuj z SI</string>
     <string name="rear_screen_wallpaper_album">Z Galerii</string>
     <string name="rear_screen_wallpaper_empty">Brak</string>

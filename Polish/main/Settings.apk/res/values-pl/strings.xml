@@ -5,7 +5,6 @@
 "</string>
     <string name="accessibility_global_gesture_preference_title">Skrót klawisza głośności</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
-    <string name="accessibility_toggle_large_pointer_icon_title">Duży wskaźnik myszy</string>
     <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
     <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
     <string name="account_settings_menu_auto_sync_personal">Autom. synchronizacja: osobiste</string>
@@ -323,7 +322,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="light_color_mode">Jasny motyw</string>
     <string name="list_bg_header_text">"Jeśli ograniczysz łączność w tle, nowe aplikacje nie będą w stanie połączyć się z Internetem w tle po ich instalacji. Mogą one nie być w stanie otrzymywać wiadomości lub pobierać zawartości po dokonaniu tej czynności."</string>
     <string name="live_notifications_desc">Włącz, aby przypinać powiadomienia z aktualizacjami na żywo z aplikacji w Panelu powiadomień</string>
-    <string name="live_notifications_switch">Aktualizacje na żywo</string>
     <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
     <string name="lock_screen_after_fold_screen_summary">"Po złożeniu urządzenie zablokuje się z wyjątkiem sytuacji, w której korzystasz z przedniego aparatu bądź głośnika."</string>
     <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
@@ -536,7 +534,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="screen_timeout_title">Zablokuj ekran po:</string>
     <string name="search_miui_updater">OS;Wersja OS</string>
     <string name="search_phone_case">Obudowa do telefonu;case;gamingowy case;konsolowy case</string>
-    <string name="search_privacy_protection">Zarządzanie uprawnieniami</string>
     <string name="search_serve_assistant">Asystent podróży;podróż;asystent</string>
     <string name="search_subscreen_aod">Ekran zawsze włączony;AOD;AOD na tylnym wyświetlaczu</string>
     <string name="search_subscreen_title">Tylny wyświetlacz;tylny ekran;ekran z tyłu</string>
@@ -569,8 +566,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="smart_clipboard_title">Skrót do schowka</string>
     <string name="smart_dual_sim_title">Inteligentny tryb dual SIM</string>
     <string name="smart_home_title">Smart home</string>
-    <string name="smart_storage_summary">Wykonaj kopię zapasową urządzenia lub przywróć dane dzięki inteligentnej pamięci</string>
-    <string name="smart_storage_title">Inteligentna pamięć</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Odblokuj urządzenie z aktywnym pokrowcem</string>
     <string name="smartcover_sensitive_summary">Blokuj lub odblokuj urządzenie z aktywnym pokrowcem</string>
     <string name="sms_delivered_sound_dialog_title">Wybierz dźwięk dostarczenia SMS</string>

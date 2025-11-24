@@ -4,6 +4,7 @@
     <string name="accessibility_enter_lock_wallpaper">Pokaż Tapety blokady</string>
     <string name="accessibility_left_lock_screen_magazine_button">Tapety blokady</string>
     <string name="accessibility_quick_settings_bluetooth_restricted">Połączenie ograniczone</string>
+    <string name="accessibility_status_bar_stealth">Jesteś incognito</string>
     <string name="app_label">Interfejs</string>
     <string name="biometric_dialog_tap_confirm_with_face_sfps">Odblokowano skanem twarzy. Kliknij, aby przejść dalej.</string>
     <string name="custom_lockscreen">Dostosuj Ekran blokady</string>
@@ -16,6 +17,7 @@ okno"</string>
 okno"</string>
     <string name="face_unlock_error_camera_is_using">Aparat w użyciu</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
+    <string name="forget_password_string">Nie pamiętam hasła</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="format_week_day_style2">EE d</string>

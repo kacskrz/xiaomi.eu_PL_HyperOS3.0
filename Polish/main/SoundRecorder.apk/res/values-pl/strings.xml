@@ -4,7 +4,6 @@
     <string name="clear_data_dialog_content">Elementy w pamięci podręcznej, dane aplikacji oraz jej ustawienia zostaną usunięte, lecz nagrania pozostaną na swoim miejscu.</string>
     <string name="cloud_status_full_dialog_msg">"Nie ma już miejsca w Chmurze. Nie można zsynchronizować więcej nagrań. Ulepsz swój plan, aby uzyskać więcej przestrzeni."</string>
     <string name="day_in_week_hour_minute_format">EE H.mm</string>
-    <string name="dialog_content_storage_full">Nagrywanie zostało zatrzymane z powodu braku miejsca w pamięci.</string>
     <string name="high_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
     <string name="korea_permission_storage_desc">Do zapisywania nagrań</string>
     <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
@@ -19,7 +18,6 @@
     <string name="record_back_pressed_hint">Naciśnij ponownie, aby zatrzymać nagrywanie</string>
     <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
     <string name="record_scenes_summaries_stereo_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
-    <string name="search_tip_rename">Ręcznie zmień nazwę nagrań</string>
     <string name="text_play_speed_0_5">Odtwarzanie 0,5x</string>
     <string name="text_play_speed_1_0">Normalne</string>
     <string name="text_play_speed_1_5">Odtwarzanie 1,5x</string>
