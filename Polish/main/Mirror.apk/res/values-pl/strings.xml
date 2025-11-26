@@ -86,7 +86,6 @@
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
     <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="switch_wlan_tips_desc_pad_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
-    <string name="transferring">Przesyłanie plików. Pozostań na tej stronie.</string>
     <string name="trust_bind_remote_cancel_toast">Anulowano. Możesz włączyć tę funkcję ponownie w Ustawieniach telefonu > Interakcja urządzeń Xiaomi > Ekran główny+.</string>
     <string name="trust_bind_risk_car_fallback_subtitle">Nie udało się użyć współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu.</string>
     <string name="trust_bind_risk_expire_subtitle">Uprawnienia do współdzielonego odblokowywania wygasły. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>

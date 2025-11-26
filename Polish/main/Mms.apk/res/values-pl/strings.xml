@@ -29,7 +29,6 @@ Spróbuj ponownie."</string>
     <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
-    <string name="consume">%s (Płatny)</string>
     <string name="conv_head_risk_tip">Może być podejrzane</string>
     <string name="conv_item_official">Oficjalne</string>
     <string name="delete_verification_code_sms_message">Usunąć wszystkie jednorazowe hasła?</string>
@@ -142,7 +141,6 @@ Spróbuj ponownie."</string>
     <string name="non_english_subject_limit">Limit 13 znaków dla nieangielskich tematów</string>
     <string name="nosend_message">"Nie wysyłaj"</string>
     <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
-    <string name="notification_channel_flow_other_name">"Synchronizuj powiadomienia z iPhone'a"</string>
     <string name="notification_channel_sim1_name">Wiadomości z SIM 1</string>
     <string name="notification_channel_sim2_name">Wiadomości z SIM 2</string>
     <string name="verification_code_flow_title">Kod weryfikacyjny %1$s</string>
