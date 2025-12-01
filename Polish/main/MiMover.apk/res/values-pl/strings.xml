@@ -28,6 +28,7 @@
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
+    <string name="close_cellular_summary_phone">Twoje urządzenie korzysta teraz z danych mobilnych ze względu na ograniczenia systemowe. Wyłącz komórkową transmisję danych i ponownie połącz się z nowym urządzeniem.</string>
     <string name="close_twice_auth_btn">Wyłącz uwierzytelnianie dwuskładnikowe</string>
     <string name="close_twice_auth_note">"Informacja: Po utworzeniu nowego pytania zabezpieczającego i potwierdzeniu daty urodzenia uwierzytelnianie dwuskładnikowe Twojego konta Apple ID zostanie wyłączone. Jeśli nie widzisz opcji wyłączenia uwierzytelniania dwuskładnikowego na stronie ustawień konta Apple ID, nie możesz go wyłączyć."</string>
     <string name="close_twice_auth_operation">"URL:
@@ -63,6 +64,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="err_data_protection">Na starym urządzeniu włączona jest Zaawansowana ochrona danych. Wymagana weryfikacja.</string>
     <string name="err_not_allow">Brak wsparcia</string>
     <string name="err_receiver_no_space">Nie udało się przesłać. Za mało miejsca na nowym urządzeniu.</string>
+    <string name="guest_hint_connect_new_device_phone">Wybierz nowe urządzenie</string>
     <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
     <string name="host_boot_installation_bottom_tips">"Nie możesz odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
     <string name="host_boot_installation_content">"1. Przejdź do Ustawień na starym urządzeniu.
@@ -92,6 +94,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
 2. Zbliż urządzenia do siebie."</string>
     <string name="install_app_new_title">Zeskanuj kod QR, aby zainstalować Przenoszenie danych na nowym urządzeniu</string>
     <string name="install_app_old_title">Zeskanuj kod QR, aby zainstalować Przenoszenie danych na starym urządzeniu</string>
+    <string name="install_app_old_title_phone">Zeskanuj kod QR, aby zainstalować Przenoszenie danych na starym urządzeniu</string>
     <string name="install_new_app_link_text">Aby móc się połączyć z nowym urządzeniem, zainstaluj na nim Przenoszenie danych. Dotknij, aby zainstalować.</string>
     <string name="international_new_trans_intro_question_8">"%d. Dlaczego wiadomości tekstowe i dane części aplikacji nie mogą być przeniesione?"</string>
     <string name="lack_perm_msg">Przenoszenie danych wymaga do poprawnego działania następujących uprawnień: &lt;b>%s&lt;/b>.</string>
@@ -166,7 +169,15 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="new_provision_title">Prześlij elementy</string>
     <string name="new_trans_intro_desc_new">"%1$d. Upewnij się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %2$s.
 %3$d. Jeśli hotspot wciąż nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy znajdzie się on tutaj. Jeśli tak, to wróć do Przenoszenia danych i dotknij jego nazwę."</string>
+    <string name="new_trans_intro_desc_2_phone">Nie ma potrzeby wprowadzania hasła w nowej wersji Przenoszenia danych. Po prostu otwórz Przenoszenie danych na swoim starym urządzeniu, dotknij \"Jestem nadawcą\" i wybierz nazwę hotspotu, aby się połączyć.</string>
+    <string name="new_trans_intro_desc_6_phone">Twój nowy telefon Xiaomi może nie mieć wymaganych do tego uprawnień.</string>
+    <string name="new_trans_intro_desc_new_phone">%1$d. Upewnij się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję <Data>&lt;a href=%2$s>tutaj&lt;/a></Data>".
+%3$d. Jeśli hotspot wciąż nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy znajdzie się on tutaj. Jeśli tak, to wróć do Przenoszenia danych i dotknij jego nazwę."</string>
+    <string name="new_trans_intro_question_1_phone">%d. Dlaczego nie widzę hotspotu nowego urządzenia na starym?</string>
+    <string name="new_trans_intro_question_3_phone">%d. Dlaczego wyświetla się komunikat, że pamięć na starym urządzeniu jest niewystarczająca?</string>
+    <string name="new_trans_intro_question_6_phone">%d. Dlaczego nie można przenieść danych aplikacji z zewnętrznego urządzenia?</string>
     <string name="new_trans_intro_question_7">"%d. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
+    <string name="new_trans_intro_question_8_phone">%d. Dlaczego historia aplikacji Wechat nie pojawia się na nowym urządzeniu?</string>
     <string name="new_wait_link_first">"1. Otwórz Przenoszenie danych na starym urządzeniu.
 2. Dotknij przycisku \"Jestem nadawcą\" i chwilę poczekaj.
 3. Wybierz odpowiedni hotspot na starym urządzeniu."</string>
@@ -262,9 +273,12 @@ Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
     <string name="save_finish_with_failing_items">"Przenoszenie zostało przerwane.
 Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."</string>
     <string name="scanner_quit_alert_message">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
+    <string name="scanner_quit_alert_message_phone">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
     <string name="scanner_subtitle_prd">Przeczytaj te informacje przed zaznaczeniem każdego elementu i rozpoczęciem przenoszenia.</string>
+    <string name="searching_for_new_device_phone">Wyszukiwanie nowego urządzenia…</string>
     <string name="secret_password_confirm_summary">Aby przenieść prywatne pliki na nowe urządzenie, zweryfikuj swoją tożsamość poprzez wpisanie hasła Ochrony prywatności.</string>
     <string name="security_connect_content">Upewnij się, że kod połączenia na obu urządzeniach się zgadza, a następnie dotknij \"Połącz\", aby przenieść elementy.</string>
+    <string name="select_old_device_title_phone">Wybierz stary model urządzenia</string>
     <string name="sender">Wysyłaj</string>
     <string name="sender_finish_bottom_tips_phone"><Data>Zanim &lt;a href='%1s'>wymażesz dane z tego urządzenia&lt;/a>, upewnij się, że wykonałeś kopię wszystkich ważnych rzeczy."</Data></string>
     <string name="sender_scanning_code">Umieść obrazek w ramce</string>
@@ -282,6 +296,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="summary_request_write_settings_prem">Przenoszenie danych wymaga tego uprawnienia, aby włączyć sieć Wi-Fi i utworzyć hotspot do przesyłania plików.</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Dotknij przycisku \"Synchronizuj teraz\" w karcie \"Kontakty\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Dotknij przycisku \"Skopiuj teraz\" w karcie \"Zdjęcia\".</string>
+    <string name="time">Okres czasu</string>
     <string name="tips_button_hint">Najpierw zaznacz każdy element.</string>
     <string name="tips_private_space_content">Ze względu na ograniczenia systemu nie można przenieść danych Drugiej przestrzeni.</string>
     <string name="tips_private_space_content_tablet">Ze względu na ograniczenia systemu nie można przenieść danych Drugiej przestrzeni.</string>
@@ -295,6 +310,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="trans_install_guide_new_content_first">"Zeskanuj ten kod QR na nowym urządzeniu. 
 Pobierz i zainstaluj Przenoszenie danych."</string>
     <string name="trans_install_guide_old_content_first">Zeskanuj ten kod QR starym urządzeniem, aby pobrać i zainstalować Przenoszenie danych.</string>
+    <string name="trans_install_guide_old_content_first_phone">Zeskanuj ten kod QR starym urządzeniem, aby pobrać i zainstalować Przenoszenie danych.</string>
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="trans_sync_transfer_data_list_summary_for_phone">Wybierz elementy na starym urządzeniu i dotknij \"Wyślij\".</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
