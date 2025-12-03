@@ -268,6 +268,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="gesture_lockcreen_wakeup_mode_doubletap">Po dwukrotnym dotknięciu</string>
     <string name="gesture_lockcreen_wakeup_mode_singletap">Po dotknięciu</string>
     <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawione są wbudowane motywy</string>
+    <string name="glove_mode">Tryb rękawiczek</string>
+    <string name="glove_mode_summary">Włącz, aby ekran był bardziej czuły podczas noszenia rękawiczek. Ta funkcja nie działa w grach.</string>
     <string name="gps_classic_mode_summary">Wspiera różne rodzaje satelit (w tym GPS, BeiDou, Galileo czy GLONASS) w celu dostarczania usług pozycjonowania poprzez Internet i sieć komórkową</string>
     <string name="gps_classic_mode_title">Pozycjonowanie Xiaomi</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>

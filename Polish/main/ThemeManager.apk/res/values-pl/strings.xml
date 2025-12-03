@@ -101,6 +101,7 @@
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
     <string name="ai_wallpaper_inside_invitation_description">Funkcja używa możliwości dużych modeli do generowania dynamicznych tapet ze statycznych obrazów. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
     <string name="ai_wallpaper_local_title">Moje tapety</string>
+    <string name="ai_wallpaper_save_to_gallery">Zapisano pomyślnie</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>

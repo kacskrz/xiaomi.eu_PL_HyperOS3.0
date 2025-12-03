@@ -34,8 +34,11 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="progress_notification_downloaded">Pobieranie ukończone</string>
     <string name="progress_notification_downloading">Progres: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>
+    <string name="required_permissions_desc">W celu wysyłania i odbierania plików;W celu przesyłania plików za pomocą Bluetooth i Wi-Fi;W celu odnajdowania dostępnych urządzeń w pobliżu za pomocą Bluetooth;W celu odnajdywania dostępnych urządzeń w pobliżu i przesyłania plików za pomocą Wi-Fi;W celu sprawdzania, czy aplikacje są zainstalowane, aby otworzyć je po otrzymaniu danych</string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
+    <string name="tap_share_contact_person_describe">Użyj opcji Dotknij, aby udostępnić na stronie szczegółów kontaktu lub stronie wyboru bądź dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_contact_person_title">Udostępniaj kontakt</string>
     <string name="tap_share_content_describe" formatted="false">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
 %d. Udostępnianie zdjęć i filmów poprzez wyświetlenie pełnego obrazu w Galerii, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie plików ze strony wyboru w aplikacji Pliki lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
@@ -50,5 +53,20 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
 %d. Udostępnianie kontaktów poprzez wyświetlenie szczegółów kontaktu, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie strony internetowej poprzez otwarcie strony w Przeglądarce Mi lub dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 "</string>
+    <string name="tap_share_file_describe">Użyj opcji Dotknij, aby udostępnić na stronie wyboru w aplikacji Pliki bądź przez dotknięcie opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_file_title">Udostępniaj pliki</string>
+    <string name="tap_share_game_team_up_describe">Aby użyć opcji Dotknij, aby udostępnić, wejdź do pokoju grupowego w Mobile Legends: Bang Bang. Najpierw zaktualizuj Mobile Legends: Bang Bang do wersji %1$s lub nowszej.</string>
+    <string name="tap_share_game_team_up_title">Gra grupowa</string>
+    <string name="tap_share_image_and_video_comment">Możesz przesłać następujące typy treści:</string>
+    <string name="tap_share_image_and_video_describe">Aby użyć opcji Dotknij, aby udostępnić, wyświetl pełen obraz w Galerii lub naciśnij i przytrzymaj, aby otworzyć stronę wyboru, albo dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_image_and_video_title">Udostępniaj zdjęcia i filmy</string>
+    <string name="tap_share_navigation_address_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz szczegóły lokalizacji w aplikacji Baidu Maps lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania. Najpierw zaktualizuj aplikację Baidu Maps do wersji %1$s lub nowszej.</string>
+    <string name="tap_share_navigation_address_title">Udostępniaj adres</string>
+    <string name="tap_share_network_page_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz stronę internetową w Przeglądarce Mi lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_network_page_title">Udostępniaj stronę internetową</string>
+    <string name="tap_share_wifi_password_describe">Aby udostępnić sieć Wi-Fi, z której obecnie korzystasz w ramach opcji Dotknij, aby udostępnić, otwórz listę sieci Wi-Fi lub dotknij połączonej sieci Wi-Fi, aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_wifi_password_describe_china">Aby udostępnić sieć Wi-Fi, z której obecnie korzystasz w ramach opcji Dotknij, aby udostępnić, otwórz listę sieci Wi-Fi lub dotknij połączonej sieci Wi-Fi, aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_wifi_password_title">Udostępniaj hasło do sieci Wi-Fi</string>
+    <string name="tap_share_wifi_password_title_china">Udostępniaj hasło do sieci Wi-Fi</string>
     <string name="transfer_to_same_account_title">Wykrywanie urządzeń w ramach tego samego konta Xiaomi</string>
 </resources>

@@ -28,4 +28,60 @@
         <item quantity="other">Otrzymywanie %2$d plików ZIP (%3$s) od %1$s…</item>
         <item quantity="one">Otrzymywanie %2$d pliku ZIP (%3$s) od %1$s…</item>
     </plurals>
+    <plurals name="tapshare_activity_send_describe_note">
+        <item quantity="other">%1$d notatek</item>
+        <item quantity="few">%1$d notatki</item>
+        <item quantity="one">%1$d notatka</item>
+    </plurals>
+    <plurals name="tapshare_activity_send_describe_soundrecord">
+        <item quantity="other">%1$d nagrań</item>
+        <item quantity="few">%1$d nagrania</item>
+        <item quantity="one">%1$d nagranie</item>
+    </plurals>
+    <plurals name="tapshare_describe_note">
+        <item quantity="other">%1$d notatek</item>
+        <item quantity="few">%1$d notatki</item>
+        <item quantity="one">%1$d notatka</item>
+    </plurals>
+    <plurals name="tapshare_describe_soundrecord">
+        <item quantity="other">%1$d nagrań</item>
+        <item quantity="few">%1$d nagrania</item>
+        <item quantity="one">%1$d nagranie</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_note">
+        <item quantity="other">Odbierz %1$d notatek</item>
+        <item quantity="few">Odbierz %1$d notatki</item>
+        <item quantity="one">Odbierz %1$d notatkę</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_soundrecord">
+        <item quantity="other">Odbierz %1$d nagrań</item>
+        <item quantity="few">Odbierz %1$d nagrania</item>
+        <item quantity="one">Odbierz %1$d nagranie</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_note">
+        <item quantity="other">Otrzymywanie %1$d notatek…</item>
+        <item quantity="one">Otrzymywanie %1$d notatki…</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_soundrecord">
+        <item quantity="other">Otrzymywanie %1$d nagrań…</item>
+        <item quantity="one">Otrzymywanie %1$d nagrania…</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_note">
+        <item quantity="other">Wyślij %1$d notatek</item>
+        <item quantity="few">Wyślij %1$d notatki</item>
+        <item quantity="one">Wyślij %1$d notatkę</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_soundrecord">
+        <item quantity="other">Wyślij %1$d nagrań</item>
+        <item quantity="few">Wyślij %1$d nagrania</item>
+        <item quantity="one">Wyślij %1$d nagranie</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_note">
+        <item quantity="other">Wysyłanie %1$d notatek…</item>
+        <item quantity="one">Wysyłanie %1$d notatki…</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_soundrecord">
+        <item quantity="other">Wysyłanie %1$d nagrań…</item>
+        <item quantity="one">Wysyłanie %1$d nagrania…</item>
+    </plurals>
 </resources>

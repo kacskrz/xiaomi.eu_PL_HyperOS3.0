@@ -334,6 +334,7 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="config_restrict_running_warning">Jeśli przejdziesz dalej, cała aktywność aplikacji w tle zostanie zatrzymana, co może mieć wpływ na jej funkcje. Kontynuować mimo to?</string>
     <string name="confirm_ai_allow_all_permission">Zmienić stan uprawnienia na \"Zdecyduj za mnie\" dla wszystkich aplikacji?</string>
     <string name="confirm_open_shut_down_password_content">Ustaw blokadę ekranu przed włączeniem funkcji potwierdzenia wyłączenia urządzenia.</string>
+    <string name="confirm_reject_all_permission_only_opening_screen">Ograniczyć to uprawnienie podczas uruchamiania aplikacji dla wszystkich aplikacji?</string>
     <string name="connect_internet_by_mobiledata">Internet przez sieć mobilną</string>
     <string name="connect_internet_by_usbshare">Internet przez USB</string>
     <string name="connect_internet_by_wifi">Internet przez Wi-Fi</string>
@@ -540,6 +541,7 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="game_toolbox_slow_charge_notification_title">Ograniczenie ładowania Plus</string>
     <string name="game_toolbox_slow_charge_title">Ograniczenie ładowania Plus</string>
     <string name="game_toolbox_slow_charge_toast">Ograniczenie ładowania Plus jest włączone</string>
+    <string name="game_toolbox_smart_charge_title">Inteligentne ładowanie</string>
     <string name="game_toolbox_smotion_vibrate_close_toast">Reakcja haptyczna nie działa z oryginalnymi układami. Wyłączono reakcję haptyczną.</string>
     <string name="game_toolbox_smotion_vibrate_conflic_toast">Reakcja haptyczna nie działa z oryginalnymi układami</string>
     <string name="game_toolbox_smotion_vibrate_desc">Dodaj reakcję haptyczną zgodną z ruchami w grze. Wspierane są tylko niektóre gry.</string>
@@ -766,6 +768,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="msg_only_opening_screen">Przez pierwsze %d sekund po starcie aplikacji dostęp będzie ograniczony</string>
     <string name="network_assistant_privacy">Aby śledzić użycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, użycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe użycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
     <string name="network_operator_exception_summary">"Aktywacja karty SIM nie była możliwa. Upewnij się, czy karta SIM jest poprawnie włożona do urządzenia, a także czy posiadasz pakiet internetowy."</string>
     <string name="network_roaming_exception_tips">"Nie można użyć danych mobilnych podczas roamingu"</string>
@@ -900,9 +903,14 @@ Ultraoszczędzania baterii"</string>
     <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
     <string name="performance_frame_insert_super_display_tips">"Inteligentna częstotliwość odświeżania oraz superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej funkcji wyłączy drugą."</string>
     <string name="perm_desc_accessibility">To uprawnienie jest wymagane do wyświetlenia i kontrolowania ekranu, obsługiwania aplikacji i czujników zgodnie z Twoimi instrukcjami, a także interakcji z aplikacjami w Twoim imieniu.</string>
+    <string name="perm_disable_dialog_message">To uprawnienie aplikacji (%1$s) nie przeszło przeglądu.</string>
+    <string name="perm_disable_dialog_title">Ograniczono uprawnienia</string>
+    <string name="perm_disable_note_text">"To uprawnienie nie przeszło przeglądu i jest teraz ograniczone: %1$s"</string>
     <string name="perm_intercept_privacy_content">Te działania mogą narazić Twoje dane osobowe na ujawnienie. Udzielić uprawnień (%1s) mimo wszystko?</string>
     <string name="perm_intercept_title">Zezwolenie na dostęp do danych użytkowania dla %1s pozwoli tej aplikacji na wykonanie następujących działań:</string>
     <string name="perm_intercept_unknown_title">Zezwolenie aplikacji %1s na instalowanie aplikacji z nieznanych źródeł może stwarzać następujące ryzyko:</string>
+    <string name="perm_manage_external_storage">Dostęp do wszystkich plików</string>
+    <string name="perm_manage_zen_modes_access">Dostęp do trybów</string>
     <string name="permisison_usage_menu_all">Wszystko</string>
     <string name="permisison_usage_menu_terminal">Interakcja urządzeń Xiaomi</string>
     <string name="permisison_usage_now_camera">Ta aplikacja używa teraz aparatu</string>
@@ -922,9 +930,11 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
     <string name="permission_instruction_send_mms">To uprawnienie zezwala aplikacjom na wysyłanie MMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
     <string name="permission_instruction_send_sms">To uprawnienie zezwala aplikacjom na wysyłanie SMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
+    <string name="permission_instruction_shake">To uprawnienie umożliwia aplikacjom wykrywanie położenia urządzenia w przestrzeni, rozpoznawanie drgań oraz określanie orientacji ekranu, a także korzystanie z kontrolerów gier i nawigacji map."</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
     <string name="permission_instruction_write_calllog">To uprawnienie zezwala aplikacjom na dodawanie lub usuwanie wpisów historii połączeń.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
+    <string name="permission_only_opening_screen">Ogranicz dostęp podczas uruchamiania aplikacji</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Aplikacja używała autostartu</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała</string>
@@ -1095,16 +1105,27 @@ Ultraoszczędzania baterii"</string>
     <string name="power_setting_super_save_summary_text">Ogranicz większość funkcji systemu, aby oszczędzać energię</string>
     <string name="power_setting_wireless_reverse_charging_fg_control_title">Limit ładowania</string>
     <string name="power_setting_wireless_reverse_charging_title">Bezprzewodowe ładowanie zwrotne</string>
-    <string name="pp_agent_app_ctl_title">Zezwól \"%s\" na kontrolowanie następujących aplikacji</string>
+    <string name="pp_agent_app_ctl_manager">Zarządzaj Inteligentną kontrolą SI</string>
+    <string name="pp_agent_app_ctl_manager_desc">Zarządzaj tym, jakie aplikacje może kontrolować %s</string>
+    <string name="pp_agent_app_ctl_title">Zezwól %s na kontrolowanie tych aplikacji</string>
     <string name="pp_agent_request_screen_ctl_app_title">Włącz Inteligentną kontrolę SI dla %s</string>
     <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Gdy ta funkcja jest włączona, %1s może Ci pomóc kontrolować %2s.</string>
     <string name="pp_agent_request_screen_ctl_title">Włącz Inteligentną kontrolę SI</string>
+    <string name="pp_agent_request_screen_info_app_title">Włącz rozpoznawanie ekranu SI dla %s</string>
+    <string name="pp_agent_request_screen_info_app_title_msg">Gdy ta funkcja jest włączona, %1$s może uzyskać dostęp do zawartości ekranu z %2$s</string>
+    <string name="pp_agent_request_screen_info_app_title_msg_setting">Aby przejść dalej, włącz "Rozpoznawanie ekranu SI" dla %s w Ustawieniach. Zrobić to teraz?</string>
+    <string name="pp_agent_request_screen_info_app_title_setting">Wymagane uprawnienia</string>
+    <string name="pp_agent_request_screen_info_positive_button_setting">Włącz</string>
     <string name="pp_agent_request_screen_info_title">Włącz Rozpoznawanie ekranu SI</string>
     <string name="pp_agent_screen_ctl">Inteligentna kontrola SI</string>
-    <string name="pp_agent_screen_ctl_app_disable" formatted="false">"\"%1s\" nie może kontrolować \"%2s\""</string>
+    <string name="pp_agent_screen_ctl_app_disable">%2$s nie może teraz kontrolować %1$s.</string>
     <string name="pp_agent_screen_ctl_desc">Gdy ta funkcja jest włączona, %s może pomóc Ci kontrolować aplikacje na tym urządzeniu.</string>
     <string name="pp_agent_screen_info">Rozpoznawanie ekranu SI</string>
+    <string name="pp_agent_screen_info_app_disable" formatted="false">%2s nie może teraz rozpoznać zawartości ekranu %1s</string>
     <string name="pp_agent_screen_info_desc">Gdy ta funkcja jest włączona, %s może rozpoznawać i uzyskiwać dostęp do tego, co jest pokazywane na Twoim ekranie, w czasie rzeczywistym.</string>
+    <string name="pp_agent_screen_info_manager">Zarządzaj Rozpoznawaniem ekranu SI</string>
+    <string name="pp_agent_screen_info_manager_desc">Zarządzaj tym, dla jakich aplikacji %s może rozpoznawać zawartość ekranu</string>
+    <string name="pp_agent_screen_info_title">Zezwól %s na rozpoznawanie zawartości w tych aplikacjach</string>
     <string name="pp_agent_screen_privacy">Rozpoznawanie ekranu i inteligentna kontrola SI</string>
     <string name="pp_anti_track_summary">"Nie zezwalaj na śledzenie Twojej aktywności"</string>
     <string name="pp_antitrack_detail">Aplikacje mogą śledzić Twoje działania poprzez osobiste identyfikatory, informacje o lokalizacji i inne typy informacji udostępnianych im. Śledzenie aktywności w różnych aplikacjach i na stronach internetowych pozwala im na personalizowanie reklam i rekomendowanie treści odpowiednich dla Ciebie.</string>
@@ -1146,7 +1167,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pp_manage_apps_location_information">Zezwól aplikacjom na dostęp do Twojej lokalizacji</string>
     <string name="pp_manage_track">Monitoruj śledzenie</string>
     <string name="pp_manage_track_summary">Wykrywaj i wyłączaj różne typy narzędzi śledzących wbudowanych w aplikacje. Mogą one dzielić Twoje osobiste identyfikatory poprzez dostęp i zapis elementów w pamięci wewnętrznej lub korzystanie ze współdzielonych narzędzi SDK w celu śledzenia Twojej aktywności.</string>
-    <string name="pp_more_privacy_func">Więcej funkcji prywatności</string>
+    <string name="pp_more_privacy_func">Dodatkowe funkcje prywatności</string>
     <string name="pp_one_app_two_use">Używaj dwóch kont bez wylogowywania się</string>
     <string name="pp_one_phone_two_space">Używaj jednego urządzenia jak dwóch</string>
     <string name="pp_only_allow_permission_during_this_run">Zezwól aplikacjom na jednorazowe korzystanie z uprawnień</string>
@@ -1286,6 +1307,7 @@ Wycofać zgodę?"</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefon się przegrzewa. Napraw.</string>
     <string name="read_clipboard_ai_close_tip">"Nie będziesz już otrzymywać powiadomień o dostępie danych aplikacji do schowka. Zamiast tego będą one mogły korzystać z tego uprawnienia tylko wtedy, gdy z nich korzystasz. Dostosować uprawnienia?"</string>
     <string name="recent_app_behavior">Historia uprawnień z 7 dni</string>
+    <string name="reject_only_opening_screen">Ogranicz dostęp podczas uruchamiania aplikacji dla wszystkich aplikacji</string>
     <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
     <string name="release_meminfo">Zwolniono %d MB</string>
     <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Zużycie danych > Ustawienia.</string>
