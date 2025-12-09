@@ -221,9 +221,11 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="eyes_protect_certification_summary_2">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly i Flicker Free</string>
     <string name="eyes_protect_certification_summary_3">Technologia polaryzacji kołowej umożliwia równomierne rozpraszanie światła, zapewniając bardziej naturalne wrażenia dla oczu</string>
     <string name="eyes_protect_certification_summary_4">Technologia ściemniania DC przy pełnej jasności zmniejsza obciążenie nerwu wzrokowego poprzez eliminację migotania podczas przełączania między jasnymi i ciemnymi scenami</string>
+    <string name="eyes_protect_certification_summary_5">Niestandardowa kompensacja SVM Xiaomi utrzymuje poziom SVM poniżej 1 przy dowolnej jasności, zapewniając bardziej komfortowe wrażenia wizualne</string>
     <string name="eyes_protect_certification_title_2">Trzy certyfikaty TÜV Rheinland Eye Comfort</string>
     <string name="eyes_protect_certification_title_3">Bardziej naturalna polaryzacja kołowa</string>
     <string name="eyes_protect_certification_title_4">Przyciemnianie DC bez migotania</string>
+    <string name="eyes_protect_certification_title_5">Przyciemnianie PWM 3840 Hz</string>
     <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
     <string name="face_unlock_prompt">"Rejestruj dane twarzy,
 patrząc na zewnętrzny ekran"</string>

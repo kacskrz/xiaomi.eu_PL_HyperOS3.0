@@ -137,7 +137,7 @@
     <string name="offline_call_notification_broadcast_start">Komunikacja offline Xiaomi prowadzi transmisję</string>
     <string name="offline_call_remove">Usuń</string>
     <string name="offline_call_repeatedly_create_shortcut">Ten skrót już istnieje</string>
-    <string name="offline_call_settings_summary">Komunikuj się z telefonami Xiaomi w pobliżu, gdy jesteś online i na obu urządzeniach włączony jest Bluetooth</string>
+    <string name="offline_call_settings_summary">Komunikuj się z telefonami Xiaomi w pobliżu, gdy jesteś offline i na obu urządzeniach włączony jest Bluetooth</string>
     <string name="offline_call_settings_title">Komunikacja offline Xiaomi</string>
     <string name="offline_call_shortcut_display">Dodaj skrót na Ekranie głównym</string>
     <string name="offline_call_show_location_title">Udostępnij lokalizację osobom w pobliżu</string>
