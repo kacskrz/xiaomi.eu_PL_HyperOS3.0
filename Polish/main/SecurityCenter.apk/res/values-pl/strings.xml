@@ -933,7 +933,6 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
     <string name="permission_instruction_send_mms">To uprawnienie zezwala aplikacjom na wysyłanie MMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
     <string name="permission_instruction_send_sms">To uprawnienie zezwala aplikacjom na wysyłanie SMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
-    <string name="permission_instruction_shake">To uprawnienie umożliwia aplikacjom wykrywanie położenia urządzenia w przestrzeni, rozpoznawanie drgań oraz określanie orientacji ekranu, a także korzystanie z kontrolerów gier i nawigacji map."</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
     <string name="permission_instruction_write_calllog">To uprawnienie zezwala aplikacjom na dodawanie lub usuwanie wpisów historii połączeń.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
