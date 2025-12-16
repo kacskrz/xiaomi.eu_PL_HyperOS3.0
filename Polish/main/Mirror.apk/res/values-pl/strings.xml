@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_market_name">%2$s (%1$s)</string>
     <string name="desktop_setting_not_open_tips_dialog_content">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="enable_wifi_alert_message">Aby łączyć się z innymi urządzeniami, włącz Wi-Fi. Zrobić to teraz?</string>
     <string name="enable_wifi_alert_message_china">Włącz Wi-Fi, aby móc połączyć się z innymi urządzeniami. Włączyć teraz?</string>
@@ -72,6 +73,10 @@
     <string name="seize_title">Zatrzymanie udostępniania</string>
     <string name="setting_page_introduction">Wyświetlaj i kontroluj swój telefon zalogowany na Twoje konto Xiaomi i uzyskuj dostęp do jego aplikacji na swoim tablecie</string>
     <string name="settings_nfc_transfer_desc1">"·Zbliż telefon zalogowany na Twoje konto Xiaomi do modułu NFC tego urządzenia, aby udostępnić ekran lub przesłać elementy wybrane w aplikacji Pliki bądź w Galerii."</string>
+    <string name="share_file_transfer_finish_cancel">Anuluj</string>
+    <string name="share_file_transfer_finish_message">Możesz przeglądać przesłane pliki w aplikacji Pliki > Xiaomi Share.</string>
+    <string name="share_file_transfer_finish_open_dir">Wyświetl</string>
+    <string name="share_file_transfer_finish_title">Przesłano pomyślnie</string>
     <string name="share_pc_abort_dialog_title">Połączenie przerwane</string>
     <string name="share_pc_file_transfer_part_failed">"Nie udało się przesłać części plików. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
     <string name="share_pc_folder_multi_error_dialog_title">"Nie udało się przesłać wszystkich elementów"</string>
