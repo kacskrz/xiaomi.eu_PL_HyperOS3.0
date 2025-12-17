@@ -143,7 +143,9 @@ Zwiększone bezpieczeństwo."</string>
     <string name="pa_need_download_talkback">Nie pobrano jeszcze \"%s\"</string>
     <string name="privacy_thumbnail_blur_summary">Rozmaż podglądy w menu ostatnich aplikacji</string>
     <string name="recents_config_title">Ostatnie aplikacje</string>
+    <string name="recents_guide_dialog_message">Od teraz, dla lepszych i płynniejszych wrażeń, dostępny jest nowy układ \"W stosie\".</string>
     <string name="recents_layout_style">Rozmieść elementy w Ostatnich aplikacjach</string>
+    <string name="recents_layout_style_stack">W stosie</string>
     <string name="recents_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
     <string name="recents_title_app_manager">Aplikacje</string>
     <string name="recents_title_garbage_deepclean">Śmieci</string>
