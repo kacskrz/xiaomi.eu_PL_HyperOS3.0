@@ -60,4 +60,10 @@
         <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
         <item>Przywróć standardowe kolory treści na ekranie z kalibracją kolorów</item>
     </string-array>
+    <string-array name="wifi_signal">
+        <item>Słaba</item>
+        <item>Słaba</item>
+        <item>Dobra</item>
+        <item>Doskonała</item>
+    </string-array>
 </resources>
