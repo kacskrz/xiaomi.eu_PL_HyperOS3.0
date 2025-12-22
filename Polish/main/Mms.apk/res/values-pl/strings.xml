@@ -264,6 +264,7 @@ Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znak
     <string name="vital_signs_data_low_spo2_multi">Niskie SpO₂ wiele razy (ost. godzina). Ostatnio: %1$d%%–%2$d%% (%3$s–%4$s)</string>
     <string name="wrong_mms_version_msg">"Zainstaluj wersję aplikacji SMS kompatybilną ze Twoim urządzeniem i systemem."</string>
     <string name="yellowpage_recommend_msg">Sprawdź funkcje SMS-ów od Xiaomi</string>
+    <string name="yulore_term">Polityka prywatności</string>
     <string name="you_have_new_message">Masz nowe wiadomości</string>
     <string name="zero_sms_feedback_message">Zgłoszone wiadomości zostaną przesłane na serwery Xiaomi wraz z numerami telefonów ich nadawców. Są one używane wyłącznie do poprawienia funkcjonalności Listy blokowanych.</string>
 </resources>
