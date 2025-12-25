@@ -1709,7 +1709,7 @@ Wycofać zgodę?"</string>
     <string name="usage_type_background_desk_power_consumption_time">Zużycie w tle</string>
     <string name="usage_type_front_desk_power_consumption_time">Zużycie na pierwszym planie</string>
     <string name="usage_type_power_consumption_ratio_hint_binary">Energia zużyta przez %3$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s %2$s</string>
-    <string name="usage_type_power_consumption_ratio_hint_single">Energia zużyta przez %3$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s</string>
+    <string name="usage_type_power_consumption_ratio_hint_single">Energia zużyta przez %2$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s</string>
     <string name="use_for_open_applock">Do włączania Blokady aplikacji</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>

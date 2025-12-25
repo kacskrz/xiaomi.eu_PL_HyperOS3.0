@@ -713,6 +713,7 @@ d.MM."</string>
     <string name="month_september_shortest">Wrz</string>
     <string name="more_icon_style">Więcej ikon</string>
     <string name="more_sub_comment">Zobacz wszystkie odpowiedzi (%1$d)></string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
