@@ -28,6 +28,34 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="dataSafe">Druga przestrzeń to jakby drugi telefon.</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="function_not_support">Nieobsługiwane na tym urządzeniu</string>
+    <string name="gesture_shortcut_camera_mr_accidental_trigger_note">Aby zapobiec przypadkowemu uruchomieniu, tryb kieszonkowy zostanie automatycznie włączony podczas grania lub gdy urządzenie znajduje się w kieszeni</string>
+    <string name="gesture_shortcut_camera_mr_angle">Kąt obrotu</string>
+    <string name="gesture_shortcut_camera_mr_angle_medium">Średni (domyślny)</string>
+    <string name="gesture_shortcut_camera_mr_angle_small">Mały</string>
+    <string name="gesture_shortcut_camera_mr_angle_wide">Duży</string>
+    <string name="gesture_shortcut_camera_mr_function">Szybkie uruchamianie</string>
+    <string name="gesture_shortcut_camera_mr_function_setting_title">Ustawienia szybkiego uruchamiania</string>
+    <string name="gesture_shortcut_camera_mr_guide_info">Szybko obróć pierścień aparatu, aby otworzyć aplikację Aparat</string>
+    <string name="gesture_shortcut_camera_mr_guide_title">Szybkie uruchamianie</string>
+    <string name="gesture_shortcut_camera_mr_mode">Tryb aparatu</string>
+    <string name="gesture_shortcut_camera_mr_mode_doc">Dokument</string>
+    <string name="gesture_shortcut_camera_mr_mode_fastshot">Szybkie ujęcie</string>
+    <string name="gesture_shortcut_camera_mr_mode_photo">Zdjęcie</string>
+    <string name="gesture_shortcut_camera_mr_mode_portrait">Portret</string>
+    <string name="gesture_shortcut_camera_mr_mode_video">Wideo</string>
+    <string name="gesture_shortcut_camera_mr_off">Wyłączone</string>
+    <string name="gesture_shortcut_camera_mr_open_camera">Otwórz aparat</string>
+    <string name="gesture_shortcut_camera_mr_setting">Funkcje pierścienia aparatu</string>
+    <string name="gesture_shortcut_camera_mr_setting_title">Ustawienia aparatu</string>
+    <string name="gesture_shortcut_camera_mr_take_photo">Zrób zdjęcie</string>
+    <string name="gesture_shortcut_camera_mr_title">Pierścień aparatu</string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_item">Pierścień aparatu</string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_always">Zawsze włączone</string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_camera_only">Tylko w aparacie</string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info"><Data>Włącz reakcje haptyczne w &lt;a href=\"%1$s\">Dźwięku i dotyku&lt;/a></Data></string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info_global"><Data>Włącz reakcje haptyczne w &lt;a href=\"%1$s\">Dźwięku i wibracjach&lt;/a></Data></string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_system_disable">Reakcje haptyczne są wyłączone</string>
+    <string name="gesture_shortcut_camera_mr_vibrate_setting_title">Ustawienia haptyczne</string>
     <string name="gms_title">Sklonuj usługi Google</string>
     <string name="home_app">Launcher</string>
     <string name="import_file_suc">Przeniesiono do katalogów</string>
