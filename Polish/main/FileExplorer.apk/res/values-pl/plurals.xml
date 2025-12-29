@@ -5,6 +5,12 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="pick_max_count">
+        <item quantity="other">Nie można wybrać więcej niż %1$s elementu</item>
+        <item quantity="one">Nie można wybrać więcej niż %1$s elementu</item>
+        <item quantity="few">Nie można wybrać więcej niż %1$s elementów</item>
+        <item quantity="many">Nie można wybrać więcej niż %1$s elementów</item>
++    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">%2$d wyników dla %1$s</item>
         <item quantity="zero">%2$d wyników dla %1$s</item>
