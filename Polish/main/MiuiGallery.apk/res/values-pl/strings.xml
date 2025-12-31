@@ -136,6 +136,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="featured_added_to_top_album">Pomyślnie dodano</string>
     <string name="featured_people_pets_empty_des">Włącz synchronizację z chmurą i wykonaj więcej zdjęć, aby zobaczyć tu ulubionych ludzi, zwierzęta i grupy</string>
     <string name="featured_time_empty_des">Wspomnienia będą tworzone podczas ładowania urządzenia przy wyłączonym ekranie</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
     <string name="galleryplus_already_cloud_member">Odtwarzanie dzięki członkostwu Chmury Xiaomi</string>
     <string name="galleryplus_chose_play_speed">Odtwarzanie w prędkości %1$.1fx</string>
