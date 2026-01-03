@@ -54,7 +54,6 @@
     <string name="loading">Chwileczkę…</string>
     <string name="menu_title_fileexplore">Pliki</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
-    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="miuix_item_view_accessibility_unselected">Nie wybrano</string>
     <string name="miuix_navigator_category_group_collapse">Zwiń</string>
     <string name="miuix_navigator_category_group_collapsed">Zamknięto</string>
