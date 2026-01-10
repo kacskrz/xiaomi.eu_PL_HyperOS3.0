@@ -43,6 +43,7 @@
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
+    <string name="ai_is_calculating_segment">SI generuje efekt głębi…</string>
     <string name="ai_moving_your_wallpaper_new">Wypróbuj nowe style i dodaj dynamiczne efekty do swoich ulubionych tapet</string>
     <string name="ai_pet">Zwierzaki SI</string>
     <string name="ai_pet_account_service_unavailable">Błąd konta</string>
@@ -151,6 +152,8 @@
     <string name="apply_wallpaper_dialog_title">Zastosować tę tapetę?</string>
     <string name="apply_wallpaper_only_home">Tylko na Ekranie głównym</string>
     <string name="apply_wallpaper_to_lockscreen">Zastosować tę tapetę również na Ekranie blokady?</string>
+    <string name="apply_wallpaper_warning_not_apply_aod_wallpaper_when_super_wallpaper">Obecnie używasz Supertapety. Aby zmienić ustawienia Ekranu blokady, wyłącz ją.</string>
+    <string name="apply_wallpaper_warning_not_apply_home_wallpaper_when_super_wallpaper">Obecnie używasz Supertapety. Aby zmienić ustawienia Ekranu głównego, wyłącz ją.</string>
     <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Używasz zestawu tapet. Jeśli zastosujesz nową tapetę, tapety Ekranu głównego i Ekranu blokady zostaną nią zastąpione, a ekran powróci do swojego poprzedniego stylu. Zastosować?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na Ekranie głównym, jak i Ekranie blokady. Zostaną także przywrócone poprzednie ustawienia Ekranu zawsze włączonego. Zastosować?"</string>
     <string name="apply_wallpaper_warning_use_linked_wallpaper">>Używasz zestawu tapet. Jeśli zastosujesz nową tapetę, tapety Ekranu głównego i Ekranu blokady zostaną nią zastąpione. Zastosować?</string>
@@ -442,6 +445,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_classic_item_lunar_date1">Kalendarz chiński</string>
     <string name="kg_classic_plus_clock_type_centered_horizontally">Poziomo, wyrównanie do środka</string>
     <string name="kg_classic_plus_clock_type_centered_vertically">Pionowo, wyrównanie do środka</string>
+    <string name="kg_dialog_ai_blocking_for_resolution_too_small">Rozdzielczość tapety musi wynosić co najmniej %1$d×%2$d px</string>
     <string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Zastosuj motyw</string>
     <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">Anuluj</string>
     <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Zastosuj</string>
@@ -608,6 +612,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="login_theme">Zaloguj się do Motywów</string>
     <string name="long_click_can_hide_resource">Dotknij i przytrzymaj, aby ukryć elementy</string>
     <string name="loop_video_wallpaper">Zapętlij dynamiczne tapety</string>
+    <string name="maml_config_select_image">Wybierz obraz</string>
     <string name="mine_tab_not_login">Zaloguj się, aby wyświetlić elementy.
 Aby się zalogować, dotknij tutaj."</string>
     <string name="mashup_sound">Miks natury</string>
@@ -935,6 +940,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
 Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_list_title">Tylny wyświetlacz</string>
     <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
+    <string name="rear_screen_notice">Powiadomienia</string>
     <string name="rear_screen_screenshot">Zrzut ekranu</string>
     <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_service_assistant_new">Zarządzaj tylnym wyświetlaczem</string>
@@ -1224,6 +1230,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="toast_both_all_apply_success">Pomyślnie zastosowano na Ekranie głównym i Ekranie blokady</string>
     <string name="toast_home_apply_failured">"Nie udało się zastosować na Ekranie głównym"</string>
     <string name="toast_home_apply_success">Pomyślnie zastosowano na Ekranie głównym</string>
+    <string name="toast_image_cannot_segment">Ten obraz nie obsługuje efektu głębi</string>
     <string name="toast_lockscreen_apply_failured">"Nie udało się zastosować na Ekranie blokady"</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Pomyślnie zastosowano na Ekranie głównym. Nie udało się zastosować na Ekranie blokady."</string>
     <string name="toast_lockscreen_apply_success">Pomyślnie zastosowano na Ekranie blokady</string>

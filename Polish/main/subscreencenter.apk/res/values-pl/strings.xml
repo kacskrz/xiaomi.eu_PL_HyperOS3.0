@@ -47,6 +47,7 @@
     <string name="guide_set_wallpaper_title">Spersonalizowane tapety</string>
     <string name="guide_use_pin_summary">Użyj Xiaomi Hyper XiaoAi, aby zakreślić ważne informacje na przednim ekranie, a następnie przypnij je na tylnym wyświetlaczu dla łatwego odniesienia. Działa również ze zdjęciami z Galerii.</string>
     <string name="guide_use_pin_title">Przypięta wiadomość</string>
+    <string name="keyguard_notification_title">Powiadomienia Ekranu blokady</string>
     <string name="launch_camera_fail_tip">Aby użyć aparatu po restarcie urządzenia, odblokuj je</string>
     <string name="main_panel_enter_edit_mode_desc">Wejdź w tryb edycji</string>
     <string name="main_panel_exit_edit_mode_desc">Wyjdź z trybu edycji</string>
@@ -166,12 +167,14 @@
     <string name="ms_settings_assistant_tips">Pociągnij w dół od góry ekranu, aby użyć wybranych skrótów. Po otrzymaniu powiadomień na tylnym wyświetlaczu pojawią się aktualizacje w czasie rzeczywistym, które ułatwią Ci sprawdzenie informacji.</string>
     <string name="ms_smart_assistant_ticketing">Bilety Xiaomi Hyper XiaoAi</string>
     <string name="ms_stealth_mode">Tryb incognito</string>
+    <string name="ms_stock_assistant">Asystent giełdowy</string>
     <string name="ms_travel_assistant">Asystent podróży</string>
     <string name="ms_travel_assistant_off">Wył.</string>
     <string name="ms_travel_assistant_on">Wł.</string>
     <string name="night">Wieczór</string>
     <string name="noon">Południe</string>
     <string name="not_set">Nie ustawiono</string>
+    <string name="password_title">Odciski palca, dane twarzy i blokada ekranu</string>
     <string name="pin">Tylny wyświetlacz</string>
     <string name="pin_delete_button_desc">Usuń</string>
     <string name="pin_delete_cancel">Anuluj</string>

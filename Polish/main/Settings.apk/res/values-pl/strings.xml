@@ -321,7 +321,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="leave_loclscreen_title">Zablokuj ekran, gdy się oddalasz</string>
     <string name="led_pulse_summary">Pulsuj diodą powiadomień, gdy otrzymano nowe powiadomienie</string>
     <string name="legacy_power_menu">Stare menu zasilania</string>
-    <string name="light_camera_state_summary">Włącz tylną diodę podczas robienia zdjęć lub nagrywania filmów</string>
+    <string name="light_camera_state_summary">Włącz tylną diodę podczas robienia zdjęć seryjnych lub samowyzwalaczem</string>
     <string name="light_camera_state_title">Wskaźnik statusu aparatu</string>
     <string name="light_color_mode">Jasny motyw</string>
     <string name="list_bg_header_text">"Jeśli ograniczysz łączność w tle, nowe aplikacje nie będą w stanie połączyć się z Internetem w tle po ich instalacji. Mogą one nie być w stanie otrzymywać wiadomości lub pobierać zawartości po dokonaniu tej czynności."</string>
