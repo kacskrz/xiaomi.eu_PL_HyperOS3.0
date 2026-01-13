@@ -670,6 +670,7 @@ d.MM."</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="miuix_compat_dialog_content">"Obecna wersja aplikacji \"%s\" jest niekompatybilna z tym motywem."</string>
     <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
