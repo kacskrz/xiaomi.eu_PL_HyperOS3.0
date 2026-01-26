@@ -161,7 +161,7 @@
     <string name="cw_wallpaper_empty_dlg_title">Nie dodano elementów</string>
     <string name="cw_wallpaper_empty_dlg_title2">Nie dodano obrazów</string>
     <string name="cw_wallpaper_manager">Zarządzaj tapetami</string>
-    <string name="day">Doba</string>
+    <string name="day">Codziennie</string>
     <string name="declaration">Tapety ekranu blokady będą zmieniane codziennie. Aplikacja wymaga połączenia z siecią.</string>
     <string name="declaration_lockscreen_title">Dzienne tapety blokady</string>
     <string name="declaration_title">Warunki użytkowania</string>
