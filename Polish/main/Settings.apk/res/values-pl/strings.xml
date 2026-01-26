@@ -184,6 +184,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="desc_app_locale_disclaimer">Język może się różnić od języków dostępnych w aplikacji. Niektóre aplikacje mogą nie obsługiwać tego ustawienia.</string>
     <string name="dev_settings_disabled_warning">Włącz najpierw opcje programisty</string>
     <string name="device_available_memory">"Dostępna pamięć "</string>
+    <string name="device_class_watch">Zegarek</string>
     <string name="device_cpu10_info">10x</string>
     <string name="device_cpu2_info">2x</string>
     <string name="device_cpu4_info">4x</string>
