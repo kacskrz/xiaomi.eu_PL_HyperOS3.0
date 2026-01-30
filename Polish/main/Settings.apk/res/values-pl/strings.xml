@@ -332,7 +332,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
     <string name="lock_screen_notifications_summary_hide">Pokazuj powiadomienia i ukryj treść</string>
     <string name="lock_screen_notifications_summary_show">Pokazuj powiadomienia i treść</string>
-    <string name="lock_screen_password">Blokada ekranu</string>
     <string name="lock_screen_signature_summary">Ta informacja będzie wyświetlana na ekranie blokady</string>
     <string name="lock_screen_signature_title">Podpis</string>
     <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk podczas blokowania i odblokowywania urządzenia</string>
@@ -444,7 +443,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="near_loclscreen_title">Wybudź ekran, gdy się zbliżasz</string>
     <string name="network_dashboard_title">Sieć i Internet</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
-    <string name="new_instruction_privacy_password_type">Rodzaje hasła ochrony prywatności</string>
     <string name="new_privacy_password_settings">Ustaw hasło ochrony prywatności</string>
     <string name="nfc_dnd_mode_title">Tryb Nie przeszkadzać dla NFC</string>
     <string name="night_display_auto_mode_custom">Własny harmonogram</string>

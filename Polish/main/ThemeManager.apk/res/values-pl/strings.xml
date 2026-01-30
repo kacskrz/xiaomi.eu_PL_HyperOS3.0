@@ -91,21 +91,29 @@
     <string name="ai_video_not_meet_requirement_dialog_message">Wybierz film z osobą lub zwierzęciem i upewnij się, że główny obiekt zajmuje więcej niż %s kadru.</string>
     <string name="ai_video_not_meet_requirement_dialog_message_new">Wybierz film z osobą lub zwierzęciem i upewnij się, że obiekt jest wyraźny i niezasłonięty.</string>
     <string name="ai_video_not_meet_requirement_dialog_title">Nie można wygenerować filmu</string>
+    <string name="ai_walllpaper_generate">Wygeneruj</string>
     <string name="ai_wallpaper_account_exception">Wygląda na to, że wystąpił problem na Twoim koncie. Spróbuj ponownie później lub zmień konto.</string>
     <string name="ai_wallpaper_click_to">Dotknij, aby zobaczyć</string>
     <string name="ai_wallpaper_dynamic_new">Dynamiczne</string>
     <string name="ai_wallpaper_featured_title">Polecane</string>
     <string name="ai_wallpaper_function_introduction_new">Za pomocą nowej funkcji Tapety SI możesz wypróbować nowe style i dodać dynamiczne efekty do swoich ulubionych tapet.</string>
     <string name="ai_wallpaper_generate_unsupported_toast">Ta tapeta nie działa z SI</string>
+    <string name="ai_wallpaper_generation_effect_message">Aby uzyskać lepsze wyniki, upewnij się, że wybrane zdjęcie zawiera maks. %d osób lub zwierzaków.</string>
+    <string name="ai_wallpaper_generation_quality_message">Aby uzyskać lepsze wyniki, upewnij się, że wybrane zdjęcie zawiera maks. %d osób lub zwierzaków.</string>
     <string name="ai_wallpaper_generation_time">Zajmie to około %d sekund</string>
     <string name="ai_wallpaper_history_empty">Nic tu nie ma</string>
+    <string name="ai_wallpaper_image_fail_message">Upewnij się, że wybrane zdjęcie zawiera tylko jedno zwierzę.</string>
+    <string name="ai_wallpaper_image_fail_message_two">Upewnij się, że wybrane zdjęcie zawiera tylko jedną osobę.</string>
+    <string name="ai_wallpaper_image_prompt">Uwaga</string>
     <string name="ai_wallpaper_inside_invitation">Betatesty dynamicznych tapet SI</string>
     <string name="ai_wallpaper_inside_invitation_description">Funkcja używa możliwości dużych modeli do generowania dynamicznych tapet ze statycznych obrazów. Dotknij opcji \"Zgadzam się\", aby ją wypróbować!</string>
     <string name="ai_wallpaper_local_title">Moje tapety</string>
     <string name="ai_wallpaper_save_to_gallery">Zapisano pomyślnie</string>
+    <string name="ai_wallpaper_select_generation_type">Typ obrazu</string>
     <string name="ai_wallpaper_select_picture">Wybierz</string>
     <string name="ai_wallpaper_selection_prompt_message">Dla lepszego efektu wybierz zdjęcia z poniższych kategorii i upewnij się, że główny obiekt zdjęcia jest ostry i niezasłonięty innymi rzeczami.</string>
     <string name="ai_wallpaper_service_exception">Wystąpił błąd</string>
+    <string name="ai_wallpaper_stop_generation">Zatrzymaj</string>
     <string name="ai_wallpaper_style">Statyczne</string>
     <string name="ai_wallpaper_tips_animal">Zwierzę</string>
     <string name="ai_wallpaper_tips_content_violation">Ta treść może naruszać wytyczne Xiaomi. Nie można kontynuować generowania tapety.</string>
@@ -945,6 +953,8 @@ Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_screenshot">Zrzut ekranu</string>
     <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_service_assistant_new">Zarządzaj tylnym wyświetlaczem</string>
+    <string name="rear_screen_sunlight_mode">Tryb światła słonecznego</string>
+    <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Dostosuj jasność do silnego światła otoczenia, aby zapobiec zbyt dużemu obniżaniu jasności ekranu</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
     <string name="rear_screen_template_upper_limit">Nie udało się dodać więcej elementów. Usuń jeden z nich w Ustawieniach > Tylny wyświetlacz i spróbuj ponownie.</string>
     <string name="rear_screen_template_upper_limit_old">Usuń elementy w Ustawieniach > Tylny wyświetlacz > Personalizacja, aby móc dodać więcej</string>
@@ -1200,6 +1210,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="theme_settings_title">Motywy</string>
     <string name="theme_share_app_name">Motywy Mi</string>
     <string name="theme_staggered_item_text">Otrzymaj Mi Kredyty</string>
+    <string name="theme_store">Sklep z motywami</string>
     <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>
     <string name="theme_user_agreement_content2">"Umowa użytkownika"</string>
     <string name="theme_user_agreement_content3">" i "</string>
@@ -1366,5 +1377,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="warning_miui_optimization_closed_dialog_message">"Wygląda na to, że optymalizacja systemu jest wyłączona. W takiej sytuacji ten motyw nie będzie działać poprawnie Możesz go zastosować lub włączyć optymalizację systemu w Ustawieniach."</string>
     <string name="warning_subscribe_wallpaper_group_content">"Włączono pokaz slajdów na Ekranie głównym. Element %1$s zostanie zastosowany na nim."</string>
     <string name="warning_update_super_wallpaper">Zaktualizuj Supertapety</string>
+    <string name="watch_take_off_shelf">Ten element jest niedostępny. Odkryj inne ekrany!</string>
     <string name="wechat_not_found">Zainstaluj najpierw WeChata</string>
 </resources>

@@ -140,7 +140,6 @@
     <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
     <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
     <string name="other_settings_user_experience_summary">"Pomóż ulepszać produkty Xiaomi przez przesyłanie anonimowych danych."</string>
-    <string name="permission_MIUIDaemon_introduction">Systemowy daemon umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
     <string name="permission_application_scope_description">"Te uprawnienia są wykorzystywane tylko podczas skanowania pod kątem bezpieczeństwa i nie będą używane w innych celach."</string>
     <string name="permission_authority_describe">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
