@@ -80,6 +80,15 @@
     <string name="offline_call_summary">Dzwoń do innych telefonów Xiaomi w pobliżu przez Bluetooth bez połączenia z siecią</string>
     <string name="offline_connection_service_label">Połączenia offline</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że karta SIM wspiera tylko LTE. Podwójne LTE zostało włączone w systemie automatycznie.</string>
+    <string name="osu_dialog_cancel_btn_text">Nie teraz</string>
+    <string name="osu_dialog_message">Zaktualizuj moduł eSIM, aby naprawić potencjalne problemy z kompatybilnością i bezpieczeństwem. Podczas aktualizacji Twój eSIM będzie niedostępny.</string>
+    <string name="osu_dialog_ok_btn_text">Aktualizuj</string>
+    <string name="osu_dialog_title">Aktualizuj moduł eSIM</string>
+    <string name="osu_error_toast_message">Nie udało się zaktualizować. NFC jest niedostępne.</string>
+    <string name="osu_notification_message">Zaktualizuj moduł eSIM, aby zapobiec potencjalnym problemom z bezpieczeństwem</string>
+    <string name="osu_notification_title">Aktualizuj moduł eSIM</string>
+    <string name="osu_progress_dialog_message">Aktualizowanie modułu. Niektóre funkcje są niedostępne.</string>
+    <string name="osu_success_toast_message">Pomyślnie zaktualizowano</string>
     <string name="path_answer_state_setting_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące</string>
     <string name="path_antispam_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/Blokowanie numerów</string>
     <string name="path_app_name">Aplikacje/Inne ustawienia/Systemowe/Telefon</string>
@@ -225,6 +234,8 @@ Anulować usługi?"</string>
     <string name="satellite_signal_boost_setting_summary">Zainstaluj wzmacniacz, aby poprawić moc sygnału i jego stabilność w słabych warunkach pogodowych (np. przy pochmurnym niebie)</string>
     <string name="satellite_signal_boost_setting_title">Użyj wzmacniacza sygnału Tiantong</string>
     <string name="satellite_signal_boost_toast">Wzmacniacz sygnału wyłączy się, gdy wyłączona jest komunikacja z satelitą</string>
+    <string name="satellite_start">OK</string>
+    <string name="satellite_start_battery">OK</string>
     <string name="satellite_state">Nie poruszaj urządzeniem</string>
     <string name="satellite_state_auto_exit">Wyjdź (%d sek.)</string>
     <string name="satellite_state_connected_exp">Pomyślnie zlokalizowano satelitę</string>
@@ -237,8 +248,6 @@ Anulować usługi?"</string>
     <string name="satellite_state_occlusion_prompt">Unikaj budynków lub drzew, które mogą blokować sygnał</string>
     <string name="satellite_state_retry">Próbuj dalej</string>
     <string name="satellite_state_voice_reg_fail_exit">Wyjdź</string>
-    <string name="satellite_start">OK</string>
-    <string name="satellite_start_battery">OK</string>
     <string name="satellite_thermal_hangup_delay">Urządzenie jest przegrzane. Połączenie zakończy się za %d sekund. Poczekaj, aż urządzenie się schłodzi.</string>
     <string name="satellite_tiantong_setting">Komunikacja z satelitą Tiantong</string>
     <string name="satellite_unable_open_title">Nie można włączyć komunikacji z satelitą</string>
@@ -258,6 +267,7 @@ Dostępność usługi zależy od Twojego operatora."</string>
     <string name="unfold_speaker_pref_summary">Rozłóż urządzenie w trakcie połączenia, aby włączyć głośnik</string>
     <string name="unfold_speaker_pref_title">Rozłóż, aby użyć głośnika</string>
     <string name="wfc_mode_ims_preferred_title">Połączenie przez IMS</string>
+    <string name="wifi_call_available_title_DEO2">Włączony jest Wi-Fi Calling</string>
     <string name="xingwang_satellite_findout_settings_title">O komunikacji z satelitą Tiantong</string>
     <string name="xingwang_satellite_mobile_settings_summary">Wspierane tylko przez karty SIM China Telecom lub innych wspieranych operatorów obsługujących satelitę</string>
     <string name="xingwang_satellite_mobile_settings_title">Włącz komunikację z satelitą</string>

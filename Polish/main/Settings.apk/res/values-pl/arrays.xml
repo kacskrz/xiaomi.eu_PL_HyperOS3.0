@@ -7,6 +7,20 @@
         <item>Poziom 11</item>
         <item>Poziom 15</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_array">
+        <item></item>
+        <item>W użyciu (multimedia i połączenia)</item>
+        <item>W użyciu (multimedia)</item>
+        <item>W użyciu (połączenia)</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_entries">
+        <item>Rozłącz wszystko</item>
+        <item>Zezwól usługom systemowym</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_summary">
+        <item>Wszystkie urządzenia i funkcje Bluetooth zostaną rozłączone</item>
+        <item>Niektóre usługi systemowe nadal będą korzystać z Bluetooth</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Odblokowanie twarzą</item>
         <item>Wzór</item>

@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="enter_digit_password_max_length">
+        <item quantity="other">Możesz wprowadzić do %1$d cyfr</item>
+        <item quantity="one">Możesz wprowadzić do %1$d cyfry</item>
+    </plurals>
+    <plurals name="enter_digit_password_min_length">
+        <item quantity="other">Wprowadź co najmniej %1$d cyfr</item>
+        <item quantity="one">Wprowadź co najmniej %1$d cyfrę</item>
+    </plurals>
+    <plurals name="enter_mix_password_max_length">
+        <item quantity="other">Możesz wprowadzić do %d znaków</item>
+        <item quantity="one">Możesz wprowadzić do %d znaku</item>
+    </plurals>
+    <plurals name="enter_mix_password_min_chars">
+        <item quantity="other">Wprowadź co najmniej %1$d znaków</item>
+        <item quantity="one">Wprowadź co najmniej %1$d znak</item>
+    </plurals>
+    <plurals name="keyguard_lock_too_many_attempts">
+        <item quantity="other">Zbyt wiele prób. Spróbuj ponownie za %d s.</item>
+        <item quantity="one">Zbyt wiele prób. Spróbuj ponownie za %d s.</item>
+    </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="other">Wybrano %1$d elementów</item>
         <item quantity="few">Wybrano %1$d elementy</item>
@@ -13,6 +33,16 @@
     <plurals name="notification_frequency_summary">
         <item quantity="other">Około %d razy dziennie</item>
         <item quantity="one">Około %d raz dziennie</item>
+    </plurals>
+    <plurals name="pluto_switch_headset_anti_lost_with_fall_summary">
+        <item quantity="other">Otrzymuj przypomnienie, jeśli Twoje słuchawki zostaną upuszczone, nie nosisz ich lub są poza etui przez ponad %d minut</item>
+        <item quantity="few">Otrzymuj przypomnienie, jeśli Twoje słuchawki zostaną upuszczone, nie nosisz ich lub są poza etui przez ponad %d minuty</item>
+        <item quantity="one">Otrzymuj przypomnienie, jeśli Twoje słuchawki zostaną upuszczone, nie nosisz ich lub są poza etui przez ponad %d minutę</item>
+    </plurals>
+    <plurals name="remaining_attempts_message">
+        <item quantity="other">Pozostało %1$d prób</item>
+        <item quantity="one">Pozostała %1$d próba</item>
+        <item quantity="few">Pozostały %1$d próby</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>

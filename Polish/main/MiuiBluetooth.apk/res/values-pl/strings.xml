@@ -5,6 +5,8 @@
     <string name="Location_map_of_nearby_title">Mapa urządzeń w pobliżu</string>
     <string name="access_denied_info">Zbyt wiele prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
+    <string name="airpods_fast_connect_fail_summary">Przytrzymaj przycisk z tyłu etui ładującego lub dotknij dwa razy frontu etui, aż dioda statusu zaświeci się na biało</string>
+    <string name="airpods_fast_connect_fail_summary_single">Przytrzymaj przycisk kontroli redukcji szumów w słuchawkach, aż dioda statusu zaświeci się na biało</string>
     <string name="call_allowed_title">Zezwolenie na połączenia</string>
     <string name="celluar_tether_disconect_title">Rozłączono</string>
     <string name="celluar_tether_disconnect_WLAN_prompt">Aby poprawić prędkość połączenia, rozłącz się z Wi-Fi</string>

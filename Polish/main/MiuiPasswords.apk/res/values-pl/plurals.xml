@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="one">Wybrano %1$d element</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+    </plurals>
+    <plurals name="recently_delete_recover">
+        <item quantity="other">Pomyślnie przywrócono %d elementów</item>
+        <item quantity="one">Pomyślnie przywrócono %d element</item>
+        <item quantity="few">Pomyślnie przywrócono %d elementy</item>
+    </plurals>
+    <plurals name="recently_deleted_remind_des_days">
+        <item quantity="other">To hasło zostanie trwale usunięte za %d dni. Jeśli jest ono potrzebne, przywróć je przedtem.</item>
+        <item quantity="one">To hasło zostanie trwale usunięte za %d dzień. Jeśli jest ono potrzebne, przywróć je przedtem.</item>
+    </plurals>
+    <plurals name="recently_deleted_remind_des_hours">
+        <item quantity="other">To hasło zostanie trwale usunięte za %d godzin. Jeśli jest ono potrzebne, przywróć je przedtem.</item>
+        <item quantity="one">To hasło zostanie trwale usunięte za %d godzinę. Jeśli jest ono potrzebne, przywróć je przedtem.</item>
+        <item quantity="few">To hasło zostanie trwale usunięte za %d godziny. Jeśli jest ono potrzebne, przywróć je przedtem.</item>
+    </plurals>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Jeśli usuniesz teraz te hasła, będzie trzeba wprowadzić je ręcznie przy następnym logowaniu.
+Usunąć hasła dla %1$s wybranych aplikacji?"</item>
+        <item quantity="one">"Jeśli usuniesz teraz to hasło, będzie trzeba wprowadzić je ręcznie przy następnym logowaniu.
+Usunąć hasło dla %1$s wybranej aplikacji?"</item>
+    </plurals>
+</resources>

@@ -68,7 +68,6 @@
     <string name="handy_mode_title">Jedna dłoń</string>
     <string name="high_temperature_brightness_toast">Wyższa jasność ekranu spowoduje nagrzewanie się urządzenia i zużycie większej ilości energii</string>
     <string name="hovermode_text_prompt">Gdy włączony jest Tryb kieszonkowy, możesz używać gestów w dolnej części ekranu. Mogą się one różnić w zależności od aplikacji.</string>
-
     <string name="ime_countDown_no">Anuluj</string>
     <string name="ime_countDown_tip">Metoda wprowadzania, którą wybierzesz, będzie używana tylko na wewnętrznym ekranie. Chcesz zmienić metodę wprowadzania?</string>
     <string name="ime_countDown_title">Zmiana metody wprowadzania</string>
@@ -84,6 +83,8 @@
     <string name="knock_slide_shape">Narysuj okrąg knykciem</string>
     <string name="ks_back_home">Ekran główny</string>
     <string name="ks_launch_control_center">Centrum funkcji</string>
+    <string name="ks_launch_global_search">Wyszukiwarka aplikacji</string>
+    <string name="ks_launch_global_search_china">Wyszukiwanie</string>
     <string name="ks_launch_recents_tasks">Otwórz Ostatnie aplikacje</string>
     <string name="ks_regional_screen_shot">Zrzut ekranu (częściowy)</string>
     <string name="launch_ai_shortcut">Skrót do Mi SI</string>
@@ -175,6 +176,7 @@ z przedniego aparatu"</string>
     <string name="toast_camera_satellite_mutually_exclusive_beidou">Nie można korzystać z Aparatu podczas używania satelity BeiDou</string>
     <string name="toyrobot">Robot zabawka</string>
     <string name="turn_on_torch">Włącz latarkę</string>
+    <string name="typec_not_supporort_calls_toast">Nie można użyć tych słuchawek do rozmów</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>

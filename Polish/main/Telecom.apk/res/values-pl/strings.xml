@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="apple_answer_relay_call_text">"Połączenie przełączone z powrotem na iPhone'a"</string>
+    <string name="apple_miss_relay_call_text">Od</string>
     <string name="callSwapFailed_unholdable_call">Nie można przełączyć aktywnego połączenia, ponieważ nie wspiera ono wstrzymywania. Rozłącz połączenie, aby wstrzymane połączenie mogło być aktywne.</string>
     <string name="default_dialer_reset_prompt">"Wygląda na to, że w trakcie używania aplikacji %s wystąpiło wiele błędów. Czy chcesz, aby dialer Xiaomi był Twoją domyślną aplikacją telefonu?"</string>
     <string name="dial_conference_fail_prompt">"Nie można nawiązać połączenia konferencyjnego. Aktualna sieć nie wspiera VoLTE."</string>

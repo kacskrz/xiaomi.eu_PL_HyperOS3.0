@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mi_sharing_files">
+        <item quantity="other">%d plików</item>
+        <item quantity="few">%d pliki</item>
+        <item quantity="one">%d plik</item>
+    </plurals>
+    <plurals name="mi_sharing_images">
+        <item quantity="other">%d zdjęć</item>
+        <item quantity="few">%d zdjęcia</item>
+        <item quantity="one">%d zdjęcie</item>
+    </plurals>
+    <plurals name="mi_sharing_videos">
+        <item quantity="other">%d wideo</item>
+        <item quantity="one">%d wideo</item>
+    </plurals>
+</resources>
