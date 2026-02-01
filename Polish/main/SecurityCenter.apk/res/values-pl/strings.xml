@@ -313,6 +313,9 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
+    <string name="car_sickness_relief_comment_text_opened">"Po obu stronach ekranu wyświetlane będą kropki, aby odzwierciedlić poruszanie się pojazdu. Może to pomóc opóźnić napad choroby lokomocyjnej.
+
+Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
     <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>

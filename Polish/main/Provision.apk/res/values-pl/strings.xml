@@ -140,6 +140,7 @@
     <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
     <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
     <string name="other_settings_user_experience_summary">"Pomóż ulepszać produkty Xiaomi przez przesyłanie anonimowych danych."</string>
+    <string name="other_settings_xiaomi_share_summary"><Data>Dzięki Xiaomi Share możesz przesyłać pliki pomiędzy urządzeniami. Włączając przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > Xiaomi Share.&lt;br/>Ze względu na różnice między wersjami systemu i modelami urządzeń, funkcjonalność Xiaomi Share dla Twojego obecnego urządzenia może być inna. Aby dowiedzieć się więcej, odwiedź oficjalną stronę internetową.</Data></string>
     <string name="permission_application_scope_description">"Te uprawnienia są wykorzystywane tylko podczas skanowania pod kątem bezpieczeństwa i nie będą używane w innych celach."</string>
     <string name="permission_authority_describe">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
@@ -206,6 +207,7 @@
     <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi, które dotyczą aplikacji Xiaomi znajdujących się na Twoim urządzeniu. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. Dane są zaszyfrowane i mogą zostać permanentnie usunięte poprzez reset do ustawień fabrycznych. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
     <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
     <string name="title_setting_up_face">Ustaw dane twarzy</string>
+    <string name="title_stacked_layout">Stos</string>
     <string name="used_date_viewing">W celu sprawdzania daty</string>
     <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
     <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
