@@ -31,6 +31,14 @@
     <string name="eras_bc">p.n.e.</string>
     <string name="evening">Popołudnie</string>
     <string name="expand_button_title">Zaawansowane</string>
+    <string name="face_auth_authenticating">Rozpoznawanie…</string>
+    <string name="face_auth_failed_retry">Nie udało się rozpoznać</string>
+    <string name="face_auth_lockout">Zbyt wiele prób</string>
+    <string name="face_auth_lockout_tip">Odblokuj telefon na przednim panelu</string>
+    <string name="face_auth_no_face">Brak danych twarzy</string>
+    <string name="face_auth_no_face_tip">Dodaj w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > Dodaj dane twarzy</string>
+    <string name="face_auth_retry">Spróbuj ponownie</string>
+    <string name="face_auth_success">Rozpoznano</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d.MM</string>
@@ -158,6 +166,7 @@
     <string name="ms_mi_car_confirm">Kontynuuj</string>
     <string name="ms_mi_car_prompt">Uwaga</string>
     <string name="ms_mi_car_prompt_content">EV Xiaomi wymaga rozpoznania twarzy, aby kontrolować pojazd. Funkcja może być odblokowana również Twoim zdjęciem lub przez osoby lub obiekty o podobnym wyglądzie.</string>
+    <string name="ms_mihome_camera">Kamery Xiaomi Home</string>
     <string name="ms_music_service">Usługa muzyki</string>
     <string name="ms_notifications">Powiadomienia</string>
     <string name="ms_quick_function">Skróty</string>
@@ -199,6 +208,16 @@
     <string name="ss_guide_mask_button_to_use">Gotowe</string>
     <string name="ss_guide_tip_double_click_to_wake_new">"Dotknij dwa razy, aby wybudzić
 i dowiedzieć się więcej o tylnym ekranie"</string>
+    <string name="sub_screen_detail_disable_comment">"Aby wyświetlić szczegóły powiadomień, upewnij się, że:
+%1$d. Powiadomienia na ekranie blokady są ustawione na \"Wyświetl powiadomienie i treść\".
+%2$d. Opcja \"Wyświetl szczegóły powiadomienia po weryfikacji danych twarzy\" jest wyłączona w menu Odblokowywania twarzą."</string>
+    <string name="sub_screen_notification_detail_summary">Szczegóły powiadomień będą wyświetlane na tylnym ekranie. Zachowaj ostrożność w kwestii prywatności.</string>
+    <string name="sub_screen_notification_detail_title">Pokaż szczegóły powiadomień</string>
+    <string name="sub_screen_notification_disable_comment">"Aby otrzymywać powiadomienia na tylnym ekranie, upewnij się, że powiadomienia na ekranie blokady są ustawione na \"Nie wyświetlaj powiadomień na ekranie blokady\""</string>
+    <string name="sub_screen_notification_find_title">Szukasz innych ustawień?</string>
+    <string name="sub_screen_notification_settings_summary">Włącz, aby otrzymywać powiadomienia Ekranu blokady na tylnym wyświetlaczu, gdy urządzenie jest zablokowane</string>
+    <string name="sub_screen_notification_settings_title">Powiadomienia na tylnym wyświetlaczu</string>
+    <string name="sub_screen_private_notification">Masz nową wiadomość</string>
     <string name="sunday">Niedziela</string>
     <string name="sunday_short">Niedz.</string>
     <string name="sunday_shortest">Niedz.</string>

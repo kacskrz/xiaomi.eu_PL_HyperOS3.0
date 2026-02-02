@@ -1229,6 +1229,8 @@ Dostępne są zupełnie nowe style."</string>
     <string name="tiny_pets_date_format">d.MM</string>
     <string name="tiny_splicing_date_content_description">d.MM</string>
     <string name="tiny_splicing_date_format">d.MM</string>
+    <string name="tips_login_xiaomi_account_for_ai_wallpaper">Aby użyć Tapety SI, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="tips_not_logged_in">Najpierw się zaloguj</string>
     <string name="title_component">Elementy motywu</string>
     <string name="title_my_miwallpaper_desktop_effects">Efekty Ekranu głównego</string>
     <string name="title_my_miwallpaper_resource">Moje dynamiczne tapety</string>
