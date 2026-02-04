@@ -20,6 +20,7 @@
     <string name="description_call_log_incoming_forwarding_call">Połączenie przychodzące (przekierowane)</string>
     <string name="description_image_button_sim1_named_dial">Połącz, używając karty SIM 1 %s</string>
     <string name="description_image_button_sim2_named_dial">Połącz, używając karty SIM 2 %s</string>
+    <string name="dialerIconLabel">Połączenia</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="gallery">Galerii</string>
