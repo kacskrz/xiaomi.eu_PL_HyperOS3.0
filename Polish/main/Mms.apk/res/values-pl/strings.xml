@@ -73,6 +73,7 @@ Spróbuj ponownie."</string>
     <string name="menu_locus_map">Mapa podróży</string>
     <string name="menu_report">Opinia</string>
     <string name="menu_traffic_destination">Cel</string>
+    <string name="message_cannot_send_invalid_sim">Używana przez Ciebie karta SIM nie wspiera wysyłania SMS-ów</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>

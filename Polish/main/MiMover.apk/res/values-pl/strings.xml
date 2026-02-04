@@ -23,8 +23,11 @@
     <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
     <string name="audio_permission_desc">W celu przesyłania muzyki i plików audio na nowe urządzenie</string>
+    <string name="audio_permission_desc_new">W celu przesyłania muzyki i plików audio na nowe urządzenie</string>
     <string name="ble_manual_authorization_content">Aby przenieść elementy w Przenoszeniu danych, przyznaj wymagane uprawnienia. Możesz to zrobić w Ustawieniach.</string>
     <string name="blutooth_permission_desc">W celu odnajdywania urządzeń w pobliżu, z którymi można się połączyć</string>
+    <string name="blutooth_permission_desc_new">W celu odnajdywania urządzeń w pobliżu, z którymi można się połączyć</string>
+    <string name="camera_permission_content">W celu odnajdywania urządzeń w pobliżu</string>
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
@@ -45,6 +48,8 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
 2. Jeśli hotspot z nowego urządzenia nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy go tam widzisz. Jeśli tak, nie dotykaj go.
 3. Wróć do okna Przenoszenia danych i wybierz hotspot z nowego urządzenia."</string>
     <string name="connection_tips_owner_message">Przenoszenie danych jest zainstalowane domyślnie na wszystkich urządzeniach, na których znajduje się MIUI 11. Jeśli posiadasz starszą wersję MIUI, możesz pobrać najnowszą wersję Przenoszenia danych za pomocą tego linka: %1$s.</string>
+    <string name="contact_records_permission_desc_new">Do przenoszenia historii połączeń na inne urządzenia</string>
+    <string name="contacts_permission_desc_new">Do przenoszenia kontaktów na inne urządzenia</string>
     <string name="dialog_airplane_mode_content">"Przenoszenie danych nie działa, gdy włączony jest tryb samolotowy. Wyłącz go najpierw w Ustawieniach."</string>
     <string name="dialog_backup_service_missing_content">Nie można użyć Przenoszenia danych, ponieważ usługa kopii zapasowej jest niedostępna.</string>
     <string name="dialog_backup_service_missing_title">Nie można użyć Przenoszenia danych</string>
@@ -54,9 +59,22 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
 • Dostęp do wiadomości, kontaktów i historii połączeń
 • Dostęp do pamięci
 • Dostęp do listy zainstalowanych aplikacji"</string>
+    <string name="dialog_request_all_permission_content_new">"Aby przesyłać dane między starym a nowym urządzeniem, aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień:
+• Dostęp do zdjęć, dźwięków i filmów
+• Dostęp do wiadomości, kontaktów i historii połączeń
+• Dostęp do pamięci
+• Dostęp do listy zainstalowanych aplikacji"</string>
+    <string name="dialog_request_all_permission_content_new_china">"Aby przesyłać dane między starym a nowym urządzeniem, aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień:
+• Dostęp do zdjęć, dźwięków i filmów
+• Dostęp do wiadomości, kontaktów i historii połączeń
+• Dostęp do pamięci
+• Dostęp do listy zainstalowanych aplikacji"</string>
     <string name="dialog_request_all_permission_title">Wymagane uprawnienia</string>
+    <string name="dialog_request_all_permission_title_new">Wymagane uprawnienia</string>
     <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi."</string>
-    <string formatted="false" name="dialog_request_permission_message_link"><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false" ><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+    <string name="dialog_request_permission_message_link_new" formatted="false" ><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika systemu operacyjnego Xiaomi&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności Przenoszenia danych&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_new">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi."</string>
     <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Nie udało się przenieść danych aplikacji oraz historii czatu WeChat ze względu na ograniczenia aplikacji. Spróbuj użyć wbudowanej w aplikację funkcji kopii zapasowej.
 Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
@@ -87,6 +105,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="idm_discovery_summary">Wygląda na to, że trwa aktywacja Twojego nowego urządzenia. Przenieść elementy z tego urządzenia na nie?</string>
     <string name="idm_discovery_title">Przenieś elementy na nowe urządzenie</string>
     <string name="image_video_permission_desc">W celu przesyłania zdjęć i filmów na nowe urządzenie</string>
+    <string name="image_video_permission_desc_new">W celu przesyłania zdjęć i filmów na nowe urządzenie</string>
     <string name="install_app_message">"Jeśli nie możesz znaleźć swojego urządzenia przez dłuższy czas, spróbuj wykonać te kroki:
 1. Upewnij się, że na nowym urządzeniu jest zainstalowane Przenoszenie danych.
 2. Zbliż urządzenia do siebie."</string>
@@ -113,12 +132,16 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="league_client_update">Aktualizuj %s</string>
     <string name="learn_new_version_character">Dowiedz się więcej</string>
     <string name="less_than_1_minute">Mniej niż minutę</string>
+    <string name="location_permission_content_no_provisioned">Aby połączyć się z hotspotem urządzenia w pobliżu, przyznaj to uprawnienie. Jeśli tego nie zrobisz, nie będzie można przesyłać elementów.</string>
+    <string name="location_permission_content_provisioned">W celu połączenia się z hotspotem urządzenia w pobliżu</string>
     <string name="lockscreen_access">Obszar wzoru</string>
     <string name="lockscreen_access_pattern_cell_added">Komórka dodana</string>
     <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
     <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
     <string name="main_receiver_summary">Importuj elementy</string>
     <string name="main_sender_summary">Wyślij elementy</string>
+    <string name="manual_disconnect_guest">Nowe urządzenie rozłączyło się. Połącz się ponownie, aby kontynuować transfer.</string>
+    <string name="manual_disconnect_host">Stare urządzenie rozłączyło się. Połącz się ponownie, aby kontynuować transfer.</string>
     <string name="message_request_manage_external_storage_perm">Przenoszenie danych wymaga dostępu do wszystkich plików na urządzeniu, aby móc przenieść je ze starego urządzenia na nowe.</string>
     <string name="message_request_package_stats_perm">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby uzyskać informacje na temat zainstalowanych aplikacji na urządzeniu oraz przenieść je na inne urządzenie.</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
@@ -159,6 +182,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="msg_permission_desc_new">Do przenoszenia wiadomości na inne urządzenia</string>
     <string name="need_location_permission_summary">Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu.</string>
     <string name="need_more_memory_summary">"Brak wystarczającej ilości miejsca. Przenoszenie danych potrzebuje %1$s dodatkowego miejsca do utworzenia skompresowanych paczek przed rozpoczęciem przenoszenia.
 1. Spróbuj przenieść tylko najważniejsze rzeczy.
@@ -210,25 +234,35 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="permission_alert_message_usage_access">Przenoszenie danych wymaga dostępu do statystyk użytkowania aplikacji. Nadaj aplikacji wymagane uprawnienia w Ustawieniach.</string>
     <string name="permission_application_summary">W celu przeniesienia zainstalowanych aplikacji</string>
     <string name="permission_application_title">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="permission_bluetooth_summary_new">Aby wyszukiwać dostępne urządzenia w pobliżu</string>
+    <string name="permission_calendar_summary_new">Do przenoszenia wydarzeń ze starego urządzenia na nowe</string>
     <string name="permission_calender_title">Dostęp do kalendarza</string>
+    <string name="permission_calender_title_new">Dostęp do wydarzeń w kalendarzu</string>
+    <string name="permission_call_log_summary_new">Do przenoszenia historii połączeń na nowe urządzenie</string>
     <string name="permission_call_summary">W celu przeniesienia historii połączeń</string>
     <string name="permission_call_title">Dostęp do historii połączeń</string>
+    <string name="permission_contacts_summary_new">Do przenoszenia kontaktów na nowe urządzenie</string>
     <string name="permission_contacts2_summary">W celu przeniesienia kontaktów</string>
     <string name="permission_contacts2_title">Dostęp do kontaktów</string>
     <string name="permission_external_storage_summary">W celu przeniesienia muzyki, dźwięków, zdjęć i filmów</string>
     <string name="permission_external_storage_title">Dostęp do pamięci</string>
     <string name="permission_grant_request">Aby móc przenieść ten element, aplikacja Przenoszenie danych wymaga uprawnienia \"%1$s\".</string>
     <string name="permission_locale_summary">W celu łączenia się z urządzeniami w pobliżu</string>
+    <string name="permission_locale_title_new">Uzyskiwanie lokalizacji</string>
     <string name="permission_location_content">"Aby móc połączyć się ze starym urządzeniem, zezwól Przenoszeniu danych na dostęp do lokalizacji. Jeśli tego nie zrobisz, przeniesienie danych nie będzie możliwe."</string>
     <string name="permission_location_summary_china">W celu odnajdywania pobliskich hotspotów Wi-Fi i łączenia starych i nowych urządzeń</string>
     <string name="permission_location_summary_gl">W celu odnajdywania pobliskich hotspotów Wi-Fi i łączenia starych i nowych urządzeń</string>
     <string name="permission_location_title">Dostęp do lokalizacji</string>
+    <string name="permission_message_summary_new">Do przenoszenia wiadomości na nowe urządzenie</string>
     <string name="permission_mms_summary">W celu przeniesienia SMS-ów i MMS-ów</string>
     <string name="permission_mms_title">Dostęp do SMS-ów i MMS-ów</string>
     <string name="permission_music_summary">W celu przeniesienia muzyki i plików audio</string>
     <string name="permission_music_title">Dostęp do muzyki i plików audio</string>
     <string name="permission_picture_summary">W celu przeniesienia zdjęć i filmów</string>
     <string name="permission_picture_title">Dostęp do zdjęć i filmów</string>
+    <string name="permission_storage_summary_new">Do przenoszenia plików i zdjęć na nowe urządzenie</string>
+    <string name="permission_storage_title_new">Dostęp do pamięci</string>
+    <string name="permission_wifi_summary_new">Do przenoszenia elementów na nowe urządzenie</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_before_transmission_tablet_message3_title">Druga przestrzeń jest włączona</string>
     <string name="provisiion_set_old_pad_summary">Użyj Przenoszenia danych do zaimportowania danych ze starego urządzenia bez łączenia się z Internetem</string>
@@ -268,6 +302,7 @@ Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
 Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."</string>
     <string name="scanner_quit_alert_message">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
     <string name="scanner_quit_alert_message_phone">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
+    <string name="scanner_send_dialog_btn_i_know">OK</string>
     <string name="scanner_subtitle_prd">Przeczytaj te informacje przed zaznaczeniem każdego elementu i rozpoczęciem przenoszenia.</string>
     <string name="secret_password_confirm_summary">Aby przenieść prywatne pliki na nowe urządzenie, zweryfikuj swoją tożsamość poprzez wpisanie hasła Ochrony prywatności.</string>
     <string name="security_connect_content">Upewnij się, że kod połączenia na obu urządzeniach się zgadza, a następnie dotknij \"Połącz\", aby przenieść elementy.</string>
@@ -289,12 +324,22 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="sync_data_to_mi_cloud_content1">%d. Dotknij przycisku \"Synchronizuj teraz\" w karcie \"Kontakty\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Dotknij przycisku \"Skopiuj teraz\" w karcie \"Zdjęcia\".</string>
     <string name="tips_button_hint">Najpierw zaznacz każdy element.</string>
+    <string name="tips_dual_app_title_new">%d. Nie można przenieść danych sklonowanych aplikacji.</string>
+    <string name="tips_hot_content_new">Jest to normalne zjawisko. Po zakończeniu transferu temperatura urządzenia spadnie.</string>
+    <string name="tips_hot_title_content">%d. Twoje urządzenie może się nagrzać.</string>
     <string name="tips_private_space_content">Ze względu na ograniczenia systemu nie można przenieść danych Drugiej przestrzeni.</string>
+    <string name="tips_private_space_content_phone">Tak jest ze względu na ograniczenia systemu.</string>
     <string name="tips_private_space_content_tablet">Ze względu na ograniczenia systemu nie można przenieść danych Drugiej przestrzeni.</string>
     <string name="tips_private_space_title">%d. Włączono Drugą przestrzeń.</string>
+    <string name="tips_private_space_title_phone">%d. Nie można przenieść danych Drugiej przestrzeni.</string>
     <string name="tips_private_space_title_tablet">%d. Włączono Drugą przestrzeń.</string>
     <string name="tips_prudent_operation_title">%d. Nie wyłączaj i nie zmieniaj hotspotu Wi-Fi.</string>
+    <string name="tips_prudent_operation_title_new">%d. Nie wyłączaj i nie zmieniaj hotspotu Wi-Fi.</string>
     <string name="tips_prudent_operation_title_overseas">%d. Nie wyłączaj i nie zmieniaj hotspotu Wi-Fi.</string>
+    <string name="tips_secret_content_one_new">Nie można przenieść części prywatnych elementów (%1$s) ze starego urządzenia. Aby umożliwić transfer, przenieś je z folderu prywatnego.</string>
+    <string name="tips_secret_content_three_new">Nie można przenieść części prywatnych elementów (%1$s, %2$s, %3$s) ze starego urządzenia. Aby umożliwić transfer, przenieś je z folderu prywatnego.</string>
+    <string name="tips_secret_content_two_new">Nie można przenieść części prywatnych elementów (%1$s, %2$s) ze starego urządzenia. Aby umożliwić transfer, przenieś je z folderu prywatnego.</string>
+    <string name="tips_secret_title_content">%d. Nie można przenieść prywatnych elementów.</string>
     <string name="title_request_write_settings_perm">Zezwól na zmienianie ustawień systemu</string>
     <string name="trans_apple_hint_2_title">%d. Połącz urządzenia</string>
     <string name="trans_apple_hint_china">Nie opuszczaj tej strony i nie korzystaj z Wi-Fi, dopóki transfer się nie zakończy.</string>

@@ -18,6 +18,7 @@
     <string name="encrypt_success_first_five">Ten element jest obecnie prywatny. Przeciągnij w dół w głównym menu Plików, aby go zobaczyć.</string>
     <string name="enter">Otwórz Pliki</string>
     <string name="file_cloud_parsing">Przetwarzanie w chmurze w toku…</string>
+    <string name="file_transfer_notify">Usługi</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="ftp_account_req_notice">"Nazwa użytkownika i hasło powinny mieć od %1$d do %2$d znaków (rozróżniane są duże i małe litery) i nie powinny zawierać znaków specjalnych."</string>
@@ -36,6 +37,7 @@
     <string name="need_read_storage_permission">"Aby działać normalnie, aplikacja Pliki wymaga uprawnienia dostępu do pamięci urządzenia."</string>
     <string name="notification_title_syncing_with_count">Synchronizowanie elementów. Pozostało %1$s plików.</string>
     <string name="open_or_close_wlan">Wyłączanie i włączanie Wi-Fi</string>
+    <string name="operation_continue">Kontynuuj</string>
     <string name="operation_download_error_other">Wystąpił błąd systemu. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="operation_encrypt_summary">Zaszyfruj pliki w prywatnym katalogu. Odszyfrowywanie dużych plików może trwać dłużej.</string>
     <string name="operation_send_to_pc">Przenieś na komputer</string>
