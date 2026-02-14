@@ -63,6 +63,7 @@
     <string name="privacy_recall_confirm_description">"Jeśli przejdziesz dalej, wycofasz zgodę na warunki Polityki prywatności aplikacji Pliki. Xiaomi zaprzestanie gromadzenia Twoich danych, a informacje już zgromadzone i przechowywane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, o ile nie stwierdzono inaczej."</string>
     <string name="private_folder_update_msg">Aplikacja Pliki wprowadza dodatkowe zabezpieczenie: od teraz możesz zaszyfrować prywatne pliki!</string>
     <string name="qq_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów QQ."</string>
+    <string name="record_permission_rationale_message">Aby móc wyszukać nagrania w Dyktafonie, zezwól aplikacji Pliki na dostęp do pamięci</string>
     <string name="recent_hide_cloud_drive_files">Nie pokazuj plików Mi Drive w menu Ostatnie</string>
     <string name="request_document_permission">Aby zarządzać plikami na karcie SD, nadaj Plikom wymagane uprawnienia.</string>
     <string name="reverse_order">Malejąco</string>
