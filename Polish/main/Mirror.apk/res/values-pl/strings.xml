@@ -13,6 +13,7 @@
     <string name="enable_wifi_alert_title_china">Włącz Wi-Fi</string>
     <string name="fold_photograph_prompt_message">Użyj Aparatu z wewnętrznego ekranu</string>
     <string name="fold_photograph_prompt_notification_title">Użyj współdzielonego aparatu do Notatek</string>
+    <string name="island_default_market_name_phone">Telefon Xiaomi</string>
     <string name="loading_content">Upewnij się, że %s jest w pobliżu i ma włączone Bluetooth oraz Wi-Fi</string>
     <string name="loading_content_china">Upewnij się, że %s jest w pobliżu i ma włączone Bluetooth oraz WLAN</string>
     <string name="loading_error_close">Wyłącz</string>
@@ -121,6 +122,7 @@
     <string name="trust_bind_risk_rebind_subtitle">Wystąpił błąd uprawnień. Aby przyznać uprawnienia ponownie, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_recent_unused_subtitle">Ostatnio nie korzystano ze Współdzielonego odblokowywania. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
     <string name="trust_bind_risk_recent_updated_subtitle">Zmieniono ostatnio hasło. Aby zweryfikować tożsamość, wprowadź blokadę ekranu tego urządzenia.</string>
+    <string name="trust_bind_unlock_title_ipad">Zezwól iPadowi na odblokowanie tego urządzenia</string>
     <string name="trust_bind_unlock_title_phone">Zezwól swojemu innemu urządzeniu na odblokowanie tego urządzenia</string>
     <string name="trust_finger_password_sub_title_phone2phone">Odblokuj za pomocą odcisku palca lub blokady ekranu %1$s</string>
     <string name="trust_fingerlock_auth">Na swoim telefonie zezwól tabletowi na odblokowanie Ekranu głównego+</string>

@@ -20,8 +20,23 @@
     <string name="circulate_cta_premission_wlan_subtitle_china">W celu przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Włączanie i wyłączanie Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
+    <string name="circulate_headset_control_audio_effect_card_title">Dźwięk przestrzenny</string>
+    <string name="circulate_headset_control_audio_effect_off">Wyłącz dźwięk przestrzenny</string>
+    <string name="circulate_headset_control_audio_effect_spatial">Włącz dźwięk przestrzenny</string>
+    <string name="circulate_headset_control_audio_find_earphone">Odtwórz dźwięk</string>
+    <string name="circulate_headset_control_audio_find_earphone_wearing_info_cancel">Anuluj</string>
+    <string name="circulate_headset_control_audio_find_earphone_wearing_info_confirm">Kontynuuj</string>
+    <string name="circulate_headset_control_audio_find_earphone_wearing_info_content">Dźwięk będzie odtwarzany z dużą głośnością. Jeśli używasz słuchawek, kontynuacja tego działania może zaszkodzić Twojemu słuchowi. Zanim przejdziesz dalej, zdejmij je.</string>
+    <string name="circulate_headset_control_audio_find_earphone_wearing_info_title">Ostrzeżenie o wysokiej głośności</string>
+    <string name="circulate_headset_control_audio_stop_find_earphone">Zatrzymaj odtwarzanie dźwięku</string>
     <string name="circulate_headset_control_battery_right">P</string>
+    <string name="circulate_headset_control_mi_audio_effect_card_title">Kontrola szumów</string>
+    <string name="circulate_headset_control_mi_audio_effect_head_tracking">Śledzenie ruchu głowy</string>
+    <string name="circulate_headset_control_mi_audio_effect_off">Wył.</string>
+    <string name="circulate_headset_control_mi_audio_effect_spatial">Dźwięk przestrzenny</string>
     <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
+    <string name="circulate_headset_error_airpods_headset_both_in_box">Najpierw załóż słuchawki</string>
+    <string name="circulate_headset_error_airpods_headset_not_worn">Aby korzystać z tej funkcji, załóż obie słuchawki</string>
     <string name="circulate_network_connect_failed_default_message">Upewnij się, że telefon i drugie urządzenie są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_Mac">Upewnij się, że telefon i Mac są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_PC">Upewnij się, że telefon i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
@@ -64,16 +79,17 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="connect_settings_share_launcher_sub_feature_phone_summary_unlock">Użyj odcisku palca lub hasła tego telefonu, aby odblokować to urządzenie i jego aplikacje</string>
     <string name="connect_settings_share_notification_help">Pomoc</string>
     <string name="connect_settings_share_notification_local_device_summary">Aby odbierać połączenia i otrzymywać wiadomości oraz powiadomienia z aplikacji na tym urządzeniu, zezwól na synchronizację powiadomień z telefonu Xiaomi w Łączności Xiaomi > Synchronizuj powiadomienia > Synchronizuj z Xiaomi na swoim iPhonie.</string>
+    <string name="connect_settings_share_notification_local_device_summary_v2">Aby odbierać połączenia i otrzymywać powiadomienia o SMS-ach i z aplikacji na swoim urządzeniu Xiaomi, połącz się z nim na swoim iPhonie w Łączności Xiaomi > Synchronizuj powiadomienia > Synchronizuj z Xiaomi.</string>
     <string name="connect_settings_share_notification_local_device_title">Odbieraj powiadomienia z %1$s</string>
-    <string name="connect_settings_share_notification_local_other_mi_device">Wyświetlanie powiadomień z innego telefonu Xiaomi na tym urządzeniu</string>
+    <string name="connect_settings_share_notification_local_other_mi_device">Wyświetlanie powiadomień z innych urządzeń Xiaomi na tym urządzeniu</string>
     <string name="connect_settings_share_notification_mi_device_category">Synchronizuj z pobliskimi urządzeniami</string>
-    <string name="connect_settings_share_notification_mi_device_category_v2">Synchronizuj lokalne powiadomienia z pobliskimi urządzeniami</string>
+    <string name="connect_settings_share_notification_mi_device_category_v2">Urządzenia w pobliżu</string>
     <string name="connect_settings_share_notification_mi_device_v2">Tablety lub telewizory Xiaomi</string>
-    <string name="connect_settings_share_notification_mi_device_v3">Tablety, komputery lub telewizory Xiaomi</string>
-    <string name="connect_settings_share_notification_other_mi_local_device">Wyświetlanie lokalnych powiadomień na innym telefonie Xiaomi</string>
+    <string name="connect_settings_share_notification_mi_device_v3">Tablety, komputery i telewizory Xiaomi</string>
+    <string name="connect_settings_share_notification_other_mi_local_device">Wyświetlanie powiadomień z tego urządzenia na innych urządzeniach Xiaomi</string>
     <string name="connect_settings_share_notification_receive_tab">Odbierz</string>
     <string name="connect_settings_share_notification_receive_tab_device_category">Dostępne urządzenia</string>
-    <string name="connect_settings_share_notification_receive_tab_device_category_v2">Odbierz z tych urządzeń</string>
+    <string name="connect_settings_share_notification_receive_tab_device_category_v2">Dostępne urządzenia</string>
     <string name="connect_settings_share_notification_receive_tab_offline_summary">Upewnij się, że Twój %1$s jest zalogowany na to samo konto co to urządzenie i że w Ustawieniach włączona jest Łączność.</string>
     <string name="connect_settings_share_notification_receive_tab_offline_title">Nie można się połączyć z %1$s</string>
     <string name="connect_settings_share_notification_receive_tab_search_summary_china">Upewnij się, że oba urządzenia są zalogowane na to samo konto i połączone z tą samą siecią, lub że Bluetooth i Wi-Fi są włączone na obu urządzeniach.</string>
@@ -83,22 +99,22 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="connect_settings_share_notification_receive_tab_searching_title">Wyszukiwanie urządzenia…</string>
     <string name="connect_settings_share_notification_receive_tab_summary_china">Gdy to urządzenie jest połączone z siecią, możesz odbierać powiadomienia z urządzeń zalogowanych na to samo konto. Jeśli w pobliżu jest urządzenie z włączonym Bluetooth i Wi-Fi, możesz zduplikować jego aplikacje i odpowiadać na wiadomości.</string>
     <string name="connect_settings_share_notification_receive_tab_summary_global">Gdy to urządzenie jest połączone z siecią, możesz odbierać powiadomienia z urządzeń zalogowanych na to samo konto. Jeśli w pobliżu jest urządzenie z włączonym Bluetooth i Wi-Fi, możesz zduplikować jego aplikacje i odpowiadać na wiadomości.</string>
-    <string name="connect_settings_share_notification_receive_tab_summary_v2_china">"• Gdy urządzenie jest połączone z Internetem, może odbierać powiadomienia otrzymane wtedy, gdy telefon zalogowany na to samo konto jest zablokowany
-• Gdy telefon zalogowany na to samo konto jest w pobliżu i ma włączone Bluetooth oraz Wi-Fi, możesz odpowiadać na wiadomości, dotykając powiadomienia na urządzeniu"</string>
-    <string name="connect_settings_share_notification_receive_tab_summary_v2_global">"• Gdy urządzenie jest połączone z Internetem, może odbierać powiadomienia otrzymane wtedy, gdy telefon zalogowany na to samo konto jest zablokowany
-• Gdy telefon zalogowany na to samo konto jest w pobliżu i ma włączone Bluetooth oraz Wi-Fi, możesz odpowiadać na wiadomości, dotykając powiadomienia na urządzeniu"</string>
+    <string name="connect_settings_share_notification_receive_tab_summary_v2_china">"• Gdy to urządzenie jest połączone z siecią, można na nim wyświetlać powiadomienia z innego zablokowanego telefonu Xiaomi zalogowanego na to samo konto.
+• Gdy urządzenia zalogowane na to samo konto są w pobliżu i mają włączone Bluetooth oraz Wi-Fi, można odpowiadać na powiadomienia z innych urządzeń bezpośrednio na tym urządzeniu."</string>
+    <string name="connect_settings_share_notification_receive_tab_summary_v2_global">"• Gdy to urządzenie jest połączone z siecią, można na nim wyświetlać powiadomienia z innego zablokowanego telefonu Xiaomi zalogowanego na to samo konto.
+• Gdy urządzenia zalogowane na to samo konto są w pobliżu i mają włączone Bluetooth oraz Wi-Fi, można odpowiadać na powiadomienia z innych urządzeń bezpośrednio na tym urządzeniu."</string>
     <string name="connect_settings_share_notification_receive_tab_unfound_title">Nie udało się znaleźć dostępnych urządzeń</string>
     <string name="connect_settings_share_notification_receive_tab_unsubscribe_summary">Aby zarządzać powiadomieniami na tym urządzeniu, zezwól na synchronizację powiadomień z Twoim urządzeniem Xiaomi w Xiaomi Interconnectivity > Synchronizacja powiadomień > Synchronizuj z Xiaomi na Twoim %1$s.</string>
     <string name="connect_settings_share_notification_receive_tab_unsubscribe_title">\"Synchronizacja powiadomień\" jest wyłączona dla %1$s</string>
-    <string name="connect_settings_share_notification_receive_tab_v2">Odbiera powiadomienia</string>
+    <string name="connect_settings_share_notification_receive_tab_v2">Odbierz</string>
     <string name="connect_settings_share_notification_send_tab">Synchronizuj</string>
     <string name="connect_settings_share_notification_send_tab_device_category">Synchronizuj z telefonem</string>
-    <string name="connect_settings_share_notification_send_tab_device_category_v2">Synchronizuj lokalne powiadomienia z moim innym telefonem</string>
+    <string name="connect_settings_share_notification_send_tab_device_category_v2">Moje telefony</string>
     <string name="connect_settings_share_notification_send_tab_summary">"Wyświetlaj powiadomienia z tego urządzenia na telefonach, tabletach lub telewizorach zalogowanych na to samo konto.
 *Wspierane funkcje: Telefony mogą wyświetlać połączenia, wiadomości i powiadomienia z aplikacji; telewizory mogą wyświetlać powiadomienia o dostawie i zamówieniach; tablety i komputery mogą wyświetlać powiadomienia o niskim poziomie baterii z Twojego telefonu."</string>
-    <string name="connect_settings_share_notification_send_tab_summary_v2">"• Powiadomienia otrzymane, gdy urządzenie jest zablokowane, mogą być wyświetlane jednocześnie na innych telefonach, tabletach, komputerach lub telewizorach korzystających z tego samego konta
-• Telefony korzystające z tego samego konta mogą wyświetlać powiadomienia o połączeniach, SMS-ach lub aplikacjach; telewizory mogą wyświetlać przypomnienia o dostawie jedzenia i zamówieniach na przejazd; tablety i komputery mogą wyświetlać przypomnienia o niskim poziomie baterii"</string>
-    <string name="connect_settings_share_notification_send_tab_v2">Synchronizuj z innymi urządzeniami</string>
+    <string name="connect_settings_share_notification_send_tab_summary_v2">"• Gdy to urządzenie jest zablokowane, jego powiadomienia można wyświetlić na telefonach, tabletach, komputerach lub telewizorach zalogowanych na to samo konto.
+• Na telefonach można zobaczyć powiadomienia dot. połączeń, wiadomości i aplikacji, na telewizorach - o dostawie jedzenia i zamówieniach, na tabletach i komputerach - o niskim poziomie baterii."</string>
+    <string name="connect_settings_share_notification_send_tab_v2">Synchronizuj</string>
     <string name="connect_settings_summary_corp_phone">Odbieraj połączenia na tabletach lub komputerach w pobliżu zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_summary_share_launcher_phone_v3">Kontroluj to urządzenie z telefonu, tabletu, komputera lub pojazdu</string>
     <string name="connect_settings_summary_v2_china"><Data>Automatycznie odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach. &lt;br>Przed użyciem tej funkcji włącz Wi-Fi i Bluetooth. &lt;a href=%1$s>Dowiedz się więcej&lt;/a></Data></string>
@@ -112,7 +128,7 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="dialog_confirm_remote_status">Sprawdź stan %1$s</string>
     <string name="dialog_copy_it">Kopiuj</string>
     <string name="dialog_enable_remote_notification">Zezwól na powiadomienia między urządzeniami na Twoim %1$s</string>
-    <string name="dialog_enable_remote_notification_content_v2">To ustawienie jest tymczasowo niedostępne. Upewnij się, że %1$s jest włączone w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj lokalne powiadomienia, aby odbierać powiadomienia lokalnie.</string>
+    <string name="dialog_enable_remote_notification_content_v2">Nie można zsynchronizować powiadomień w tej chwili. Upewnij się, że można synchronizować powiadomienia na %1$s w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj.</string>
     <string name="dialog_incoming_call_instruction">Odbierz na %1$s</string>
     <string name="dialog_message_instruction_subtitle_call">Możesz odebrać na %1$s</string>
     <string name="dialog_message_instruction_subtitle_call_1">Możesz odebrać na telefonie Xiaomi</string>
@@ -140,7 +156,7 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="dist_file_notification_title">Uzyskiwanie dostępu do plików z innych urządzeń</string>
     <string name="dual_wifi_warning_china">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
     <string name="dual_wifi_warning_global">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
-    <string name="enable_remote_notification_to_local_v2">Powiadomienia nie mogą być odbierane w tym momencie. Upewnij się, że %1$s jest włączone w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj lokalne powiadomienia, aby synchronizować powiadomienia z urządzeniem.</string>
+    <string name="enable_remote_notification_to_local_v2">Nie można odebrać powiadomień w tej chwili. Upewnij się, że można synchronizować powiadomienia na %1$s w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj.</string>
     <string name="file_read_des">W celu wyświetlania zdjęć i innych plików na zewnętrznych monitorach</string>
     <string name="gesture_double_pinch">Uszczypnięto %d razy</string>
     <string name="gesture_drag_end">Gotowe</string>
@@ -242,7 +258,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="toast_copy_auth_message_finish">Skopiowano pomyślnie</string>
     <string name="toast_remote_not_install">"Ta aplikacja nie jest zainstalowana na Twoim %1$s."</string>
     <string name="toast_retry">Poczekaj, aż ustawienia zostaną zastosowane i spróbuj ponownie</string>
-    <string name="toast_synchronization">Synchronizowanie statusu urządzenia, spróbuj ponownie później.</string>
+    <string name="toast_synchronization">Sprawdzanie statusu urządzenia. Spróbuj ponownie później.</string>
     <string name="tv_remote_auth_cancel">Anuluj</string>
     <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
     <string name="wifi_disabled_dialog_message">Włącz Wi-Fi na urządzeniu, aby korzystać z funkcji Współdzielonego aparatu.</string>
