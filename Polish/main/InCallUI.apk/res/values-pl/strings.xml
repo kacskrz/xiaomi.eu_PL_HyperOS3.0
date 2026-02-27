@@ -9,6 +9,7 @@
     <string name="card_title_answering">Odbieranie</string>
     <string name="card_title_call_ended">"Zakończone "</string>
     <string name="description_image_button_message_enter">Odpowiedz z SMS</string>
+    <string name="description_image_button_reject_block">Odrzuć i zablokuj</string>
     <string name="description_incoming_video">Wideo profilowe dla przychodzących połączeń</string>
     <string name="do_not_support_video_calls_by_remote">Urządzenie docelowe nie obsługuje połączeń wideo</string>
     <string name="dsda_answer_call_prompt">Odebranie tego połączenia spowoduje zakończenie trwającej rozmowy.</string>
@@ -113,6 +114,7 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="select_other_sim_card_dial">Użyj SIM %1$d</string>
     <string name="sim1_description">SIM 1</string>
     <string name="sim2_description">SIM 2</string>
+    <string name="spam_call_add_number_to_blacklist">Zablokować ten numer?</string>
     <string name="video_crbt_title">Odtwarzanie wideo profilowego…</string>
     <string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
     <string name="wait_prompt_str">"Wysłać poniższe tony?

@@ -84,7 +84,7 @@
     <string name="osu_dialog_message">Zaktualizuj moduł eSIM, aby naprawić potencjalne problemy z kompatybilnością i bezpieczeństwem. Podczas aktualizacji Twój eSIM będzie niedostępny.</string>
     <string name="osu_dialog_ok_btn_text">Aktualizuj</string>
     <string name="osu_dialog_title">Aktualizuj moduł eSIM</string>
-    <string name="osu_error_toast_message">Nie udało się zaktualizować. NFC jest niedostępne.</string>
+    <string name="osu_error_toast_message">Nie udało się zaktualizować eSIM. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="osu_notification_message">Zaktualizuj moduł eSIM, aby zapobiec potencjalnym problemom z bezpieczeństwem</string>
     <string name="osu_notification_title">Aktualizuj moduł eSIM</string>
     <string name="osu_progress_dialog_message">Aktualizowanie modułu. Niektóre funkcje są niedostępne.</string>

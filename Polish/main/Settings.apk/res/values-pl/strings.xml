@@ -347,6 +347,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="game_app_title">Efekty świetlne w grach</string>
     <string name="game_delta_action_moments">Losowanie zasobów i pomyślna ucieczka</string>
     <string name="game_king_of_glory_moments">Zabójstwa, wygrane i inne kluczowe momenty</string>
+    <string name="game_parachute_moments">Spadanie</string>
     <string name="game_peacekeeper_elites_moments">Skoki spadochronowe i walka</string>
     <string name="gd_setting_title">Pasek boczny</string>
     <string name="gesture_lockcreen_doubletap_wakeup_title">Dwukrotnie dotknij Ekranu blokady, aby wybudzić</string>
@@ -845,6 +846,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
     <string name="truetone_summary_new">Automatycznie dostosuj kolory w oparciu o światło otoczenia dla bardziej naturalnego patrzenia</string>
+    <string name="truetone_title_new">Adaptacyjna temperatura barwowa</string>
     <string name="ufs_size_suffix">%1$s (%2$s z rozszerzeniem przestrzeni)</string>
     <string name="unchecked_app_title">Wyłączone efekty świetlne</string>
     <string name="under_keyguard">Przy wył. ekranie</string>

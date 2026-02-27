@@ -39,6 +39,8 @@
     <string name="detail_view_erase_data_timeout_hint">Przekroczono czas żądania</string>
     <string name="device_data_cleared">Wyczyszczono dane urządzenia</string>
     <string name="device_data_has_clear">Wyczyszczono dane</string>
+    <string name="device_found_nearby_message">%1$s pojawiło się obok %3$s %2$s</string>
+    <string name="device_found_nearby_message_without_address">O %2$s nastąpiła aktualizacja %1$s. Sprawdź szczegóły na stronie urządzenia.</string>
     <string name="device_is_near_need_not_open">Urządzenie jest w pobliżu</string>
     <string name="device_location_update">Urządzenie jest online</string>
     <string name="device_lost_message">%1$s nie jest w pobliżu. Ostatnia zarejestrowana lokalizacja: %2$s.</string>
@@ -397,7 +399,7 @@
     <string name="ota_first_dialog_title">Dostępna aktualizacja</string>
     <string name="ota_have_new_version">Dostępna jest aktualizacja oprogramowania. Dotknij, aby zaktualizować.</string>
     <string name="ota_version">Wersja oprogramowania: %s</string>
-    <string name="other_xiaomi_tag">Śledzony tag</string>
+    <string name="other_xiaomi_tag">Śledzony %1$s</string>
     <string name="password_v2">Wprowadź hasło</string>
     <string name="past_week_record">Historia lokalizacji z ostatniego tygodnia</string>
     <string name="permission_management">Szczegóły uprawnień</string>
@@ -518,6 +520,7 @@ Usuń przeszkody lub włącz latarkę."</string>
     <string name="some_thing_has_lost">%1$s nie jest już w pobliżu</string>
     <string name="start_noise">Odtwórz alarm</string>
     <string name="start_self_find">Włącz \"Znajdź to urządzenie\"</string>
+    <string name="stop_earphone">Wyłącz te słuchawki</string>
     <string name="stop_noising">Zatrzymaj odtwarzanie</string>
     <string name="stop_noising_content_with_device">%2$s (%1$s) szuka tego urządzenia.</string>
     <string name="stop_noising_content_with_device_pad">%2$s (%1$s) szuka tego urządzenia.</string>
@@ -553,6 +556,7 @@ Usuń przeszkody lub włącz latarkę."</string>
     <string name="tab_mine_web_view_intent_title_second_des">Wejdź na i.mi.com i zaloguj się na konto Xiaomi innej osoby, aby znaleźć jej urządzenie</string>
     <string name="tab_mine_web_view_intent_title_third">Nie mogę znaleźć mojego urządzenia</string>
     <string name="tag_track_hint">Otwórz i.mi.com i zaloguj się na konto innej osoby, aby zlokalizować to urządzenie</string>
+    <string name="tag_track_hint_b">Rozumiem, jak wyłączyć udostępnianie lokalizacji</string>
     <string name="the_owner_can_view_its_location">Właściciel może zlokalizować ten przedmiot. Stuknij, aby wyświetlić szczegóły.</string>
     <string name="thing_is_near_need_not_open">Ten przedmiot jest w pobliżu</string>
     <string name="thing_name_can_not_empty">Najpierw wprowadź nazwę</string>
@@ -583,6 +587,8 @@ Usuń przeszkody lub włącz latarkę."</string>
     <string name="trust_location_remove_loading">Usuwanie zaufanej lokalizacji…</string>
     <string name="trust_location_search_hint">Wyszukaj lub wpisz lokalizację</string>
     <string name="trust_location_search_network_error">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="trust_this_earphone">Zaufaj tej słuchawce</string>
+    <string name="trust_this_earphone_message">Gdy zaufasz tej słuchawce, nie będziesz już otrzymywać powiadomień, gdy poruszy się ona razem z Twoim urządzeniem.</string>
     <string name="trust_this_thing">Zaufaj temu Xiaomi Tagowi</string>
     <string name="trust_this_thing_message">Po zaufaniu temu Xiaomi Tagowi nie będziesz już otrzymywać powiadomień, gdy będzie się przemieszczać z Twoim urządzeniem.</string>
     <string name="try_again_refresh">Odśwież</string>

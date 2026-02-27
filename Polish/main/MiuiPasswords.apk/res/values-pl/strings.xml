@@ -241,7 +241,7 @@ Z chmurą zostaną zsynchronizowane tylko te hasła, które nie pasują do wpis�
     <string name="recently_deleted_detail_restore">Przywróć</string>
     <string name="recently_deleted_detail_restore_failed">Nie udało się przywrócić</string>
     <string name="recently_deleted_header_text">Elementy mogą być przechowywane tutaj przez %d dni. Dotknij, aby przedłużyć ten okres.</string>
-    <string name="replace_password_dialog_content">Zastąp stare hasło aktualnym. Możesz je zobaczyć w Hasłach.</string>
+    <string name="replace_password_dialog_content">Zastąp stare hasło aktualnym, aby było ono automatycznie wprowadzane przy następnym logowaniu.</string>
     <string name="replace_password_dialog_negative_btn">Anuluj</string>
     <string name="replace_password_dialog_positive_btn">Aktualizuj</string>
     <string name="replace_password_dialog_title">Zaktualizuj hasło dla %s</string>

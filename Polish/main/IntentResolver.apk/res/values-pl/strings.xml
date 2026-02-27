@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_photographic_competition_tip_cancel">Anuluj</string>
+    <string name="send_photographic_competition_tip_confirm">Prześlij</string>
+    <string name="send_photographic_competition_tip_content">Przesłanie tego zdjęcia wymaga metadanych obrazu, w tym modelu urządzenia i parametrów aparatu. Przesłać te dane?</string>
+    <string name="send_photographic_competition_tip_title">Uwaga</string>
+</resources>
