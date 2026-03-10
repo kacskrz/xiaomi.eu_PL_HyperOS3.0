@@ -91,6 +91,12 @@ d.MM"</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Wyłącz urządzenie i przejdź do trybu Recovery</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">Wykonaj reset do ustawień fabrycznych</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
+    <string name="quick_settings_coolingfan_lable">Wentylator</string>
+    <string name="quick_settings_coolingfan_mode">Tryb wentylatora</string>
+    <string name="quick_settings_coolingfan_mode_high">Wydajność</string>
+    <string name="quick_settings_coolingfan_mode_silent">Cichy</string>
+    <string name="quick_settings_coolingfan_mode_smart">Inteligentny</string>
+    <string name="quick_settings_coolingfan_state_off">Wentylator jest wyłączony</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_night_state_change_message_off">Ciemny motyw jest wyłączony</string>
     <string name="quick_settings_night_state_change_message_on">Ciemny motyw jest włączony</string>

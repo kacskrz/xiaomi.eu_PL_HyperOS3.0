@@ -26,6 +26,8 @@
     <string name="cannot_found_location">Nie można zlokalizować</string>
     <string name="change_share_device_dialog_des">%1$s będzie udostępniać lokalizację Twojego urządzenia.</string>
     <string name="change_share_device_dialog_title">Pomyślnie przełączono</string>
+    <string name="check_for_updates">Sprawdź dostępność aktualizacji</string>
+    <string name="check_for_updates_loading">Sprawdzanie aktualizacji…</string>
     <string name="clear_data">Wyczyść dane</string>
     <string name="clear_data_has_not_useful">Nieprawidłowe żądanie czyszczenia danych</string>
     <string name="clear_data_time_out">Przekroczono czas żądania wyczyszczenia danych</string>
@@ -120,6 +122,7 @@
     <string name="find_guide_open_dialog_view_button_continue">Kontynuuj</string>
     <string name="find_guide_open_dialog_view_title">Nowa funkcja: Znajdź słuchawki Xiaomi</string>
     <string name="find_my_device">Znajdź moje urządzenie</string>
+    <string name="find_new_app_version">Dostępna nowa wersja</string>
     <string name="find_other_follow_you_single">Przedmiot jest w pobliżu. Dotknij, aby zobaczyć szczegóły.</string>
     <string name="find_permission_location_summary">W celu zlokalizowania tego urządzenia</string>
     <string name="find_permission_location_title">Dostęp do lokalizacji</string>
@@ -230,6 +233,8 @@
     <string name="first_page">Urządzenie</string>
     <string name="first_record">Pierwszy zapis d.MM.yyyy H:mm</string>
     <string name="follow_thing">Śledzone przedmioty</string>
+    <string name="force_update_mesage">Ta wersja nie jest już wspierana. Zaktualizuj aplikację do nowszej wersji w GetApps.</string>
+    <string name="has_new_version">Aktualizuj</string>
     <string name="has_open_lost_mode_on">Włączone od d.MM.yyyy</string>
     <string name="has_open_on">Włączony od %2$s (%1$s)</string>
     <string name="have_not_data">Nic tu nie ma</string>
@@ -351,6 +356,7 @@
     <string name="name_illegal_please_retry">Ta nazwa może naruszać wytyczne Xiaomi. Wprowadź ponownie.</string>
     <string name="name_too_long_please_retry">Ta nazwa jest zbyt długa. Wprowadź ponownie.</string>
     <string name="need_open_add_member">Włącz \"Udostępniaj moją lokalizację\" na swoim Profilu</string>
+    <string name="no_more_reminder_this_update">Nie przypominaj ponownie</string>
     <string name="no_more_reminders">Nie przypominaj ponownie</string>
     <string name="no_wifi">Sieć niedostępna</string>
     <string name="noise_conflict">Urządzenie już odtwarza dźwięk</string>
@@ -419,6 +425,7 @@ Informacje o lokalizacji mogą nie zostać zgłoszone, gdy połączenie sieciowe
     <string name="precise_find">Znajdź urządzenie</string>
     <string name="precise_find_connecting">Łączenie…</string>
     <string name="precise_find_connecting_need_more_time">Ten proces może potrwać do %1$d minuty…</string>
+    <string name="precise_find_device_band_disconnected">Nie można połączyć się z opaską. Wygląda na to, że nie ma jej w pobliżu.</string>
     <string name="precise_find_device_earphone_disconnected">Nie można połączyć się ze słuchawkami. Upewnij się, że są w pobliżu.</string>
     <string name="precise_find_device_tag_disconnected">Nie można połączyć się z tym tagiem. Upewnij się, że jest w pobliżu.</string>
     <string name="precise_find_device_tracked_device_disconnected">Nie można połączyć się z tym przedmiotem. Upewnij się, że jest w pobliżu.</string>
@@ -432,6 +439,7 @@ Informacje o lokalizacji mogą nie zostać zgłoszone, gdy połączenie sieciowe
     <string name="precise_find_signal_very_strong">Bardzo blisko</string>
     <string name="precise_find_signal_weak">Słaby sygnał</string>
     <string name="precise_find_title">Wyszukiwanie</string>
+    <string name="precise_find_uwb_loading">Chwileczkę…</string>
     <string name="precise_find_uwb_os_update_dialog_exit">Anuluj</string>
     <string name="precise_find_uwb_os_update_dialog_go">Aktualizuj</string>
     <string name="precise_find_uwb_os_update_dialog_message">Zaktualizuj system, aby móc korzystać z UWB do precyzyjnego określania położenia.</string>
@@ -440,9 +448,16 @@ Informacje o lokalizacji mogą nie zostać zgłoszone, gdy połączenie sieciowe
     <string name="precise_find_uwb_permission_dialog_exit">Wyjdź</string>
     <string name="precise_find_uwb_permission_dialog_go">Ustawienia</string>
     <string name="precise_find_uwb_permission_dialog_message">Aby korzystać z tej funkcji, przyznaj uprawnienia aparatu.</string>
+    <string name="precise_find_uwb_permission_dialog_message_ranging">Aby użyć tej funkcji, zezwól aplikacji na określanie względnego położenia między urządzeniami w pobliżu.</string>
     <string name="precise_find_uwb_permission_dialog_title">Uwaga</string>
     <string name="precise_find_uwb_tip_dark">"Jest zbyt ciemno.
 Usuń przeszkody lub włącz latarkę."</string>
+    <string name="precise_find_uwb_tip_double_arrow">"Określanie kierunku…
+Zmień kierunek i przejdź parę kroków"</string>
+    <string name="precise_find_uwb_tip_init">"Nie przechylaj
+swojego telefonu"</string>
+    <string name="precise_find_uwb_tip_init2">"Określanie kierunku…
+Przejdź parę kroków"</string>
     <string name="precise_find_uwb_tip_move">Poruszaj się, aby uzyskać dokładniejszy kierunek</string>
     <string name="precise_find_uwb_tip_move_slow">Poruszasz się zbyt szybko. Spróbuj iść powoli.</string>
     <string name="precise_find_volume_reminder_cancel">Anuluj</string>
@@ -494,7 +509,7 @@ Usuń przeszkody lub włącz latarkę."</string>
     <string name="reset_mi_tag_step">"%1$d. Otwórz urządzenie i wyjmij baterię.
 %2$d. Włóż baterię ponownie, a następnie przytrzymaj przycisk przez %3$d sekund. Usłyszysz dwa sygnały dźwiękowe, co oznacza, że resetowanie zostało zakończone."</string>
     <string name="reset_mi_tag_title">Nie udało się połączyć. Zresetuj i spróbuj ponownie.</string>
-    <string name="reset_mi_watch_step">Usuń to urządzenie w Mi Fitness, a następnie sparuj je ponownie</string>
+    <string name="reset_mi_watch_step">W aplikacji Mi Fitness przejdź do menu Urządzenie > Bezpieczeństwo > Znajdź urządzenie, a następnie dotknij opcji Spróbuj ponownie.</string>
     <string name="revoke_block_by_find_device">Wycofanie zgody wyłączy także funkcję Znajdź urządzenie. Jeśli przejdziesz dalej, otrzymasz prośbę o zweryfikowanie się hasłem.</string>
     <string name="revoke_permission_content">Jeśli wycofasz uprawnienia, nie będziesz w stanie używać funkcji Znajdź urządzenie i zostanie ona wyłączona. Przed wycofaniem otrzymasz prośbę o zweryfikowanie się hasłem.</string>
     <string name="revoke_permission_title">Uwaga</string>
@@ -614,6 +629,9 @@ Nie możesz aktywować urządzenia?
 Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."</string>
     <string name="unlock_help_title_v2">Aktywacja</string>
     <string name="unlock_success_toast">Anulowano żądanie włączenia Trybu zgubienia</string>
+    <string name="update_message">Dostępna jest nowa wersja (%s). Zaktualizować ją w GetApps?</string>
+    <string name="update_not_update">Wersja jest aktualna</string>
+    <string name="update_now">Aktualizuj</string>
     <string name="update_share_location_failed">Nie udało się zaktualizować. Spróbuj ponownie.</string>
     <string name="updating_share_location">Aktualizowanie…</string>
     <string name="user_agreement_title">Warunki użytkowania Chmury Xiaomi</string>

@@ -14,6 +14,8 @@
     <string name="decrypt">Usuń</string>
     <string name="decrypt_error">Nie udało się usunąć</string>
     <string name="decrypting">Usuwanie…</string>
+    <string name="delete_cloud_pc_files">Usuwasz elementy na wielu urządzeniach. Elementy przechowywane w chmurze mogą zostać odzyskane w Chmurze Xiaomi. Elementy przechowywane na komputerze zostaną trwale usunięte. Usunąć mimo to?</string>
+    <string name="delete_permanently_loacal_cloud_pc_files">Usuwasz elementy na wielu urządzeniach. Elementy przechowywane w chmurze mogą zostać odzyskane w Chmurze Xiaomi. Elementy przechowywane na tym urządzeniu oraz komputerze zostaną trwale usunięte. Usunąć mimo to?</string>
     <string name="display_mode">Wyświetlaj</string>
     <string name="encrypt_success_first_five">Ten element jest obecnie prywatny. Przeciągnij w dół w głównym menu Plików, aby go zobaczyć.</string>
     <string name="enter">Otwórz Pliki</string>
@@ -24,26 +26,21 @@
     <string name="ftp_account_req_notice">"Nazwa użytkownika i hasło powinny mieć od %1$d do %2$d znaków (rozróżniane są duże i małe litery) i nie powinny zawierać znaków specjalnych."</string>
     <string name="ftp_username_and_passworld">Dane logowania</string>
     <string name="home_title">Pliki</string>
-    <string name="lack_perm_msg">Do poprawnego działania aplikacja Pliki wymaga następujących uprawnień: &lt;b>%s&lt;/b></string>
     <string name="launcher_icon_remove_description_content">"Aplikacja Pliki jest aplikacją systemową. Po usunięciu jej skrótu z Ekranu głównego zarządzanie plikami na urządzeniu będzie utrudnione."</string>
     <string name="launcher_icon_remove_description_title">Usunąć aplikację \"Pliki\" z Ekranu głównego?</string>
     <string name="menu_item_cleanup">Sprzątacz</string>
     <string name="message_request_manage_external_storage_perm">Aby móc zarządzać plikami znajdującymi się na urządzeniu, aplikacja Pliki wymaga uprawnień dostępu do plików. Możesz je nadać w Ustawieniach.</string>
-    <string name="midrive_hide_recent_cloud_files">"Nie wyświetlaj plików z Mi Drive'a w menu Ostatnio używane"</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="need_open_content">Aplikacja Pliki wymaga pozwolenia na dostęp do Twoich zdjęć i plików, aby je wyświetlać i edytować. Możesz je przyznać w Ustawieniach.</string>
-    <string name="need_read_storage_permission">"Aby działać normalnie, aplikacja Pliki wymaga uprawnienia dostępu do pamięci urządzenia."</string>
     <string name="notification_title_syncing_with_count">Synchronizowanie elementów. Pozostało %1$s plików.</string>
-    <string name="open_or_close_wlan">Wyłączanie i włączanie Wi-Fi</string>
     <string name="operation_continue">Kontynuuj</string>
     <string name="operation_download_error_other">Wystąpił błąd systemu. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="operation_encrypt_summary">Zaszyfruj pliki w prywatnym katalogu. Odszyfrowywanie dużych plików może trwać dłużej.</string>
     <string name="operation_send_to_pc">Przenieś na komputer</string>
     <string name="operation_show_privacy_policy">Wyświetl politykę prywatności</string>
     <string name="operation_show_sys">Pokaż ukryte pliki i katalogi</string>
-    <string name="operation_upload_buy_space">Ulepsz</string>
     <string name="operation_upload_err_full_manage_space">Pamięć chmury jest pełna. Ulepsz plan przestrzeni dyskowej lub usuń niepotrzebne pliki. Dotknij „Wyświetl”, aby przejrzeć dysk w chmurze i zarządzać zapisanymi plikami, albo „Odrzuć”, aby anulować wysyłanie.</string>
     <string name="operation_upload_err_full_space">W Chmurze nie ma miejsca. Ulepsz swój plan, aby móc wysłać więcej elementów.</string>
     <string name="operation_upload_err_not_support_overseas">W tym momencie wysyłać pliki mogą tylko użytkownicy z Chin kontynentalnych.</string>
@@ -52,7 +49,6 @@
     <string name="pattern_month_day_hh_mm_12">d.MM. hh:mm a</string>
     <string name="pattern_month_day_hh_mm_24">d.MM. HH:mm</string>
     <string name="permission_denial">"Brak dostępu do plików. Zezwól Plikom na dostęp do pamięci."</string>
-    <string name="permission_required">"Brak dostępu do plików. Zezwól Plikom na dostęp do pamięci."</string>
     <string name="phone_storage_info_str">Dostępne %1$s z %2$s</string>
     <string name="phone_storage_size_tip">Wyświetlana tu wartość dostępnej pamięci może różnić się od tej podawanej przez system.</string>
     <string name="positive_order">Rosnąco</string>
@@ -74,5 +70,4 @@
     <string name="view_type">Widok</string>
     <string name="wechat_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów otwieranych w WeChacie. Otwórz i zapisz dokumenty w WeChacie, aby pojawiły się one tutaj."</string>
     <string name="withdraw_consent_content">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności aplikacji Pliki. Informacje o Tobie, które zostały już zgromadzone i przetworzone przez Xiaomi, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja Pliki dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług tejże aplikacji."</string>
-    <string name="withdraw_consent_summary">Wycofanie zgody na warunki Polityki prywatności aplikacji Pliki</string>
 </resources>

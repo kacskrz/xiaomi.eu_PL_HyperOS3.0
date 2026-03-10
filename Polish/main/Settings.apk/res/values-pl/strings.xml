@@ -758,6 +758,7 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="setting_privacy_title">Wskaźnik prywatności</string>
     <string name="setting_volume_title">Tryb cichy</string>
     <string name="show_carrier_under_keyguard_title">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
+    <string name="show_carrier_under_notification_title">Pokaż nazwę operatora w Panelu powiadomień</string>
     <string name="show_ime">Użyj klawiatury ekranowej</string>
     <string name="show_ime_summary">Nie ukrywaj klawiatury ekranowej, gdy aktywna jest klawiatura fizyczna</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
