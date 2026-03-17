@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abandoned_search">Wyszukiwanie</string>
     <string name="accessibility_recent_task_enter">Otwarto Ostatnie aplikacje</string>
     <string name="accessibility_recent_task_exit">Zamknięto Ostatnie aplikacje</string>
     <string name="accessibility_recent_task_memory_info">Łącznie RAM-u: %2$s | Dostępnego RAM-u: %1$s. Dotknij dwukrotnie, aby wyczyścić.</string>
@@ -38,7 +39,9 @@
     <string name="fs_gesture_final_summary">Możesz przywrócić korzystanie z przycisków w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
     <string name="fsg_demo_back">Wstecz</string>
     <string name="gadget_clock_24_label">Zegar 4x2</string>
+    <string name="gadget_setup_text">Ustawienia widżetu</string>
     <string name="global_search">Wyszukiwarka</string>
+    <string name="google_search_bar">Wyszukiwanie Google</string>
     <string name="hide_apps_title">Ukryj ikony aplikacji</string>
     <string name="home_gesture_global_search">Wyszukiwarka</string>
     <string name="home_gesture_notification_and_control_center">Panel powiadomień i Centrum funkcji</string>
@@ -72,6 +75,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="memory_clear_result_mega">Wyczyszczono: %1$s MB</string>
     <string name="menu_cell_setting">Rozmiar siatki</string>
     <string name="menu_default_screen_preview">Pulpit główny</string>
+    <string name="menu_launcher_search">Wyszukiwanie na Ekranie głównym</string>
     <string name="menu_lock">Blokada pozycji ikon</string>
     <string name="minus_one_screen">Asystent HyperOS</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Asystent HyperOS nie wspiera widżetów o takim rozmiarze"</string>

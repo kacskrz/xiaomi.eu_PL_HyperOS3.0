@@ -35,6 +35,34 @@
     <string name="lockscreen_access_pattern_area">Obszar wzoru odblokowania</string>
     <string name="lockscreen_access_pattern_cell_added">Dodano kropkę</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Dodano kropkę %1$s</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint_v2">"Aby włączyć usługi Chmury Xiaomi, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>płatny SMS&lt;/b>&lt;/font>.&lt;br/>Gdy zmienisz karty SIM, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>płatny SMS&lt;/b>&lt;/font> w celu reaktywacji usługi.&lt;br/>Opłaty za SMS-y wytworzone przez wspomniane akcje zostaną pobrane przez Twojego operatora. Xiaomi nie obciąży Cię za nie opłatą."</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint_v2">"Aby włączyć usługi Chmury Xiaomi, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>krajowy, płatny SMS&lt;/b>&lt;/font>.&lt;br/>Gdy zmienisz karty SIM, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>krajowy, płatny SMS&lt;/b>&lt;/font> w celu reaktywacji usługi.&lt;br/>Opłaty za SMS-y wytworzone przez wspomniane akcje zostaną pobrane przez Twojego operatora. Xiaomi nie obciąży Cię za nie opłatą."</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint_v2">"Aby włączyć usługi Chmury Xiaomi, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>międzynarodowy, płatny SMS&lt;/b>&lt;/font>.&lt;br/>Gdy zmienisz karty SIM, wyślemy automatycznie &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>międzynarodowy, płatny SMS&lt;/b>&lt;/font> w celu reaktywacji usługi.&lt;br/>Opłaty za SMS-y wytworzone przez wspomniane akcje zostaną pobrane przez Twojego operatora. Xiaomi nie obciąży Cię za nie opłatą."</string>
+    <string name="micloud_cloud_default_benefit_auto_backup">Automatyczne kopie zapasowe</string>
+    <string name="micloud_cloud_default_benefit_daily_backup">Kopiuj dane automatycznie każdego dnia</string>
+    <string name="micloud_cloud_default_benefit_data_recovery">Przywróć usunięte elementy</string>
+    <string name="micloud_cloud_default_benefit_expand_to_2tb">Do %d TB</string>
+    <string name="micloud_cloud_default_benefit_family_share">Udostępnij przestrzeń w chmurze członkom rodziny</string>
+    <string name="micloud_cloud_default_benefit_large_file_upload">Wysyłanie dużych plików</string>
+    <string name="micloud_cloud_default_benefit_large_storage">Rozszerzona przestrzeń w chmurze</string>
+    <string name="micloud_cloud_default_benefit_max_file_upload">Wysyłaj pliki o rozmiarze do %d GB</string>
+    <string name="micloud_cloud_default_benefit_wechat_backup">Wspiera kopie WeChata</string>
+    <string name="micloud_cloud_default_benefit_wechat_migration">Zachowaj historię czata przy zmianie urządzenia</string>
+    <string name="micloud_cloud_memberguide_default_title">Zostań członkiem, aby odblokować więcej korzyści</string>
+    <string name="micloud_cloud_memberguide_default_title_normal">Korzyści z członkostwa Chmury Xiaomi</string>
+    <string name="micloud_cloud_memberguide_default_title_vip">Twoje korzyści z członkostwa</string>
+    <string name="micloud_cloud_membership_default_subtitle">Zostań członkiem, aby uzyskać więcej przestrzeni</string>
+    <string name="micloud_cloud_membership_default_subtitle_ThirdLevel">Odnów członkostwo, aby cieszyć się ekskluzywnymi korzyściami</string>
+    <string name="micloud_cloud_membership_default_subtitle_normal">Zobacz więcej planów pamięci i korzyści ze członkostwa</string>
+    <string name="micloud_cloud_membership_default_title">Nie jesteś jeszcze członkiem</string>
+    <string name="micloud_cloud_membership_default_title_normal">Członkostwo Chmury Xiaomi</string>
+    <string name="micloud_cloud_space_almost_full_tips">Twoja przestrzeń w chmurze jest prawie pełna. Ulepsz ją, aby skopiować swoje elementy.</string>
+    <string name="micloud_cloud_space_full_tips">Twoja przestrzeń w chmurze jest pełna. Ulepsz ją, aby skopiować swoje elementy.</string>
+    <string name="micloud_cloudbackup_subtitle">To %s</string>
+    <string name="micloud_dspt_provision_no_call_v2">Możesz użyć Chmury Xiaomi do synchronizowania zdjęć, kontaktów, wiadomości, notatek, nagrań i innych danych, a także udostęniać elementy przyjaciołom. Aby działać normalnie, aplikacja musi łączyć się z Internetem. Synchronizacja elementów może wymagać połączenia z danymi komórkowymi i włączenia Wi-Fi.</string>
+    <string name="micloud_dspt_provision_no_sms_and_call_v2">Możesz użyć Chmury Xiaomi do synchronizowania zdjęć, kontaktów, notatek, nagrań i innych danych, a także udostęniać elementy przyjaciołom. Aby działać normalnie, aplikacja musi łączyć się z Internetem. Synchronizacja elementów może wymagać połączenia z danymi komórkowymi i włączenia Wi-Fi.</string>
+    <string name="micloud_dspt_provision_no_sms_v2">Możesz użyć Chmury Xiaomi do synchronizowania zdjęć, kontaktów, historii połączeń, notatek i innych danych, a także udostęniać elementy przyjaciołom. Aby działać normalnie, aplikacja musi łączyć się z Internetem. Synchronizacja elementów może wymagać połączenia z danymi komórkowymi i włączenia Wi-Fi.</string>
+    <string name="micloud_dspt_provision_v2">Możesz użyć Chmury Xiaomi do synchronizowania zdjęć, kontaktów, wiadomości, historii połączeń, notatek i innych danych, a także udostęniać elementy przyjaciołom. Aby działać normalnie, aplikacja musi łączyć się z Internetem. Synchronizacja elementów może wymagać połączenia z danymi komórkowymi i włączenia Wi-Fi.</string>
     <string name="micloud_label_name_antispam">Panel sterowania</string>
     <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
     <string name="micloud_manaul_sync_success_title">Gotowe</string>
@@ -44,6 +72,7 @@
     <string name="micloud_preference_cloud_enabled">Wł.</string>
     <string name="micloud_preference_cloud_sync_wlan_only">Synchronizuj tylko przy połączeniu z Wi-Fi</string>
     <string name="micloud_preference_cloud_sync_wlan_only_china">Synchronizuj tylko przy połączeniu z Wi-Fi</string>
+    <string name="micloud_preference_look_vip">Wyświetl</string>
     <string name="micloud_space_soundrecorder_detail">"Otwórz aplikację Dyktafon i wybierz folder z elementami przechowywanymi w chmurze.
 Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
