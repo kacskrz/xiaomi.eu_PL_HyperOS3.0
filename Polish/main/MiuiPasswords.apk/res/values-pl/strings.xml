@@ -77,6 +77,8 @@
     <string name="data_migrate_failed">Nie udało się zsynchronizować haseł. Uruchom ponownie aplikację i spróbuj ponownie.</string>
     <string name="data_migrate_loading">Chwileczkę…</string>
     <string name="data_migrate_success">Pomyślnie zsynchronizowano hasła</string>
+    <string name="data_migration_notification_text">Przenieś swoje hasła z Przeglądarki Mi do Haseł, aby je uzupełniać automatycznie</string>
+    <string name="data_migration_notification_title">Przenieś hasła</string>
     <string name="del_credential_btn_text">Usuń</string>
     <string name="del_credential_dialog_title">Usuń klucz dostępu</string>
     <string name="del_credential_err_notify">Nie udało się usunąć. Spróbuj ponownie.</string>

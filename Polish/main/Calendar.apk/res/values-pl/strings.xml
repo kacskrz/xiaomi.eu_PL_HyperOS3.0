@@ -8,12 +8,17 @@
     <string name="calendar_user_agreement">Umowa użytkownika</string>
     <string name="constellation_date_range_format">Od %2$d.%1$d do %4$d.%3$d</string>
     <string name="count_down_out_range">Powiadomienia z odliczaniem mogą być wyświetlane maksymalnie do 1 godziny przed wydarzeniem. Zmień wybrany czas i spróbuj ponownie.</string>
+    <string name="count_down_out_range_all_day">Nie można ustawić odliczania dla wydarzenia całodniowego</string>
+    <string name="count_down_out_range_below">Nie można ustawić odliczania o godzinie rozpoczęcia wydarzenia</string>
+    <string name="count_down_out_range_over">"Nie można ustawić odliczania wcześniej niż %d godzinę przed rozpoczęciem wydarzenia"</string>
+    <string name="count_down_reminder_status_new">Włączono powiadomienie z odliczaniem</string>
     <string name="date_time_fmt">%1$s (%2$s)</string>
     <string name="desk_calendar_view">Kalendarz na biurko</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
     <string name="focus_notification_open_setting_message">Włącz Skupienie powiadomień dla Kalendarza, aby móc korzystać z przypomnień o odliczaniu.</string>
     <string name="focus_notification_open_setting_title">Włączyć Skupienie powiadomień?</string>
     <string name="icon_remove_description_content">Kalendarz jest aplikacją systemową. Zezwala na tworzenie i zarządzanie wydarzeniami. Po usunięciu Kalendarza z Ekranu głównego nadal będzie możliwe korzystanie z niego poprzez widżet na Ekranie głównym i Asystenta HyperOS.</string>
+    <string name="keyguard_multi_window_tip">Nie można wyświetlić tej strony w trybie dzielonego ekranu. Możesz natomiast wrócić do wersji pełnoekranowej.</string>
     <string name="menu_function_preferences">Funkcje</string>
     <string name="menu_panel_preferences">Widok miesiąca</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>

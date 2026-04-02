@@ -119,6 +119,7 @@
     <string name="ai_wallpaper_tips_content_violation">Ta treść może naruszać wytyczne Xiaomi. Nie można kontynuować generowania tapety.</string>
     <string name="ai_wallpaper_tips_people">Portret</string>
     <string name="ai_wallpaper_tips_title_content_violation">Nieodpowiednia zawartość</string>
+    <string name="alarm_apply_success">Zastosowano pomyślnie</string>
     <string name="align_center_horizontally">Poziomo, pośrodku</string>
     <string name="align_left_horizontally">Poziomo, do lewej</string>
     <string name="align_right_horizontally">Poziomo, do prawej</string>
@@ -185,6 +186,7 @@
     <string name="boot_audio_dialog_confirm">OK</string>
     <string name="boot_audio_dialog_content">Dźwięk startowy jest obecnie wyłączony. Czy chcesz go włączyć i zastosować ten dźwięk?</string>
     <string name="boot_audio_dialog_title">Uwaga</string>
+    <string name="brightness">Jasność</string>
     <string name="browse_mode">Tryb online</string>
     <string name="browse_mode_desc">"Motywy będą się łączyć z Internetem i korzystać z treści przechowywanych online oraz lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
     <string name="can_not_apply_error">"Ten format wideo nie jest wspierany"</string>
@@ -207,6 +209,8 @@
     <string name="close_custom_permission_warning_text">"Bez uprawnień do pamięci aplikacja nie będzie mogła pobierać elementów i personalizować Twojego urządzenia. Wyłączyć mimo to?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Aplikacja nie będzie mogła personalizować Twojego urządzenia bez uprawnień dostępu do pamięci. Wyłączyć mimo to?"</string>
     <string name="collected_talkback">Dodano do ulubionych</string>
+    <string name="color_ring_current_using">Zastosowano</string>
+    <string name="color_ring_set_success_toast">Zastosowano pomyślnie. Zarządzaj w Motywach > Moje konto > Dzwonki</string>
     <string name="common_applying">Stosowanie…</string>
     <string name="common_downloading">Pobieranie…</string>
     <string name="common_format_date_no_year">d.MM</string>
@@ -304,8 +308,11 @@
     <string name="detail_reward_user_limited_to_display">Wyświetlanych jest tylko pierwszych %d Mi Fanów</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">Obecny motyw może nie wspierać zmiany tapety ekranu blokady.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta ekranu blokady</string>
+    <string name="dialog_button_cancel">Anuluj</string>
+    <string name="dialog_button_confirm">Użyj</string>
     <string name="dialog_content_get_device_status">Aby móc autoryzować elementy zakupione na innych urządzeniach, aplikacja wymaga dostępu do Twojego ID urządzenia. Po wyłączeniu tej funkcji możesz nie być w stanie używać niektórych zakupionych elementów. Wyłączyć mimo to?</string>
     <string name="dialog_negative_button_text">Nie teraz</string>
+    <string name="dialog_operation_close">Ustawienia</string>
     <string name="dialog_positive_button_text">Zezwól</string>
     <string name="dialog_show_never">"Nie pokazuj ponownie."</string>
     <string name="dialog_trans_wallpaper_offline_detail">"Przezroczyste tapety nie są już dostępne, ponieważ nie są one wspierane przez Androida 12."</string>
@@ -537,6 +544,9 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_rhombus_clock_type_modern_style_serif_font">Styl nowoczesny, czcionka szeryfowa</string>
     <string name="kg_rhombus_clock_type_narrow_sans_serif_font">Czcionka wąska, bezszeryfowa</string>
     <string name="kg_rhombus_clock_type_square_font">Kwadrat</string>
+    <string name="kg_talkback_double_tap_to_activate">Dwukrotnie dotknij, aby aktywować</string>
+    <string name="kg_talkback_off">Wyłączony</string>
+    <string name="kg_talkback_on">Włączony</string>
     <string name="kg_template_description_eastern_art">Współczesna interpretacja wschodnich motywów wykorzystująca klasyczną symetrię krzyżową, charakterystyczny układ pionowy i kaligraficzną ekspresję</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
     <string name="kg_template_title_Ultra_longtime_a_talkback">Duży zegar A</string>
@@ -621,6 +631,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="long_click_can_hide_resource">Dotknij i przytrzymaj, aby ukryć elementy</string>
     <string name="loop_video_wallpaper">Zapętlij dynamiczne tapety</string>
     <string name="maml_config_select_image">Wybierz obraz</string>
+    <string name="messaging_apply_success">Zastosowano pomyślnie</string>
     <string name="mine_tab_not_login">Zaloguj się, aby wyświetlić elementy.
 Aby się zalogować, dotknij tutaj."</string>
     <string name="mashup_sound">Miks natury</string>
@@ -749,6 +760,12 @@ d.MM."</string>
     <string name="no_wallpaper">Nie ma tu jeszcze żadnych elementów</string>
     <string name="not_allow">Nie przyznano</string>
     <string name="not_support_incall_show">"Ta tapeta nie działa z profilami wideo"</string>
+    <string name="notification_apply_success">Zastosowano pomyślnie</string>
+    <string name="online_ringtone_more">Więcej</string>
+    <string name="online_ringtone_picker_title_alarm">Dźwięk alarmu</string>
+    <string name="online_ringtone_picker_title_messaging">Dźwięk wiadomości</string>
+    <string name="online_ringtone_picker_title_notification">Dźwięk powiadomienia</string>
+    <string name="online_ringtone_picker_title_ringtone">Dzwonek</string>
     <string name="order_list">Historia zamówień</string>
     <string name="original_image">Oryginalny</string>
     <string name="ota_recovery_theme_dialog_message">Niektóre elementy poprzednio używanego motywu mogą nie być zgodne z nową wersją systemu. Niezgodne elementy zostaną zastąpione domyślnymi opcjami.</string>
@@ -927,6 +944,8 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="pull_down_view_title">"Co nowego"</string>
     <string name="purchased">Zamówienia</string>
     <string name="read_and_agree_account_privacy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi."</Data></string>
+    <string name="rear_dialog_content_remove_animation">Włączono opcję \"Usuwaj animacje\", co może wpłynąć na animacje tapety. Wyłącz tę opcję w Ułatwieniach dostępu > Wzrok > Wyświetlacz.</string>
+    <string name="rear_dialog_title_remove_animation">Wyłącz \"Usuwaj animacje\"</string>
     <string name="rear_edit_abandon">Wycofać zmiany?</string>
     <string name="rear_screen_add_success">Pomyślnie dodano</string>
     <string name="rear_screen_aod_setting">AoD tylnego wyświetlacza</string>
@@ -935,6 +954,8 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_apply_success">Pomyślnie zastosowano</string>
     <string name="rear_screen_brightness_adjustment">Jasność</string>
     <string name="rear_screen_delete_template">Usunąć ten szablon?</string>
+    <string name="rear_screen_display_and_brightness">Wyświetlacz i jasność</string>
+    <string name="rear_screen_drag_prompt">Przytrzymaj, aby zmienić kolejność</string>
     <string name="rear_screen_edit_color_hsl_title">Własny kolor</string>
     <string name="rear_screen_edit_color_hue">Odcień</string>
     <string name="rear_screen_edit_color_lightness">Jasność</string>
@@ -945,10 +966,13 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_edit_title_pick">Tło</string>
     <string name="rear_screen_edit_title_signature">Sygnatura</string>
     <string name="rear_screen_edit_title_time">Zegar</string>
+    <string name="rear_screen_gaze_detection_summary">Gdy patrzysz na ekran, tylny ekran pozostanie włączony</string>
+    <string name="rear_screen_gaze_detection_title">Wyświetlacz świadomy uwagi</string>
     <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
 Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_list_title">Tylny wyświetlacz</string>
     <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
+    <string name="rear_screen_my_wallpaper">Moje zdjęcia</string>
     <string name="rear_screen_notice">Powiadomienia</string>
     <string name="rear_screen_screenshot">Zrzut ekranu</string>
     <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
@@ -958,6 +982,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
     <string name="rear_screen_template_upper_limit">Nie udało się dodać więcej elementów. Usuń jeden z nich w Ustawieniach > Tylny wyświetlacz i spróbuj ponownie.</string>
     <string name="rear_screen_template_upper_limit_old">Usuń elementy w Ustawieniach > Tylny wyświetlacz > Personalizacja, aby móc dodać więcej</string>
+    <string name="rear_screen_timeout_title">Ekran włączony przez</string>
     <string name="rear_screen_wallpaper_ai">Generuj z SI</string>
     <string name="rear_screen_wallpaper_album">Z Galerii</string>
     <string name="rear_screen_wallpaper_empty">Brak</string>
@@ -1054,13 +1079,21 @@ Dostępne są zupełnie nowe style."</string>
     <string name="resource_search_history">Historia wyszukiwania</string>
     <string name="resource_search_hot_tag">Popularne</string>
     <string name="resource_see_more">Pokaż wszystko</string>
+    <string name="resource_select_alarm_confirm_with_name">Użyć \"%1$s\" jako dźwięku alarmu?</string>
     <string name="resource_select_boot_audio_confirm">Wybrać ten dźwięk uruchamiania?</string>
+    <string name="resource_select_messaging_confirm_with_name">Użyć \"%1$s\" jako dźwięku wiadomości?</string>
+    <string name="resource_select_notification_confirm_with_name">Użyć \"%1$s\" jako dźwięku powiadomienia?</string>
+    <string name="resource_select_ringtone_confirm_with_name">Użyć \"%1$s\" jako dzwonka?</string>
     <string name="resource_send">Wyślij</string>
     <string name="resource_server_out_of_service">Usługa niedostępna. Spróbuj ponownie później.</string>
     <string name="resource_share_subject">Udostępnij motyw: %1$s</string>
     <string name="resource_share_text">%1$s. Link: %2$s</string>
     <string name="resource_share_title">Udostępnij</string>
     <string name="resource_status_error">"Wystąpił błąd. Nie można wyświetlić teraz tej tapety."</string>
+    <string name="resource_title_set_alarm">Ustaw jako dźwięk alarmu</string>
+    <string name="resource_title_set_messaging">Ustaw jako dźwięk wiadomości</string>
+    <string name="resource_title_set_notification">Ustaw jako dźwięk powiadomienia</string>
+    <string name="resource_title_set_ringtone">Ustaw jako dzwonek</string>
     <string name="resource_trial_days_hours">" (okres próbny: %1$s %2$s)"</string>
     <string name="resource_trial_end_get_mibi">Otrzymaj Mi Kredyty</string>
     <string name="resource_trial_end_jump_hint">Przekierowywanie…</string>
@@ -1074,8 +1107,11 @@ Dostępne są zupełnie nowe style."</string>
     <string name="restore_history_lock_screen_when_apply_theme">"Obecnie używasz niestandardowego motywu. Jeśli zmienisz tapetę ekranu blokady, zegar na ekranie blokady może zostać przywrócony do domyślnego stanu. Zastosować?"</string>
     <string name="restore_home_icon_text">Dodaj skrót na Ekranie głównym</string>
     <string name="restore_icon_later">Możesz ponownie dodać skrót na Ekranie głównym w Ustawieniach</string>
+    <string name="ringtone_apply_failed">Nie udało się zastosować. Spróbuj ponownie.</string>
+    <string name="ringtone_apply_success">Zastosowano pomyślnie</string>
     <string name="ringtone_confirm_dialog_message">"Długość tego dzwonka jest dość długa. Użyć go mimo to?"</string>
     <string name="ringtone_confirm_dialog_title">Uwaga</string>
+    <string name="ringtone_data_empty">Nie znaleziono wyników</string>
     <string name="ringtone_set_success">Pomyślnie ustawiono</string>
     <string name="save_to_photo_successfully_toast">Zapisano obraz w Galerii</string>
     <string name="scrollable_wallpaper_close">Wyłączono przewijanie</string>
@@ -1242,9 +1278,11 @@ Dostępne są zupełnie nowe style."</string>
     <string name="to_the_desktop">Ustaw na Ekranie głównym</string>
     <string name="toast_both_all_apply_failured">"Nie udało się zastosować na Ekranie głównym lub Ekranie blokady"</string>
     <string name="toast_both_all_apply_success">Pomyślnie zastosowano na Ekranie głównym i Ekranie blokady</string>
+    <string name="toast_first_install_gallery">Zainstaluj Galerię, aby użyć tej funkcji</string>
     <string name="toast_home_apply_failured">"Nie udało się zastosować na Ekranie głównym"</string>
     <string name="toast_home_apply_success">Pomyślnie zastosowano na Ekranie głównym</string>
     <string name="toast_image_cannot_segment">Ten obraz nie obsługuje efektu głębi</string>
+    <string name="toast_keep_one_wallpaper">Zachowaj co najmniej jeden element</string>
     <string name="toast_lockscreen_apply_failured">"Nie udało się zastosować na Ekranie blokady"</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Pomyślnie zastosowano na Ekranie głównym. Nie udało się zastosować na Ekranie blokady."</string>
     <string name="toast_lockscreen_apply_success">Pomyślnie zastosowano na Ekranie blokady</string>
@@ -1381,4 +1419,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="warning_update_super_wallpaper">Zaktualizuj Supertapety</string>
     <string name="watch_take_off_shelf">Ten element jest niedostępny. Odkryj inne ekrany!</string>
     <string name="wechat_not_found">Zainstaluj najpierw WeChata</string>
+    <string name="write_settings_permission_dialog_message">Aby użyć tej funkcji, włącz opcję \"Zezwalaj na modyfikowanie ustawień systemu\" w Ustawieniach > Ochrona prywatności > Inne uprawnienia > Specjalne uprawnienia > Modyfikowanie ustawień systemu > Motywy.</string>
+    <string name="write_settings_permission_dialog_title">Wymagane uprawnienia</string>
 </resources>

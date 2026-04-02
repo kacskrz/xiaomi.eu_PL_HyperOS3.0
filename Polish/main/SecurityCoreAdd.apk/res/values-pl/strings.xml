@@ -26,6 +26,8 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="contact_sub_titile_text">Dane aplikacji SMS będą dzielone między profilami</string>
     <string name="contact_titile_text">Pokaż prywatne wiadomości w Drugiej przestrzeni</string>
     <string name="dataSafe">Druga przestrzeń to jakby drugi telefon.</string>
+    <string name="eyecare_mode_close_toast">Wyłączono Tryb ochrony wzroku</string>
+    <string name="eyecare_mode_open_toast">Włączono Tryb ochrony wzroku</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="function_not_support">Nieobsługiwane na tym urządzeniu</string>
     <string name="gms_title">Sklonuj usługi Google</string>

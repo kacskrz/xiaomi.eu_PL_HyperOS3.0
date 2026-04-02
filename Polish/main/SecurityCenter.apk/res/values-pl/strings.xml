@@ -255,7 +255,7 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="auto_task_result_summary_text">Ustaw zaplanowane zadania dla Oszczędzania baterii</string>
     <string name="auto_task_rule_bluetooth">Gdy używasz Bluetooth z urządzeniem %1$s, możesz automatycznie otworzyć aplikację %2$s. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_rule_map_location">Gdy używasz map, możesz automatycznie włączyć usługi lokalizacji. Utworzyć teraz to zadanie?</string>
-    <string name="auto_task_rule_read_mode">Gdy używasz aplikacji do czytania e-booków, możesz automatycznie włączyć Tryb czytania. Utworzyć teraz to zadanie?</string>
+    <string name="auto_task_rule_read_mode">Gdy używasz aplikacji do czytania e-booków, możesz automatycznie włączyć tryb Ochrony wzroku. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_rule_zen_mode">Możesz automatycznie włączyć tryb Nie przeszkadzać w trakcie drzemek między 12:00 a 14:00. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_select_address_company">Praca</string>
     <string name="auto_task_select_address_home">Dom</string>
@@ -313,6 +313,12 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="btn_text_quick_save_power">Wykonaj</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
+    <string name="car_sickness_relief_comment_text_driver_mode_support">"Po obu stronach ekranu będą wyświetlane kropki, które pokazują ruch pojazdu. Może to pomóc zmniejszyć objawy choroby lokomocyjnej.
+
+Możesz włączyć lub wyłączyć tę funkcję w Centrum funkcji."</string>
+    <string name="car_sickness_relief_comment_text_driver_mode_unsupport">"Po obu stronach ekranu stale będą wyświetlane kropki, które pokazują ruch pojazdu. Może to pomóc zmniejszyć objawy choroby lokomocyjnej.
+
+Możesz włączyć lub wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="car_sickness_relief_comment_text_opened">"Po obu stronach ekranu wyświetlane będą kropki, aby odzwierciedlić poruszanie się pojazdu. Może to pomóc opóźnić napad choroby lokomocyjnej.
 
 Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
@@ -931,6 +937,13 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
     <string name="permission_instruction_write_calllog">To uprawnienie zezwala aplikacjom na dodawanie lub usuwanie wpisów historii połączeń.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
+    <string name="permission_optimization_recommendation1">Zmień z \"Zawsze zezwalaj\" na \"Odmów\"</string>
+    <string name="permission_optimization_recommendation2">Zmień z \"Zawsze zezwalaj\" na \"Podczas korzystania z aplikacji\"</string>
+    <string name="permission_optimization_recommendation3">Zmień z \"Podczas korzystania z aplikacji\" na \"Odmów\"</string>
+    <string name="permission_optimization_recommendation4">Zmień z \"Podczas korzystania z aplikacji\" na \"Zawsze pytaj\"</string>
+    <string name="permission_optimization_recommendation5">Zmień z \"Zawsze zezwalaj\" na \"Ogranicz na razie\"</string>
+    <string name="permission_optimization_recommendation6">Zmień z \"Zawsze zezwalaj\" na \"Wybierz niektóre\"</string>
+    <string name="permission_optimization_recommendation7">Zmień z \"Zezwól\" na \"Odmów\"</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Aplikacja używała autostartu</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała</string>
@@ -1215,6 +1228,16 @@ Ultraoszczędzania baterii"</string>
     <string name="pref_traffic_package_type_summary">Miesięczny/Dzienny/Bez limitu</string>
     <string name="preferred_app_entries_dial">Dialer</string>
     <string name="preferred_app_entries_launcher">Launcher</string>
+    <string name="prem_optimization_allow_notify_summary">Zezwól \"Sugestiom uprawnień\" na wysyłanie powiadomień</string>
+    <string name="prem_optimization_allow_notify_title">Zezwól na powiadomienia</string>
+    <string name="prem_optimization_btn_summary">Optymalizuj</string>
+    <string name="prem_optimization_cancle_scan_msg">Skanowanie niekompletne</string>
+    <string name="prem_optimization_has_no_data_msg">Wszystko wygląda dobrze</string>
+    <string name="prem_optimization_notify_action_nomore">Odrzuć na %d dni</string>
+    <string name="prem_optimization_notify_action_page">Optymalizuj</string>
+    <string name="prem_optimization_size_title">Wybierz powiadomienia do zmiany</string>
+    <string name="prem_optimization_title">Sugestie uprawnień</string>
+    <string name="prem_optimization_total_summary">Dostosuj uprawnienia, aby lepiej chronić swoją prywatność</string>
     <string name="priority_storage_settings_summary">"Jeśli karta SD nie zostanie wykryta, dane zostaną automatycznie zapisane w pamięci wewnętrznej urządzenia."</string>
     <string name="privacy">Prywatność</string>
     <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i usuń ich skróty z Ekranu głównego</string>
@@ -1290,7 +1313,7 @@ Wycofać zgodę?"</string>
     <string name="private_sms">Prywatne SMS-y</string>
     <string name="protect_data_security">Izolowane dane</string>
     <string name="protect_data_security_detail">Dane wygenerowane przez klawiaturę będą izolowane i staną się niedostępne dla innych aplikacji.</string>
-    <string name="protect_eye_opened_summry">Zmień preferencje w Ustawieniach > Wyświetlacz i jasność > Komfort oczu</string>
+    <string name="protect_eye_opened_summry">Zmień preferencje w Ustawieniach > Wyświetlacz i jasność > Xiaomi EyeCare Shield</string>
     <string name="quick_optimize_no_fix_issue_title">Nie udało się zoptymalizować elementów z wysokim zużyciem energii</string>
     <string name="quick_optimize_sub_summary_text">Dodano %s do czasu na baterii</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Wydłużono o %1$s, pozostało ok. %2$s</string>
@@ -1342,6 +1365,7 @@ Wycofać zgodę?"</string>
     <string name="select_app_title_music">Odtwarzaj muzykę</string>
     <string name="send_msg_to_query">Wyślij SMS-a, aby sprawdzić</string>
     <string name="send_sms_title">Zezwolić %s na wysyłanie SMS-ów?</string>
+    <string name="sensitive_permission_authorization_title">Wrażliwe uprawnienia</string>
     <string name="set_package_tips">"Xiaomi wyśle darmowy SMS do Twojego operatora w celu sprawdzenia Twojego planu danych. Dostarczone przez Ciebie informacje zostaną zaszyfrowane i wysłane na serwery Xiaomi w celu ich przetworzenia."</string>
     <string name="set_traffic_tips">Ustaw swój plan danych, aby zarządzać użyciem danych mobilnych i uniknąć dodatkowych opłat od operatora</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Zatrzymaj bezprzewodowe ładowanie zwrotne, kiedy poziom naładowania baterii będzie mniejszy niż %s</string>
@@ -1476,6 +1500,7 @@ Wycofać zgodę?"</string>
     <string name="special_perm_virtual_title">Zarządzanie wirtualnym identyfikatorem</string>
     <string name="special_perm_vr_title">Używanie asystenta VR</string>
     <string name="special_perm_window_title">Wyświetlanie elementów w trybie Obraz w obrazie</string>
+    <string name="st_confirm_call_all_dialog_strange_open_summary">Połączenia od numerów nieznajdujących się na liście wyjątków lub w kontaktach będą blokowane. Zablokować?</string>
     <string name="st_confirm_dialog_summary_stranger_call">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach lub w kontaktach, zostaną zablokowane. Włączyć?</string>
     <string name="st_mark_call_intercept_threshold_summary">Automatycznie blokuj numery zgłaszane określoną liczbę razy</string>
     <string name="st_title_back_sound_busy">Sygnał zajętego numeru</string>
@@ -1560,7 +1585,7 @@ Wycofać zgodę?"</string>
     <string name="task_summary_close_dc_light">Wyłącz Ograniczenie migotania</string>
     <string name="task_summary_close_dial_tone">Wyłącz dźwięki klawiatury numerycznej</string>
     <string name="task_summary_close_drive_mode">Wyłącz Tryb auta</string>
-    <string name="task_summary_close_eye_care_mode">Wyłącz Tryb czytania</string>
+    <string name="task_summary_close_eye_care_mode">Wyłącz Tryb ochrony wzroku</string>
     <string name="task_summary_close_hotspot">Wyłącz hotspot</string>
     <string name="task_summary_close_location">Wyłącz usługi lokalizacji</string>
     <string name="task_summary_close_mute">Wyłącz Tryb cichy</string>
@@ -1580,7 +1605,7 @@ Wycofać zgodę?"</string>
     <string name="task_summary_open_dial_tone">Włącz dźwięki klawiatury numerycznej</string>
     <string name="task_summary_open_disturb_mode">Włącz tryb Nie przeszkadzać</string>
     <string name="task_summary_open_drive_mode">Włącz Tryb auta</string>
-    <string name="task_summary_open_eye_care_mode">Włącz Tryb czytania</string>
+    <string name="task_summary_open_eye_care_mode">Włącz Tryb ochrony wzroku</string>
     <string name="task_summary_open_hotspot">Włącz hotspot</string>
     <string name="task_summary_open_location">Włącz usługi lokalizacji</string>
     <string name="task_summary_open_mute">Włącz Tryb cichy</string>
@@ -1654,7 +1679,7 @@ Wycofać zgodę?"</string>
     <string name="title_result_dial_tone">Dźwięki klawiatury numerycznej</string>
     <string name="title_result_drive">Tryb auta</string>
     <string name="title_result_examination">Skanowanie bezpieczeństwa</string>
-    <string name="title_result_eye_care">Tryb czytania</string>
+    <string name="title_result_eye_care">Tryb ochrony wzroku</string>
     <string name="title_result_flashlight">Latarka</string>
     <string name="title_result_hotspot">Hotspot</string>
     <string name="title_result_location">Lokalizacja</string>

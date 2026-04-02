@@ -14,17 +14,10 @@
     <string name="circulate_cta_premission_wlan_subtitle_china">W celu przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Włączanie i wyłączanie Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
-    <string name="circulate_headset_control_audio_effect_card_title">Dźwięk przestrzenny</string>
     <string name="circulate_headset_control_audio_effect_off">Wyłącz dźwięk przestrzenny</string>
     <string name="circulate_headset_control_audio_find_earphone_wearing_info_content">Dźwięk będzie odtwarzany z dużą głośnością. Jeśli używasz słuchawek, kontynuacja tego działania może zaszkodzić Twojemu słuchowi. Zanim przejdziesz dalej, zdejmij je.</string>
     <string name="circulate_headset_control_battery_right">P</string>
-    <string name="circulate_headset_control_mi_audio_effect_card_title">Kontrola szumów</string>
-    <string name="circulate_headset_control_mi_audio_effect_head_tracking">Śledzenie ruchu głowy</string>
-    <string name="circulate_headset_control_mi_audio_effect_off">Wył.</string>
-    <string name="circulate_headset_control_mi_audio_effect_spatial">Dźwięk przestrzenny</string>
     <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
-    <string name="circulate_headset_error_airpods_headset_both_in_box">Najpierw załóż słuchawki</string>
-    <string name="circulate_headset_error_airpods_headset_not_worn">Aby korzystać z tej funkcji, załóż obie słuchawki</string>
     <string name="circulate_network_connect_failed_default_message">Upewnij się, że telefon i drugie urządzenie są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_Mac">Upewnij się, że telefon i Mac są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
     <string name="circulate_network_connect_failed_message_PC">Upewnij się, że telefon i komputer są zalogowane na to samo konto i połączone z tą samą siecią, lub zobacz pomoc.</string>
@@ -89,6 +82,7 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="dialog_nfc_cast_wifi_off">Włącz Wi-Fi, aby móc użyć projekcji za pomocą NFC. Zrobić to teraz?</string>
     <string name="dialog_no_device_message_china"><Data>%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
     <string name="dialog_open_remote_switch_content">"Nie można zastosować ustawienia. Upewnij się, że Twój %1$s jest zalogowany na to samo konto i połączony z tą samą siecią co to urządzenie."</string>
+    <string name="dialog_reset_app_subscribe_content_v2">Nie otrzymasz powiadomień z niektórych aplikacji z urządzenia %1$s, ponieważ zostały one stamtąd odinstalowane. Skonfiguruj ponownie synchronizację powiadomień.</string>
     <string name="dialog_scan_message_china">"%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
 
 %2$d. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
@@ -132,9 +126,16 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="mirror_phone_content_remote_V1">Włącz Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi > Ekran główny+ na Twoim %1$s.</string>
     <string name="nearby_device_file_access">Otrzymuj powiadomienia, gdy pobliskie urządzenia uzyskują dostęp do plików znajdujących się na tym urządzeniu</string>
     <string name="notification_channel_subtitle_ref_call_1">Połączenie z %1$s</string>
+    <string name="notification_channel_subtitle_ref_call_2">Połączenie na %1$s</string>
+    <string name="notification_channel_subtitle_ref_dingtalk_2">Powiadomienie z DingTalk na %1$s</string>
+    <string name="notification_channel_subtitle_ref_lary_2">Powiadomienie z Lark na %1$s</string>
     <string name="notification_channel_subtitle_ref_mqq_1">Wiadomość QQ z %1$s</string>
+    <string name="notification_channel_subtitle_ref_mqq_2">Powiadomienie z QQ na %1$s</string>
     <string name="notification_channel_subtitle_ref_sms_1">Wiadomość z %1$s</string>
+    <string name="notification_channel_subtitle_ref_sms_2">SMS na %1$s</string>
+    <string name="notification_channel_subtitle_ref_wework_2">Powiadomienie z WeCom na %1$s</string>
     <string name="notification_channel_subtitle_ref_xin_1">Wiadomość WeChat z %1$s</string>
+    <string name="notification_channel_subtitle_ref_xin_2">Powiadomienie z WeChata na %1$s</string>
     <string name="notification_incoming_call_to_reply">Połączenie. Odbierz na %1$s.</string>
     <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>
     <string name="onehop_mirror_guide_message_text_2">Wybierz zdjęcia, filmy i inne pliki z Galerii lub Plików, aby przesłać je na komputer.</string>

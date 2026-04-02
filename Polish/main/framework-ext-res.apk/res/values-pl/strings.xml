@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="aon_learn_gesture_position_down_tip">Utrzymaj rękę skierowaną w dół, %1$d–%2$d cm od aparatu, aż pojawi się informacja o geście.</string>
+    <string name="aon_learn_gesture_position_up_tip">Utrzymaj rękę skierowaną w przód, %1$d–%2$d cm od aparatu, aż pojawi się informacja o geście.</string>
     <string name="aon_short_video_up_down_support_scene_des">Przełącz na poprzednie lub następne wideo</string>
     <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Odciski palca, dane twarzy i blokada ekranu > %s.</string>
     <string name="autofill_save_sub_message_new">Możesz wyświetlać hasła i nimi zarządzać w Ustawieniach > %1$s > %2$s.</string>

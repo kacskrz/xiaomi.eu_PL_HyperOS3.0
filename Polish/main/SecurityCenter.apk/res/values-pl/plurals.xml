@@ -480,6 +480,46 @@
         <item quantity="other">%1$s | Aplikacja zwracała puste wydarzenie z kalendarza %2$d razy</item>
         <item quantity="one">%1$s | Aplikacja zwracała puste wydarzenie z kalendarza %2$d raz</item>
     </plurals>
+    <plurals name="prem_optimization_app_need_optimize">
+        <item quantity="other">Dotknij, aby zoptymalizować %d uprawnień</item>
+        <item quantity="few">Dotknij, aby zoptymalizować %d uprawnienia</item>
+        <item quantity="one">Dotknij, aby zoptymalizować %d uprawnienie</item>
+    </plurals>
+    <plurals name="prem_optimization_app_size_summary">
+        <item quantity="other">Wybrano %d aplikacji</item>
+        <item quantity="few">Wybrano %d aplikacje</item>
+        <item quantity="one">Wybrano %d aplikację</item>
+    </plurals>
+    <plurals name="prem_optimization_app_summary">
+        <item quantity="other">Można dostosować %d uprawnień</item>
+        <item quantity="few">Można dostosować %d uprawnienia</item>
+        <item quantity="one">Można dostosować %d uprawnienie</item>
+    </plurals>
+    <plurals name="prem_optimization_check_result">
+        <item quantity="other">Można zoptymalizować uprawnienia %d aplikacji</item>
+        <item quantity="one">Można zoptymalizować uprawnienia %d aplikacji</item>
+    </plurals>
+    <plurals name="prem_optimization_content_size_summary">
+        <item quantity="other">%d uprawnień</item>
+        <item quantity="few">%d uprawnienia</item>
+        <item quantity="one">%d uprawnienie</item>
+    </plurals>
+    <plurals name="prem_optimization_main_page_title">
+        <item quantity="other">Zoptymalizuj uprawnienia %d aplikacji</item>
+        <item quantity="one">Zoptymalizuj uprawnienia %d aplikacji</item>
+    </plurals>
+    <plurals name="prem_optimization_notify_total_app_need_optimize">
+        <item quantity="other">Dla Twojego bezpieczeństwa zoptymalizuj uprawnienia %d aplikacji</item>
+        <item quantity="one">Dla Twojego bezpieczeństwa zoptymalizuj uprawnienia %d aplikacji</item>
+    </plurals>
+    <plurals name="prem_optimization_total_app_need_optimize">
+        <item quantity="other">Dotknij, aby zoptymalizować uprawnienia %d aplikacji</item>
+        <item quantity="one">Dotknij, aby zoptymalizować uprawnienia %d aplikacji</item>
+    </plurals>
+    <plurals name="prem_optimization_total_title">
+        <item quantity="other">Można dostosować uprawnienia %d aplikacji</item>
+        <item quantity="one">Można dostosować uprawnienia %d aplikacji</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">Ukryto ikony %d aplikacji</item>
         <item quantity="one">Ukryto ikonę %d aplikacji</item>
@@ -538,6 +578,11 @@
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Ustawienia fabryczne (%d s)</item>
         <item quantity="one">Ustawienia fabryczne (%d s)</item>
+    </plurals>
+    <plurals name="sensitive_permission_authorization_summary">
+        <item quantity="other">Wykryto, że można dostosować %d uprawnień</item>
+        <item quantity="few">Wykryto, że można dostosować %d uprawnienia</item>
+        <item quantity="one">Wykryto, że można dostosować %d uprawnienie</item>
     </plurals>
     <plurals name="sim_lock_puk_dialog_message">
         <item quantity="other">Pozostała Ci jeszcze tylko %d próba zweryfikowania kodu PUK. Jeśli osiągniesz limit wprowadzania niepoprawnych kodów, karta SIM zostanie anulowana. Kontynuować mimo to?</item>

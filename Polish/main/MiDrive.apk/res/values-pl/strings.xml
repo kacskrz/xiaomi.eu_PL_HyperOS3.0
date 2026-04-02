@@ -123,6 +123,7 @@
     <string name="error_ppt_to_pdf_algorithm">"Nie udało się przetworzyć obrazu. Korzystanie z oryginalnego pliku."</string>
     <string name="error_ptp_ai_recommend_pdf_save_fail">"Nie udało się zapisać. Spróbuj ponownie."</string>
     <string name="exception_cloud_storage_is_full">Brak miejsca w Chmurze</string>
+    <string name="exception_cloud_storage_is_not_enough">Brak miejsca</string>
     <string name="exception_copy_file_exist">"Kopiowany przez Ciebie element znajduje się już w miejscu docelowym"</string>
     <string name="exception_copy_sub_path">"Nie można kopiować elementów do tego samego folderu"</string>
     <string name="exception_create_folder_conflict">"Nie udało się utworzyć folderu, gdyż folder z tą samą nazwą już istnieje."</string>
@@ -154,6 +155,7 @@
     <string name="file_send_no_support">"Nie można udostępnić plików tego typu"</string>
     <string name="file_size_is_zero">Rozmiar pliku musi być większy niż 0</string>
     <string name="file_size_lager_than_4g">"Rozmiar pliku nie może przekroczyć 4 GB"</string>
+    <string name="file_size_lager_than_50g">Większy niż %d GB</string>
     <string name="file_sort_create_time">Sortuj po dacie utworzenia</string>
     <string name="file_sort_modify_time">Sortuj po dacie modyfikacji</string>
     <string name="file_sort_name">Sortuj po nazwie</string>
@@ -420,6 +422,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w systemie."
     <string name="upload_done_info_for_sys_title">Pomyślnie wysłano. Dotknij, aby zobaczyć.</string>
     <string name="upload_fail">"Nie udało się wysłać"</string>
     <string name="upload_file_list_is_empty">Wybierz elementy do wysłania</string>
+    <string name="upload_left_quota_not_enough">Nie udało się przesłać pliku ze względu na brak miejsca w chmurze. Ulepsz swój plan pamięci albo usuń niektóre elementy, i spróbuj ponownie.</string>
     <string name="upload_list">Wysyłania</string>
     <string name="upload_list_empty">Brak elementów</string>
     <string name="upload_metered_network_dialog_cancel">Anuluj</string>
