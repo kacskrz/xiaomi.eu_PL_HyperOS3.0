@@ -5,8 +5,6 @@
 do Listy blokowanych"</string>
     <string name="add_to_block_by_tag">"Dodano wiadomości z frazą \"%s\"
 do Listy blokowanych"</string>
-    <string name="add_to_block_by_tag_failed">"Nie udało się dodać SMS-ów zawierających \"%s\" do listy blokowanych.
-Spróbuj ponownie."</string>
     <string name="ai_smart_message_content"><Data>Podsumowanie wiadomości za pomocą SI zależy od działania Inteligentnych wiadomości. Aby przejść dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="ai_smart_message_titile">Włącz Inteligentne wiadomości</string>
     <string name="ai_sum_internal_test_title">Betatesty podsumowań wiadomości SI</string>
@@ -74,6 +72,7 @@ Spróbuj ponownie."</string>
     <string name="menu_lock">Ulubione</string>
     <string name="menu_locus_map">Mapa podróży</string>
     <string name="menu_report">Opinia</string>
+    <string name="menu_sms_block">Dodać do listy blokowanych?</string>
     <string name="menu_traffic_destination">Cel</string>
     <string name="message_saved_as_draft">Wiadomość została zapisana jako wersja robocza.</string>
     <string name="message_send_read_report">Wysłany zostanie raport o odczytaniu wiadomości.</string>

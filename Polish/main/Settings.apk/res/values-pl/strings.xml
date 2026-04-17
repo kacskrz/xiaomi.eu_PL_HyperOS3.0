@@ -244,6 +244,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="digit_password_mismatch">Kody PIN nie pasują do siebie</string>
     <string name="disable_lock_screen_password">Wyłącz blokadę ekranu</string>
     <string name="disable_password_warning">Po wyłączeniu blokady ekranu zapisane odciski palców i dane twarzy zostaną usunięte. Nie będzie można odblokować urządzenia za pomocą twarzy lub odcisków palców ani używać ich w Notatkach lub Galerii.</string>
+    <string name="disable_permission_text_by_hyper">To uprawnienie nie przeszło przeglądu i jest teraz ograniczone</string>
     <string name="display_advanced_mode_title">Zaawansowane ustawienia</string>
     <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_settings_new">Wyświetlacz i jasność</string>
@@ -323,7 +324,7 @@ patrząc na zewnętrzny ekran"</string>
     <string name="flash_notifications_title">Powiadomienia błyskowe</string>
     <string name="focus_title">Skupienie powiadomień</string>
     <string name="font_setting_weight_toast">Obecna czcionka nie wspiera zmiany jej grubości</string>
-    <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
+    <string name="forbidden_set_unlock_password_msg">Włączono Tryb naprawy. Nie można obecnie ustawić bądź zmienić haseł.</string>
     <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
     <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie i trzymaj je, dopóki telefon nie uruchomi się do trybu Recovery.</string>
     <string name="format_month_day_style2">d.MM.</string>
@@ -340,12 +341,14 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij ikony aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie.
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie bądź do rogu, aby skorzystać z Dzielonego ekranu."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu</string>
+    <string name="frp_status_activated">Włączono ochronę przed resetem do ustawień fabrycznych</string>
     <string name="fsg_mistake_touch_summary">W niektórych przypadkach, np. podczas grania w gry lub oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
     <string name="fsg_mistake_touch_title">Potwierdź gest</string>
     <string name="full_transparent_smarrcover_title">Przezroczysty front</string>
     <string name="game_app_fragment_category">Wspierane gry</string>
     <string name="game_app_title">Efekty świetlne w grach</string>
     <string name="game_delta_action_moments">Losowanie zasobów i pomyślna ucieczka</string>
+    <string name="game_eyecare_empty_list_tip">Nic tu nie ma</string>
     <string name="game_king_of_glory_moments">Zabójstwa, wygrane i inne kluczowe momenty</string>
     <string name="game_parachute_moments">Spadanie</string>
     <string name="game_peacekeeper_elites_moments">Skoki spadochronowe i walka</string>
@@ -575,6 +578,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="night_display_auto_mode_custom">Własny harmonogram</string>
     <string name="night_display_auto_mode_never">Nigdy</string>
     <string name="night_display_auto_mode_twilight">Od zachodu do wschodu słońca</string>
+    <string name="night_eye_protection_summary">Automatycznie zredukuj jasność po zaśnięciu, aby zapewnić komfort po obudzeniu się w nocy i spojrzeniu na ekran</string>
+    <string name="night_eye_protection_title">Komfort oczu w nocy</string>
     <string name="no_internet_access_text">Sieć %1$s nie ma dostępu do internetu. Nadal chcesz się z nią łączyć?</string>
     <string name="no_read_apps">Nie znaleziono żadnych aplikacji do czytania</string>
     <string name="no_read_apps_new">Nie znaleziono wspieranych aplikacji. Bądź czujny!</string>
@@ -663,6 +668,7 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="pluto_open_immersion_toast">Odtwarzanie muzyki wstrzyma Immersyjny transport. Wznowi się po zatrzymaniu muzyki.</string>
     <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
+    <string name="post_reset_google_verification">Po resecie do ustawień fabrycznych zaloguj się na konto Google, które było wcześniej używane na tym urządzeniu, aby ustawić hasło.</string>
     <string name="power_checker">Optymalizacja i użycie baterii</string>
     <string name="power_menu_under_keyguard_summary">Zezwól na dostęp do menu zasilania, gdy urządzenie jest zablokowane</string>
     <string name="power_menu_under_keyguard_title">Dostęp do menu zasilania</string>
