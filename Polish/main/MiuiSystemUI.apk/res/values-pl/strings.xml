@@ -17,7 +17,6 @@ okno"</string>
 okno"</string>
     <string name="face_unlock_error_camera_is_using">Aparat w użyciu</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
-    <string name="forget_password_string">Nie pamiętam hasła</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="format_week_day_style2">EE d</string>
@@ -62,7 +61,6 @@ d.MM"</string>
     <string name="miui_notification_menu_msg_unfocus">"Zamierzasz wyłączyć Skupienie powiadomień dla %1$s. Te powiadomienia będą wyświetlane normalnie. Wyłączyć?"</string>
     <string name="miui_notification_menu_title_custom_fold">Grupuj niestandardowe powiadomienia</string>
     <string name="miui_notification_menu_title_custom_unfold">Zatrzymaj grupowanie powiadomień</string>
-    <string name="miui_notification_slide_menu_ongoing">Ogranicz permanentne powiadomienia</string>
     <string name="miui_smart_frame_clock_date">d.MM</string>
     <string name="miui_snooze_user_set_fail">Aby zobaczyć więcej opcji, przejdź do Ustawień</string>
     <string name="miui_snooze_user_set_success">Pomyślnie zastosowano. Aby zobaczyć więcej opcji, przejdź do Ustawień.</string>
@@ -91,12 +89,6 @@ d.MM"</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Wyłącz urządzenie i przejdź do trybu Recovery</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">Wykonaj reset do ustawień fabrycznych</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
-    <string name="quick_settings_coolingfan_lable">Wentylator</string>
-    <string name="quick_settings_coolingfan_mode">Tryb wentylatora</string>
-    <string name="quick_settings_coolingfan_mode_high">Wydajność</string>
-    <string name="quick_settings_coolingfan_mode_silent">Cichy</string>
-    <string name="quick_settings_coolingfan_mode_smart">Inteligentny</string>
-    <string name="quick_settings_coolingfan_state_off">Wentylator jest wyłączony</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_night_state_change_message_off">Ciemny motyw jest wyłączony</string>
     <string name="quick_settings_night_state_change_message_on">Ciemny motyw jest włączony</string>

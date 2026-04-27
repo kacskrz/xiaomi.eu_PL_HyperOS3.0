@@ -17,10 +17,6 @@
         <item>Rozłącz wszystko</item>
         <item>Zezwól usługom systemowym</item>
     </string-array>
-    <string-array name="bt_half_close_switch_list_summary">
-        <item>Wszystkie urządzenia i funkcje Bluetooth zostaną rozłączone</item>
-        <item>Niektóre usługi systemowe nadal będą korzystać z Bluetooth</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Odblokowanie twarzą</item>
         <item>Wzór</item>
@@ -65,11 +61,5 @@
     <string-array name="true_color_screen_optimize_summary_new">
         <item>Ulepszone kolory dla bardziej żywego wyświetlania</item>
         <item>Przywróć standardowe kolory treści na ekranie z kalibracją kolorów</item>
-    </string-array>
-    <string-array name="wifi_signal">
-        <item>Słaba</item>
-        <item>Słaba</item>
-        <item>Dobra</item>
-        <item>Doskonała</item>
     </string-array>
 </resources>

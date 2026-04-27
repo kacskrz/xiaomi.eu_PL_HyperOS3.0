@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abandon">Porzuć</string>
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
@@ -43,7 +42,6 @@
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
-    <string name="ai_is_calculating_segment">SI generuje efekt głębi…</string>
     <string name="ai_moving_your_wallpaper_new">Wypróbuj nowe style i dodaj dynamiczne efekty do swoich ulubionych tapet</string>
     <string name="ai_pet">Zwierzaki SI</string>
     <string name="ai_pet_account_service_unavailable">Błąd konta</string>
@@ -175,11 +173,7 @@
     <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
     <string name="author_dynamic">Status</string>
     <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
-    <string name="automatic_brightness_adjustment">Automatycznie dostosuj jasność</string>
-    <string name="back_screen_delete_template">Usunąć ten szablon?</string>
     <string name="back_screen_dynamic_notification">Powiadomienia</string>
-    <string name="back_screen_operation_tutorial">O tylnym wyświetlaczu</string>
-    <string name="back_screen_personalization_title">Personalizacja</string>
     <string name="basic_mode">Tryb offline</string>
     <string name="basic_mode_desc">"Motywy nie będą się łączyć z Internetem i będą korzystać tylko z treści przechowywanych lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
     <string name="boot_audio_dialog_cancel">Anuluj</string>
@@ -342,6 +336,8 @@
     <string name="find_more_wallpapers">Więcej</string>
     <string name="first_page_recommend">Polecane</string>
     <string name="first_total_talkback">Tapeta %1$d, razem tapet: %2$d</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fold_close_failed">"Nie udało się wyłączyć"</string>
     <string name="fold_close_incall_dialog_content">"Wideo profilowe nie są już wspierane. Po przejściu dalej nie będzie można już włączyć tej funkcji. Wyłączyć mimo to?"</string>
     <string name="fold_close_incall_dialog_title">Wyłącz wideo profilowe</string>
@@ -689,7 +685,6 @@ d.MM."</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
-    <string name="miuix_appcompat_action_sheet_default_message">Wybierz</string>
     <string name="miuix_compat_dialog_content">"Obecna wersja aplikacji \"%s\" jest niekompatybilna z tym motywem."</string>
     <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
@@ -700,42 +695,6 @@ d.MM."</string>
     <string name="mix_icons_option_des">Ikony. Odznacz to pole, aby użyć domyślnych ustawień.</string>
     <string name="mix_lockscreen_option_des">Tapeta i zegar. Odznacz to pole, aby użyć domyślnych ustawień.</string>
     <string name="mix_tip">Elementy motywu</string>
-    <string name="month_april">kwietnia</string>
-    <string name="month_april_short">kwi</string>
-    <string name="month_april_shortest">Kw</string>
-    <string name="month_august">sierpnia</string>
-    <string name="month_august_short">sie</string>
-    <string name="month_august_shortest">Si</string>
-    <string name="month_december">grudnia</string>
-    <string name="month_december_short">gru</string>
-    <string name="month_december_shortest">Gr</string>
-    <string name="month_february">lutego</string>
-    <string name="month_february_short">lut</string>
-    <string name="month_february_shortest">Lut</string>
-    <string name="month_january">stycznia</string>
-    <string name="month_january_short">Sty</string>
-    <string name="month_january_shortest">St</string>
-    <string name="month_july">lipca</string>
-    <string name="month_july_short">lip</string>
-    <string name="month_july_shortest">Lip</string>
-    <string name="month_june">czerwca</string>
-    <string name="month_june_short">cze</string>
-    <string name="month_june_shortest">Cz</string>
-    <string name="month_march">marca</string>
-    <string name="month_march_short">mar</string>
-    <string name="month_march_shortest">Mar</string>
-    <string name="month_may">maja</string>
-    <string name="month_may_short">maj</string>
-    <string name="month_may_shortest">Maj</string>
-    <string name="month_november">listopada</string>
-    <string name="month_november_short">lis</string>
-    <string name="month_november_shortest">Li</string>
-    <string name="month_october">października</string>
-    <string name="month_october_short">paź</string>
-    <string name="month_october_shortest">Paź</string>
-    <string name="month_september">września</string>
-    <string name="month_september_short">wrz</string>
-    <string name="month_september_shortest">Wrz</string>
     <string name="more_icon_style">Więcej ikon</string>
     <string name="more_sub_comment">Zobacz wszystkie odpowiedzi (%1$d)></string>
     <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
@@ -743,7 +702,6 @@ d.MM."</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
     <string name="my_rear_screen_style">Mój tylny wyświetlacz</string>
-    <string name="my_rear_screen_title">Moje elementy</string>
     <string name="need_to_open_application_permission_desc">Aby móc dowiedzieć się, jakie aplikacje są kompatybilne z przezroczystymi tapetami, najpierw zezwól aplikacji Motywy na dostęp do listy zainstalowanych aplikacji.</string>
     <string name="need_to_open_permission">Wymagane uprawnienia</string>
     <string name="need_to_open_storage_permission_desc">Aby móc używać i pobierać elementy w aplikacji Motywy, najpierw zezwól jej na dostęp do pamięci.</string>
@@ -812,7 +770,6 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="phone_log_in_theme">Zaloguj się do Motywów</string>
     <string name="phone_log_in_theme_detail"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font> Motywów, a także warunkami &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> oraz &lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi (w celu logowania się przy użyciu systemowego konta)."</Data></string>
     <string name="playing_ringtone">Odtwarzanie</string>
-    <string name="please_input_signature">Wprowadź sygnaturę</string>
     <string name="pref_lockscreen_magazine_summary">Zastąp swoją tapetę pokazami slajdów składającymi się z obrazów z różnych kategorii</string>
     <string name="pref_privacy_policy">Polityka prywatności</string>
     <string name="pref_read_write_function_detail">W celu zmieniania preferencji dot. personalizacji i zapisywania pobranych elementów</string>
@@ -946,23 +903,13 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="read_and_agree_account_privacy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi."</Data></string>
     <string name="rear_dialog_content_remove_animation">Włączono opcję \"Usuwaj animacje\", co może wpłynąć na animacje tapety. Wyłącz tę opcję w Ułatwieniach dostępu > Wzrok > Wyświetlacz.</string>
     <string name="rear_dialog_title_remove_animation">Wyłącz \"Usuwaj animacje\"</string>
-    <string name="rear_edit_abandon">Wycofać zmiany?</string>
     <string name="rear_screen_add_success">Pomyślnie dodano</string>
-    <string name="rear_screen_aod_setting">AoD tylnego wyświetlacza</string>
-    <string name="rear_screen_aod_setting_title">Ekran zawsze włączony</string>
     <string name="rear_screen_apply_fail">Nie udało się zastosować</string>
     <string name="rear_screen_apply_success">Pomyślnie zastosowano</string>
-    <string name="rear_screen_brightness_adjustment">Jasność</string>
     <string name="rear_screen_delete_template">Usunąć ten szablon?</string>
     <string name="rear_screen_display_and_brightness">Wyświetlacz i jasność</string>
     <string name="rear_screen_drag_prompt">Przytrzymaj, aby zmienić kolejność</string>
     <string name="rear_screen_edit_color_hsl_title">Własny kolor</string>
-    <string name="rear_screen_edit_color_hue">Odcień</string>
-    <string name="rear_screen_edit_color_lightness">Jasność</string>
-    <string name="rear_screen_edit_color_saturation">Saturacja</string>
-    <string name="rear_screen_edit_title_color">Kolor</string>
-    <string name="rear_screen_edit_title_font_size">Rozmiar tekstu</string>
-    <string name="rear_screen_edit_title_font_thickness">Grubość</string>
     <string name="rear_screen_edit_title_pick">Tło</string>
     <string name="rear_screen_edit_title_signature">Sygnatura</string>
     <string name="rear_screen_edit_title_time">Zegar</string>
@@ -970,24 +917,11 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_gaze_detection_title">Wyświetlacz świadomy uwagi</string>
     <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
 Dostępne są zupełnie nowe style."</string>
-    <string name="rear_screen_list_title">Tylny wyświetlacz</string>
-    <string name="rear_screen_more_suggestion">Więcej rekomendacji</string>
     <string name="rear_screen_my_wallpaper">Moje zdjęcia</string>
-    <string name="rear_screen_notice">Powiadomienia</string>
-    <string name="rear_screen_screenshot">Zrzut ekranu</string>
-    <string name="rear_screen_service_assistant">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_service_assistant_new">Zarządzaj tylnym wyświetlaczem</string>
-    <string name="rear_screen_sunlight_mode">Tryb światła słonecznego</string>
-    <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Dostosuj jasność do silnego światła otoczenia, aby zapobiec zbyt dużemu obniżaniu jasności ekranu</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
-    <string name="rear_screen_template_upper_limit">Nie udało się dodać więcej elementów. Usuń jeden z nich w Ustawieniach > Tylny wyświetlacz i spróbuj ponownie.</string>
     <string name="rear_screen_template_upper_limit_old">Usuń elementy w Ustawieniach > Tylny wyświetlacz > Personalizacja, aby móc dodać więcej</string>
     <string name="rear_screen_timeout_title">Ekran włączony przez</string>
-    <string name="rear_screen_wallpaper_ai">Generuj z SI</string>
-    <string name="rear_screen_wallpaper_album">Z Galerii</string>
-    <string name="rear_screen_wallpaper_empty">Brak</string>
-    <string name="rear_screen_wallpaper_system">Tapety</string>
-    <string name="rear_select_images_smaller_than_fifty">Wybierz obraz o rozmiarze do %1$d MB</string>
     <string name="recommend_trigger">Spersonalizowane propozycje</string>
     <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
     <string name="region_not_support">"Motywy nie są wspierane w Twoim regionie."</string>
@@ -1152,7 +1086,6 @@ Dostępne są zupełnie nowe style."</string>
     <string name="share_copy_wallpaper_url">Kopiuj adres tapety</string>
     <string name="share_picture_loading">Ładowanie obrazu…</string>
     <string name="share_save_success">Pomyślnie zapisano</string>
-    <string name="share_save_to_photo">Galeria</string>
     <string name="share_talkback">Udostępnij</string>
     <string name="share_theme_content_text">"Możesz pobrać wspaniały motyw \"%1$s\" stąd: %2$s. Od "</string>
     <string name="share_wallpaper_content_text">"Możesz pobrać świetną tapetę \"%1$s\" stąd: %2$s. Od "</string>
@@ -1281,7 +1214,6 @@ Dostępne są zupełnie nowe style."</string>
     <string name="toast_first_install_gallery">Zainstaluj Galerię, aby użyć tej funkcji</string>
     <string name="toast_home_apply_failured">"Nie udało się zastosować na Ekranie głównym"</string>
     <string name="toast_home_apply_success">Pomyślnie zastosowano na Ekranie głównym</string>
-    <string name="toast_image_cannot_segment">Ten obraz nie obsługuje efektu głębi</string>
     <string name="toast_keep_one_wallpaper">Zachowaj co najmniej jeden element</string>
     <string name="toast_lockscreen_apply_failured">"Nie udało się zastosować na Ekranie blokady"</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Pomyślnie zastosowano na Ekranie głównym. Nie udało się zastosować na Ekranie blokady."</string>

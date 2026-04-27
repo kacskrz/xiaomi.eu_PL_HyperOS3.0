@@ -10,9 +10,4 @@
         <item quantity="few">Wybrano %1$d elementy</item>
         <item quantity="one">Wybrano %1$d element</item>
     </plurals>
-    <plurals name="offline_call_map_distance_meters">
-        <item quantity="other">Odległość: %d metrów</item>
-        <item quantity="few">Odległość: %d metry</item>
-        <item quantity="one">Odległość: %d metr</item>
-    </plurals>
 </resources>

@@ -318,6 +318,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="no_people_name">Osoba bez imienia</string>
     <string name="not_enough_space_msg_with_email">Za mało miejsca na tym koncie Google (%1$s), aby rozpocząć przesyłanie. Po ponownym wyświetleniu tej informacji ulepsz swój plan przestrzeni dyskowej i rozpocznij przesyłanie ponownie.</string>
     <string name="notice_click_lock_orientation">Dotknij, aby zablokować orientację</string>
+    <string name="ocr_revise">Podgląd</string>
     <string name="operation_move_to_other_albums">Przenieś do Innych albumów</string>
     <string name="operation_remove_from_other_albums">Przenieś z Innych albumów</string>
     <string name="operation_remove_secret">Przenieś</string>

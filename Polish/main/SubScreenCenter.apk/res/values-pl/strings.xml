@@ -147,6 +147,8 @@
     <string name="month_september_shortest">W</string>
     <string name="more">Więcej</string>
     <string name="morning">Poranek</string>
+    <string name="ms_dialog_cancel">Anuluj</string>
+    <string name="ms_dialog_enable">Zezwól</string>
     <string name="ms_enable_notification_permission">Najpierw włącz Skupienie powiadomień dla tej aplikacji</string>
     <string name="ms_failed_to_travel">Nie udało się otworzyć strony</string>
     <string name="ms_focus_mode">Tryb skupienia</string>
@@ -169,6 +171,8 @@
     <string name="ms_mihome_camera">Kamery Xiaomi Home</string>
     <string name="ms_music_service">Usługa muzyki</string>
     <string name="ms_notifications">Powiadomienia</string>
+    <string name="ms_permission_dialog_message">Aby używać powiadomień na żywo na tylnym wyświetlaczu, zezwól tej aplikacji na wysyłanie powiadomień i używanie Xiaomi HyperIsland. Czy chcesz to zrobić?</string>
+    <string name="ms_permission_dialog_title">Włączyć powiadomienia i Xiaomi HyperIsland dla %s?</string>
     <string name="ms_quick_function">Skróty</string>
     <string name="ms_service_assistant">Powiadomienia tylnego wyświetlacza</string>
     <string name="ms_service_assistant_tips">Wyświetlaj powiadomienia z informacjami na żywo na tylnym wyświetlaczu</string>

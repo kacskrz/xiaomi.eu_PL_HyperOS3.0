@@ -44,6 +44,8 @@
     <string name="feature_page_uninstall">Odinstaluj</string>
     <string name="file_exist_hint">Plik już istnieje</string>
     <string name="file_picker">Wybierz lokalizację</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="get_account_dialog_msg">Uzyskiwanie danych konta…</string>
     <string name="hint">Uwaga</string>
     <string name="input_valid_address">Wprowadź ścieżkę do pliku</string>

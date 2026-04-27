@@ -178,7 +178,6 @@ z przedniego aparatu"</string>
     <string name="toast_camera_satellite_mutually_exclusive_beidou">Nie można korzystać z Aparatu podczas używania satelity BeiDou</string>
     <string name="toyrobot">Robot zabawka</string>
     <string name="turn_on_torch">Włącz latarkę</string>
-    <string name="typec_not_supporort_calls_toast">Nie można użyć tych słuchawek do rozmów</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
@@ -186,7 +185,6 @@ z przedniego aparatu"</string>
     <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
     <string name="wallpaper_group_ai_zone_title">Tapety SI</string>
-    <string name="wallpaper_group_arc_title">Lampy łukowe</string>
     <string name="wallpaper_group_big_numbers_title">Wielkie liczby</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>

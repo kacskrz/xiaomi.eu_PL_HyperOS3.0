@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="send_photographic_competition_tip_cancel">Anuluj</string>
     <string name="send_photographic_competition_tip_confirm">Prześlij</string>
     <string name="send_photographic_competition_tip_content">Przesłanie tego zdjęcia wymaga metadanych obrazu, w tym modelu urządzenia i parametrów aparatu. Przesłać te dane?</string>

@@ -14,8 +14,6 @@
     <string name="change_default_data_card">Domyślna karta dla Internetu</string>
     <string name="convert_to_esim_title">Konwertuj na eSIM</string>
     <string name="crescendo_ringer_title">Narastający dzwonek</string>
-    <string name="customized_message_emm_cause_6">Nie można utworzyć profilu sieciowego na tym urządzeniu, ponieważ nie posiada ono certyfikacji wymaganej przez lokalny urząd.</string>
-    <string name="customized_title_emm_cause_6">Nie udało się utworzyć profilu sieciowego</string>
     <string name="data_for_high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie możesz teraz używać tej funkcji."</string>
     <string name="depopulated_zone_satellite_notification">Słaby zasięg sieci komórkowej</string>
     <string name="detect_fakecell">Rozpoznawaj SMS-y przychodzące ze fałszywych stacji bazowych </string>
@@ -76,19 +74,8 @@
     <string name="month_september_shortest">W</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
     <string name="notification_network_selection_text">Wybrana sieć (%s) jest niedostępna</string>
-    <string name="offline_call">Komunikacja offline Xiaomi</string>
-    <string name="offline_call_summary">Dzwoń do innych telefonów Xiaomi w pobliżu przez Bluetooth bez połączenia z siecią</string>
     <string name="offline_connection_service_label">Połączenia offline</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że karta SIM wspiera tylko LTE. Podwójne LTE zostało włączone w systemie automatycznie.</string>
-    <string name="osu_dialog_cancel_btn_text">Nie teraz</string>
-    <string name="osu_dialog_message">Zaktualizuj moduł eSIM, aby naprawić potencjalne problemy z kompatybilnością i bezpieczeństwem. Podczas aktualizacji Twój eSIM będzie niedostępny.</string>
-    <string name="osu_dialog_ok_btn_text">Aktualizuj</string>
-    <string name="osu_dialog_title">Aktualizuj moduł eSIM</string>
-    <string name="osu_error_toast_message">Nie udało się zaktualizować eSIM. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
-    <string name="osu_notification_message">Zaktualizuj moduł eSIM, aby zapobiec potencjalnym problemom z bezpieczeństwem</string>
-    <string name="osu_notification_title">Aktualizuj moduł eSIM</string>
-    <string name="osu_progress_dialog_message">Aktualizowanie modułu. Niektóre funkcje są niedostępne.</string>
-    <string name="osu_success_toast_message">Pomyślnie zaktualizowano</string>
     <string name="path_answer_state_setting_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące</string>
     <string name="path_antispam_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/Blokowanie numerów</string>
     <string name="path_app_name">Aplikacje/Inne ustawienia/Systemowe/Telefon</string>
@@ -260,7 +247,6 @@ Najpierw aktywuj komunikację z satelitą Tiantong. Jeśli nie jest ona włączo
 Dostępność usługi zależy od Twojego operatora."</string>
     <string name="satellite_xingwang_setting">Komunikacja z satelitą Xingwang</string>
     <string name="sensor_answer_title">Podnieś, aby odebrać</string>
-    <string name="telocation_auto_country_code_summary_while_roaming">Automatycznie dodaj kod kraju, aby skontaktować się z numerami podczas roamingu. Numery już zawierające prefiks będą traktowane tak jak zwykle.</string>
     <string name="turnover_mute_summary">Gdy telefon znajduje się na płaskiej powierzchni ekranem do góry, obróć go, aby wyciszyć dźwięk dzwonka, wyłączyć wibracje i diodę powiadomień</string>
     <string name="unfold_close_camera_pref_summary">Rozłóż urządzenie w trakcie połączenia wideo, aby wyłączyć aparat</string>
     <string name="unfold_close_camera_pref_title">Rozłóż, aby wyłączyć aparat</string>
