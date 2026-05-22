@@ -116,6 +116,10 @@
     <string name="monet">Staw z liliami</string>
     <string name="mountainspring">Górska wiosna</string>
     <string name="mute">Tryb cichy</string>
+    <string name="night_wakeup_notification_exit">Wyłącz</string>
+    <string name="night_wakeup_notification_message">Zmieniamy jasność, aby chronić Twoje oczy</string>
+    <string name="night_wakeup_notification_summary">Włączanie…</string>
+    <string name="night_wakeup_notification_title">Włączono Komfort oczu w nocy</string>
     <string name="notification_channel_hotspot">Powiadomienie o hotspocie</string>
     <string name="nps_ContentText">Dotknij, aby sprawdzić szczegóły</string>
     <string name="nps_ContentTitle">Wyszukiwanie GPS</string>

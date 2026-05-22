@@ -917,7 +917,11 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_screen_gaze_detection_title">Wyświetlacz świadomy uwagi</string>
     <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
 Dostępne są zupełnie nowe style."</string>
+    <string name="rear_screen_manage_wallpaper">Zarządzaj</string>
     <string name="rear_screen_my_wallpaper">Moje zdjęcia</string>
+    <string name="rear_screen_old_device_empty">Nic tu nie ma</string>
+    <string name="rear_screen_old_device_subtitle">Najpierw pobierz lub zastosuj tapety. Przytrzymaj, aby zarządzać.</string>
+    <string name="rear_screen_old_device_wallpaper">Tapety na starym urządzeniu</string>
     <string name="rear_screen_service_assistant_new">Zarządzaj tylnym wyświetlaczem</string>
     <string name="rear_screen_system_wallpaper_title">Tapety</string>
     <string name="rear_screen_template_upper_limit_old">Usuń elementy w Ustawieniach > Tylny wyświetlacz > Personalizacja, aby móc dodać więcej</string>

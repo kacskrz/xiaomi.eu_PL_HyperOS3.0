@@ -8,11 +8,6 @@
         <item quantity="other">Usunąć wątki (%1$s)?</item>
         <item quantity="one">Usunąć ten wątek?</item>
     </plurals>
-    <plurals name="hint_search_sms">
-        <item quantity="other">%d SMS</item>
-        <item quantity="zero">%d SMS</item>
-        <item quantity="one">%d SMS</item>
-    </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="other">Wybrano %1$d elementów</item>
         <item quantity="few">Wybrano %1$d elementy</item>

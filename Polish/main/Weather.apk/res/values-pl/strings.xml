@@ -72,6 +72,8 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="feedback_temperature_title">Temperatura</string>
     <string name="feedback_weather">Opinia dot. pogody</string>
     <string name="first_start_network_title">Wymagane jest połączenie z siecią do pobierania prognoz pogody na podstawie lokalizacji</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="global_aqi">IJP: %1$s %2$s</string>
     <string name="global_not_enable_warning">"Nie możesz używać tej aplikacji, gdyż nie została ona zainstalowana z oficjalnych źródeł."</string>
     <string name="home_page_forecast_video_desc">Prognoza</string>

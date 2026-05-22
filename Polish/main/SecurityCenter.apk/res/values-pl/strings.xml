@@ -514,14 +514,11 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="fixed_cellular_data_quota_monthly">Miesięczny limit danych</string>
     <string name="fixed_package_tips">Po przekroczeniu limitu zostaną wygenerowane dodatkowe opłaty</string>
     <string name="fixed_traffic_quota_offline">Limit danych (wymagany)</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="forbid_autobright_summary">"Jasność ekranu podczas gry pozostanie niezmieniona"</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij aplikację w Pasku bocznym, aby otworzyć ją jako pływające okno.
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby skorzystać z Dzielonego ekranu."</string>
     <string name="fully_informed_privacy">Świadomość dot. prywatności</string>
     <string name="function_oncall_not_close_network">Nie odbieraj połączeń</string>
-    <string name="function_shield_eye_shield">Wyłącz Tryb ochrony wzroku</string>
     <string name="game_center_network_setting_tip">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
     <string name="game_center_network_setting_tip_pad">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
     <string name="game_perf_config_display_desc_enabled">Zmień rozdzielczość i klatkaż</string>

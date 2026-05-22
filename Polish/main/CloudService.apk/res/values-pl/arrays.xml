@@ -18,6 +18,6 @@
     <string-array name="settings_search_sync_manage_v2">
         <item>Chmura Xiaomi. Wszystkie usługi Xiaomi w jednym miejscu.</item>
         <item>Dostęp do zdjęć, kontaktów i wiadomości z dowolnego miejsca</item>
-        <item>Brak miejsca;Członkostwo;Pamięć;Miejsce w pamięci;Chmura;Synchronizacja;Usługi chmury;Chmura Xiaomi;Kosz;Usunięte elementy;Bezpieczeństwo</item>
+        <item>Brak miejsca;Członkostwo;Pamięć;Miejsce w pamięci;Chmura;Synchronizacja;Usługi chmury;Chmura Xiaomi;Kosz;Usunięte elementy;Panel sterowania</item>
     </string-array>
 </resources>

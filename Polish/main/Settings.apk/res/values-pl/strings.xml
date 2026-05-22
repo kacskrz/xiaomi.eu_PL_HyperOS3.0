@@ -3,9 +3,20 @@
     <string name="accept_new_connection_detail">Nowe połączenia w Centrum funkcji są ograniczone</string>
     <string name="access_control_need_password">"Aplikacja %s jest chroniona
 "</string>
+    <string name="accessibility_expanded_dark_theme_summary">Automatycznie zastosuj ciemny motyw w większej gamie aplikacji dla ulepszonej dostępności</string>
+    <string name="accessibility_expanded_dark_theme_title">Rozszerzony</string>
+    <string name="accessibility_expanded_dark_theme_title_in_search">Rozszerzony ciemny motyw</string>
     <string name="accessibility_function">Ułatwienia dostępu</string>
     <string name="accessibility_global_gesture_preference_title">Skrót klawisza głośności</string>
+    <string name="accessibility_standard_dark_theme_summary">Zastosuj ciemny motyw w interfejsie i wspieranych aplikacjach</string>
+    <string name="accessibility_standard_dark_theme_title">Standardowy</string>
+    <string name="accessibility_standard_dark_theme_title_in_search">Standardowy ciemny motyw</string>
     <string name="accessibility_tab_statedesc_unselect">Nie wybrano</string>
+    <string name="accessibility_text_cursor_blink_rate_faster_desc">Zwiększ tempo migania</string>
+    <string name="accessibility_text_cursor_blink_rate_reset_button_label">Resetuj</string>
+    <string name="accessibility_text_cursor_blink_rate_slower_desc">Zmniejsz tempo migania</string>
+    <string name="accessibility_text_cursor_blink_rate_summary">Dostosuj tempo migania kursora tekstu lub je wyłącz. Funkcja może nie być wspierana we wszystkich aplikacjach lub stronach internetowych.</string>
+    <string name="accessibility_text_cursor_blink_rate_title">Miganie kursora tekstu</string>
     <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
     <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
     <string name="account_settings_menu_auto_sync_personal">Autom. synchronizacja: osobiste</string>
@@ -182,6 +193,8 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="dark_mode_settings">Opcje Ciemnego motywu</string>
     <string name="dark_mode_time_settings">Zaplanuj włączenie Ciemnego motywu</string>
+    <string name="dark_theme_timing_category">Czas</string>
+    <string name="dark_theme_version_category">Opcje</string>
     <string name="dark_ui_title">Ciemny motyw</string>
     <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
     <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko przy połączeniu z Wi‑Fi.</string>
@@ -219,6 +232,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń, gdy znajdujesz się w miejscu z zasięgiem sieci 5G</string>
     <string name="dual_wifi_summary">Zwiększ prędkość połączenia Wi-Fi, łącząc się z dodatkowymi sieciami</string>
     <string name="edge_mode_state_summary">"Obszar dookoła krawędzi nie będzie reagować na dotyk"</string>
+    <string name="elder_care_ai_anti_fraud">Wykryj oszustwa podczas konwersacji i otrzymuj alerty</string>
     <string name="emergency_sos_title">Alarmowy sygnał SOS</string>
     <string name="enrol_fingerprint_title_talkback">Dotknij i wywieraj nacisk swoim palcem. Czytnik linii papilarnych znajduje się w przycisku zasilania.</string>
     <string name="enrol_swipe_fingerprint_title_talkback">Przesuwaj palec w lewo i prawo. Czytnik linii papilarnych znajduje się w przycisku zasilania.</string>
@@ -227,7 +241,10 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
     <string name="eyes_protect_certification_summary_2">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly i Flicker Free</string>
     <string name="eyes_protect_certification_summary_3">Technologia polaryzacji kołowej umożliwia równomierne rozpraszanie światła, zapewniając bardziej naturalne wrażenia dla oczu</string>
+    <string name="eyes_protect_certification_summary_8">Certyfikacja komfortu wzrokowego S++</string>
+    <string name="eyes_protect_certification_summary_9">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly, Flicker Free i Intelligent Eye Care</string>
     <string name="eyes_protect_certification_title_6">Minimalna jasność %d nitów</string>
+    <string name="eyes_protect_certification_title_9">Cztery certyfikaty TÜV Rheinland Eye Comfort Certification</string>
     <string name="face_recognition_warning">Odblokowanie twarzą jest mniej bezpieczne niż hasła i odciski palców. Twoje urządzenie może zostać odblokowane za pomocą zdjęcia, osoby o podobnym wyglądzie lub niektórych przedmiotów.</string>
     <string name="face_unlock_app_lock_desc">Możesz używać danych twarzy do odblokowywania aplikacji.</string>
     <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
@@ -401,6 +418,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="minors_control_title">Tryb dziecięcy</string>
     <string name="miui_lab_features">Testowe funkcje</string>
     <string name="miui_nfc_dialog_message">"Po wyłączeniu NFC nie będzie można korzystać z funkcji wymagających tej technologii. Wyłączyć mimo to?"</string>
+    <string name="miui_nfc_dialog_message_gl">Jeśli wyłączysz NFC, nie będzie można korzystać z funkcji NFC, w tym odczytywania i zapisywania tagów NFC, używania kart dostępu itd. Wyłączyć mimo to?</string>
     <string name="miui_sos_call_fire">Straż pożarna</string>
     <string name="miui_sos_calling_summary">Urządzenie automatycznie zadzwoni do kontaktów alarmowych i odtworzy nagraną wiadomość głosową SOS. Połączenie zostanie zakończone po zakończeniu odtwarzania wiadomości. Ta funkcja zakończy swoje działanie po pierwszej pomyślnej próbie.</string>
     <string name="miui_sos_emergency_title">Alarmowy sygnał SOS</string>
@@ -632,8 +650,10 @@ Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich da
 Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="sos_privacy_policy">Polityka prywatności</string>
     <string name="sound_assist_key_summary">Dostosuj dźwięk dla poszczególnych aplikacji, gdy grają one dźwięk w tym samym czasie</string>
+    <string name="sound_audio_category_title">Dźwięk</string>
     <string name="sound_category_call_ringtone_vibrate_title">Dzwonki i powiadomienia</string>
     <string name="sound_effects_enable_title">Odtwarzaj dźwięk przy dotknięciu</string>
+    <string name="sound_patterns_category_title">Wzory dźwiękowe</string>
     <string name="sound_settings">Dźwięk i wibracje</string>
     <string name="speed_mode">Tryb prędkości</string>
     <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
@@ -654,6 +674,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="sync_wifi_only">Synchronizuj tylko przez Wi-Fi</string>
     <string name="system_app_settings">Systemowe</string>
     <string name="system_shortcut_wake">Wybudź skrótami przycisków</string>
+    <string name="system_sounds_and_vibrations_category_title">Dźwięki systemowe i wibracje</string>
     <string name="tap_to_sign_up">Dotknij, aby się zarejestrować</string>
     <string name="tether_limit_value_custom">Własny</string>
     <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
@@ -719,6 +740,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
+    <string name="work_profile_sound_category_title">Dźwięk profilu służbowego</string>
     <string name="zen_mode_summary2_default">Nie będzie przypomnień dot. przychodzących połączeń i powiadomień</string>
     <string name="zen_mode_summary2_tablet">Nie będzie przypomnień dot. powiadomień</string>
 </resources>
