@@ -58,6 +58,8 @@
     <string name="flash_drive_restore_btn">Przywróć z dysku USB</string>
     <string name="flash_drive_search_backup_files">"Wyszukiwanie kopii na USB…
   Nie zmieniaj plików kopii lub ich nazw."</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="grant_all_permission_content">Aby móc wykonywać i przywracać kopie zapasowe elementów, przyznaj wszystkie niezbędne uprawnienia.</string>
     <string name="hsa_tip_message">"1. Jeśli nie udało Ci się otrzymać kodu weryfikacyjnego, upewnij się, że jesteś zalogowany do chmury iCloud na swoim urządzeniu Apple.r
 2. Jeśli wprowadzenie kodu weryfikacyjnego nie pomaga, wyłącz uwierzytelnianie dwustopniowe. "</string>
@@ -85,52 +87,9 @@
     <string name="miuix_pairing_dialog_closable_icon_description">Zamknij</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
-    <string name="month_april">kwietnia</string>
-    <string name="month_april_short">kwi</string>
-    <string name="month_april_shortest">K</string>
-    <string name="month_august">sierpnia</string>
-    <string name="month_august_short">sie</string>
-    <string name="month_august_shortest">S</string>
-    <string name="month_december">grudnia</string>
-    <string name="month_december_short">gru</string>
-    <string name="month_december_shortest">G</string>
-    <string name="month_february">lutego</string>
-    <string name="month_february_short">lut</string>
-    <string name="month_february_shortest">L</string>
-    <string name="month_january">stycznia</string>
-    <string name="month_january_short">Sty</string>
-    <string name="month_january_shortest">S</string>
-    <string name="month_july">lipca</string>
-    <string name="month_july_short">lip</string>
-    <string name="month_july_shortest">L</string>
-    <string name="month_june">czerwca</string>
-    <string name="month_june_short">cze</string>
-    <string name="month_june_shortest">Cz</string>
-    <string name="month_march">marca</string>
-    <string name="month_march_short">mar</string>
-    <string name="month_march_shortest">Mar</string>
-    <string name="month_may">maja</string>
-    <string name="month_may_short">maj</string>
-    <string name="month_may_shortest">Maj</string>
-    <string name="month_november">listopada</string>
-    <string name="month_november_short">lis</string>
-    <string name="month_november_shortest">Li</string>
-    <string name="month_october">października</string>
-    <string name="month_october_short">paź</string>
-    <string name="month_october_shortest">P</string>
-    <string name="month_september">września</string>
-    <string name="month_september_short">wrz</string>
-    <string name="month_september_shortest">W</string>
     <string name="nas_connecting_progress_dialog">Łączenie ze SmartStorage…</string>
     <string name="new_confirm_enable_encrypt_content">"Zaszyfrowane kopie zapasowe są powiązane z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
     <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
-    <string name="new_local_detail_description">"Uwaga:
-%1$d. Skopiuj kopie zapasowe na komputer, aby zapobiec utracie danych. %2$s.
-%3$d. Kopie zapasowe zostaną zapisane w katalogu MIUI > backup > AllBackup."</string>
-    <string name="new_local_detail_description_global">"Uwagi:
-%1$d. Skopiuj wykonane kopie zapasowe na swój komputer, aby uniknąć utraty danych. %2$s.
-%3$d. Kopie zapasowe są zapisywane w katalogu MIUI > backup > AllBackup.
-%4$d. Wykonanie kopii zapasowej lub jej przywrócenie w przypadku niektórych aplikacji może być niemożliwe."</string>
     <string name="new_local_tab_backup">Skopiuj</string>
     <string name="new_local_tab_backup_pad">Skopiuj</string>
     <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>

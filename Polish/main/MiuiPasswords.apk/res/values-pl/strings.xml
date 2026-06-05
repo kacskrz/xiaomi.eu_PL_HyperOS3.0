@@ -71,6 +71,7 @@
     <string name="credential_notification_login_account_desc">Zaloguj się do swojego konta Xiaomi, aby móc używać klucza dostępu.</string>
     <string name="credential_notification_open_sync_desc">Włącz Menedżer haseł, aby móc używać klucza dostępu.</string>
     <string name="cta_permission_all_intent">Dzięki Menedżerowi haseł możesz zarządzać hasłami do kont w aplikacjach. Hasła zapisane w Menedżerze haseł i Przeglądarce Mi zostaną automatycznie przeniesione tutaj.</string>
+    <string name="cta_permission_all_intent_for_passwords_manager">W Zarządzaniu hasłami możesz zarządzać hasłami do kont w aplikacjach. Hasła zapisane w Menedżerze haseł i Przeglądarce Mi zostaną tu przeniesione automatycznie.</string>
     <string name="cta_permission_desc_camera">Do skanowania kodów QR w celu uzyskania tokenów</string>
     <string name="cta_permission_desc_installed_apps">Do zarządzania hasłami dla konkretnych aplikacji</string>
     <string name="cta_permission_desc_wlan">Do uzyskiwania dostępu i zarządzania sieciami Wi-Fi</string>

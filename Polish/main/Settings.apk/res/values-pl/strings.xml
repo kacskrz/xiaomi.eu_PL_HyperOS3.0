@@ -78,6 +78,7 @@
     <string name="back_strap_image_text">Gdy urządzenie leży ekranem do dołu i jest on wyłączony, dioda będzie wyświetlać przypomnienia o powiadomieniach i efekty oświetleniowe w różnych sytuacjach</string>
     <string name="back_strap_on_back_light_display">Gdy telefon jest zwrócony ekranem do dołu</string>
     <string name="back_strap_title">Efekty tylnej diody</string>
+    <string name="back_strap_title_tip">Włącz, aby otrzymywać spersonalizowane powiadomienia w różnych scenariuszach</string>
     <string name="back_tap">Dotknięcie z tyłu</string>
     <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
     <string name="backup_difference_content">"Lokalne kopie zapasowe:
@@ -345,6 +346,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="led_pulse_summary">Pulsuj diodą powiadomień, gdy otrzymano nowe powiadomienie</string>
     <string name="legacy_power_menu">Stare menu zasilania</string>
     <string name="light_camera_state_summary">Włącz tylną diodę podczas robienia zdjęć seryjnych lub samowyzwalaczem</string>
+    <string name="light_camera_state_summary_new">Włącz diodę LED podczas robienia zdjęć z samowyzwalaczem lub seryjnych</string>
     <string name="light_color_mode">Jasny motyw</string>
     <string name="list_bg_header_text">"Jeśli ograniczysz łączność w tle, nowe aplikacje nie będą w stanie połączyć się z Internetem w tle po ich instalacji. Mogą one nie być w stanie otrzymywać wiadomości lub pobierać zawartości po dokonaniu tej czynności."</string>
     <string name="live_notifications_desc">Włącz, aby przypinać powiadomienia z aktualizacjami na żywo z aplikacji w Panelu powiadomień</string>

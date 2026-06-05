@@ -76,6 +76,7 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="privacy_policy_revoked_msg">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Aby użyć tej usługi, przełącz się na inne konto.</string>
     <string name="privacy_policy_revoked_msg_contains_manual_activation">Wycofałeś swoją zgodę na warunki Polityki prywatności Chmury Xiaomi, w związku z czym wszystkie Twoje dane przechowywane w chmurze zostały usunięte. Jeśli chcesz ponownie skorzystać z tej usługi, wyraź zgodę na warunki Polityki prywatności na stronie i.mi.com. Ze względów bezpieczeństwa możesz aktywować konto tylko raz dziennie.</string>
     <string name="privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
+    <string name="privacy_runtime_perm_read_phone_numbers_title">Odczyt numerów telefonów</string>
     <string name="progress_notification_downloaded">Ukończono pobieranie</string>
     <string name="progress_notification_downloading">Postęp: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>

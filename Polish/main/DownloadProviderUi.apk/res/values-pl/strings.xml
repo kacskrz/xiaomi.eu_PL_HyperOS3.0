@@ -5,6 +5,23 @@
     <string name="action_description_retry_downloading">Ponowna próba udana</string>
     <string name="action_description_retry_pending">Ponowna próba udana. Pobieranie…</string>
     <string name="ad_download">Instaluj</string>
+    <string name="browser_cloud_task_toast_successed">Pomyślnie zapisano. &lt;font color=#0D84FF>Dotknij, aby wyświetlić&lt;/font></string>
+    <string name="browser_create_cloud_task_toast_success">Dodano do zadań. &lt;font color=#0D84FF>Dotknij, aby wyświetlić&lt;/font></string>
+    <string name="browser_delete_original_file_dialog_content">Usunąć teraz oryginalne pliki wideo?</string>
+    <string name="browser_delete_original_file_dialog_title">Usuń oryginalne pliki wideo</string>
+    <string name="browser_m3u8_to_mp4_convert_error">Nie można przekonwertować. Spróbuj ponownie.</string>
+    <string name="browser_m3u8_to_mp4_enter_title">Konwertuj M3U8 na MP4</string>
+    <string name="browser_more_delete_convert_mp4">Usuń</string>
+    <string name="browser_mp4_convert_success">Pomyślnie przekonwertowano. Wyświetl w Profilu > Wideo. &lt;font color=#0D84FF>Dotknij, aby wyświetlić&lt;/font></string>
+    <string name="browser_private_space_enter">Przeciągnij w dół, aby otworzyć Prywatną przestrzeń</string>
+    <string name="browser_private_space_guide_dialog_content">Możesz przeciągnąć w dół na stronie Pobrań, aby wyświetlić elementy ustawione jako prywatne.</string>
+    <string name="browser_private_space_guide_dialog_tip">Przeciągnij w dół, aby otworzyć Prywatną przestrzeń</string>
+    <string name="browser_private_space_guide_dialog_title">Prywatna przestrzeń</string>
+    <string name="browser_private_space_guide_dialog_yes">Rozumiem</string>
+    <string name="browser_private_space_set">Ustaw jako prywatne</string>
+    <string name="browser_private_space_set_success_toast">Pomyślnie ustawiono. Przeciągnij w dół w \"Pobraniach\", aby wyświetlić.</string>
+    <string name="browser_share_m3u8_diloag_content">Aktualny format pliku to M3U8. Przekonwertować go na MP4 przed udostępnieniem?</string>
+    <string name="browser_share_m3u8_diloag_no">Udostępnij</string>
     <string name="bt_download">Pobierz</string>
     <string name="cancel_description">Anulowano</string>
     <string name="category">Kategoria</string>

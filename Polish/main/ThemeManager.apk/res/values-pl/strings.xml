@@ -183,6 +183,8 @@
     <string name="brightness">Jasność</string>
     <string name="browse_mode">Tryb online</string>
     <string name="browse_mode_desc">"Motywy będą się łączyć z Internetem i korzystać z treści przechowywanych online oraz lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
+    <string name="browse_mode_hint">"Używasz Trybu online.
+Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."</string>
     <string name="can_not_apply_error">"Ten format wideo nie jest wspierany"</string>
     <string name="can_not_apply_pc_video">"Tryb PC nie wspiera żywych tapet"</string>
     <string name="can_not_apply_size_invalid">Te wideo jest za duże</string>

@@ -721,6 +721,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="menu_summary_optimize_manage_1_new">Przyspiesz urządzenie o %s</string>
     <string name="menu_summary_power_manager">Oszczędzanie baterii</string>
     <string name="menu_summary_power_manager_1">Bateria naładowana</string>
+    <string name="menu_summary_power_manager_2">Pozostało: %1$s</string>
     <string name="menu_summary_power_manager_4">Do naładowania: %1$s</string>
     <string name="menu_text_antispam">Blokowanie</string>
     <string name="menu_text_antivirus">Bezpieczeństwo</string>
@@ -817,6 +818,34 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
+    <string name="pb_abnormal_battery_overvoltage">Przepięcie komórki %1$d</string>
+    <string name="pb_abnormal_charge_high_temp">Wysoka temp. (ładowanie)</string>
+    <string name="pb_abnormal_discharge_high_temp">Wysoka temp. (rozładowywanie)</string>
+    <string name="pb_abnormal_empty">Na razie nic tu nie ma</string>
+    <string name="pb_abnormal_error">Nie udało się załadować. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="pb_abnormal_guide_text">Typowe problemy i ich rozwiązania</string>
+    <string name="pb_abnormal_header_time">Czas</string>
+    <string name="pb_abnormal_header_type">Typ</string>
+    <string name="pb_abnormal_header_value">Wartość</string>
+    <string name="pb_abnormal_loading">Chwileczkę…</string>
+    <string name="pb_abnormal_record">Historia</string>
+    <string name="pb_activity_title">Szczegóły powerbanku</string>
+    <string name="pb_battery_health">Kondycja</string>
+    <string name="pb_battery_model">Model</string>
+    <string name="pb_cell_code">ID komórki</string>
+    <string name="pb_cell_detail">Komórka %1$d</string>
+    <string name="pb_cycle_count">Liczba cykli</string>
+    <string name="pb_data_fetch_all_error">Nie udało się odczytać danych. Powerbank może być rozłączony lub nieobsługiwany.</string>
+    <string name="pb_data_fetch_partial_error">Niektóre elementy są niedostępne z powodu opóźnienia lub nieobsługiwania powerbanku</string>
+    <string name="pb_manufacturer">Producent</string>
+    <string name="pb_measure_point">Sensor %1$d</string>
+    <string name="pb_production_date">Data produkcji</string>
+    <string name="pb_remain_battery">Pozostało baterii</string>
+    <string name="pb_section_abnormal_info">Anormalny stan</string>
+    <string name="pb_section_battery_info">Informacje o baterii</string>
+    <string name="pb_section_temperature">Temperatura</string>
+    <string name="pb_temperature_tip">Normalna temperatura pracy to %1$d°C–%2$d°C. Lekko wyższe temperatury w krótkim czasie to normalne zjawisko. Jeśli powerbank się za bardzo nagrzeje, przestanie się ładować i rozładowywać.</string>
+    <string name="pb_voltage">Napięcie</string>
     <string name="pc_18W_high_power_reverse_charging_summary">Ładuj urządzenia szybciej dzięki ulepszonemu ładowaniu zwrotnemu. Połączenie USB będzie używane tylko do ładowania.</string>
     <string name="pc_18W_high_power_reverse_charging_summary_new">Ładuj urządzenia szybciej ładowaniem zwrotnym o dużej mocy.</string>
     <string name="pc_18W_high_power_reverse_charging_title">Ładowanie zwrotne</string>
@@ -1024,6 +1053,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_autorun_apps_empty">Brak aplikacji w autostarcie</string>
     <string name="power_center_5g_save_summary_text">Łączność 5G będzie używała mniej energii w różnych sytuacjach</string>
     <string name="power_center_auto_shutdown">Automatyczne wł./wył.</string>
+    <string name="power_center_battery_last">Pozostało: %1$s</string>
     <string name="power_center_battery_level">Naładowane: %s</string>
     <string name="power_center_battery_software">System %s</string>
     <string name="power_center_batteryrank_all">Pełne zużycie baterii</string>
@@ -1303,7 +1333,7 @@ Wycofać zgodę?"</string>
     <string name="protect_data_security_detail">Dane wygenerowane przez klawiaturę będą izolowane i staną się niedostępne dla innych aplikacji.</string>
     <string name="protect_eye_opened_summry">Zmień preferencje w Ustawieniach > Wyświetlacz i jasność > Xiaomi EyeCare Shield</string>
     <string name="quick_optimize_no_fix_issue_title">Nie udało się zoptymalizować elementów z wysokim zużyciem energii</string>
-    <string name="quick_optimize_sub_summary_text">Dodano %s do czasu na baterii</string>
+    <string name="quick_optimize_sub_summary_text">Dodano %1$s do czasu na baterii</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Wydłużono o %1$s, pozostało ok. %2$s</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Zbyt szybkie użycie baterii. Napraw.</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefon się przegrzewa. Napraw.</string>
@@ -1507,6 +1537,7 @@ Wycofać zgodę?"</string>
     <string name="storage_file_list_from">Z %s</string>
     <string name="storage_fob_date_format">d.MM.</string>
     <string name="storage_format_success">Pomyślnie sformatowano %1$s</string>
+    <string name="storage_item_archive_name">Archiwa</string>
     <string name="storage_ufs_msg">Możesz dodać do %1$s pamięci do tego urządzenia, używając technologii rozszerzenia UFS oraz algorytmów optymalizacji pamięci Xiaomi.</string>
     <string name="summary_app_lock_disable">Zablokuj dostęp do aplikacji w celu ochrony prywatności</string>
     <string name="summary_auto_update">Funkcja nie działa na ROM-ie Xiaomi.eu.</string>
@@ -1738,6 +1769,7 @@ Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="videobox_double_core_visual_description2">"Zwiększ szczegółowość, płynność i ogólny poziom wyświetlanych treści. 
 Funkcja zużywa więcej energii.
 Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
+    <string name="videobox_settings_dolby_vision_effect">Dynamiczne ulepszanie filmów</string>
     <string name="view_traffic_details">Wyświetl statystyki użycia danych</string>
     <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
     <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>

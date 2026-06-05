@@ -10,6 +10,11 @@
         <item quantity="few">Rozpoczęto %s pobrania</item>
         <item quantity="one">Rozpoczęto %s pobranie</item>
     </plurals>
+    <plurals name="browser_private_space_set_dialog_content">
+        <item quantity="other">Ustawić %d elementów jako prywatne?</item>
+        <item quantity="few">Ustawić %d elementy jako prywatne?</item>
+        <item quantity="one">Ustawić %d element jako prywatny?</item>
+    </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="other">Wybrano %1$d elementów</item>
         <item quantity="few">Wybrano %1$d elementy</item>
