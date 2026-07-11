@@ -104,6 +104,11 @@
     <string name="drawer_dialog_permanent_denete">Usuń</string>
     <string name="duplicate_passwords_summary">Hasło jest używane w wielu aplikacjach</string>
     <string name="empty_fragment_tip">Nie wybrano elementów</string>
+    <string name="error_data_in_transfer">Synchronizacja zakończy się za %s godzin.</string>
+    <string name="error_forbidden">Synchronizacja została wyłączona z powodu problemów z Twoim kontem Xiaomi.</string>
+    <string name="error_not_acceptable">Synchronizacja została wyłączona.</string>
+    <string name="error_title">Nie udało się zsynchronizować</string>
+    <string name="error_unauthorized">Synchronizacja została wyłączona z powodu zbyt wielu prób logowań.</string>
     <string name="hide_password_talkback">Ukryj hasło</string>
     <string name="installed_app_custom_item">Dostosuj</string>
     <string name="installed_app_list_dialog_loading">Ładowanie aplikacji…</string>
@@ -155,8 +160,6 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
-
-
     <string name="new_password_dialog_content">Zapisz hasło, aby było automatycznie uzupełniane przy następnym logowaniu.</string>
     <string name="new_password_dialog_negative_btn">Anuluj</string>
     <string name="new_password_dialog_positive_btn">Zapisz</string>
@@ -259,6 +262,13 @@ Z chmurą zostaną zsynchronizowane tylko te hasła, które nie pasują do wpis�
     <string name="scanner_privacy_dialog_content">"Zamierzasz opuścić Hasła i użyć Skanera. Kontynuować?"</string>
     <string name="scanner_privacy_dialog_negative_btn">Anuluj</string>
     <string name="scanner_privacy_dialog_positive_btn">Kontynuuj</string>
+    <string name="security_chip_confirm">OK</string>
+    <string name="security_chip_data_protect">Dane chronione przez bezpieczny układ</string>
+    <string name="security_chip_double_cert">Używa bezpiecznego układu, posiadającego specjalne certyfikaty, aby pomóc obronić się przed atakami fizycznymi</string>
+    <string name="security_chip_hardware_encrypt">Szyfrowanie na poziomie sprzętowym</string>
+    <string name="security_chip_root_key_protect">Klucze główne są chronione przez specjalny, bezpieczny układ, dzięki czemu aplikacje systemowe oraz stron trzecich nie mają do nich dostępu</string>
+    <string name="security_chip_safe_box">Bezpieczna pamięć wspierana sprzętowo</string>
+    <string name="security_chip_title">Bezpieczny układ</string>
     <string name="security_detection_notification_des">Jedno z Twoich haseł może być zagrożone. Zmień je jak najszybciej.</string>
     <string name="security_detection_notification_title">Alert bezpieczeństwa hasła</string>
     <string name="security_setting_password_duplication_pref_subtitle">Sprawdź, czy Twoje hasło jest używane w wielu kontach</string>

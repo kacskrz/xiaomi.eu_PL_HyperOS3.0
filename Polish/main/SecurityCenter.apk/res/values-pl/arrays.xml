@@ -64,6 +64,15 @@
         <item>Mężczyzna</item>
         <item>Kobieta</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Zbalansowane</item>
+        <item>Wysoka jakość</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Duży klatkaż</item>
+        <item>Zbalansowane</item>
+        <item>Wysoka jakość</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Pokaż ostrzeżenie</item>
         <item>Wyłącz przesył danych</item>
