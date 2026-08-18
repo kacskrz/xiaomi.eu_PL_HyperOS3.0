@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="bh0">
-        <item quantity="other">Obróć o %d stopnie</item>
-        <item quantity="one">Obróć o %d stopień</item>
-        <item quantity="few">Obróć o %d stopnie</item>
-        <item quantity="many">Obróć o %d stopni</item>
-    </plurals>
-</resources>

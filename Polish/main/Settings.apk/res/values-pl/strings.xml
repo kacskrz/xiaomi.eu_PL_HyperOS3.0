@@ -240,10 +240,12 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="extended_power_menu">Rozszerzone menu zasilania (3-way reboot)</string>
     <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
     <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
+    <string name="eyes_protect_certification_summary_10">Low Blue Light (Hardware Solution) i Circadian Friendly</string>
     <string name="eyes_protect_certification_summary_2">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly i Flicker Free</string>
     <string name="eyes_protect_certification_summary_3">Technologia polaryzacji kołowej umożliwia równomierne rozpraszanie światła, zapewniając bardziej naturalne wrażenia dla oczu</string>
     <string name="eyes_protect_certification_summary_8">Certyfikacja komfortu wzrokowego S++</string>
     <string name="eyes_protect_certification_summary_9">Potwierdzone certyfikatami Low Blue Light (Hardware Solution), Circadian Friendly, Flicker Free i Intelligent Eye Care</string>
+    <string name="eyes_protect_certification_title_10">Dwa certyfikaty TÜV Rheinland Eye Comfort</string>
     <string name="eyes_protect_certification_title_6">Minimalna jasność %d nitów</string>
     <string name="eyes_protect_certification_title_9">Cztery certyfikaty TÜV Rheinland Eye Comfort Certification</string>
     <string name="face_recognition_warning">Odblokowanie twarzą jest mniej bezpieczne niż hasła i odciski palców. Twoje urządzenie może zostać odblokowane za pomocą zdjęcia, osoby o podobnym wyglądzie lub niektórych przedmiotów.</string>

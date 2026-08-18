@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantity="other">Pozostało %s min czasu na ekranie</item>
-        <item quantity="one">Pozostało %s min czasu na ekranie</item>
-    </plurals>
-</resources>
