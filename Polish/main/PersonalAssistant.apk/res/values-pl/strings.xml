@@ -166,6 +166,7 @@ Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_accessibility_widget_slected_status">%1$s. Stan instalacji: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widżet</string>
     <string name="pa_app_label">Asystent HyperOS</string>
+    <string name="pa_app_recommend_menu_title">Nie sugeruj %s</string>
     <string name="pa_back_screen_travel_preference_summary_reminder">Wyświetlaj przypomnienia o pociągach i lotach na tylnym wyświetlaczu</string>
     <string name="pa_back_screen_travel_preference_title_reminder">Przypomnienia dot. podrózy na tylnym wyświetlaczu</string>
     <string name="pa_base_time_just_now">Teraz</string>
@@ -585,6 +586,7 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_widget_edit_calendar_switch_opened_toast">Zobaczysz nadchodzące wydarzenia na widżecie</string>
     <string name="pa_widget_menu_edit">Edytuj</string>
     <string name="pa_widget_menu_edit_card_in_stack">Edytuj \"%s\"</string>
+    <string name="pa_widget_menu_edit_city">Wybierz lokalizację</string>
     <string name="pa_widget_menu_edit_stack">Edytuj grupę</string>
     <string name="pa_widget_menu_improve_edit">Edytuj</string>
     <string name="pa_widget_menu_improve_remove">Usuń</string>

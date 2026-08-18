@@ -351,6 +351,7 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="connected_devices_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
+    <string name="contacts_will_also_be_blocked">W tym kontakty</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
     <string name="cs_camera_bubble">Wykryto dostępny aparat. <annotation value="switchCamera" key="action">Dotknij, aby się przełączyć.</annotation></string>
     <string name="cs_pickup_enhance">Ulepszona</string>
@@ -458,7 +459,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="eletric_card_two_identification_risk_app_summary">Otrzymuj ostrzeżenia przy wykonywaniu transakcji finansowych po podejrzanych rozmowach czy SMS-ach</string>
     <string name="eletric_card_two_identification_risk_mms">Ostrzegaj przed przekazywaniem kodów weryfikacyjnych</string>
     <string name="eletric_card_two_identification_risk_mms_summary">Otrzymuj ostrzeżenia, gdy kody weryfikacyjne są przekazywane do aplikacji społecznościowych</string>
-    <string name="eletric_card_two_identification_risk_mms_summary_description">Otrzymuj przypomnienia o ryzyku oszustwa przy przekazywaniu kodów weryfikacyjnych SMS do aplikacji społecznościowych</string>
     <string name="eletric_group_title_one_identification_risk_app">Automatycznie ogranicz uprawnienia</string>
     <string name="eletric_group_title_one_identification_risk_app_summary">Automatycznie ogranicz uprawnienia, gdy wykryte zostaną zagrożenia w aplikacjach</string>
     <string name="eletric_group_title_one_identification_risk_mms">Chroń wiadomości</string>
@@ -907,7 +907,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="new_task_condition_name">Jeżeli</string>
     <string name="new_task_result_name">Wykonaj</string>
     <string name="no_privacy_permission">Nie wymaga zgody na warunki Polityki prywatności</string>
-    <string name="not_found_apps_title">Nie znaleziono aplikacji</string>
     <string name="not_support_root_summary">Zezwalanie na dostęp do roota aplikacjom firm trzecich może narazić Twoje urządzenie na zagrożenia bezpieczeństwa i je uszkodzić. Z tego powodu system nie dostarcza już możliwości zarządzania uprawnieniami dostępu do roota.</string>
     <string name="not_support_root_title">Dostęp do roota</string>
     <string name="notification_enter_power_save_mode_subtitle">Wyłącz, gdy urządzenie jest naładowane w co najmniej %s</string>
@@ -1644,6 +1643,7 @@ Wycofać zgodę?"</string>
     <string name="status_bar_network_flow_content">"Dziś: %1$s | Pozostało: %2$s"</string>
     <string name="status_bar_network_flow_content_not_setting">"Dziś: %1$s | W tym miesiącu: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">"Dziś: %1$s | Przekroczone: %2$s/%3$s"</string>
+    <string name="still_need_start">Blokuj</string>
     <string name="stop_collecting_data">"Klawiatura nie będzie uczyć się Twoich nawyków"</string>
     <string name="stop_collecting_data_detail">"Klawiatura nie będzie gromadzić danych w celu poprawiania przewidywań dot. pisania i sugerowania częstych zwrotów w oparciu o Twoje nawyki."</string>
     <string name="storage_activity_title">Przestrzeń na dane</string>

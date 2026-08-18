@@ -261,7 +261,6 @@
     <string name="message_uninstall_with_clone_instance">Istnieje też klon tej aplikacji, który zostanie usunięty</string>
     <string name="message_uninstall_work_profile">Ta aplikacja zostanie odinstalowana z profilu służbowego</string>
     <string name="message_update_owner_change">Źródłem aktualizacji tej aplikacji zwykle jest &lt;b>%1$s&lt;/b>. Jeśli zainstalujesz aktualizację z innego źródła, możesz w przyszłości otrzymywać na telefonie aktualizacje z dowolnych źródeł. Funkcje aplikacji mogą się zmienić.</string>
-    <string name="message_staging">Etapowanie aplikacji…</string>
     <string name="mi_protected_duty">Twoje bezpieczeństwo to nasz priorytet</string>
     <string name="miui_clean">Wyczyść</string>
     <string name="miui_clear_apks_summary">Łącznie %s</string>
