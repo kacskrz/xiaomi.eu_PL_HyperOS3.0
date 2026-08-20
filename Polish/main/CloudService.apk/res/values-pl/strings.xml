@@ -12,6 +12,7 @@
     <string name="device_activation_card_description_china_new">Pierwsza aktywacja jest rejestrowana, gdy urządzenie pierwszy raz połączy się z siecią (np. Wi-Fi czy danymi mobilnymi). Rejestracja zwykle trochę trwa, zatem po połączeniu się z siecią przed sprawdzeniem statusu aktywacji warto poczekać &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dni.&lt;br>&lt;br>Aktywacja urządzenia to główny czynnik określający ważność rozszerzonej gwarancji Xiaomi. Aby dowiedzieć się więcej, sprawdź &lt;a href=%3$s>Politykę zwrotu, wymiany i naprawy&lt;/a> Xiaomi.&lt;br>&lt;br>Jeśli masz jakieś pytania, skontaktuj się z infolinią Xiaomi.</string>
     <string name="device_activation_card_description_new">Pierwsza aktywacja jest rejestrowana, gdy urządzenie pierwszy raz połączy się z siecią (np. Wi-Fi czy danymi mobilnymi). Rejestracja zwykle trochę trwa, zatem po połączeniu się z siecią przed sprawdzeniem statusu aktywacji warto poczekać &lt;xliff:g id=days refersto=3>%1$d&lt;/xliff:g>–&lt;xliff:g id=days refersto=5>%2$d&lt;/xliff:g> dni.&lt;br>&lt;br>Aktywacja urządzenia to główny czynnik określający ważność rozszerzonej gwarancji Xiaomi. Aby dowiedzieć się więcej, sprawdź &lt;a href=%3$s>Politykę zwrotu, wymiany i naprawy&lt;/a> Xiaomi.&lt;br>&lt;br>Jeśli masz jakieś pytania, skontaktuj się z infolinią Xiaomi.</string>
     <string name="device_activation_card_device_not_support">Niewspierane na tym urządzeniu</string>
+    <string name="device_location_tip">*Wyświetlana lokalizacja jest określana na podstawie sieci i nie jest dokładna. Jeśli to Twoja próba logowania, dotknij opcji \"Zezwól\", aby wyświetlić kod weryfikacyjny.</string>
     <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
     <string name="e2ee_data_protection_label_wifi">Ustawienia Wi-Fi</string>
     <string name="e2ee_data_protection_tip">"Chmura Xiaomi oferuje Zaawansowaną ochronę danych. Ta funkcja używa szyfrowania end-to-end po to, aby Twoje dane były dostępne tylko na zaufanych urządzeniach. Nikt inny, w tym Xiaomi, nie może uzyskać dostępu do tych zaszyfrowanych danych. "</string>
@@ -61,6 +62,10 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="passkeeper_install_keybag_forget_tip">Jeśli zapomnisz kodu dostępu, nie będzie można przesłać haseł</string>
     <string name="passkeeper_install_keybag_subtitle">Kod dostępu to kod ustawiony podczas synchronizacji haseł z chmurą.</string>
     <string name="passkeeper_sync_off_confirm_content">Jeśli wyłączysz tę funkcję, nie będzie można synchronizować nowych haseł z chmurą.</string>
+    <string name="passport_two_factor_change_password_dialog_message">Jeśli to nie Twoja próba logowania, zalecamy zmianę hasła.</string>
+    <string name="passport_two_factor_change_password_dialog_negative_btn">Anuluj</string>
+    <string name="passport_two_factor_change_password_dialog_positive_btn">Zmień</string>
+    <string name="passport_two_factor_change_password_dialog_title">Zmienić hasło?</string>
     <string name="pre_privacy_policy">Polityka prywatności</string>
     <string name="pre_user_agreement">Umowa użytkownika</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Synchronizuj zdjęcia tylko z Wi-Fi</string>
@@ -88,6 +93,13 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS-y tylko przez Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
+    <string name="verify_code_device_list_title">Na te urządzenia wysłano kod</string>
+    <string name="verify_code_send_desc_1">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %1$s</string>
+    <string name="verify_code_send_desc_2">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %1$s i %2$s</string>
+    <string name="verify_code_send_desc_3">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %1$s, %2$s i %3$s</string>
+    <string name="verify_code_send_desc_4">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %1$s, %2$s, %3$s i %4$s</string>
+    <string name="verify_code_send_desc_5">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %1$s, %2$s, %3$s, %4$s i %5$s</string>
+    <string name="verify_code_view_all_devices">Wyświetl wszystkie urządzenia</string>
     <string name="verify_code_warning_subTitle_2fa">Kod weryfikacyjny %d został wysłany na inne zaufane urządzenie z Xiaomi HyperOS 2 lub nowszym. Wprowadź kod, aby kontynuować.</string>
     <string name="verify_dialog_open_lockscreen">Na innym urządzeniu włączono Zaawansowaną ochronę danych. Ustaw blokadę ekranu na tym urządzeniu, aby uzyskać dostęp do danych przechowywanych w Chmurze Xiaomi.</string>
     <string name="verify_notification_title">Włączono szyfrowanie end-to-end na innym urządzeniu</string>
@@ -96,6 +108,7 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="verify_scan_point_notice_view">Dotknij środka, aby wyostrzyć</string>
     <string name="verify_scan_point_text_view">Wprowadź %d-znakowy klucz dostępu w okienku poniżej</string>
     <string name="verify_warning_dialog_message_find_device">Włączono \"Lokalizację offline\" dla %s. Gdy ta funkcja jest włączona, będzie można sprawdzić położenie urządzenia, gdy jest ono offline.</string>
+    <string name="verify_warning_dialog_negative_btn_new">Nie zezwalaj</string>
     <string name="verify_warning_dialog_title_find_device">\"Lokalizacja offline\" włączona dla innego urządzenia</string>
     <string name="verify_warning_verify_dialog_message">Wprowadź kod weryfikacyjny na %s</string>
     <string name="verify_warning_verify_dialog_title">Zweryfikuj konto Xiaomi</string>

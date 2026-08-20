@@ -286,6 +286,9 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
     <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
+    <string name="background_virus_scan_notification_summary">Wiele aplikacji, w tym %s. Dotknij, aby wyświetlić.</string>
+    <string name="background_virus_scan_notification_summary_one">Dotknij, aby wyświetlić</string>
+    <string name="background_virus_scan_notification_title_one">Wykryto groźną aplikację %s</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia o baterii</string>
     <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
     <string name="battery_low_percent_format_save_mode_open">"Pozostało ci mniej niż %1$s baterii. Włącz Oszczędzanie baterii, aby zyskać %2$s czasu."</string>
@@ -575,6 +578,8 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
     <string name="gamebox_ai_accelerate">Przyspieszenie danych mobilnych z SI</string>
     <string name="gamebox_filter_alpha_tip">Przeźroczystość</string>
+    <string name="gamebox_func_start_gyroscope_international">Aby użyć tej funkcji, włącz żyroskop w ustawieniach gry</string>
+    <string name="gamebox_gyroscope_acceleration_international">Wzmocnienie żyroskopu</string>
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
@@ -674,7 +679,10 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_perf_gpu_render_title">Renderowanie wielowątkowe</string>
     <string name="gb_perf_gpu_resolution_default">Domyślna</string>
     <string name="gb_perf_gpu_resolution_desc">Domyślnie używana jest rozdzielczość gry. Niektóre gry nie wspierają tej opcji.</string>
-    <string name="gb_perf_gpu_resolution_smooth">Płynna</string>
+    <string name="gb_perf_gpu_resolution_high">Wysoka</string>
+    <string name="gb_perf_gpu_resolution_highest">Najwyższa</string>
+    <string name="gb_perf_gpu_resolution_smooth">Niska</string>
+    <string name="gb_perf_gpu_resolution_standard">Standardowa</string>
     <string name="gb_perf_gpu_resolution_title">Rozdzielczość</string>
     <string name="gb_perf_gpu_texture_desc">Wybierz tryb filtrowania, równoważąc jakość tekstur i wydajność</string>
     <string name="gb_perf_gpu_texture_title">Jakość filtrowania tekstur</string>
@@ -792,6 +800,9 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="in_delete">Usuwanie…</string>
     <string name="in_recover">Przywracanie…</string>
     <string name="info_unantispam_phone_sms">Zezwól na połączenia i SMS</string>
+    <string name="intercept_accessibility_virus_notifiction_summary">Wiele aplikacji, w tym %s, nadużywa uprawnień ułatwień dostępu</string>
+    <string name="intercept_accessibility_virus_notifiction_summary_one">Ta aplikacja nadużywa uprawnień ułatwień dostępu. Dotknij, aby wyświetlić.</string>
+    <string name="intercept_accessibility_virus_notifiction_title_one">Zablokowano groźną aplikację %s</string>
     <string name="international_roaming_setting">Roaming</string>
     <string name="intl_perm_intro_message">Dotknij, aby dostosować uprawnienia - pozwoli to uniknąć wycieku danych</string>
     <string name="intl_perm_privacy_control_calendar">"Aplikacja może uzyskać dostęp bądź zedytować elementy w kalendarzu tylko wtedy, gdy z niej korzystasz"</string>
@@ -944,6 +955,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
     <string name="pb_abnormal_header_time">Czas</string>
+    <string name="pb_abnormal_idle_high_temp">Przegrzewanie w trybie czuwania</string>
     <string name="pb_activity_title">Szczegóły powerbanku</string>
     <string name="pb_data_fetch_all_error">Nie udało się odczytać danych. Powerbank może być rozłączony lub nieobsługiwany.</string>
     <string name="pb_data_fetch_all_error_new">Nie udało się odczytać danych. Powerbank może być rozłączony lub nieobsługiwany. Jeśli go odłączono, podłącz ponownie kabel i spróbuj ponownie.</string>
@@ -1457,6 +1469,7 @@ Wycofać zgodę?"</string>
     <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
     <string name="release_meminfo">Zwolniono %d MB</string>
     <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Zużycie danych > Ustawienia.</string>
+    <string name="repeated_stranger_number_summary">Nie blokuj drugiego połączenia z tego samego nieznanego numeru w ciągu %d minut</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
